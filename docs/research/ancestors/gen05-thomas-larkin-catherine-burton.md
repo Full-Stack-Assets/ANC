@@ -123,7 +123,12 @@ verified through free indexes.
    sub-districts.
 4. **The 1891 census** (between the tree's 1881 and Catherine's 1901 death) has not been
    located; it would show whether Thomas was still alive/working, and which children were
-   still at home.
+   still at home. A second research pass (3 Jul 2026) turned up one *unconfirmed, low-
+   confidence* candidate via RootsPoint's 1891 index: a "Thomas Larkin," b. 1824, Ireland,
+   at "35 [Got?]X'hall St," Liverpool — age/birthplace fit our Thomas, but Thomas Larkin was
+   a common name in Irish-Liverpool, the street name is garbled/unidentified in the free
+   index snippet, and no spouse or household detail is visible without a paid view. Treat as
+   a lead only, not a match, until the full page (or the original RG12 image) is checked.
 5. **Catherine's parents** are listed in the tree as "Thomas Burton" and "unknown" — no
    research was done on this line in this pass; an Irish Burton family origin is plausible
    given Catherine's stated Irish birth, but unconfirmed.
@@ -156,3 +161,18 @@ verified through free indexes.
   referenced index entries; 1891 England census; St Alban's original registers (Liverpool
   Record Office, ref. 282 ALB); Find a Grave (blocks automated access); FreeBMD (rate-limited
   during this session; Lancashire BMD used as a working substitute for the Liverpool area)
+
+### Addendum: second research pass (3 Jul 2026)
+
+A follow-up pass independently re-checked the reference facts above: the Lancashire BMD
+project's free searchability and the LAN-OPC St Alban's, Athol Street history (construction
+Oct 1848, opening 19 Aug 1849, first priest Rev. Thomas Kelly, registers at Liverpool Record
+Office ref. 282 ALB) were both reconfirmed directly against the live sites. No error was
+found in the existing write-up. Additional attempts (FreeBMD direct query, RootsPoint 1891/
+1901 census index, lan-opc Anglican marriage-register transcriptions for 1851, general web
+search for "Ribbesmere" and for "Clemon Lankin"/"Clement Larkin") turned up nothing beyond
+the single tentative 1891 lead added to Open Questions item 4 above — this is an obscure
+working-class immigrant family with no free-web footprint (Findagrave, Wikitree/Geni, and
+Catholic parish-register transcriptions are all either absent or paywalled for this line).
+RootsPoint.com search checked: https://www.rootspoint.com/search/ (1891 and 1901 England &
+Wales census indexes, surname Larkin, Liverpool).
