@@ -155,8 +155,8 @@
   },
   "relationships": {
     "parents": [
-      "I182195857640",
-      "I182625288498"
+      "M0003",
+      "M0001"
     ],
     "spouses": [
       {
@@ -756,7 +756,8 @@
       "SIBLINGS (1911 census household, 8 Peters Court, Peter Street, Whitehaven): William (~15), Mary Ann (~14), Hugh (~11), Samuel (8 — M0002, confirmed full brother by GRO maiden-name match). ",
       "Orphaned young: father died 1920 in Maine; Ellen sailed to Quebec May 1921 aged ~14, crossed to the US permanently 1929, married Frederick Lewis Reagan most likely in Massachusetts (no Reagan x Larkin in the Maine 1892-1966 index).",
       "FATHER CONTRADICTED (2026-07-03): the 1911 census household head — and her recorded father — is WILLIAM Larkin, 54 (M0003), NOT the export's 'Thomas Larkin' (I182195857640). The Thomas record's own 1911-census source attachment is evidently this very household. Whether the Thomas persona's other facts (Liverpool 1861, Maine 1877/1918, military 1914, d. 1920 Maine) belong to William under a garbled name or to a different Larkin is OPEN — her 1921 Form 30A (whom she was joining) is the decisive next record.",
-      "MOTHER'S SURVIVAL (2026-07-03): her mother Ellen (McAlone) most likely lived until Jun Q 1942 in Whitehaven (only fitting death in Cumberland 1907-1964; aged 77, b. ~1865 matching the census) — meaning she was alive when 14-year-old Ellen emigrated alone in 1921, and mother and daughter apparently never lived on the same continent again. The full sibling set: William (1895), Mary Ann (1897, prob. d. 1924), Albert Ernest (1898), Catherine (1899, d. inf.), Hugh (1900-1972 Whitehaven), Samuel (1903-1973 Whitehaven). CORRECTED (tree owner, 2026-07-03): the other Whitehaven Ellen Larkin died in 1967, not 1964 as earlier noted here — still NOT this ancestor, who demonstrably lived in Brockton until 1995."
+      "MOTHER'S SURVIVAL (2026-07-03): her mother Ellen (McAlone) most likely lived until Jun Q 1942 in Whitehaven (only fitting death in Cumberland 1907-1964; aged 77, b. ~1865 matching the census) — meaning she was alive when 14-year-old Ellen emigrated alone in 1921, and mother and daughter apparently never lived on the same continent again. The full sibling set: William (1895), Mary Ann (1897, prob. d. 1924), Albert Ernest (1898), Catherine (1899, d. inf.), Hugh (1900-1972 Whitehaven), Samuel (1903-1973 Whitehaven). CORRECTED (tree owner, 2026-07-03): the other Whitehaven Ellen Larkin died in 1967, not 1964 as earlier noted here — still NOT this ancestor, who demonstrably lived in Brockton until 1995.",
+      "STRUCTURED PARENT LINK CORRECTED (2026-07-03, Phase 1 game_bundle work): relationships.parents changed from ['I182195857640', 'I182625288498'] to ['M0003','M0001'] (William Larkin & Ellen McAlone). The export's Thomas Larkin/Mary Blackmore pointer is now known-wrong (see both records' manual notes: no Larkin x Blackmore marriage exists, the 1911 census head of household is William, and two independent GRO maiden-name lookups confirm McAlone). I182195857640 (Thomas) and I182625288498 (Blackmore) are kept as records — Thomas's own facts may still belong to a different, real Larkin relative pending disambiguation — but they are no longer Ellen's structurally-linked parents."
     ],
     "events": [
       {
