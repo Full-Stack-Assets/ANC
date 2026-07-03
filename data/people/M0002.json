@@ -1,0 +1,50 @@
+{
+  "id": "M0002",
+  "name": {
+    "given": "Samuel",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Samuel Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "APR-JUN 1903",
+        "year": 1903,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "GRO registration Jun (J) Quarter 1903, Whitehaven 10B/733, mother's maiden surname MCALONE — index looked up by the tree owner 2026-07-03.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195857640",
+      "M0001"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MANUALLY CREATED RECORD (absent from the Ancestry export). Full brother of direct ancestor Ellen M Larkin — both GRO registrations (his 1903 J Q 10B/733, hers 1907 M Q 10b/689) carry mother's maiden surname McALONE. The only two Larkin births registered in Whitehaven district 1902-1916. Fate unknown — not on Ellen's 1921 emigration; OPEN."
+    ]
+  }
+}
