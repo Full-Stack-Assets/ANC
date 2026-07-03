@@ -1,0 +1,19 @@
+# --- DNA raw data: never commit the genotype file, in any form ---
+# AncestryDNA raw download names (zipped and unzipped)
+data/dna/*.zip
+data/dna/*.csv
+data/dna/AncestryDNA*.txt
+data/dna/dna-data*.zip
+# generic raw-genotype patterns (23andMe-style, in case of cross-uploads)
+data/dna/*raw*
+data/dna/*genome*
+data/dna/*snp*
+data/dna/*genotype*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+__pycache__/
+*.pyc
+.pytest_cache/

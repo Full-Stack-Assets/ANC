@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/full-stack-assets/anc/schema/journey.schema.json",
+  "title": "Journey",
+  "description": "One ancestor's migration path as ordered waypoints. Seeded once by the parser from dated/placed GEDCOM events, then hand-enriched from Ancestry's Ancestral Journeys views. The parser never overwrites an existing journey file.",
+  "type": "object",
+  "required": ["id", "person", "status", "waypoints"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Matches the person record id (and filename stem) in data/people/.",
+      "pattern": "^[A-Za-z0-9_.-]+$"
+    },
+    "person": { "type": "string", "description": "Display name, denormalized for convenience." },
+    "status": {
+      "enum": ["seeded", "transcribed", "reviewed"],
+      "description": "seeded = parser output only; transcribed = Ancestral Journeys data added by hand; reviewed = checked against sources."
+    },
+    "summary": {
+      "type": ["string", "null"],
+      "description": "One-paragraph narrative of the whole migration arc."
+    },
+    "waypoints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["seq", "place", "event", "confidence"],
+        "additionalProperties": false,
+        "properties": {
+          "seq": { "type": "integer", "minimum": 1, "description": "1-based order along the path." },
+          "place": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["raw"],
+            "properties": {
+              "raw": { "type": "string" },
+              "parts": { "type": "array", "items": { "type": "string" } },
+              "lat": { "type": ["number", "null"] },
+              "lng": { "type": ["number", "null"] }
+            }
+          },
+          "date": {
+            "anyOf": [
+              {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["raw"],
+                "properties": {
+                  "raw": { "type": "string" },
+                  "year": { "type": ["integer", "null"] },
+                  "year_end": { "type": ["integer", "null"] },
+                  "qualifier": { "enum": ["ABT", "EST", "CAL", "BEF", "AFT", "BET", "FROM", null] }
+                }
+              },
+              { "type": "null" }
+            ]
+          },
+          "event": {
+            "type": "string",
+            "description": "What happened here: birth, residence, immigration, marriage, death, etc. Free text allowed for hand-added waypoints ('crossed on the SS ...')."
+          },
+          "narrative": {
+            "type": ["string", "null"],
+            "description": "Story text for this stop. If confidence is 'legend', the game must label it as such on screen."
+          },
+          "confidence": { "enum": ["documented", "inferred", "legend"] },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["source_id"],
+              "properties": {
+                "source_id": { "type": "string" },
+                "page": { "type": ["string", "null"] }
+              }
+            }
+          }
+        }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}

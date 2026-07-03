@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/full-stack-assets/anc/schema/person.schema.json",
+  "title": "Person",
+  "description": "One ancestor record, generated from a GEDCOM export by tools/gedcom_to_people.py. Everything outside `manual` is machine-owned and regenerated on each parser run; all hand-authored content lives under `manual`.",
+  "type": "object",
+  "required": ["id", "name", "relationships", "events", "sources", "confidence"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "GEDCOM xref id with @-signs stripped, e.g. 'I123'. Doubles as the filename stem.",
+      "pattern": "^[A-Za-z0-9_.-]+$"
+    },
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["full"],
+      "properties": {
+        "given": { "type": ["string", "null"] },
+        "surname": { "type": ["string", "null"] },
+        "suffix": { "type": ["string", "null"] },
+        "full": { "type": "string" }
+      }
+    },
+    "sex": { "enum": ["M", "F", "X", "U", null] },
+    "vitals": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "birth": { "$ref": "#/$defs/event" },
+        "death": { "$ref": "#/$defs/event" },
+        "burial": { "$ref": "#/$defs/event" }
+      }
+    },
+    "relationships": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["parents", "spouses", "children"],
+      "properties": {
+        "parents": { "type": "array", "items": { "$ref": "#/$defs/personId" } },
+        "spouses": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id"],
+            "properties": {
+              "id": { "$ref": "#/$defs/personId" },
+              "marriage": { "$ref": "#/$defs/event" }
+            }
+          }
+        },
+        "children": { "type": "array", "items": { "$ref": "#/$defs/personId" } }
+      }
+    },
+    "events": {
+      "type": "array",
+      "description": "Non-vital life events in document order: residences, census entries, immigration, occupation, military service, etc.",
+      "items": { "$ref": "#/$defs/event" }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": ["string", "null"] },
+          "author": { "type": ["string", "null"] },
+          "publication": { "type": ["string", "null"] },
+          "repository": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Notes carried over from the GEDCOM (machine-owned). Hand-written notes go in manual.notes."
+    },
+    "confidence": {
+      "$ref": "#/$defs/confidence",
+      "description": "Record-level rollup: 'documented' if any event has a source citation, else 'inferred'. The parser never emits 'legend'; override by hand via manual.confidence_override."
+    },
+    "manual": {
+      "type": "object",
+      "description": "The only hand-editable region. Preserved verbatim across parser re-runs.",
+      "additionalProperties": true,
+      "properties": {
+        "confidence_override": { "$ref": "#/$defs/confidence" },
+        "notes": { "type": "array", "items": { "type": "string" } },
+        "events": {
+          "type": "array",
+          "description": "Hand-authored events, including legend material. Same shape as machine events.",
+          "items": { "$ref": "#/$defs/event" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "personId": { "type": "string", "pattern": "^[A-Za-z0-9_.-]+$" },
+    "confidence": { "enum": ["documented", "inferred", "legend"] },
+    "date": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["raw"],
+      "properties": {
+        "raw": { "type": "string", "description": "Verbatim GEDCOM date string, e.g. 'BET 1850 AND 1855'." },
+        "year": { "type": ["integer", "null"], "description": "Best single year, or range start for BET/FROM." },
+        "year_end": { "type": ["integer", "null"], "description": "Range end for BET/FROM..TO dates." },
+        "qualifier": {
+          "enum": ["ABT", "EST", "CAL", "BEF", "AFT", "BET", "FROM", null],
+          "description": "GEDCOM approximation/range qualifier, if any."
+        }
+      }
+    },
+    "place": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["raw"],
+      "properties": {
+        "raw": { "type": "string", "description": "Verbatim GEDCOM PLAC string." },
+        "parts": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Comma-split hierarchy, smallest first (town, county, state, country)."
+        }
+      }
+    },
+    "citation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_id"],
+      "properties": {
+        "source_id": { "type": "string", "description": "References an entry in the record's top-level sources array." },
+        "page": { "type": ["string", "null"], "description": "GEDCOM PAGE detail — where within the source." }
+      }
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "confidence"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Lowercase event kind: birth, death, burial, marriage, residence, census, immigration, emigration, naturalization, occupation, military, baptism, christening, or other."
+        },
+        "date": { "anyOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] },
+        "place": { "anyOf": [{ "$ref": "#/$defs/place" }, { "type": "null" }] },
+        "value": { "type": ["string", "null"], "description": "Event payload for tag-value events, e.g. the occupation string." },
+        "note": { "type": ["string", "null"] },
+        "sources": { "type": "array", "items": { "$ref": "#/$defs/citation" } },
+        "confidence": { "$ref": "#/$defs/confidence" }
+      }
+    }
+  }
+}
