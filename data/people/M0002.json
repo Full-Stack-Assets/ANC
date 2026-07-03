@@ -1,0 +1,99 @@
+{
+  "id": "M0002",
+  "name": {
+    "given": "Samuel",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Samuel Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 FEB 1903",
+        "year": 1903,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "DOB 28 Feb 1903 per the 1973 GRO death index (post-1969 indexes carry exact birthdates); registered Jun quarter 1903, Whitehaven 10B/733, mother's maiden surname MCALONE (owner's GRO lookup). A 28 Feb birth registered after 31 Mar falls in the June quarter — consistent.",
+      "sources": [],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "BET APR AND JUN 1973",
+        "year": 1973,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Whitehaven district, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "GRO death index Jun quarter 1973, Whitehaven, vol 1A p. 422, d.o.b. 28 Feb 1903 — aged 70.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "M0003",
+      "M0001"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2 APR 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "8 Peters Court, Peter Street, Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Son, age 8",
+      "note": "1911 census (2 Apr 1911), 8 Peters Court, Peter Street, Whitehaven (RG14, district 577, ED 05, piece 31497), pulled by the tree owner 2026-07-03: William Larkin 54 head; Ellen Larkin 46 wife; William 15; Mary Ann 14; Hugh 11; Samuel 8; Ellen 4.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MANUALLY CREATED RECORD (absent from the Ancestry export). Full brother of direct ancestor Ellen M Larkin — both GRO birth registrations carry mother's maiden surname McALONE.",
+      "PARENTS per the 1911 census: William Larkin (M0003) & Ellen née McAlone (M0001). Siblings in the household: William (~15), Mary Ann (~14), Hugh (~11), Ellen (~4 — the direct ancestor).",
+      "FATE RESOLVED (research 2026-07-03, ~95% confidence): STAYED IN ENGLAND. Died Jun quarter 1973, Whitehaven district (GRO 1A/422), aged 70, with the index's exact d.o.b. 28 Feb 1903. Identification: the ONLY Samuel Larkin born in England & Wales 1902-1904 is his Whitehaven registration; no child/youth death exists 1903-1921 anywhere in E&W; every other adult death entry 1921-1992 fails on age or DOB; and he died in the same small district where he was born. Residual caveat: an identically-born Irish namesake dying there cannot be fully excluded without the death certificate.",
+      "APPARENTLY NEVER MARRIED: no Samuel Larkin marriage in Cumberland 1921-1973, and the three England-wide candidates are other regions' Larkin families — so likely no descendants.",
+      "Human touch: when 14-year-old Ellen emigrated alone in May 1921 (their father had died in Maine in 1920), Samuel was 18 and stayed — possibly the reason the Whitehaven household could dissolve. Brother and sister then lived out their lives an ocean apart: he died in Whitehaven in 1973, she in Brockton in 1995.",
+      "Records to pull (all cheap): 1973 death certificate (gro.gov.uk ~£12.50 PDF - exact date, address, occupation, cause, INFORMANT = possible unknown kin); 1903 birth certificate (10b/733 - would give his mother's forename, solving M0001's biggest open item); 1939 Register entry (login-gated); probatesearch.service.gov.uk 1973 (JS-only, human browser needed); Whitehaven Cemetery / St Begh's RC burial registers 1973.",
+      "Brother Hugh also stayed: Hugh Larkin, b. 4 Dec 1900, died Jun Q 1972, Whitehaven — the two brothers lived out parallel Whitehaven lives while their sister's branch grew in Massachusetts."
+    ]
+  }
+}

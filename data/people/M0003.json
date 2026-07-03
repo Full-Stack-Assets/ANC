@@ -1,0 +1,93 @@
+{
+  "id": "M0003",
+  "name": {
+    "given": "William",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "William Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": "Age 54 in the 2 Apr 1911 census. Birthplace not yet transcribed from the census image.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "M0001"
+      }
+    ],
+    "children": [
+      "I182195857362",
+      "M0002"
+    ]
+  },
+  "events": [
+    {
+      "type": "marriage",
+      "date": {
+        "raw": "OCT-DEC 1894",
+        "year": 1894,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Whitehaven district, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Married Ellen McAlone",
+      "note": "GRO Dec Q 1894, Whitehaven 10b/1026.",
+      "sources": [],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2 APR 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "8 Peters Court, Peter Street, Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Head of household",
+      "note": "1911 census (2 Apr 1911), 8 Peters Court, Peter Street, Whitehaven (RG14, district 577, ED 05, piece 31497), pulled by the tree owner 2026-07-03: William Larkin 54 head; Ellen Larkin 46 wife; William 15; Mary Ann 14; Hugh 11; Samuel 8; Ellen 4.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MANUALLY CREATED RECORD: father of direct ancestor Ellen M Larkin per the 1911 census (head, 54, 8 Peters Court) and the Dec Q 1894 Whitehaven marriage to Ellen McAlone — the only Larkin x McAlone marriage in E&W. This CONTRADICTS the export's 'Thomas Larkin' father (see that record). Also proven: NO Thomas Larkin marriage was ever registered in Whitehaven district (1840-1993), and no Thomas Larkin x McAlone marriage exists in Ireland 1864-1915.",
+      "Children: William (1895), Mary Ann (1897), Albert Ernest (1898), Catherine (1899, d. inf.), Hugh (1900-1972), Samuel (1903-1973, M0002), Ellen (1906, the direct ancestor). Note the export knew nothing of this family beyond Ellen.",
+      "DEATH — TWO CANDIDATES: William Larkin d. Jun Q 1918 Whitehaven aged 60 (b. ~1858 — matches the census's ~1857, and a 1918 death would neatly explain Ellen's 1921 departure to relatives), or d. Mar Q 1940 aged 83 (b. ~1857). One of the two is this man, the other is the William Larkin who married Mary Elliot in 1884. Death certificates or the 1939 Register would split them. If OURS died in 1918, then the 'Thomas Larkin d. 1920 Maine' of the export is definitively a different man — plausibly the relative Ellen was sent to.",
+      "OPEN: his birthplace (1911 census image column); the 1894 certificate (~£2.50) gives his father's name and age."
+    ]
+  }
+}
