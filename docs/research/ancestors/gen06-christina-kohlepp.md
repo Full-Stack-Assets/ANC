@@ -1,0 +1,46 @@
+# Christina Kohlepp (1797/98–1873)
+
+Generation 6 direct ancestor. Researched 2026-07-03 from web sources; no paywalled record images (Ancestry, FamilySearch, findagrave detail pages) were reachable from this environment, so this dossier is built on the tree's own two cited sources plus open web search, which turned up nothing new and verifiable.
+
+> **Note on assignment metadata:** the research task header named the subject as "Jonas Jonsson & Brita Olofsdotter," but the supplied item data file (`A35.json`) and its `dossier_path` unambiguously specify **Christina Kohlepp** as the subject of this dossier. There is no Jonas Jonsson / Brita Olofsdotter data anywhere in the assigned file. This dossier covers Christina Kohlepp, per the data file, and the mismatch is flagged for the tree maintainer to reconcile (see Open questions).
+
+## Overview
+
+Christina Kohlepp was born about 1797–1798 in Hesse Cassel (Kurhessen), one of the German states, and immigrated to the United States at an unknown date. By 1870 she was an elderly widow (implied — no husband appears in the household) living in Philadelphia's Ward 15, District 45, at 1509 Agden Street, and she died in Philadelphia on 13 April 1873 at about age 75. Her only recorded child in the tree is Anna Elizabetha Kohlhepp, whose married surname is rendered "Cullip, etc." — an anglicized/phonetic variant spelling, following the same pattern of German-surname drift seen elsewhere in this tree (Prospero→Prospus→Prosper, Hohmann→Hohman). Extensive web searching found no independent (findagrave, FamilySearch tree, obituary, or city-directory) record that can be confidently matched to this specific woman; the family's documentary footprint currently rests entirely on the two 1870-census-family sources already in the tree.
+
+## Verified facts
+
+- **Birth: 1798 (also indexed "abt 1797"), Hesse Cassel** — per tree, sourced to the 1870 U.S. Federal Census (age-derived birth year, a standard census-index inference, not a primary birth record).
+- **Death: 13 April 1873, Philadelphia, Philadelphia Co., Pennsylvania** — per tree, marked sourced, though the underlying source document is not named beyond the general "1870 United States Federal Census" citation in the source list (a census obviously cannot itself document a 1873 death; the death date likely derives from a compiled Ancestry/FamilySearch tree profile or a death-certificate index entry not captured in the item data).
+- **1870 residence: Philadelphia Ward 15, Election District 45, 1509 Agden Street** — per tree, sourced to the 1870 U.S. Federal Census. Ward 15 in 1870 lay in the lower Kensington / Northern Liberties area of Philadelphia, a district with a substantial German immigrant population in this period, consistent with a Hesse Cassel birthplace.
+- **One recorded child: Anna Elizabetha Kohlhepp**, later carrying a married surname transcribed variously as "Cullip" and other spellings — per tree; no birth/marriage date supplied in the item data.
+
+No additional primary or secondary source independently corroborating these facts was located in this pass (see Sources and Open questions).
+
+## Corrections to the tree
+
+None identified. No independent record was found that conflicts with, refines, or contradicts the tree's stated birth year, death date, or residence. (The internal inconsistency of citing the 1870 census as the source for a 1873 death event is noted above as a data-hygiene issue rather than a factual correction — the death date itself was not found to be wrong, only its sourcing appears mislabeled in the item data.)
+
+## New findings (not in the tree)
+
+- **Surname-variant context**: Genealogical forums and WikiTree/Geni pages for the (unrelated, Lancaster-County-origin) Kohlhepp line of Peter Caspar Kohlhepp (b. 1730, Kaiserslautern, arrived Philadelphia 1750) confirm that "Kohlhepp" was anglicized in American records across multiple unrelated branches to forms including Collep, Colhep, Cullop, and Cullip — supporting the plausibility of "Cullip" as a genuine phonetic rendering of "Kohlhepp" for Anna Elizabetha's married name, though this is a general pattern observation, not proof of a specific family link between Christina's line and the Lancaster Kohlhepps. (Secondary/compiled sources; no direct genealogical connection was established.)
+- **Ward 15 demographic context**: Philadelphia's 1870 Ward 15 was subdivided into multiple election districts (including District 45) and was among the wards commonly associated with German- and Irish-immigrant working-class housing in that era; this is consistent with, but does not specifically confirm, Christina's household.
+- No findagrave memorial, obituary, FamilySearch person page, city directory listing, or church/cemetery record specific to a "Christina Kohlepp" or "Christina Kohlhepp" matching birth c. 1797/98 and death 13 Apr 1873 in Philadelphia could be located via open web search. Findagrave's own search interface returned HTTP 403 to automated fetches in this environment (login-gated), and FamilySearch person/tree pages likewise require authentication to view content beyond the sign-in wall, so an untouched vein of primary/secondary material may well exist behind those login walls even though this pass could not reach it.
+
+## Open questions
+
+1. **Metadata mismatch**: why does the task header name "Jonas Jonsson & Brita Olofsdotter" (apparently Swedish, per the patronymic naming pattern) while the assigned data file and dossier path are entirely about Christina Kohlepp (German)? This should be reconciled by whoever manages the per-couple task queue — it's possible A35.json was mis-mapped, or a different item ID was intended for the Jonsson/Olofsdotter couple.
+2. **Christina's husband**: no spouse is listed in the tree data despite Christina appearing to have at least one child; was she widowed before 1870, or never listed with a husband in the source record? A husband's name (a "Mr. Kohlepp" or, if Anna Elizabetha's surname of birth is Kohlhepp, presumably a "Kohlhepp") would be expected in the household or in a marriage/baptismal record and should be sought in Philadelphia German Lutheran/Reformed church registers of the 1820s–1840s.
+3. **Immigration record**: no ship passenger list or naturalization record was located for a Kohlepp/Kohlhepp matching Christina's profile (b. 1797/98 Hesse Cassel). The Pennsylvania German Pioneers passenger-list compilations (1727–1808) and later Philadelphia arrival records (1800–1850s) are the logical next place to search, ideally via a FamilySearch or Ancestry login rather than open web search.
+4. **Full life-course census check**: the tree only cites the 1870 census. If Christina was alive and in Philadelphia in 1850 or 1860, she should appear in those enumerations too (a woman in her 50s/60s); these were not checked due to lack of database access in this environment, and should be checked via Ancestry/FamilySearch/HeritageQuest, not open web search.
+5. **Death record detail**: a specific Philadelphia city death certificate (1803–1915 index, held by Ancestry/FamilySearch and the Philadelphia City Archives) for a 13 April 1873 death should exist and would give cause of death, exact age, and possibly parents' names or birthplace detail beyond "Hesse Cassel" — not retrieved in this pass.
+6. **Anna Elizabetha's married details**: no marriage date, husband's given name, or vital dates were supplied for Anna Elizabetha Kohlhepp (Cullip, etc.); pursuing her 1870/1880 census household (if traceable via a Cullip-surname husband in Philadelphia) could indirectly corroborate or extend Christina's record.
+
+## Sources
+
+- Tree data (`A35.json`), citing "1870 United States Federal Census" for Christina Kohlepp's birth-year estimate and 1870 Ward 15/District 45 residence at 1509 Agden St, Philadelphia, PA. (Underlying census image not independently viewed in this pass.)
+- WikiTree, Kohlhepp Genealogy surname page — https://www.wikitree.com/genealogy/KOHLHEPP (secondary/compiled; used only for surname-variant context, not a direct match to Christina)
+- History Hub genealogy forum, "Seeking information and parents of Peter Caspar Kohlhepp (Collep, Colhep, Cullop, etc.)" — https://historyhub.history.gov/genealogy/f/discussions/20184/seeking-information-and-parents-of-peter-caspar-kohlhepp-collep-colhep-cullop-etc (secondary; unrelated Lancaster-Co. branch, cited only for the documented Kohlhepp→Cullop/Cullip spelling-drift pattern)
+- Geni, Peter Caspar Kohlhepp (Cullop), 4GGF — https://www.geni.com/people/Peter-Kohlhepp-4GGF/6000000005766713582 (secondary/compiled; same caveat as above)
+- FamilySearch surname page, "Kohlepp Family History" — https://www.familysearch.org/en/surname?surname=Kohlepp (index only; no specific matching profile located/accessible)
+- Attempted but inaccessible/unproductive: findagrave.com memorial search for "Christina Kohlepp"/"Christina Kohlhepp" (HTTP 403 to automated fetch; open web search surfaced no matching memorial); FamilySearch person/ancestor pages (login-gated, no content retrievable without authentication); general web search for "Agden Street" Philadelphia history (no results — street may be a variant/former name not indexed under this spelling).
