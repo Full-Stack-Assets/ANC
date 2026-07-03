@@ -1,18 +1,16 @@
 {
   "id": "I182197776810",
   "person": "William Albertson",
-  "status": "seeded",
-  "summary": null,
+  "status": "transcribed",
+  "summary": "A Quaker colonist of the Delaware Valley. Family trees place his birth in 1635 in 'Stemeyck, Hollande' (unverified); records pick him up in West New Jersey, where he appears in Burlington's Quaker court book across 1680–1709 and in a passenger index arriving at New York in 1682. He married the widow Hannah Drewett Stockdale at New Castle, Delaware in 1697, taking in her children by her first marriage, and died in 1709 at the Byberry settlement on Poquessing Creek in Bucks County, Pennsylvania.",
   "waypoints": [
     {
       "seq": 1,
       "place": {
-        "raw": "Bybury, Bucks, Pennsylvania, USA",
+        "raw": "Stemeyck, Hollande",
         "parts": [
-          "Bybury",
-          "Bucks",
-          "Pennsylvania",
-          "USA"
+          "Stemeyck",
+          "Hollande"
         ],
         "lat": null,
         "lng": null
@@ -23,54 +21,21 @@
         "year_end": null,
         "qualifier": null
       },
-      "event": "birth",
-      "narrative": null,
-      "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508118847",
-          "page": null
-        }
-      ]
+      "event": "birth (claimed origin)",
+      "narrative": "The trees give his birth as 1635 in 'Stemeyck, Hollande' — no exact modern match (possibly Steenwijk, Overijssel). The export's competing birth record, Byberry, Pennsylvania, is impossible for 1635: Pennsylvania was chartered in 1681 and Byberry settled around 1682. That record is a tree-merge artifact; the Dutch origin stands as the live but unproven claim.",
+      "confidence": "inferred",
+      "sources": []
     },
     {
       "seq": 2,
-      "place": {
-        "raw": "Burlington, New Jersey, USA",
-        "parts": [
-          "Burlington",
-          "New Jersey",
-          "USA"
-        ],
-        "lat": null,
-        "lng": null
-      },
-      "date": {
-        "raw": "1680-1709",
-        "year": 1680,
-        "year_end": null,
-        "qualifier": null
-      },
-      "event": "residence",
-      "narrative": null,
-      "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508339477",
-          "page": null
-        }
-      ]
-    },
-    {
-      "seq": 3,
       "place": {
         "raw": "New York, New York",
         "parts": [
           "New York",
           "New York"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 40.7128,
+        "lng": -74.006
       },
       "date": {
         "raw": "1682",
@@ -79,11 +44,39 @@
         "qualifier": null
       },
       "event": "arrival",
-      "narrative": null,
+      "narrative": "Indexed in the U.S. and Canada Passenger and Immigration Lists as arriving at New York in 1682 — the same year Byberry was settled and a year after Pennsylvania's charter, at the height of the Quaker migration to the Delaware Valley.",
       "confidence": "documented",
       "sources": [
         {
           "source_id": "S447152586",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Burlington, New Jersey, USA",
+        "parts": [
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": 40.0712,
+        "lng": -74.8649
+      },
+      "date": {
+        "raw": "1680-1709",
+        "year": 1680,
+        "year_end": 1709,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": "Appears in the Burlington court book, the record of Quaker jurisprudence in West New Jersey, across the 1680–1709 period. The range starts two years before his indexed 1682 arrival — one of the two dates is imprecise, most likely the passenger index.",
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508339477",
           "page": null
         }
       ]
@@ -97,8 +90,8 @@
           "New Castle",
           "DE"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 39.662,
+        "lng": -75.5666
       },
       "date": {
         "raw": "01 Jul 1697",
@@ -107,7 +100,7 @@
         "qualifier": null
       },
       "event": "marriage",
-      "narrative": null,
+      "narrative": "Married the widow Hannah Drewett Stockdale on 1 July 1697 at New Castle on the Delaware. Her children by William Stockdale — Jarves and Ruth — came into the household, and the tree lists them among William's children.",
       "confidence": "documented",
       "sources": [
         {
@@ -130,8 +123,8 @@
           "Pennsylvania",
           "USA"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 40.0884,
+        "lng": -74.993
       },
       "date": {
         "raw": "1709",
@@ -140,7 +133,7 @@
         "qualifier": null
       },
       "event": "death",
-      "narrative": null,
+      "narrative": "Died in 1709 at the Quaker settlement of Byberry on Poquessing Creek ('Poquesin'), on the Bucks County side of the Philadelphia border — directly across the Delaware from the Burlington community where his American records begin.",
       "confidence": "documented",
       "sources": [
         {
@@ -150,5 +143,5 @@
       ]
     }
   ],
-  "notes": null
+  "notes": "Enriched from the GEDCOM events plus colonial-Quaker context; not yet cross-checked against Ancestry's Ancestral Journeys view — do that before flipping status to 'reviewed'."
 }
