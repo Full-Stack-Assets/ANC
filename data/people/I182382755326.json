@@ -156,5 +156,12 @@
   ],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "BIRTHPLACE CORRECTED (research 2026-07-03): every source found (Putman \"Bunker Family\" history; WikiTree Bunker-5; FamilySearch LZD5-RJG) places her birth at TOPSFIELD, Massachusetts, not \"Newburyport, Essex, Massachusetts\" as the export has it — matching her parents' documented settlement history (Ipswich, then Topsfield, in the early 1650s). No source found places any Bunker of this generation at Newburyport.",
+      "PARENTS ADDED (research 2026-07-03, currently blank in export): GEORGE BUNKER and JANE GODFREY, per Putman \"Bunker Family\" history, WikiTree Bunker-5/Bunker-44, and FamilySearch — making her the sister (not merely a same-surname contemporary) of William Bunker (I182528279217) in this same tree.",
+      "DUPLICATE EVENTS (data-quality flag): this record carries six event lines for what should be only two events (one birth, one death), each repeated with cosmetically different place-string formatting, plus a birth date off by six days (11 May vs 5 May 1652) — an unmerged GEDCOM-import artifact, not two different events."
+    ]
+  }
 }

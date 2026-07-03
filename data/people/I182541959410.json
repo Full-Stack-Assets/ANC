@@ -65,5 +65,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DUPLICATE PERSON RECORD (research 2026-07-03): this record and I182541966181 are identical in every field (Mary Woodbury, 1698-1778, Beverly MA), except the latter additionally lists parents — likely the same person entered twice. Recommend merging; the fuller parent data in I182541966181 may be worth reconciling in."
+    ]
+  }
 }

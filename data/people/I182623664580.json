@@ -76,5 +76,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "LEAKED RELATIONSHIP-DEGREE ANNOTATION + PARENT MISATTRIBUTION (deep-chain audit, 2026-07-03): '19GGM' in the surname field is a relationship-degree annotation (19th-great-grandmother, relative to some tree owner) concatenated onto the name rather than stored as metadata — should read 'Margaret Arden.' Separately, she and husband Sir William Bosum (I182623664640) are listed as parents of BOTH their daughter Godith Judith Bosum (I182623664565, correct) AND son-in-law Robert Olney (I182623664573, incorrect) — Robert Olney's actual parentage is unestablished; see his record. — WereRelate: Person:Thomas Throckmorton (8)."
+    ]
+  }
 }

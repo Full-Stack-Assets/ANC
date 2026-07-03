@@ -63,5 +63,12 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "BIRTHPLACE CORRECTED (research 2026-07-03): baptized 18 Mar 1620 at LOCKINGTON, LEICESTERSHIRE, England (where his father Robert Mansfield married in 1613 and the children were baptized) — not \"Norfolk, England\" as the export has it. Norfolk (Blofield, near Norwich) is where his father Robert was himself baptized in 1590, one generation earlier; this looks like a generation-conflation artifact, Robert's birthplace copied onto Andrew's record. Sources: WikiTree Mansfield-224/Mansfield-221; Geni.",
+      "MOTHER CORRECTED; PARENTS INCOMPLETE ON THIS RECORD: Andrew's mother was ELIZABETH KETTLE (m. Robert Mansfield, Lockington, Leicestershire, 10 Feb 1613), not \"Grace Elizabeth (Townsend) Mansfield, Mayfield.\" That garbled compound name looks like a merge of (a) Elizabeth Kettle, Andrew's actual mother, with (b) \"Townsend,\" one of two competing unproven maiden-name guesses (Townsend vs Gedney) for BETHIAH, Andrew's own first wife and Deborah's mother — not his mother — plus (c) an unexplained \"Mayfield\" with no source found. This record also omits father Robert Mansfield entirely (present on the duplicate record I182541966193); both parents should read Robert Mansfield + Elizabeth Kettle. Sources: WikiTree Mansfield-221/Kettle-568; Geni; Find a Grave #116548927.",
+      "DUPLICATE RECORD: I182541966193 is the same individual (Andrew Mansfield of Lynn) under a separate ID, with a more complete parent list — recommend merging."
+    ]
+  }
 }

@@ -172,5 +172,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DATE CONFLICT UNRESOLVED (research 2026-07-03): the export's own events conflict — a baptism dated 16 Sep 1759 (flagged val=None) vs. a stated birth year of ~1761, which is chronologically impossible (baptism cannot precede birth by two years). Likely the birth year should read ~1759, or the baptism date is mis-transcribed, but this was not independently resolved online."
+    ]
+  }
 }

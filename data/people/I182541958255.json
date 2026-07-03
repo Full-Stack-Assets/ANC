@@ -65,5 +65,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "NAME FIELD IS A CORRUPTED DATA ARTIFACT, NOT A PERSON'S NAME (research 2026-07-03): '[all have same mom] Bassett-Ewell' evidently merges a researcher's reminder note ('[all have same mom]' — i.e., several Elwell siblings share the same mother despite conflicting online trees) with a garbled surname ('Bassett-Ewell,' Ewell being a common misspelling/variant of Elwell). This woman is the same Sarah Bassett recorded elsewhere in this tree as wife of Thomas Elwell (1654-1706) — see I182541958346 — sharing this record's identical death date (26 Apr 1707, Salem, NJ). Flag as a duplicate/data-corruption artifact requiring a manual fix in the source tree, per docs/research/ancestors/line-elwell.md."
+    ]
+  }
 }

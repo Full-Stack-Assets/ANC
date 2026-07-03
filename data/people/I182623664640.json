@@ -73,5 +73,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "TWO DATA-QUALITY ISSUES (deep-chain audit, 2026-07-03): (1) this record lists FOUR parents — I182623664658+I182623664655 and I182623664625+I182623664602 — which are two near-duplicate copies of the same 'Bartholomew Burgoyne'+'Anne Freville' couple (same names/dates, different source citations); these need reconciling into a single couple. (2) He and wife Margaret Arden-Bosum (I182623664580) are also erroneously listed as parents of their son-in-law Robert Olney (I182623664573) in addition to their actual daughter Godith Judith Bosum (I182623664565) — Robert Olney's own parentage is unestablished; see his record."
+    ]
+  }
 }

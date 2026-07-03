@@ -191,5 +191,10 @@
   ],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DUPLICATE EVENTS (data-quality flag, research 2026-07-03): this record's birth (c.1620, Västra Röra, Långelanda, Myckleby, Orust) and death (1675, Backa, Myckleby) are each recorded multiple times under different old-vs-modern place-name/jurisdiction renderings (Västra Götaland vs Bohuslän vs, anachronistically, \"Kingdom of Denmark & Norway\" — Bohuslän was actually part of Norway/Denmark-Norway only until the 1658 Treaty of Roskilde, so that tag internally contradicts an event elsewhere coded \"Sverige\"/Sweden). Textbook unmerged GEDCOM-import artifact; recommend de-duplicating to one birth + one death event with a single consistent place-name convention."
+    ]
+  }
 }

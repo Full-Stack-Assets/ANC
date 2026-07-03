@@ -67,5 +67,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "PARENT MISATTRIBUTION — IN-LAWS LISTED AS OWN PARENTS (deep-chain audit, 2026-07-03): this record lists 'Sir William Bosum' (I182623664640) and 'Lady Margaret Arden-Bosum' (I182623664580) as his own parents, but per the Visitation-derived Throckmorton pedigree, Sir William Bosum (Lord of Roxton, Bedfordshire) was the father of Godith Judith Bosum (I182623664565) — Robert Olney's wife, correctly listed here as spouse — not of Robert himself. His own parentage is not established by any source found; the Bosum couple should be moved to Godith Judith Bosum's parent slot and Robert Olney's parents marked unknown pending research. — WereRelate: Person:Thomas Throckmorton (8)."
+    ]
+  }
 }

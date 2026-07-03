@@ -87,5 +87,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DUPLICATE RECORD / MERGE ARTIFACT (deep-chain audit, 2026-07-03): this appears to be a duplicate of I182650549105 (same name, same 1510-1546 dates) rather than a second individual. Its wife, Lady Mary Margaret Stanley (I182585308027), is also listed as the wife of an unrelated John Poole (I182620332859) with an identical children list (I182584905061, I182620332862, I182620332860, I182620332861) in both marriages — a classic merged-GEDCOM duplication, not two real marriages. Recommend reconciling/merging with I182650549105 rather than treating as a distinct person."
+    ]
+  }
 }

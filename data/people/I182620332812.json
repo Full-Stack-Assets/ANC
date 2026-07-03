@@ -105,5 +105,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "SELF-REFERENTIAL DUPLICATE CHAIN (deep-chain audit, 2026-07-03): this record continues a chain of (at least) five tree entries — I182650549008, I182650548981, I182650548971, I182620337788, I182620332812 — that all describe a single individual ('Sir Hugh I Childers Childress III' / 'Sir Hugh Childress', b. c.1500 East Retford, d. 1571/72) cloned across consecutive generations, each listed as the 'parent' of the next. This is a repeated-name merge error, not a multi-generation dynasty of identically-dated men; the chain should be collapsed to a single person."
+    ]
+  }
 }

@@ -65,5 +65,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "IDENTITY LIKELY A COMPOSITE (research 2026-07-03, unresolved): the birthplace \"Wales, Massachusetts\" is almost certainly a conflation error — there is a well-documented immigrant Thomas Merrick (c.1620-1704) born in Wales (St. David's Parish, Pembrokeshire) who settled in Springfield, MA (WikiTree Merrick-10; Familypedia), i.e. country-of-origin and place-of-settlement merged into one field. But that documented Thomas Merrick married Elizabeth Tilley and died 1704 in Springfield, not Mary Griggs / 1684 Middletown, CT as this record has it. A search for \"Mary Griggs\" + Middletown, CT instead surfaced an unrelated couple, Thomas Stow (1615-1684) m. Mary Griggs, of Roxbury/Concord/Middletown — suggesting this record may itself mix two or more distinct colonial families with overlapping given names and Connecticut River Valley geography. Treat as unresolved rather than a single documented person."
+    ]
+  }
 }

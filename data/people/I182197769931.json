@@ -70,5 +70,11 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "WIFE CORRECTED (research workflow, 2026-07-03): the tree's 'Harriet Coffin' is wrong — per the Island Register genealogy, Harriet Coffin actually married John's BROTHER James Morrow. John's real wife was MARGARET Coffin, married 4 Jan 1815. The structured relationships.spouses field still points at Harriet's record (I182381539993) pending a matching Margaret Coffin record being added or identified.",
+      "FATHER LIKELY WRONG: no source ties 'William John Morrow (Morrogh)' to this family. The genealogy instead names his father as John (Jr.) Morrow, b. c. 1762 County Armagh, Ireland, d. 1841. His birth (17 Jul 1792) and death dates were independently confirmed via the same compiled genealogy."
+    ]
+  }
 }
