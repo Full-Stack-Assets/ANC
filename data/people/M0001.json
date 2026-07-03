@@ -1,0 +1,54 @@
+{
+  "id": "M0001",
+  "name": {
+    "given": null,
+    "surname": "McAlone",
+    "suffix": null,
+    "full": "(—) McAlone"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195857640"
+      }
+    ],
+    "children": [
+      "I182195857362"
+    ]
+  },
+  "events": [
+    {
+      "type": "other",
+      "date": {
+        "raw": "MAR Q 1907",
+        "year": 1907,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Named as mother (maiden name McAlone) on Ellen Larkin's GRO birth registration",
+      "note": "GRO online index, Births Mar Q 1907, Whitehaven 10b/689 — looked up by the tree owner 2026-07-03. A maiden name in the column (not 'Larkin') means the birth was registered as legitimate: she was recorded as Thomas Larkin's wife.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MANUALLY CREATED RECORD (M-prefix: not from the GEDCOM; parser re-runs never touch it). Ellen M Larkin's mother, identified 2026-07-03 by the tree owner's GRO index lookup: maiden name McALONE. Forename unknown. Irish surname, fitting Whitehaven's Irish Catholic community.",
+      "OPEN: her forename and fate. Was she also Samuel Larkin's mother (GRO lookup: Births Jun Q 1903, Whitehaven 10b/733 — matching maiden name would confirm)? Is she the 'Mary Ellen Larkin, 42' who died Mar Q 1906 Whitehaven (10b/429)? If so, Ellen's Nov 1906 birth is impossible for her and the registration's married-name presentation needs explaining; if not, she likely survived — but she is absent from the family's 1918-1921 US movements (Ellen crossed alone in 1921 after her father's death), so she probably died 1911-1921 in England. No Thomas Larkin x McAlone marriage is registered in Cumberland 1880-1911; the marriage was likely in Ireland, Scotland, or pre-1892 Maine."
+    ]
+  }
+}

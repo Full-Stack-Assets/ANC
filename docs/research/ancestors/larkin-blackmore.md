@@ -38,3 +38,7 @@ Run the same lookup on Samuel (Jun Q 1903, 10b/733): matching maiden names = sam
 mother; "LARKIN" in the column = registered illegitimate (later-partner scenario).
 Backups: Ellen's SS application (US, mother's maiden name), the 1911 Whitehaven census
 image, Mary Ellen Larkin's 1906 death certificate, St Begh's RC Whitehaven baptisms.
+
+## RESOLUTION (2026-07-03)
+
+The tree owner ran the GRO lookup: **mother's maiden name McALONE** (Births Mar Q 1907, Whitehaven 10b/689). Prediction confirmed — not Blackmore. The mother is recorded as `M0001` in `data/people/`; her forename, the Samuel cross-check (10b/733), and whether she was the Mary Ellen Larkin who died Mar Q 1906 remain open.
