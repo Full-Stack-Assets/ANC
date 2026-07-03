@@ -42,3 +42,7 @@ image, Mary Ellen Larkin's 1906 death certificate, St Begh's RC Whitehaven bapti
 ## RESOLUTION (2026-07-03)
 
 The tree owner ran the GRO lookup: **mother's maiden name McALONE** (Births Mar Q 1907, Whitehaven 10b/689). Prediction confirmed — not Blackmore. The mother is recorded as `M0001` in `data/people/`; her forename, the Samuel cross-check (10b/733), and whether she was the Mary Ellen Larkin who died Mar Q 1906 remain open.
+
+## SECOND RESOLUTION (2026-07-03, owner's 1911 census pull)
+
+The census image settles the household: **8 Peters Court, Peter Street, Whitehaven** — William Larkin 54 head; **Ellen** Larkin 46 wife; William 15; Mary Ann 14; Hugh 11; Samuel 8; Ellen 4. So the mother is **Ellen McAlone** (forename found — her daughter was named for her), she was alive in 1911 (the Mar 1906 'Mary Ellen Larkin' death belongs to another family), and the father of record is **WILLIAM Larkin (b. ~1857)** — contradicting the export's 'Thomas'. The family was not newly arrived: older children span ~1894–1901. New records: M0001 (Ellen McAlone), M0002 (Samuel, d. Whitehaven 1973), M0003 (William). Open: whether the 'Thomas d. 1920 Maine' persona is a garbled William, or a different Larkin (an uncle?) whom 14-year-old Ellen joined in Maine in 1921 — her Form 30A names whom she was going to.

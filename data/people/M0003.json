@@ -1,0 +1,70 @@
+{
+  "id": "M0003",
+  "name": {
+    "given": "William",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "William Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": "Age 54 in the 2 Apr 1911 census. Birthplace not yet transcribed from the census image.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "M0001"
+      }
+    ],
+    "children": [
+      "I182195857362",
+      "M0002"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2 APR 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "8 Peters Court, Peter Street, Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Head of household",
+      "note": "1911 census (2 Apr 1911), 8 Peters Court, Peter Street, Whitehaven (RG14, district 577, ED 05, piece 31497), pulled by the tree owner 2026-07-03: William Larkin 54 head; Ellen Larkin 46 wife; William 15; Mary Ann 14; Hugh 11; Samuel 8; Ellen 4.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MANUALLY CREATED RECORD: father of direct ancestor Ellen M Larkin per the 1911 census — the household head, WITH the two children whose GRO registrations carry mother's maiden surname McAlone. This CONTRADICTS the export, which gives Ellen's father as 'Thomas Larkin' (I182195857640) — see the disambiguation note there. Known children (1911 household): William (b. ~1896), Mary Ann (~1897), Hugh (~1900), Samuel (28 Feb 1903, M0002), Ellen (~Nov 1906, I182195857362); the Whitehaven Larkin birth registrations 1894-1901 (John William 1894, William 1895, Mary Ann 1897, Hugh 1901...) likely include this family's older children.",
+      "OPEN: his birthplace (on the census image); his death; whether ANY of the 'Thomas' facts (Liverpool 1861, Benedicta Maine 1877, 1914 military, Howe Brook Maine 1918, d. 1920 Maine) belong to him under a garbled forename, or to a different Larkin entirely. Ellen's 1921 Form 30A (whom she was joining in Maine) is the key next record."
+    ]
+  }
+}

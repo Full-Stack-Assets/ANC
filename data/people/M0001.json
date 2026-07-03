@@ -1,18 +1,33 @@
 {
   "id": "M0001",
   "name": {
-    "given": null,
+    "given": "Ellen",
     "surname": "McAlone",
     "suffix": null,
-    "full": "(—) McAlone"
+    "full": "Ellen (McAlone) Larkin"
   },
   "sex": "F",
-  "vitals": {},
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1865",
+        "year": 1865,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": "Age 46 in the 2 Apr 1911 census.",
+      "sources": [],
+      "confidence": "documented"
+    }
+  },
   "relationships": {
     "parents": [],
     "spouses": [
       {
-        "id": "I182195857640"
+        "id": "M0003"
       }
     ],
     "children": [
@@ -41,6 +56,27 @@
       "note": "GRO online index, Births Mar Q 1907, Whitehaven 10b/689 — looked up by the tree owner 2026-07-03. A maiden name in the column (not 'Larkin') means the birth was registered as legitimate: she was recorded as Thomas Larkin's wife.",
       "sources": [],
       "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2 APR 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "8 Peters Court, Peter Street, Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Wife of head",
+      "note": "1911 census (2 Apr 1911), 8 Peters Court, Peter Street, Whitehaven (RG14, district 577, ED 05, piece 31497), pulled by the tree owner 2026-07-03: William Larkin 54 head; Ellen Larkin 46 wife; William 15; Mary Ann 14; Hugh 11; Samuel 8; Ellen 4.",
+      "sources": [],
+      "confidence": "documented"
     }
   ],
   "sources": [],
@@ -48,9 +84,10 @@
   "confidence": "documented",
   "manual": {
     "notes": [
-      "MANUALLY CREATED RECORD (M-prefix: not from the GEDCOM; parser re-runs never touch it). Ellen M Larkin's mother, identified 2026-07-03 by the tree owner's GRO index lookup: maiden name McALONE. Forename unknown. Irish surname, fitting Whitehaven's Irish Catholic community.",
-      "SAMUEL CONFIRMED HERS (2026-07-03, owner's GRO lookup): 'LARKIN, SAMUEL, 1903 J Quarter, WHITEHAVEN 10B/733, Mother's Maiden Surname: MCALONE' — Ellen and Samuel (M0002) are full siblings, and she was Thomas's recorded wife from at least 1903 through Ellen's 1907 registration. REMAINING OPEN: her forename; whether she is the 'Mary Ellen Larkin, 42' who died Mar Q 1906 Whitehaven (10b/429) — now UNLIKELY as Ellen's Nov 1906 birth follows it, unless that death was another family's; her fate by 1921 (Ellen emigrated alone); the marriage (not registered in Cumberland 1880-1911 — likely Ireland, Scotland, or pre-1892 Maine).",
-      "NEW ROUTE TO HER FORENAME (2026-07-03): Samuel's 1903 birth certificate (GRO Jun Q 1903, Whitehaven 10b/733, ~£12.50 PDF) names the mother in full — as would Ellen's (Mar Q 1907, 10b/689). Either certificate solves this."
+      "MANUALLY CREATED RECORD. Ellen M Larkin's mother — maiden name McALONE from both children's GRO birth registrations (owner's lookups); FORENAME ELLEN and survival to at least Apr 1911 from the owner's 1911 census pull (wife, 46, of household head William Larkin at 8 Peters Court, Whitehaven). Daughter Ellen was evidently named for her.",
+      "HUSBAND CORRECTED: the census head — and thus the children's father — is WILLIAM Larkin (M0003, b. ~1857), not the export's 'Thomas'. The 'Mary Ellen Larkin d. Mar Q 1906 aged 42' is therefore some other Whitehaven Larkin's wife — this Ellen was alive in 1911.",
+      "At ~46 in 1911 with a 4-year-old and five+ children spanning ~1894-1906, she was ~41 at Ellen's birth — unremarkable, and the audit's original 'age 52 mother' anomaly (built on the Blackmore chimera) is fully dissolved.",
+      "OPEN: her birthplace (census image column); marriage to William (not registered in Cumberland 1880-1911 — Ireland likely, given the community); her death (after Apr 1911; Ellen emigrated alone in 1921 — did her mother die 1911-1921, or stay behind with the older children?). Samuel's or Ellen's birth certificate (~£12.50) would confirm her forename independently."
     ]
   }
 }
