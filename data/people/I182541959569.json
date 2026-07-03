@@ -66,5 +66,13 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "IDENTITY/PARENTAGE LIKELY A MISMERGE (research 2026-07-03): the export's death date/place (23 Jan 1684, Hartford, CT) exactly matches the real, well-documented \"Elder John White\" of Hartford (b. c.1597 Messing, Essex, England; emigrated 1632; wife Mary Levett) — but that man's family emigrated in 1632, ten years before the export's stated 1642 Shalford, Essex birth, making him impossible as this John's actual birth record. A separate, real \"John White of Maine\" (Genealogical Dictionary of Maine and NH, Noyes/Libby/Davis) is documented with a son \"Phillip, b. 1662\" — a far better fit for this line's Phillip White (I182541959549/I182541966184) than the Hartford man. This record likely blends two unrelated same-named John Whites; treat the 1642/Shalford birth data as unreliable for whichever man is actually Phillip's father.",
+      "SPOUSE \"MARY PHILLIPS\" UNSUPPORTED: no source found names either candidate father's wife as a Phillips — Elder John White of Hartford's wife is documented as Mary Levett/Levitt; \"John White of Maine\" married Mary, widow of James Phipps (her maiden name not given in sources found).",
+      "\"(WYETH)\" TAG NOT A DOCUMENTED SURNAME LINK: no source found ties this White line to the unrelated, well-documented Wyeth family of Cambridge, MA (immigrant Nicholas Wyeth). Most likely an internal tree/software label, not a lineage claim.",
+      "DUPLICATE RECORD: I182541966203 is the same individual under a separate ID with identical data — recommend merging."
+    ]
+  }
 }

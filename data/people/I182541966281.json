@@ -89,5 +89,14 @@
   ],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "FATHER CORRECTED (research 2026-07-03): both the 1687 marriage-record transcription (\"Eliezer Whitney, ye son of Thomas Whitney of Watertown...\") and F.C. Pierce's compiled genealogy (\"32. Eleazer Whitney (Thomas, John)\") independently identify his father as THOMAS WHITNEY, not \"Richard Whetny\" as the export has it. Richard Whitney (Thomas's brother, John the immigrant's other son) had his own son born the same year, Elisha (b. 26 Aug 1662) — a name/date close enough to prompt a sibling mix-up.",
+      "MOTHER'S NAME IS A GARBLED CONCATENATION (research 2026-07-03): \"Mary Flowers Kettle Kendall Kedell\" mashes together several source variant spellings of the same Watertown woman (Pierce's book gives \"Mary Kedall or Kettle\") plus an unexplained \"Flowers\" with no source found. Correct rendering per Pierce: MARY KEDALL (KETTLE).",
+      "DEATH DATE CORRECTED: the export's \"30 Sept 1728\" is the recording date of a testamentary deed made during his lifetime, per Pierce's genealogy — his actual death date is 22 JUNE 1731. The tree appears to have mis-mapped the deed-recording date into the death field.",
+      "BIRTH DATE CONFLICT (unresolved, likely inherited from the 1878 source itself): this record's \"2 September 1662\" and the duplicate record's added \"7 Apr 1662\" reflect a contradiction already present in Pierce's own book — a vital-records passage gives \"Eleazer, b. Sept. 2, 1662\" (immediately followed by twin brother Elnathan, same date), while Pierce's numbered genealogical entry gives \"b. Watertown Apr. 7, 1662,\" likely a transcription slip conflating the twins' birth lines.",
+      "DUPLICATE RECORD: I182541959480 is the same individual under a separate ID with no parents listed — recommend merging into one record with the corrected parents (Thomas Whitney + Mary Kedall/Kettle) and death date above."
+    ]
+  }
 }
