@@ -1,0 +1,66 @@
+{
+  "id": "I182650551584",
+  "name": {
+    "given": "Mary",
+    "surname": "Doty",
+    "suffix": null,
+    "full": "Mary Doty"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 13 Jun 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551599",
+      "I182650551596"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551590"
+      }
+    ],
+    "children": [
+      "I182650551575"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "I182541964356",
+  "person": "Anthony Whitlock",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Paulerspury, Northamptonshire, England",
+        "parts": [
+          "Paulerspury",
+          "Northamptonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

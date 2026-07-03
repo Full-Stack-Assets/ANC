@@ -1,0 +1,56 @@
+{
+  "id": "I182381537723",
+  "person": "Eleanor Pell Hunt",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Maidenhead, Hunterdon, New Jersey, United States",
+        "parts": [
+          "Maidenhead",
+          "Hunterdon",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Mar 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Digby, Nova Scotia, Canada",
+        "parts": [
+          "Digby",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Jan 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

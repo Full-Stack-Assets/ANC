@@ -1,0 +1,71 @@
+{
+  "id": "I182650551955",
+  "name": {
+    "given": "Nathan",
+    "surname": "Willis",
+    "suffix": null,
+    "full": "Nathan Willis"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Nov 1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Jan 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oakham, Worcester, Massachusetts, USA",
+        "parts": [
+          "Oakham",
+          "Worcester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551950"
+      }
+    ],
+    "children": [
+      "I182650551937"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

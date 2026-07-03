@@ -1,0 +1,51 @@
+{
+  "id": "I182620318492",
+  "name": {
+    "given": "Bartholomew",
+    "surname": "Donnelly",
+    "suffix": null,
+    "full": "Bartholomew Donnelly"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Jul 1925",
+        "year": 1925,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182620318460"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

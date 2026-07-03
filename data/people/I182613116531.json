@@ -1,0 +1,124 @@
+{
+  "id": "I182613116531",
+  "name": {
+    "given": "Edward",
+    "surname": "Edward III",
+    "suffix": "III",
+    "full": "Edward Edward III III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 November 1312",
+        "year": 1312,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Windsor, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Windsor",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 June 1377",
+        "year": 1377,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Richmond, London Borough of Richmond upon Thames, Greater London, England",
+        "parts": [
+          "Richmond",
+          "London Borough of Richmond upon Thames",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Westminster, City of Westminster, Greater London, England",
+        "parts": [
+          "Westminster",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116842",
+      "I182613116926"
+    ],
+    "spouses": [
+      {
+        "id": "I182613116656"
+      }
+    ],
+    "children": [
+      "I182613116700",
+      "I182613116709",
+      "I182613116705",
+      "I182613116706",
+      "I182613116003",
+      "I182613116710",
+      "I182613116708",
+      "I182613116703",
+      "I182613116701",
+      "I182613116704",
+      "I182613116707"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

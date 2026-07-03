@@ -1,0 +1,47 @@
+{
+  "id": "I182381536817",
+  "name": {
+    "given": "Edmund",
+    "surname": "SWALLOW",
+    "suffix": null,
+    "full": "Edmund SWALLOW"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huddersfield, Yorkshire, England",
+        "parts": [
+          "Huddersfield",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536831",
+      "I182381536820"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381536734"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

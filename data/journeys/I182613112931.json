@@ -1,0 +1,55 @@
+{
+  "id": "I182613112931",
+  "person": "en Edmunde Barret",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Assington, Suffolkshire, England",
+        "parts": [
+          "Assington",
+          "Suffolkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Assington, Suffolkshire, England",
+        "parts": [
+          "Assington",
+          "Suffolkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Dec 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182613112469",
+  "person": "Julia Howard Packard Mitchell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, United States",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Dec 1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Dec 1915",
+        "year": 1915,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182623689170",
+  "name": {
+    "given": "Lady Agnes Samone",
+    "surname": "Chandler (Davis) (Hopkyns)****",
+    "suffix": null,
+    "full": "Lady Agnes Samone Chandler (Davis) (Hopkyns)****"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Mar 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Acton Turville, Gloucestershire, England",
+        "parts": [
+          "Acton Turville",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Jul 1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Acton Turville, Wiltshire, England",
+        "parts": [
+          "Acton Turville",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623689031"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "I182381536312",
+  "name": {
+    "given": "Dorothey",
+    "surname": null,
+    "suffix": null,
+    "full": "Dorothey"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "kirkham Lancashire England",
+        "parts": [
+          "kirkham Lancashire England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536324"
+      }
+    ],
+    "children": [
+      "I182381536303"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

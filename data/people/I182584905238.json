@@ -1,0 +1,78 @@
+{
+  "id": "I182584905238",
+  "name": {
+    "given": "Alice",
+    "surname": "Foyle",
+    "suffix": null,
+    "full": "Alice Foyle"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cann, Dorset, England, United Kingdom",
+        "parts": [
+          "Cann",
+          "Dorset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905072",
+      "I182584905210"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

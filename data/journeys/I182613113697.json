@@ -1,0 +1,56 @@
+{
+  "id": "I182613113697",
+  "person": "Thomae Thomas Harper",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St James, Bury St Edmunds, Suffolk, England",
+        "parts": [
+          "St James",
+          "Bury St Edmunds",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Olave Silver Street, London, England",
+        "parts": [
+          "St Olave Silver Street",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "06 Jul 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

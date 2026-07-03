@@ -1,0 +1,62 @@
+{
+  "id": "I182528279309",
+  "person": "Benjamin Coffin Sen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Nov 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Dec 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435167",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

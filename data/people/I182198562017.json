@@ -1,0 +1,82 @@
+{
+  "id": "I182198562017",
+  "name": {
+    "given": "Mary A",
+    "surname": "Crist",
+    "suffix": null,
+    "full": "Mary A Crist"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "June 23, 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chippewa Falls, Chippewa, Wisconsin",
+        "parts": [
+          "Chippewa Falls",
+          "Chippewa",
+          "Wisconsin"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "March 29, 1946",
+        "year": 1946,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lakeside Park, Mercer County, New Jersey, United States of America",
+        "parts": [
+          "Lakeside Park",
+          "Mercer County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999841",
+      "I182534044122"
+    ],
+    "spouses": [
+      {
+        "id": "I182198561979"
+      }
+    ],
+    "children": [
+      "I182541955630",
+      "I182195862117"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S467165446",
+      "title": "Virginia, U.S., Marriage Records, 1936-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

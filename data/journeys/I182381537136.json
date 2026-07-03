@@ -1,0 +1,55 @@
+{
+  "id": "I182381537136",
+  "person": "Robert Banks",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kelton, Dumfries-shire, Scotland",
+        "parts": [
+          "Kelton",
+          "Dumfries-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Mar 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bay Fortune, , Prince Edward Island, Canada",
+        "parts": [
+          "Bay Fortune",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Oct 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

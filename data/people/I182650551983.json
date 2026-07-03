@@ -1,0 +1,74 @@
+{
+  "id": "I182650551983",
+  "name": {
+    "given": "Joan",
+    "surname": "James Brightman",
+    "suffix": null,
+    "full": "Joan James Brightman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Portsmouth, Newport, Rhode Island, United States",
+        "parts": [
+          "Portsmouth",
+          "Newport",
+          "Rhode Island",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newport, Newport, Rhode Island, United States",
+        "parts": [
+          "Newport",
+          "Newport",
+          "Rhode Island",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552000",
+      "I182650551997"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551991"
+      }
+    ],
+    "children": [
+      "I182650551974"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

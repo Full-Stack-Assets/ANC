@@ -1,0 +1,73 @@
+{
+  "id": "I182613026131",
+  "name": {
+    "given": "Sir William Robert",
+    "surname": "HEATH I",
+    "suffix": "Knight of Ware Hertfordshire",
+    "full": "Sir William Robert HEATH I Knight of Ware Hertfordshire"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Amwell, Ware, Hertfordshire, England, United Kingdom",
+        "parts": [
+          "Little Amwell",
+          "Ware",
+          "Hertfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 April 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Amwell, Ware, Hertfordshire, England, United Kingdom",
+        "parts": [
+          "Little Amwell",
+          "Ware",
+          "Hertfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613026125"
+      }
+    ],
+    "children": [
+      "I182613026018"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182381536206",
+  "name": {
+    "given": "Daniel",
+    "surname": "Appelquist",
+    "suffix": null,
+    "full": "Daniel Appelquist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1711",
+        "year": 1711,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Deptford, Kent, England",
+        "parts": [
+          "Deptford",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "About 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poplar, Middlesex, England",
+        "parts": [
+          "Poplar",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536196"
+      }
+    ],
+    "children": [
+      "I182381536180"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

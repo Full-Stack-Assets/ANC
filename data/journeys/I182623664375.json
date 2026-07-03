@@ -1,0 +1,85 @@
+{
+  "id": "I182623664375",
+  "person": "Lady Elizabeth Rachel Lawrence,",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marborough, Salisbury, Wiltshire, England",
+        "parts": [
+          "Marborough",
+          "Salisbury",
+          "Wiltshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Oct 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Jamestown, James, Virginia, USA",
+        "parts": [
+          "Jamestown",
+          "James",
+          "Virginia",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Apr 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

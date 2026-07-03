@@ -1,0 +1,41 @@
+{
+  "id": "I182613112439",
+  "name": {
+    "given": "Elsabethe",
+    "surname": "Walkar",
+    "suffix": null,
+    "full": "Elsabethe Walkar"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112445"
+      }
+    ],
+    "children": [
+      "I182613112417"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

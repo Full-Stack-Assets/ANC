@@ -1,0 +1,67 @@
+{
+  "id": "I182623691261",
+  "name": {
+    "given": "Amasa",
+    "surname": "Snow",
+    "suffix": null,
+    "full": "Amasa Snow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 January 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Truro, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Truro",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 January 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Truro, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Truro",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623679508"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

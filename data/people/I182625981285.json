@@ -1,0 +1,63 @@
+{
+  "id": "I182625981285",
+  "name": {
+    "given": "William",
+    "surname": "Oliff-Lambert",
+    "suffix": null,
+    "full": "William Oliff-Lambert"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Essex, England",
+        "parts": [
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625981296"
+      }
+    ],
+    "children": [
+      "I182625981090"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "I182613025158",
+  "name": {
+    "given": "Anne",
+    "surname": "Fox",
+    "suffix": null,
+    "full": "Anne Fox"
+  },
+  "sex": "F",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025078"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

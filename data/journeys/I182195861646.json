@@ -1,0 +1,52 @@
+{
+  "id": "I182195861646",
+  "person": "Pehr Andersson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Grangärde(W)",
+        "parts": [
+          "Grangärde(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

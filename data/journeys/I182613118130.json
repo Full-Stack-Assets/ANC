@@ -1,0 +1,67 @@
+{
+  "id": "I182613118130",
+  "person": "Caleb Bridges",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Salem, Essex, Massachusetts, USA",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 June 1677",
+        "year": 1677,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Framingham, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Framingham",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 June 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

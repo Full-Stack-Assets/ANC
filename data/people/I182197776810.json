@@ -1,0 +1,248 @@
+{
+  "id": "I182197776810",
+  "name": {
+    "given": "William",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "William Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bybury, Bucks, Pennsylvania, USA",
+        "parts": [
+          "Bybury",
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poquesin, Bucks, Pennsylvania, USA",
+        "parts": [
+          "Poquesin",
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541935662",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "01 Jul 1697",
+            "year": 1697,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "New Castle, New Castle, DE",
+            "parts": [
+              "New Castle",
+              "New Castle",
+              "DE"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625980432",
+      "I182197770339",
+      "I182625980433",
+      "I182625980430",
+      "I182625980431"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stemeyck, Hollande",
+        "parts": [
+          "Stemeyck",
+          "Hollande"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1680-1709",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, New Jersey, USA",
+        "parts": [
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508339477",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, New York",
+        "parts": [
+          "New York",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447152586",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pennsylvania, USA",
+        "parts": [
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447152581",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S508339477",
+      "title": "The Burlington court book : a record of Quaker jurisprudence in West New Jersey, 1680-1709",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447152586",
+      "title": "U.S. and Canada, Passenger and Immigration Lists Index, 1500s-1900s",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447152581",
+      "title": "Biography & Genealogy Master Index (BGMI)",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

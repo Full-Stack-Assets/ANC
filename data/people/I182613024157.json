@@ -1,0 +1,86 @@
+{
+  "id": "I182613024157",
+  "name": {
+    "given": "Lady Cecily",
+    "surname": "Moore",
+    "suffix": null,
+    "full": "Lady Cecily Moore"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Wootton, Norfolk, England, United Kingdom",
+        "parts": [
+          "North Wootton",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England, United Kingdom",
+        "parts": [
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024116",
+      "I182613024135"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

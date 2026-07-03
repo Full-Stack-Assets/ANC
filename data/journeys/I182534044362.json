@@ -1,0 +1,69 @@
+{
+  "id": "I182534044362",
+  "person": "Ellen Flynn Murphy",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland, Ireland",
+        "parts": [
+          "Ireland",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Feb 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        },
+        {
+          "source_id": "S513850664",
+          "page": null
+        },
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 02504 / 04"
+        },
+        {
+          "source_id": "S506435674",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473082",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

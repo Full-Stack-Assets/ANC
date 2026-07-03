@@ -1,0 +1,57 @@
+{
+  "id": "I182623691995",
+  "person": "John Henry Collins I",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Saint Mary, Aylesbury, Buckinghamshire, England",
+        "parts": [
+          "Saint Mary",
+          "Aylesbury",
+          "Buckinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Nov 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Feb 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

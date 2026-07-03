@@ -1,0 +1,81 @@
+{
+  "id": "I182730797075",
+  "person": "John Seaver",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Aug 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 May 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Brookline, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Dec 1756",
+        "year": 1756,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

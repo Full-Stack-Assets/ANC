@@ -1,0 +1,56 @@
+{
+  "id": "I182650552256",
+  "person": "Elizabeth Linfield",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Braintree, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Braintree",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 October 1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts,",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Nov 1827",
+        "year": 1827,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,120 @@
+{
+  "id": "I182195862910",
+  "name": {
+    "given": "Bridget",
+    "surname": "Crowly",
+    "suffix": null,
+    "full": "Bridget Crowly"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1821",
+        "year": 1821,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Stradbolly, Waterford, Ireland",
+        "parts": [
+          "Stradbolly",
+          "Waterford",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619414",
+          "page": "Class: HO107; Piece: 1514; Folio: 322; Page: 63; GSU roll: 87848"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955053",
+      "I182541955276"
+    ],
+    "spouses": [
+      {
+        "id": "I182195862902"
+      }
+    ],
+    "children": [
+      "I182195858188",
+      "I182620317932"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holborn St Andrew, Middlesex, England",
+        "parts": [
+          "Holborn St Andrew",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S516619414",
+          "page": "Class: HO107; Piece: 1514; Folio: 322; Page: 63; GSU roll: 87848"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516619414",
+      "title": "1851 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "I182613116157",
+  "person": "Constance Of castille",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Spain",
+        "parts": [
+          "Spain"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1354",
+        "year": 1354,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Leicester, Leicestershire, England",
+        "parts": [
+          "Leicester",
+          "Leicestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Mar 1394",
+        "year": 1394,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

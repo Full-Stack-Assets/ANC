@@ -101,6 +101,56 @@ def test_emitter_end_to_end():
         assert json.loads(Path(tmp, "journeys", "I1.json").read_text())["status"] == "transcribed"
 
 
+DUPES_GED = """\
+0 HEAD
+1 CHAR UTF-8
+0 @S1@ SOUR
+1 TITL Parish register
+0 @I9@ INDI
+1 NAME Robert /Smyth/
+1 BIRT
+2 DATE 1590
+2 PLAC Kirton, Lincolnshire, England
+1 BIRT
+2 DATE 1590
+2 PLAC Kirton, Lincolnshire, England
+2 SOUR @S1@
+1 BIRT
+2 DATE 1595
+2 PLAC Kelstern, Lincolnshire, England
+1 RESI
+2 DATE 1620
+2 PLAC Boston, Lincolnshire, England
+1 RESI
+2 DATE 1620
+2 PLAC Boston, Lincolnshire, England
+0 TRLR
+"""
+
+
+def test_ancestry_duplicate_events_collapse():
+    """Merged Ancestry hints repeat events; dupes collapse, sources merge,
+    and alternate vitals never become journey waypoints."""
+    with tempfile.TemporaryDirectory() as tmp:
+        ged = Path(tmp, "dupes.ged")
+        ged.write_text(DUPES_GED)
+        assert emit([str(ged), "--out", tmp, "--seed-journeys"]) == 0
+
+        p = json.loads(Path(tmp, "people", "I9.json").read_text())
+        # Preferred birth keeps its slot and absorbs the duplicate's citation.
+        assert p["vitals"]["birth"]["date"]["year"] == 1590
+        assert p["vitals"]["birth"]["sources"] == [{"source_id": "S1", "page": None}]
+        assert p["vitals"]["birth"]["confidence"] == "documented"
+        # The genuinely different 1595 birth survives as an alternate event;
+        # the identical residence pair collapses to one.
+        assert [(_ev["type"], (_ev["date"] or {}).get("year")) for _ev in p["events"]] == [
+            ("birth", 1595), ("residence", 1620)]
+
+        j = json.loads(Path(tmp, "journeys", "I9.json").read_text())
+        assert [(w["event"], (w["date"] or {}).get("year")) for w in j["waypoints"]] == [
+            ("birth", 1590), ("residence", 1620)]
+
+
 def test_schema_validation():
     """Validate emitter output against the repo schemas (skips without jsonschema)."""
     try:

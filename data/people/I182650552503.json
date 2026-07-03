@@ -1,0 +1,67 @@
+{
+  "id": "I182650552503",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Cole",
+    "suffix": null,
+    "full": "Elizabeth Cole"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth Co. MA USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Jan 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth Co. MA USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552498"
+      }
+    ],
+    "children": [
+      "I182650552492"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

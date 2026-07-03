@@ -1,0 +1,57 @@
+{
+  "id": "I182625972886",
+  "person": "Wendel Hunn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beilstein, Cochem-Zell, Rheinland Pfalz, Allemagne",
+        "parts": [
+          "Beilstein",
+          "Cochem-Zell",
+          "Rheinland Pfalz",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Beilstein, Heilbronn, Baden-Württemberg, Germany",
+        "parts": [
+          "Beilstein",
+          "Heilbronn",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aft. 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

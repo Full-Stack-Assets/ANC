@@ -1,0 +1,120 @@
+{
+  "id": "I182623663985",
+  "name": {
+    "given": "Maria Catharina",
+    "surname": "Born",
+    "suffix": null,
+    "full": "Maria Catharina Born"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Jan 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Kreis St. Wendel, Rhineland, Prussia, Germany",
+        "parts": [
+          "Urweiler",
+          "Kreis St. Wendel",
+          "Rhineland",
+          "Prussia",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Dec 1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Kreis St Wendel, Rhineland, Germany",
+        "parts": [
+          "Urweiler",
+          "Kreis St Wendel",
+          "Rhineland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972657",
+      "I182625972655"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663988"
+      }
+    ],
+    "children": [
+      "I182623663939"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "15 January 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland, Deu",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland",
+          "Deu"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "28 December 1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland, Deu",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland",
+          "Deu"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

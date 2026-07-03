@@ -1,0 +1,71 @@
+{
+  "id": "I182541966527",
+  "name": {
+    "given": "Frau Maria Magdalena",
+    "surname": "Bartleme",
+    "suffix": null,
+    "full": "Frau Maria Magdalena Bartleme"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfort am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfort am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfort am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfort am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966519"
+      }
+    ],
+    "children": [
+      "I182541966514"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

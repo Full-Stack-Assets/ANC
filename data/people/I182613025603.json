@@ -1,0 +1,69 @@
+{
+  "id": "I182613025603",
+  "name": {
+    "given": "Joseph",
+    "surname": "Porter",
+    "suffix": null,
+    "full": "Joseph Porter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Bef 9 Sep 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Hingham, Plymouth County, Massachusetts",
+        "parts": [
+          "Hingham",
+          "Plymouth County",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Dec 1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex, MA",
+        "parts": [
+          "Salem",
+          "Essex",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613025585"
+      }
+    ],
+    "children": [
+      "I182613025561"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

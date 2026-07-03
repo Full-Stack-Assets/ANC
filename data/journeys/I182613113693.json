@@ -1,0 +1,50 @@
+{
+  "id": "I182613113693",
+  "person": "alice martha harper",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nottingham, Nottinghamshire, England",
+        "parts": [
+          "Nottingham",
+          "Nottinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1532",
+        "year": 1532,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Nottingham, Nottinghamshire, England",
+        "parts": [
+          "Nottingham",
+          "Nottinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

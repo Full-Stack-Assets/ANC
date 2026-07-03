@@ -1,0 +1,56 @@
+{
+  "id": "I182541959973",
+  "person": "Thomas Gryffyn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Westminster, Middlesex, England",
+        "parts": [
+          "Westminster",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Derbyshire, England  --  or  --  Westminster, Middlesex, England",
+        "parts": [
+          "Derbyshire",
+          "England  --  or  --  Westminster",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "c. 1593  --  or  --  22 Feb 1594",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

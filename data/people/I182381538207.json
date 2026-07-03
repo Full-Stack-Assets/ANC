@@ -1,0 +1,71 @@
+{
+  "id": "I182381538207",
+  "name": {
+    "given": "Andreas",
+    "surname": "Otto",
+    "suffix": null,
+    "full": "Andreas Otto"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rhineland-Palatinate, Ahrweiler, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rhineland-Palatinate",
+          "Ahrweiler",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Nov 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Hesse",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538203"
+      }
+    ],
+    "children": [
+      "I182381538182"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

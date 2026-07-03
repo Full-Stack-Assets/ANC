@@ -1,0 +1,53 @@
+{
+  "id": "I182195860597",
+  "name": {
+    "given": "Clara Maria Gustava",
+    "surname": "Swanson",
+    "suffix": null,
+    "full": "Clara Maria Gustava Swanson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Aug 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Bristol, Massachusetts",
+        "parts": [
+          "Easton",
+          "Bristol",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195860381",
+      "I182195860382"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

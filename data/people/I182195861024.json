@@ -1,0 +1,54 @@
+{
+  "id": "I182195861024",
+  "name": {
+    "given": "Maria",
+    "surname": "Ählström",
+    "suffix": null,
+    "full": "Maria Ählström"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Dec",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Borås, Älvsborg, Sweden",
+        "parts": [
+          "Borås",
+          "Älvsborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195860775"
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

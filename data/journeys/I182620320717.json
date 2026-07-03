@@ -1,0 +1,55 @@
+{
+  "id": "I182620320717",
+  "person": "Christina Larsdotter Olofsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 januari 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ramsberg, Västmanland, Sverige",
+        "parts": [
+          "Ramsberg",
+          "Västmanland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 januari 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

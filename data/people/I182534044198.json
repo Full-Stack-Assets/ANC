@@ -1,0 +1,73 @@
+{
+  "id": "I182534044198",
+  "name": {
+    "given": "Phillipus Stephanus",
+    "surname": "Crist",
+    "suffix": null,
+    "full": "Phillipus Stephanus Crist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rangsdorf, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rangsdorf",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wallkill, Ulster, New York, USA",
+        "parts": [
+          "Wallkill",
+          "Ulster",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966413",
+      "I182541966411"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044195"
+      }
+    ],
+    "children": [
+      "I182534044158"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

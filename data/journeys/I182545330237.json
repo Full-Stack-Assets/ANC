@@ -1,0 +1,56 @@
+{
+  "id": "I182545330237",
+  "person": "Mary Murray",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Miramichi, Northumberland, New Brunswick",
+        "parts": [
+          "Miramichi",
+          "Northumberland",
+          "New Brunswick"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Oct 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Birch Hill Free, Lot 49, Prince Edward Island, CANADA",
+        "parts": [
+          "Birch Hill Free",
+          "Lot 49",
+          "Prince Edward Island",
+          "CANADA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Aug 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

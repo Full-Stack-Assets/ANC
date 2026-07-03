@@ -1,0 +1,55 @@
+{
+  "id": "I182623690890",
+  "person": "Jane Manning Brandon",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Thriplow, Cambridgeshire, England",
+        "parts": [
+          "Thriplow",
+          "Cambridgeshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Thirplow, Cambridgeshire, England",
+        "parts": [
+          "Thirplow",
+          "Cambridgeshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

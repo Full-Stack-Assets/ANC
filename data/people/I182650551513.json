@@ -1,0 +1,71 @@
+{
+  "id": "I182650551513",
+  "name": {
+    "given": "Mary",
+    "surname": "Kyrke",
+    "suffix": null,
+    "full": "Mary Kyrke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, Essex, England, United Kingdom",
+        "parts": [
+          "Essex",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, Essex, England, United Kingdom",
+        "parts": [
+          "Essex",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551518"
+      }
+    ],
+    "children": [
+      "I182650551485"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

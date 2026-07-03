@@ -1,0 +1,46 @@
+{
+  "id": "I182195862806",
+  "name": {
+    "given": "William",
+    "surname": "Shone",
+    "suffix": null,
+    "full": "William Shone"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Apx 1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862704",
+      "I182195862717"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

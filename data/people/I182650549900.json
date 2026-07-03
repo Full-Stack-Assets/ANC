@@ -1,0 +1,100 @@
+{
+  "id": "I182650549900",
+  "name": {
+    "given": "Antonio",
+    "surname": "Minechello",
+    "suffix": null,
+    "full": "Antonio Minechello"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Italy",
+        "parts": [
+          "Italy"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1907",
+        "year": 1907,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milford, Worcester, Massachusetts, USA",
+        "parts": [
+          "Milford",
+          "Worcester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Ring Maker; Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

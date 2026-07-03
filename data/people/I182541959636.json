@@ -1,0 +1,69 @@
+{
+  "id": "I182541959636",
+  "name": {
+    "given": "Thomas",
+    "surname": "Townshend",
+    "suffix": null,
+    "full": "Thomas Townshend"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Oct 1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bracon Ash, Norfolk, England",
+        "parts": [
+          "Bracon Ash",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Jun 1591",
+        "year": 1591,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kings Lynn, Norfolk, England",
+        "parts": [
+          "Kings Lynn",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959630"
+      }
+    ],
+    "children": [
+      "I182541959615"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

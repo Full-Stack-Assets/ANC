@@ -1,0 +1,122 @@
+{
+  "id": "I182623680611",
+  "name": {
+    "given": "Edwardi",
+    "surname": "Bampfelde",
+    "suffix": "15th Great-Grandfather",
+    "full": "Edwardi Bampfelde 15th Great-Grandfather"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1501",
+        "year": 1501,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore, Devon, England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 May 1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore, Devon, England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620244",
+          "page": "The National Archives; Kew, Surrey, England; Records of the Prerogative Court of Canterbury, Series PROB 11; Class: PROB 11; Piece: 22"
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Poltimore, East Devon District, Devon, England",
+        "parts": [
+          "Poltimore",
+          "East Devon District",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623680603"
+      }
+    ],
+    "children": [
+      "I182623680593"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516620244",
+      "title": "England & Wales, Prerogative Court of Canterbury Wills, 1384-1858",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810907",
+      "title": "Burke’s Family Records (Indexed)",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

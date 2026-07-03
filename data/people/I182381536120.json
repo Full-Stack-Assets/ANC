@@ -1,0 +1,67 @@
+{
+  "id": "I182381536120",
+  "name": {
+    "given": "Ingeborg",
+    "surname": "Germundsdotter",
+    "suffix": null,
+    "full": "Ingeborg Germundsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Asaryd, Asa (G)",
+        "parts": [
+          "Asaryd",
+          "Asa (G)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Okt 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skärsbäck, Ramkvilla (F)",
+        "parts": [
+          "Skärsbäck",
+          "Ramkvilla (F)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536114"
+      }
+    ],
+    "children": [
+      "I182381536104"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

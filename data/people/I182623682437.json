@@ -1,0 +1,73 @@
+{
+  "id": "I182623682437",
+  "name": {
+    "given": "DA Judith Goodith",
+    "surname": "GILLMAN",
+    "suffix": "Learned, Arrived 1630 from England",
+    "full": "DA Judith Goodith GILLMAN Learned, Arrived 1630 from England"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey, Surrey, , England",
+        "parts": [
+          "Bermondsey",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Lynn",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623682507",
+      "I182623682482"
+    ],
+    "spouses": [
+      {
+        "id": "I182623682443"
+      }
+    ],
+    "children": [
+      "I182623682407"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

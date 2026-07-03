@@ -1,0 +1,69 @@
+{
+  "id": "I182623692044",
+  "name": {
+    "given": "Joane",
+    "surname": "Barnard Whittaker",
+    "suffix": null,
+    "full": "Joane Barnard Whittaker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Epworth, Lincolnshire, England",
+        "parts": [
+          "Epworth",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Feb 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "South Ockendon, Essex, , England",
+        "parts": [
+          "South Ockendon",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623692049"
+      }
+    ],
+    "children": [
+      "I182623691979"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

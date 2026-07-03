@@ -1,0 +1,49 @@
+{
+  "id": "I182623664257",
+  "name": {
+    "given": "Harriet",
+    "surname": "Saunders (Mitchelson)",
+    "suffix": null,
+    "full": "Harriet Saunders (Mitchelson)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "est 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": "EST"
+      },
+      "place": {
+        "raw": "of Inveresk, Midlothianshire, Scotland, Europe",
+        "parts": [
+          "of Inveresk",
+          "Midlothianshire",
+          "Scotland",
+          "Europe"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664262"
+      }
+    ],
+    "children": [
+      "I182623664247"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

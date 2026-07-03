@@ -1,0 +1,115 @@
+{
+  "id": "I182620321206",
+  "name": {
+    "given": "Karin",
+    "surname": "Halvardsdotter",
+    "suffix": null,
+    "full": "Karin Halvardsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1470",
+        "year": 1470,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Starbo, Norrbärke, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Starbo",
+          "Norrbärke",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Starbo, Norrbärke, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Starbo",
+          "Norrbärke",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620321199",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1499",
+            "year": 1499,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Skalmsjö. Anundsjö",
+            "parts": [
+              "Skalmsjö. Anundsjö"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182522976091"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

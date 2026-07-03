@@ -1,0 +1,69 @@
+{
+  "id": "I182197821609",
+  "person": "Claes PIETERSZ",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stolwijk",
+        "parts": [
+          "Stolwijk"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        },
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Stolwijk",
+        "parts": [
+          "Stolwijk"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        },
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

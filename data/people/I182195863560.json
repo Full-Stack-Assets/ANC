@@ -1,0 +1,92 @@
+{
+  "id": "I182195863560",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Benjamin Taber"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Feb 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "possibly NY, NJ or MA",
+        "parts": [
+          "possibly NY",
+          "NJ or MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 june 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester Twp., New Jersey, United States",
+        "parts": [
+          "Gloucester Twp.",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541933833"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863565",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "bef 1723",
+            "year": 1723,
+            "year_end": null,
+            "qualifier": "BEF"
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195863486"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

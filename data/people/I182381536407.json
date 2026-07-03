@@ -1,0 +1,74 @@
+{
+  "id": "I182381536407",
+  "name": {
+    "given": "Judith Mary",
+    "surname": "Bunker",
+    "suffix": null,
+    "full": "Judith Mary Bunker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Sep 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 0",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Sep 1759",
+        "year": 1759,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 57",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182382755290",
+      "I182382755270"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536414"
+      }
+    ],
+    "children": [
+      "I182381536384"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

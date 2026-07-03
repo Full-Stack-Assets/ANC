@@ -1,0 +1,58 @@
+{
+  "id": "I182587607877",
+  "person": "Alexander Forrester",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Edinburgh, Midlothian, , Scotland",
+        "parts": [
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Chalmerstone & Carsbonny",
+        "parts": [
+          "Chalmerstone & Carsbonny"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

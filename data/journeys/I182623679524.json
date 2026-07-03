@@ -1,0 +1,57 @@
+{
+  "id": "I182623679524",
+  "person": "Mercy Hale",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Menotomy, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Menotomy",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Nov 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

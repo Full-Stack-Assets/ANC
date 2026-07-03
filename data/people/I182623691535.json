@@ -1,0 +1,71 @@
+{
+  "id": "I182623691535",
+  "name": {
+    "given": "Mercy \"Mary\"",
+    "surname": "Nelson Greene",
+    "suffix": null,
+    "full": "Mercy \"Mary\" Nelson Greene"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Mar 1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterbury, Washington, Vermont, USA",
+        "parts": [
+          "Waterbury",
+          "Washington",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Oct 1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Irasburg, Orleans, Vermont, USA",
+        "parts": [
+          "Irasburg",
+          "Orleans",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691616"
+      }
+    ],
+    "children": [
+      "I182623691429"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

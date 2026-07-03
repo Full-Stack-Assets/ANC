@@ -1,0 +1,70 @@
+{
+  "id": "I182625980918",
+  "name": {
+    "given": "John",
+    "surname": "Thomson",
+    "suffix": null,
+    "full": "John Thomson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Nov 1633",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980942",
+      "I182625980944"
+    ],
+    "spouses": [
+      {
+        "id": "I182625980922"
+      }
+    ],
+    "children": [
+      "I182625980902"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

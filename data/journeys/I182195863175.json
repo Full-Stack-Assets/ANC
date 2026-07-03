@@ -1,0 +1,90 @@
+{
+  "id": "I182195863175",
+  "person": "Margaret McCue",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Mar 1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Randolph, Massachusetts, USA",
+        "parts": [
+          "Randolph",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 Oct 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Weymouth, Massachusetts, USA",
+        "parts": [
+          "Weymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Aug 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

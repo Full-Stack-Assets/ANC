@@ -1,0 +1,67 @@
+{
+  "id": "I182197770092",
+  "name": {
+    "given": "John",
+    "surname": "LeVatte",
+    "suffix": null,
+    "full": "John LeVatte"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "France",
+        "parts": [
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nova Scotia Cape Breton County, Canada",
+        "parts": [
+          "Nova Scotia Cape Breton County",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197770113"
+      }
+    ],
+    "children": [
+      "I182197769963",
+      "I182587609543"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

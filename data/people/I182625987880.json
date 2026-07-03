@@ -1,0 +1,101 @@
+{
+  "id": "I182625987880",
+  "name": {
+    "given": "Philip",
+    "surname": "Taber",
+    "suffix": "Jr",
+    "full": "Philip Taber Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 February 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barnstable, Massachusetts, USA",
+        "parts": [
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 March 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusetts, USA",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541956554",
+      "I182625987879",
+      "I182625988288"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

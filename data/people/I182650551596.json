@@ -1,0 +1,54 @@
+{
+  "id": "I182650551596",
+  "name": {
+    "given": "Faith",
+    "surname": "Clarke",
+    "suffix": null,
+    "full": "Faith Clarke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551599"
+      }
+    ],
+    "children": [
+      "I182650551584"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

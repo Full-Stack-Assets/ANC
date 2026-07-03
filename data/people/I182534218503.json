@@ -1,0 +1,84 @@
+{
+  "id": "I182534218503",
+  "name": {
+    "given": "Margaret",
+    "surname": "Donahoe",
+    "suffix": null,
+    "full": "Margaret Donahoe"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534218001",
+      "I182534218002"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 10, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 10",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146252",
+      "title": "1850 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

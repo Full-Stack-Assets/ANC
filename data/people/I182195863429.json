@@ -1,0 +1,72 @@
+{
+  "id": "I182195863429",
+  "name": {
+    "given": "Rachel",
+    "surname": "Williams",
+    "suffix": null,
+    "full": "Rachel Williams"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Mar 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester County, New Jersey, USA",
+        "parts": [
+          "Gloucester County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 September 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, Philadelphia County, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia County",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182542052534"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863427"
+      }
+    ],
+    "children": [
+      "I182195862855"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

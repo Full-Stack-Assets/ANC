@@ -1,0 +1,63 @@
+{
+  "id": "I182625981668",
+  "name": {
+    "given": "Mary Ann",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Mary Ann Smith"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1470",
+        "year": 1470,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Deceased",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme on Spaulding Moor, Yorkshire, England",
+        "parts": [
+          "Holme on Spaulding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625981473"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

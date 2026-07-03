@@ -1,0 +1,232 @@
+{
+  "id": "I182197444088",
+  "name": {
+    "given": "Maria Kristina",
+    "surname": "Johansdotter",
+    "suffix": null,
+    "full": "Maria Kristina Johansdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Sverige",
+        "parts": [
+          "Hjo",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S446915028",
+          "page": null
+        },
+        {
+          "source_id": "S447115794",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Oct 1929",
+        "year": 1929,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115786",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "23 Oct 1929",
+        "year": 1929,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Easton, Bristol, Massachusetts, USA",
+        "parts": [
+          "North Easton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620320549",
+      "I182197444920"
+    ],
+    "spouses": [
+      {
+        "id": "I182197443234"
+      }
+    ],
+    "children": [
+      "I182197444403",
+      "I182197442975",
+      "I182197444404"
+    ]
+  },
+  "events": [
+    {
+      "type": "departure",
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skaraborg",
+        "parts": [
+          "Skaraborg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relationship: Hustru",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": null,
+      "place": {
+        "raw": "Amerika",
+        "parts": [
+          "Amerika"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115905",
+      "title": "Massachusetts, Death Records, 1841-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915028",
+      "title": "Sweden, Selected Indexed Household Clerical Surveys, 1880-1893",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115794",
+      "title": "Sweden, Emigrants Registered in Church Books, 1783-1991",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115786",
+      "title": "Massachusetts, Death Index, 1901-1980",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

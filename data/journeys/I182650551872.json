@@ -1,0 +1,57 @@
+{
+  "id": "I182650551872",
+  "person": "Luke Perkins",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Old, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Old",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Apr 1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

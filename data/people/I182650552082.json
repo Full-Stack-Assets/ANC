@@ -1,0 +1,69 @@
+{
+  "id": "I182650552082",
+  "name": {
+    "given": "Alice",
+    "surname": "Delbridge",
+    "suffix": null,
+    "full": "Alice Delbridge"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Aug 1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552091"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552084"
+      }
+    ],
+    "children": [
+      "I182650552065"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

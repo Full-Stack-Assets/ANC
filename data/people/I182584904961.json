@@ -1,0 +1,73 @@
+{
+  "id": "I182584904961",
+  "name": {
+    "given": "Walter",
+    "surname": " Tybott",
+    "suffix": null,
+    "full": "Walter  Tybott"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chepstow Isle of Caledonia, Monmouthshire, Wales",
+        "parts": [
+          "Chepstow Isle of Caledonia",
+          "Monmouthshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 May 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlton Musgrove, Somerset, England, United Kingdom",
+        "parts": [
+          "Charlton Musgrove",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904986",
+      "I182584904983"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904948"
+      }
+    ],
+    "children": [
+      "I182584904932"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

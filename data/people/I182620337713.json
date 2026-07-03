@@ -1,0 +1,67 @@
+{
+  "id": "I182620337713",
+  "name": {
+    "given": "JOSEPH",
+    "surname": "Hibbert",
+    "suffix": null,
+    "full": "JOSEPH Hibbert"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 May 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex County, Massachusetts, USA",
+        "parts": [
+          "Salem",
+          "Essex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 May 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, USA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541965985"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

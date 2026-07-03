@@ -1,0 +1,67 @@
+{
+  "id": "I182650552469",
+  "name": {
+    "given": "Leonard",
+    "surname": "Ashenden",
+    "suffix": null,
+    "full": "Leonard Ashenden"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Kent, England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canterbury, Kent",
+        "parts": [
+          "Canterbury",
+          "Kent"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552450"
+      }
+    ],
+    "children": [
+      "I182650552440"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

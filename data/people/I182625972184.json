@@ -1,0 +1,71 @@
+{
+  "id": "I182625972184",
+  "name": {
+    "given": "Heinrich",
+    "surname": "Siegel",
+    "suffix": null,
+    "full": "Heinrich Siegel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972178"
+      }
+    ],
+    "children": [
+      "I182625972146"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

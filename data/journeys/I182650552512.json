@@ -1,0 +1,57 @@
+{
+  "id": "I182650552512",
+  "person": "John DeCoster",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Jul 1774",
+        "year": 1774,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

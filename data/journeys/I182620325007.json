@@ -1,0 +1,66 @@
+{
+  "id": "I182620325007",
+  "person": "John Mansfield",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "England, England, United Kingdom",
+        "parts": [
+          "England",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 October 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

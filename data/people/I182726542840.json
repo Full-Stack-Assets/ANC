@@ -1,0 +1,81 @@
+{
+  "id": "I182726542840",
+  "name": {
+    "given": "Adelaide Landon",
+    "surname": "Horton",
+    "suffix": null,
+    "full": "Adelaide Landon Horton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 December 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York",
+        "parts": [
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Apr 1953",
+        "year": 1953,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brooklyn, New York, USA",
+        "parts": [
+          "Brooklyn",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726542813"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "I182541965975",
+  "name": {
+    "given": "Lydia",
+    "surname": "Lambert",
+    "suffix": null,
+    "full": "Lydia Lambert"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Bef. 25 Sep 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex Co., MA",
+        "parts": [
+          "Salem",
+          "Essex Co.",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541965982"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541965941"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "I182613025111",
+  "name": {
+    "given": "Reverend John",
+    "surname": "Foxe",
+    "suffix": null,
+    "full": "Reverend John Foxe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Boston Borough, Lincolnshire, England or Lathom St J, Lancashire, England, United Kingdom",
+        "parts": [
+          "Boston",
+          "Boston Borough",
+          "Lincolnshire",
+          "England or Lathom St J",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 April 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cripplegate, London, Middlesex, London, England, United Kingdom",
+        "parts": [
+          "Cripplegate",
+          "London",
+          "Middlesex",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025178"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025085",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1548",
+            "year": 1548,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Rhodes, Pilkington, Lancastershire, England, United Kingdom",
+            "parts": [
+              "Rhodes",
+              "Pilkington",
+              "Lancastershire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613025078"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

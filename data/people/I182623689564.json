@@ -1,0 +1,71 @@
+{
+  "id": "I182623689564",
+  "name": {
+    "given": "John",
+    "surname": "Swann",
+    "suffix": null,
+    "full": "John Swann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tingewick, Buckinghamshire, England",
+        "parts": [
+          "Tingewick",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Aug 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gnosall, Staffordshire, England",
+        "parts": [
+          "Gnosall",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689573"
+    ],
+    "spouses": [
+      {
+        "id": "I182623688986"
+      }
+    ],
+    "children": [
+      "I182623688907"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182623689426",
+  "name": {
+    "given": "John Henry (Sir) (Rev)",
+    "surname": "Pratt",
+    "suffix": null,
+    "full": "John Henry (Sir) (Rev) Pratt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishopworth, Somerset, England",
+        "parts": [
+          "Bishopworth",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Jan 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Winsford, Somerset, England",
+        "parts": [
+          "Winsford",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689492",
+      "I182623689505"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689411"
+      }
+    ],
+    "children": [
+      "I182623689288"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

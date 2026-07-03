@@ -1,0 +1,57 @@
+{
+  "id": "I182623691579",
+  "person": "Fortunatus Howe",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, British Colonial America",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "British Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Mar 1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 Dec 1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

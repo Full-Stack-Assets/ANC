@@ -1,0 +1,46 @@
+{
+  "id": "I182197824893",
+  "name": {
+    "given": "Jaepge",
+    "surname": "JANS",
+    "suffix": null,
+    "full": "Jaepge JANS"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197824862"
+      }
+    ],
+    "children": [
+      "I182197821577"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

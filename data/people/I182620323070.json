@@ -1,0 +1,137 @@
+{
+  "id": "I182620323070",
+  "name": {
+    "given": "Murdoch K.",
+    "surname": "Ross",
+    "suffix": "Sr.",
+    "full": "Murdoch K. Ross Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kilmuir, Isle of Skye, Scotland",
+        "parts": [
+          "Kilmuir",
+          "Isle of Skye",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 October 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Portree, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Portree",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Margaree Valley, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Margaree Valley",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323505",
+      "I182620323502"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323059"
+      }
+    ],
+    "children": [
+      "I182620323151",
+      "I182620323043",
+      "I182620323152"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "15 Oct 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northeast Margaree, Cape Breton, Nova Scotia",
+        "parts": [
+          "Northeast Margaree",
+          "Cape Breton",
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516619946",
+      "title": "Canada, Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

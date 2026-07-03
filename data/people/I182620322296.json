@@ -1,0 +1,91 @@
+{
+  "id": "I182620322296",
+  "name": {
+    "given": "Domitille",
+    "surname": "MUISE",
+    "suffix": null,
+    "full": "Domitille MUISE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jun 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree Harbour, Inverness, NS Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Inverness",
+          "NS Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Nov 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree, Nova Scotia",
+        "parts": [
+          "Margaree",
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322339",
+      "I182620322320"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322316"
+      }
+    ],
+    "children": [
+      "I182620322268"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nova Scotia",
+        "parts": [
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

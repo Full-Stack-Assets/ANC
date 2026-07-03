@@ -1,0 +1,56 @@
+{
+  "id": "I182613026405",
+  "person": "Sir Richard Deane",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Sopley Upon Avon, SW, United Kingdom",
+        "parts": [
+          "Sopley Upon Avon",
+          "SW",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sopley, Hampshire, England, United Kingdom",
+        "parts": [
+          "Sopley",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

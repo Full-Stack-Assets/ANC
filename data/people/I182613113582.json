@@ -1,0 +1,67 @@
+{
+  "id": "I182613113582",
+  "name": {
+    "given": "William",
+    "surname": "Whitinge",
+    "suffix": null,
+    "full": "William Whitinge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton, Cambridge, Cambridgeshire, England",
+        "parts": [
+          "Barton",
+          "Cambridge",
+          "Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Aug 1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Land, Essex, England",
+        "parts": [
+          "Dedham",
+          "Land",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613112716"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

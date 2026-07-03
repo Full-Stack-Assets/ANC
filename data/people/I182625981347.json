@@ -1,0 +1,86 @@
+{
+  "id": "I182625981347",
+  "name": {
+    "given": "Edward",
+    "surname": "Coleman",
+    "suffix": null,
+    "full": "Edward Coleman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Braxted, Essex, England, United Kingdom",
+        "parts": [
+          "Great Braxted",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 October 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Waldingfield, Suffolk, England, United Kingdom",
+        "parts": [
+          "Great Waldingfield",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981349",
+      "I182625981333"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

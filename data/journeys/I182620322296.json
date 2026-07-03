@@ -1,0 +1,54 @@
+{
+  "id": "I182620322296",
+  "person": "Domitille MUISE",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Margaree Harbour, Inverness, NS Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Inverness",
+          "NS Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Jun 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Margaree, Nova Scotia",
+        "parts": [
+          "Margaree",
+          "Nova Scotia"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Nov 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

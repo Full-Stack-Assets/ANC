@@ -1,0 +1,57 @@
+{
+  "id": "I182541964402",
+  "person": "Robert Zachariah Sanford",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, British Colony",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "British Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, British Colony",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "British Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Jan 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

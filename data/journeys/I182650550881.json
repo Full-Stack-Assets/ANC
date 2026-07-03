@@ -1,0 +1,55 @@
+{
+  "id": "I182650550881",
+  "person": "John Richard Eames",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Burton, Somersetshire, England",
+        "parts": [
+          "Burton",
+          "Somersetshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 May 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bruton, Somerset, England",
+        "parts": [
+          "Bruton",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Feb 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

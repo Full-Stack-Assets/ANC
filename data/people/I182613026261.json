@@ -1,0 +1,80 @@
+{
+  "id": "I182613026261",
+  "name": {
+    "given": "Sir Thomas",
+    "surname": "Throckmorton",
+    "suffix": "of Tortworth, Gloucestershire",
+    "full": "Sir Thomas Throckmorton of Tortworth, Gloucestershire"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "corse court, Gloucestershire, England",
+        "parts": [
+          "corse court",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Jan 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoke Gifford, Chipping Sodbury, Gloucestershire, England",
+        "parts": [
+          "Stoke Gifford",
+          "Chipping Sodbury",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026278"
+    ],
+    "spouses": [
+      {
+        "id": "I182613026314"
+      }
+    ],
+    "children": [
+      "I182613026220"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008989",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

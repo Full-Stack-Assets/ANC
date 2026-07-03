@@ -1,0 +1,94 @@
+{
+  "id": "I182620315082",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Bellin",
+    "suffix": null,
+    "full": "Elizabeth Bellin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Feb 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holy Trinity, Chester, Cheshire, England",
+        "parts": [
+          "Holy Trinity",
+          "Chester",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Mar 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Utkinton, Cheshire, England",
+        "parts": [
+          "Utkinton",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315123",
+      "I182620315111"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315088"
+      }
+    ],
+    "children": [
+      "I182620315068"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "1675-03-01",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ",,Cheshire,England",
+        "parts": [
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

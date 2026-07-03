@@ -1,0 +1,50 @@
+{
+  "id": "I182534044155",
+  "name": {
+    "given": "Catharina",
+    "surname": "Robberson-Crist",
+    "suffix": null,
+    "full": "Catharina Robberson-Crist"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Oct 1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Montgomery, Orange, NY",
+        "parts": [
+          "Montgomery",
+          "Orange",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044164"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044158"
+      }
+    ],
+    "children": [
+      "I182534044131"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182613026301",
+  "person": "Sir Ira \"English\" Johnson \"Knight\" 111",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stamford, Kesteven, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Stamford",
+          "Kesteven",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Jul 1455",
+        "year": 1455,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Stamford, Rutland, England",
+        "parts": [
+          "Stamford",
+          "Rutland",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "December 26 1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

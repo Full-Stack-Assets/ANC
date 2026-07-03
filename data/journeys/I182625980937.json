@@ -1,0 +1,54 @@
+{
+  "id": "I182625980937",
+  "person": "Margaret Lyons",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Johnstone, Dumfries-shire, Scotland",
+        "parts": [
+          "Johnstone",
+          "Dumfries-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Scotland, United Kingdom",
+        "parts": [
+          "Scotland",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

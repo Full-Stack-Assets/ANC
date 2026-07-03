@@ -1,0 +1,76 @@
+{
+  "id": "I182197444971",
+  "name": {
+    "given": "Måns",
+    "surname": "Månsson Rånge",
+    "suffix": null,
+    "full": "Måns Månsson Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Okt 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Skaraborg, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Apr 1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Skaraborg, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197444991",
+      "I182197444985"
+    ],
+    "spouses": [
+      {
+        "id": "I182197444935"
+      }
+    ],
+    "children": [
+      "I182197443412"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

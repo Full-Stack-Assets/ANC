@@ -1,0 +1,47 @@
+{
+  "id": "I182381536841",
+  "name": {
+    "given": "William",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "William Swallow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Birstall, St Peter, Yorkshire, England",
+        "parts": [
+          "Birstall",
+          "St Peter",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536843"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381536831"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

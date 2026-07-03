@@ -1,0 +1,94 @@
+{
+  "id": "I182195863177",
+  "person": "Daniel W. Gilligan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Weymouth, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Weymouth",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Sep 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hingham, Massachusetts, USA",
+        "parts": [
+          "Hingham",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Feb 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        },
+        {
+          "source_id": "S447115921",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Weymouth, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Weymouth",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Dec 1919",
+        "year": 1919,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

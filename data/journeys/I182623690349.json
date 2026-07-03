@@ -1,0 +1,57 @@
+{
+  "id": "I182623690349",
+  "person": "Lady Alice Bamford Brandon",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St James Garlickhithe, London, London, England, United Kingdom",
+        "parts": [
+          "St James Garlickhithe",
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 September 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

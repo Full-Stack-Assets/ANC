@@ -1,0 +1,54 @@
+{
+  "id": "I182620334079",
+  "person": "Jane Wynn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Penllech, Carmarthenshire, Wales",
+        "parts": [
+          "Penllech",
+          "Carmarthenshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Anglesey, Wales",
+        "parts": [
+          "Anglesey",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "04 Jan 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

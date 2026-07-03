@@ -1,0 +1,158 @@
+{
+  "id": "I182536728077",
+  "person": "Jane Marie Allerby",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1944",
+        "year": 1944,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008654",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1962"
+        },
+        {
+          "source_id": "S516008652",
+          "page": null
+        },
+        {
+          "source_id": "S446914569",
+          "page": null
+        },
+        {
+          "source_id": "S446914516",
+          "page": "Current Obituary; Publication Place: Brockton, MA, USA; URL: http://www.currentobituary.com/obit/219847"
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1962",
+        "year": 1962,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008654",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1962"
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1986",
+        "year": 1986,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008652",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Brockton",
+        "parts": [
+          "Brockton"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914516",
+          "page": "Current Obituary; Publication Place: Brockton, MA, USA; URL: http://www.currentobituary.com/obit/219847"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

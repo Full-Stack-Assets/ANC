@@ -1,0 +1,74 @@
+{
+  "id": "I182625995941",
+  "name": {
+    "given": "Ernest",
+    "surname": "Dilks*",
+    "suffix": null,
+    "full": "Ernest Dilks*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 April 1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Erial, Camden, New Jersey, USA",
+        "parts": [
+          "Erial",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1969",
+        "year": 1969,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wyncote, Montgomery, Pennsylvania, USA",
+        "parts": [
+          "Wyncote",
+          "Montgomery",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625995978",
+      "I182625995969"
+    ],
+    "spouses": [
+      {
+        "id": "I182541934447"
+      }
+    ],
+    "children": [
+      "I182541934480"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "I182195862882",
+  "person": "Julia Gillian Reagan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        },
+        {
+          "source_id": "S516619414",
+          "page": "Class: HO107; Piece: 1589; Folio: 48; Page: 40; GSU roll: 174826"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woolwich, Woolwich, Kent, England",
+        "parts": [
+          "Woolwich",
+          "Woolwich",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619414",
+          "page": "Class: HO107; Piece: 1589; Folio: 48; Page: 40; GSU roll: 174826"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

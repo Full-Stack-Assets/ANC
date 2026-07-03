@@ -1,0 +1,156 @@
+{
+  "id": "I182195858742",
+  "name": {
+    "given": "William \"Curley The Sailor\"",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "William \"Curley The Sailor\" Swallow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 June 1846",
+        "year": 1846,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Pond Prince Edward Island, Canada",
+        "parts": [
+          "Little Pond Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1903-06-16",
+        "year": 1903,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Pond Prince Edward Island, Canada",
+        "parts": [
+          "Little Pond Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858904",
+      "I182195858905"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858743",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1868-06-20",
+            "year": 1868,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Methodist Church, Pownal, Lot 49, Prince Edward Island, Canada",
+            "parts": [
+              "Methodist Church",
+              "Pownal",
+              "Lot 49",
+              "Prince Edward Island",
+              "Canada"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195858915",
+      "I182195858744",
+      "I182195858597",
+      "I182195858746",
+      "I182195858747",
+      "I182195858748",
+      "I182195858749",
+      "I182195858750",
+      "I182195858751",
+      "I182195858752",
+      "I182197769802",
+      "I182195858754",
+      "I182195858916",
+      "I182195858756",
+      "I182195858758",
+      "I182195858757"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lot 56, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Lot 56",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447151101",
+      "title": "1891 Census of Canada",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

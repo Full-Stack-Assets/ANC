@@ -1,0 +1,55 @@
+{
+  "id": "I182625986829",
+  "person": "Sir Hughonis Roscowe",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Standish, Lancashire, England",
+        "parts": [
+          "Standish",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Jan 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Coppull, Lancashire, England",
+        "parts": [
+          "Coppull",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Jan 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

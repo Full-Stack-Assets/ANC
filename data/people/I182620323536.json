@@ -1,0 +1,70 @@
+{
+  "id": "I182620323536",
+  "name": {
+    "given": "Daniel",
+    "surname": "MacLeod",
+    "suffix": null,
+    "full": "Daniel MacLeod"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isle of Skye, Inverness, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Inverness",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cumberland, Cumberland, North Carolina, United States",
+        "parts": [
+          "Cumberland",
+          "Cumberland",
+          "North Carolina",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323531"
+      }
+    ],
+    "children": [
+      "I182620323420"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

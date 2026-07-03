@@ -1,0 +1,55 @@
+{
+  "id": "I182195862464",
+  "person": "John Schone Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Maple Shade, Burlington, New Jersey, USA",
+        "parts": [
+          "Maple Shade",
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Dec 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Philadelphia, PA",
+        "parts": [
+          "Philadelphia",
+          "PA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Nov 1932",
+        "year": 1932,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

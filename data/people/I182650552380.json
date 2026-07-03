@@ -1,0 +1,161 @@
+{
+  "id": "I182650552380",
+  "name": {
+    "given": "Martha Mercy",
+    "surname": "Lake",
+    "suffix": "♥",
+    "full": "Martha Mercy Lake ♥"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Jul 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Benfleet, Essex, England",
+        "parts": [
+          "North Benfleet",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Apr 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipswich, Essex County, Massachusetts, USA",
+        "parts": [
+          "Ipswich",
+          "Essex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650552372"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth Unitary Authority, Devon, England",
+        "parts": [
+          "Plymouth",
+          "Plymouth Unitary Authority",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "5 April 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipswich, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Ipswich",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "28 December 1692",
+        "year": 1692,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "Boston",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

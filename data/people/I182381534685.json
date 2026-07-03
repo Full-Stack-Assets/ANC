@@ -1,0 +1,70 @@
+{
+  "id": "I182381534685",
+  "name": {
+    "given": "John",
+    "surname": "Pedrick",
+    "suffix": null,
+    "full": "John Pedrick"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 January 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 January 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lower Penns Neck, Salem, New Jersey",
+        "parts": [
+          "Lower Penns Neck",
+          "Salem",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535055",
+      "I182381535051"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534679"
+      }
+    ],
+    "children": [
+      "I182381534660"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

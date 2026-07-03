@@ -1,0 +1,73 @@
+{
+  "id": "I182195863385",
+  "name": {
+    "given": "George Holland",
+    "surname": "Jenkins",
+    "suffix": null,
+    "full": "George Holland Jenkins"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River, Lot 49, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "Lot 49",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Aug 1836",
+        "year": 1836,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greek River, , Prince Edward Island, Canada",
+        "parts": [
+          "Greek River",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538164",
+      "I182381538146"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863352"
+      }
+    ],
+    "children": [
+      "I182195858975"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

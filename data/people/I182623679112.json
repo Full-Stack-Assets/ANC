@@ -1,0 +1,84 @@
+{
+  "id": "I182623679112",
+  "name": {
+    "given": "Jane",
+    "surname": "Sulivan",
+    "suffix": null,
+    "full": "Jane Sulivan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679053",
+      "I182623679034"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Bedford, Bristol, Massachusetts, USA",
+        "parts": [
+          "New Bedford",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146252",
+      "title": "1850 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

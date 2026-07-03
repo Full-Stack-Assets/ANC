@@ -1,0 +1,71 @@
+{
+  "id": "I182381535988",
+  "name": {
+    "given": "Brita",
+    "surname": "Pedersdotter",
+    "suffix": null,
+    "full": "Brita Pedersdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pehr Ols, Torrbo, Norrbärke",
+        "parts": [
+          "Pehr Ols",
+          "Torrbo",
+          "Norrbärke"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 NOV 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huggarbo, Norrbärke(W)",
+        "parts": [
+          "Huggarbo",
+          "Norrbärke(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536004",
+      "I182381535999"
+    ],
+    "spouses": [
+      {
+        "id": "I182197445060"
+      }
+    ],
+    "children": [
+      "I182197444985"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

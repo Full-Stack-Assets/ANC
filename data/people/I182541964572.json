@@ -1,0 +1,71 @@
+{
+  "id": "I182541964572",
+  "name": {
+    "given": "Ann",
+    "surname": "Platar",
+    "suffix": null,
+    "full": "Ann Platar"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pasquotank River, Pasquotank, North Carolina, United States",
+        "parts": [
+          "Pasquotank River",
+          "Pasquotank",
+          "North Carolina",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Symons Creek, Pasquotank, Carolina, British America",
+        "parts": [
+          "Symons Creek",
+          "Pasquotank",
+          "Carolina",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541964570"
+      }
+    ],
+    "children": [
+      "I182541964344"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

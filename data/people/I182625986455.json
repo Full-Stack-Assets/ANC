@@ -1,0 +1,72 @@
+{
+  "id": "I182625986455",
+  "name": {
+    "given": "Thomas",
+    "surname": "Lilley\\ Lyllie",
+    "suffix": null,
+    "full": "Thomas Lilley\\ Lyllie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoke Prior, Worcestershire, EnglandNEW",
+        "parts": [
+          "Stoke Prior",
+          "Worcestershire",
+          "EnglandNEW"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tanworth, Worcestershire, England",
+        "parts": [
+          "Tanworth",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986477",
+      "I182625986487"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986461"
+      }
+    ],
+    "children": [
+      "I182625986426"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

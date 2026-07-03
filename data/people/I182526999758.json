@@ -1,0 +1,94 @@
+{
+  "id": "I182526999758",
+  "name": {
+    "given": "Humphrey",
+    "surname": "Loveys",
+    "suffix": null,
+    "full": "Humphrey Loveys"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Black Torrington, Devon, England, United Kingdom",
+        "parts": [
+          "Black Torrington",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alwington, Devon, England, United Kingdom",
+        "parts": [
+          "Alwington",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999792"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999723"
+      }
+    ],
+    "children": [
+      "I182526999701"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ogbeare, Cornwall",
+        "parts": [
+          "Ogbeare",
+          "Cornwall"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

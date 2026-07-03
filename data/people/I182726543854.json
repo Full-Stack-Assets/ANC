@@ -1,0 +1,120 @@
+{
+  "id": "I182726543854",
+  "name": {
+    "given": "Gladys T",
+    "surname": "Brooker",
+    "suffix": null,
+    "full": "Gladys T Brooker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1519",
+        "year": 1519,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Farnworth",
+        "parts": [
+          "Farnworth"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 October 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stepney, Middlesex, England",
+        "parts": [
+          "Stepney",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987334",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1536",
+            "year": 1536,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Stepney, Middlesex, England",
+            "parts": [
+              "Stepney",
+              "Middlesex",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182726543855",
+      "I182726543856",
+      "I182726543858",
+      "I182726543859",
+      "I182726543860",
+      "I182726543861",
+      "I182726543862",
+      "I182726543863",
+      "I182726543864",
+      "I182726543866"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182650552252",
+  "person": "John Decoster",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Dec 1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Buckfield, Oxford, Maine, USA",
+        "parts": [
+          "Buckfield",
+          "Oxford",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 May 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182650551434",
+  "name": {
+    "given": "Sarah",
+    "surname": "Faunce",
+    "suffix": null,
+    "full": "Sarah Faunce"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Jun 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551437"
+      }
+    ],
+    "children": [
+      "I182650551427"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

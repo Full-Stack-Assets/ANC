@@ -1,0 +1,56 @@
+{
+  "id": "I182623689737",
+  "person": "Philip Cooke",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Earles Calne, Essex, England",
+        "parts": [
+          "Earles Calne",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Apr 1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cambridge, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Cambridge",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Feb 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

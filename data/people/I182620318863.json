@@ -1,0 +1,107 @@
+{
+  "id": "I182620318863",
+  "name": {
+    "given": "Owen",
+    "surname": "Hagan",
+    "suffix": null,
+    "full": "Owen Hagan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 05597 / 01"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620319436",
+      "I182620319437"
+    ],
+    "spouses": [
+      {
+        "id": "I182620318864"
+      }
+    ],
+    "children": [
+      "I182620318474"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "3 Apr 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Louth, Ireland",
+        "parts": [
+          "Louth",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 05597 / 01"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Seafield",
+        "parts": [
+          "Seafield"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 05597 / 01"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

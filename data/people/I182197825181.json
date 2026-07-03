@@ -1,0 +1,64 @@
+{
+  "id": "I182197825181",
+  "name": {
+    "given": "Lijsbeth",
+    "surname": "Ariens",
+    "suffix": null,
+    "full": "Lijsbeth Ariens"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1532",
+        "year": 1532,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stolwijk",
+        "parts": [
+          "Stolwijk"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        },
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197824762"
+      }
+    ],
+    "children": [
+      "I182197821609",
+      "I182381534397"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S476265398",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

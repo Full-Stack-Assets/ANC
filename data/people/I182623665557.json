@@ -1,0 +1,99 @@
+{
+  "id": "I182623665557",
+  "name": {
+    "given": "Alice",
+    "surname": "Tracy",
+    "suffix": null,
+    "full": "Alice Tracy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1445",
+        "year": 1445,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oxfordshire, England",
+        "parts": [
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 May 1506",
+        "year": 1506,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Toddington, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Toddington",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623665558"
+      }
+    ],
+    "children": [
+      "I182623665373",
+      "I182623665606",
+      "I182623665605",
+      "I182623665609",
+      "I182623665607",
+      "I182623665608"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810665",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

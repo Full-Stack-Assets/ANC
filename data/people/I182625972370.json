@@ -1,0 +1,97 @@
+{
+  "id": "I182625972370",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "BORN",
+    "suffix": null,
+    "full": "Anna Maria BORN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Nov 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alsfassen, St Wendel, Saarland, Deutschland",
+        "parts": [
+          "Alsfassen",
+          "St Wendel",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Nov 1789",
+        "year": 1789,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alsfassen, St. Wendel, Saarland, Deutschland",
+        "parts": [
+          "Alsfassen",
+          "St. Wendel",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972392",
+      "I182625972382"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972378"
+      }
+    ],
+    "children": [
+      "I182623663944"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "24 FEB 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alsfassen, St Wendel, Saarland, Deutschland",
+        "parts": [
+          "Alsfassen",
+          "St Wendel",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

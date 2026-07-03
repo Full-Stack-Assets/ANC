@@ -1,0 +1,55 @@
+{
+  "id": "I182623691712",
+  "person": "Mary Wheeler",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Nov 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Dec 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,287 @@
+{
+  "id": "I182541933966",
+  "name": {
+    "given": "Thomas",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Thomas Taber"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Feb 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Massachusetts",
+        "parts": [
+          "Dartmouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508117531",
+          "page": "Historical Society of Pennsylvania; Society of Mayflower Descendants in the Commonwealth of Pennsylvania"
+        },
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Nov 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusetts, United States",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516961293",
+          "page": "Probate Records 1687-1916; Index, 1687-1926 (Bristol County, Massachusetts); Author: Massachusetts. Probate Court (Bristol County)"
+        },
+        {
+          "source_id": "S508117531",
+          "page": "Historical Society of Pennsylvania; Society of Mayflower Descendants in the Commonwealth of Pennsylvania"
+        },
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541956554",
+      "I182625988288"
+    ],
+    "spouses": [
+      {
+        "id": "I182541956633",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1667",
+            "year": 1667,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Martha's Vineyard, Dukes, Massachusetts, USA",
+            "parts": [
+              "Martha's Vineyard",
+              "Dukes",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182541956631",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Abt. 1667",
+            "year": 1667,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Dartmouth, Bristol, Massachusetts, USA",
+            "parts": [
+              "Dartmouth",
+              "Bristol",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508117531",
+              "page": "Historical Society of Pennsylvania; Society of Mayflower Descendants in the Commonwealth of Pennsylvania"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182541956630",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Jan 1667",
+            "year": 1667,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Dartmouth, Bristol, Massachusetts, United States",
+            "parts": [
+              "Dartmouth",
+              "Bristol",
+              "Massachusetts",
+              "United States"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182541933967"
+      },
+      {
+        "id": "I182625987742"
+      }
+    ],
+    "children": [
+      "I182625988133",
+      "I182541933969",
+      "I182541933970",
+      "I182541933971",
+      "I182541933972",
+      "I182541933973",
+      "I182541933974",
+      "I182541933833",
+      "I182541933975",
+      "I182541933976",
+      "I182541933978",
+      "I182541933980",
+      "I182541956762"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "Abt 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusets Bay, New England",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusets Bay",
+          "New England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516961293",
+          "page": "Probate Records 1687-1916; Index, 1687-1926 (Bristol County, Massachusetts); Author: Massachusetts. Probate Court (Bristol County)"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "15 Jun 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516961293",
+          "page": "Probate Records 1687-1916; Index, 1687-1926 (Bristol County, Massachusetts); Author: Massachusetts. Probate Court (Bristol County)"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508117531",
+      "title": "Pennsylvania, U.S., Society of Mayflower Descendants Applications, 1911-1929",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516961293",
+      "title": "Massachusetts, U.S., Wills and Probate Records, 1635-1991",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508112731",
+      "title": "Mayflower Births and Deaths, Vol. 1 and 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

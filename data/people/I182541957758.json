@@ -1,0 +1,122 @@
+{
+  "id": "I182541957758",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Gery (Grey)",
+    "suffix": null,
+    "full": "Elizabeth Gery (Grey)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 JAN 1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bushmeade Abbey, Bedfordshire, England",
+        "parts": [
+          "Bushmeade Abbey",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 APR 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Cambridgeshire, England",
+        "parts": [
+          "Cambridge",
+          "Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987608",
+      "I182625987632",
+      "I182625987637"
+    ],
+    "spouses": [
+      {
+        "id": "I182541957284",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1595",
+            "year": 1595,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Essex, Essex, England, United Kingdom",
+            "parts": [
+              "Essex",
+              "Essex",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541956554"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

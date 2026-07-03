@@ -1,0 +1,56 @@
+{
+  "id": "I182623663946",
+  "person": "Nicolas Lerner Lermen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Urweiler, St Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Jun 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Wendel, Saarland, Germany",
+        "parts": [
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Apr 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

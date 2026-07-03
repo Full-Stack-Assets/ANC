@@ -1,0 +1,74 @@
+{
+  "id": "I182541966151",
+  "name": {
+    "given": "Samuel",
+    "surname": "Pond",
+    "suffix": null,
+    "full": "Samuel Pond"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 May 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Oct 1858",
+        "year": 1858,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Milton",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966171",
+      "I182541966163"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966157"
+      }
+    ],
+    "children": [
+      "I182541965883"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

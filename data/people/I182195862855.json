@@ -1,0 +1,72 @@
+{
+  "id": "I182195862855",
+  "name": {
+    "given": "Peter Thomas",
+    "surname": "Cheeseman",
+    "suffix": "Major",
+    "full": "Peter Thomas Cheeseman Major"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Mar 1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheesman Mill, Camden, New Jersey",
+        "parts": [
+          "Cheesman Mill",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Mar 1856",
+        "year": 1856,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheesman Mill, Camden, New Jersey",
+        "parts": [
+          "Cheesman Mill",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863427",
+      "I182195863429"
+    ],
+    "spouses": [
+      {
+        "id": "I182195862860"
+      }
+    ],
+    "children": [
+      "I182195862717"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

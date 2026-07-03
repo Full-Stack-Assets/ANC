@@ -1,0 +1,66 @@
+{
+  "id": "I182789737100",
+  "person": "Margaret Coffin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Savage Harbour Lot 35, Prince Edward Island, Canada",
+        "parts": [
+          "Savage Harbour Lot 35",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jan 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Vernon River, 1654443, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "1654443",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Jun 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

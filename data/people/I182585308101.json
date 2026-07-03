@@ -1,0 +1,91 @@
+{
+  "id": "I182585308101",
+  "name": {
+    "given": "John 12GGF",
+    "surname": "de Hardy",
+    "suffix": "Lord Mayor of London Sir",
+    "full": "John 12GGF de Hardy Lord Mayor of London Sir"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wetang, East Riding, Yorkshire, England",
+        "parts": [
+          "Wetang",
+          "East Riding",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182585308027"
+      }
+    ],
+    "children": [
+      "I182584905061",
+      "I182620332862",
+      "I182620332860",
+      "I182620332861"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

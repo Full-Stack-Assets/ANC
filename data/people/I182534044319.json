@@ -1,0 +1,60 @@
+{
+  "id": "I182534044319",
+  "name": {
+    "given": "Catharina",
+    "surname": "Jahn",
+    "suffix": null,
+    "full": "Catharina Jahn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jan 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Crimmitschau",
+        "parts": [
+          "Crimmitschau"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044321"
+      }
+    ],
+    "children": [
+      "I182534044307"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

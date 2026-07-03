@@ -1,0 +1,70 @@
+{
+  "id": "I182584905046",
+  "name": {
+    "given": "William Osborn",
+    "surname": "Haskell",
+    "suffix": null,
+    "full": "William Osborn Haskell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, South Somerset District, Somerset, England",
+        "parts": [
+          "Wincanton",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 May 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlton Musgrove, South Somerset District, Somerset, England",
+        "parts": [
+          "Charlton Musgrove",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905053",
+      "I182584905049"
+    ],
+    "spouses": [],
+    "children": [
+      "I182584904926"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

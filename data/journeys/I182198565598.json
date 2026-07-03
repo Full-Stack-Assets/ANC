@@ -1,0 +1,186 @@
+{
+  "id": "I182198565598",
+  "person": "Louise T Prosper",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1916",
+        "year": 1916,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        },
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Brockton Ward 1, Plymouth, Massachusetts; Roll: T625_725; Page: 3B; Enumeration District: 40"
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Brockton Ward 1, Plymouth, Massachusetts; Roll: T625_725; Page: 3B; Enumeration District: 40"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

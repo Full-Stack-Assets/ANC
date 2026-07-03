@@ -1,0 +1,72 @@
+{
+  "id": "I182613112752",
+  "name": {
+    "given": "Sir Francis I Bart Fitzjohn",
+    "surname": "Bernard",
+    "suffix": null,
+    "full": "Sir Francis I Bart Fitzjohn Bernard"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Nov 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington, Northamptonshire, , England",
+        "parts": [
+          "Abington",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Oct 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington, Northamptonshire, , England",
+        "parts": [
+          "Abington",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112788",
+      "I182613112776"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112756"
+      }
+    ],
+    "children": [
+      "I182613112735"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

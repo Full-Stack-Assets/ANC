@@ -1,0 +1,59 @@
+{
+  "id": "I182623679025",
+  "name": {
+    "given": "John",
+    "surname": "Thompson",
+    "suffix": null,
+    "full": "John Thompson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623679020"
+      }
+    ],
+    "children": [
+      "I182623679004"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115905",
+      "title": "Massachusetts, Death Records, 1841-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "I182625972942",
+  "person": "Joanna (Bastaard) van Hoorne",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "?",
+        "parts": [
+          "?"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Tongelre, Eindhoven",
+        "parts": [
+          "Tongelre",
+          "Eindhoven"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 February 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182623694613",
+  "name": {
+    "given": "Richard",
+    "surname": "Cooke",
+    "suffix": null,
+    "full": "Richard Cooke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Sep 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Apr 1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623694579"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

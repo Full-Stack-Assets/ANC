@@ -1,0 +1,70 @@
+{
+  "id": "I182613025624",
+  "person": "Ann Hathorne",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Salem, Essex, Massachusetts",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Salem, Essex, Massachusetts, United States",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

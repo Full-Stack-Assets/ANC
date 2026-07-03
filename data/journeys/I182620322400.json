@@ -1,0 +1,92 @@
+{
+  "id": "I182620322400",
+  "person": "Mabel V Oates",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brighton, Massachusetts",
+        "parts": [
+          "Brighton",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Watertown Town, Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown Town",
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

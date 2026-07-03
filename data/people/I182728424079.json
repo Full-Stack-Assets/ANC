@@ -1,0 +1,195 @@
+{
+  "id": "I182728424079",
+  "name": {
+    "given": "Börta",
+    "surname": "Persdotter",
+    "suffix": null,
+    "full": "Börta Persdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Västra Röra, Långelanda, Myckleby, Orust Östra, Västra Götaland, Sverige",
+        "parts": [
+          "Västra Röra",
+          "Långelanda",
+          "Myckleby",
+          "Orust Östra",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby, Orusts Östra, Göteborgs- och Bohus län, Bohuslän, Sweden",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län",
+          "Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728424094"
+      }
+    ],
+    "children": [
+      "I182728423952"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Västra Röra, Långelanda, Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Västra Röra",
+          "Långelanda",
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Västra Röra, Långelanda, Myckleby, Orust, Bohuslän, Sweden",
+        "parts": [
+          "Västra Röra",
+          "Långelanda",
+          "Myckleby",
+          "Orust",
+          "Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Västra Röra, Långelanda, Myckleby, Orusts Östra, Göteborgs- och Bohus län, Bohuslän, Kingdom of Denmark & Norway",
+        "parts": [
+          "Västra Röra",
+          "Långelanda",
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län",
+          "Bohuslän",
+          "Kingdom of Denmark & Norway"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby, Orusts, Bohuslän, Sweden",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Orusts",
+          "Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

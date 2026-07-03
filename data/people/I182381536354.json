@@ -1,0 +1,113 @@
+{
+  "id": "I182381536354",
+  "name": {
+    "given": "Elisha",
+    "surname": "Coffin",
+    "suffix": "Sr.",
+    "full": "Elisha Coffin Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Mar 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Massachusetts",
+        "parts": [
+          "Nantucket",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Oct 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Savage Harbor, Prince Edward Island",
+        "parts": [
+          "Savage Harbor",
+          "Prince Edward Island"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182528279309",
+      "I182381536384"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536240"
+      }
+    ],
+    "children": [
+      "I182197770003"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 MAR 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket County, Massachusetts",
+        "parts": [
+          "Nantucket",
+          "Nantucket County",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "29 OCT 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. John's Island, Savage Harbour, PE",
+        "parts": [
+          "St. John's Island",
+          "Savage Harbour",
+          "PE"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

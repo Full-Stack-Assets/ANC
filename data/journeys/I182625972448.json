@@ -1,0 +1,59 @@
+{
+  "id": "I182625972448",
+  "person": "Sebastian Riefer (Riffer)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roschberg, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "Roschberg",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St. Wendel-Alsfassen, Landkreis St. Wendel, Saarland, Germany, Saarland, Germany",
+        "parts": [
+          "St. Wendel-Alsfassen",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Feb 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

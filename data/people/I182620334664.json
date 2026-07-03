@@ -1,0 +1,60 @@
+{
+  "id": "I182620334664",
+  "name": {
+    "given": "John",
+    "surname": "Box",
+    "suffix": null,
+    "full": "John Box"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandwich, Kent, England",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Sandwich, Kent, England",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182620334529"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

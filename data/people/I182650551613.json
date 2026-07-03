@@ -1,0 +1,92 @@
+{
+  "id": "I182650551613",
+  "name": {
+    "given": "Walter",
+    "surname": "Hatch",
+    "suffix": null,
+    "full": "Walter Hatch"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Aug 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wye, Kent, England",
+        "parts": [
+          "Wye",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 May 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, Massachusetts",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551618"
+      }
+    ],
+    "children": [
+      "I182650551590"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "24 May 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth County, Massachusetts, USA",
+        "parts": [
+          "Scituate",
+          "Plymouth County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

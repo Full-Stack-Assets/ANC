@@ -1,0 +1,336 @@
+{
+  "id": "I182728424094",
+  "name": {
+    "given": "Börje",
+    "surname": "Olsson",
+    "suffix": null,
+    "full": "Börje Olsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Göteborg & Bohuslän, Sweden",
+        "parts": [
+          "Myckleby",
+          "Göteborg & Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langelanda, Göteborg & Bohuslän, Sweden",
+        "parts": [
+          "Langelanda",
+          "Göteborg & Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728424079"
+      }
+    ],
+    "children": [
+      "I182728423952"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beläteröd, Myckleby, Göteborgs och Bohus län",
+        "parts": [
+          "Beläteröd",
+          "Myckleby",
+          "Göteborgs och Bohus län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beläteröd, Myckleby, Bohuslän, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Beläteröd",
+          "Myckleby",
+          "Bohuslän",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Orusts Östra, Göteborgs- och Bohus län, Bohuslän, Kingdom of Denmark & Norway",
+        "parts": [
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län",
+          "Bohuslän",
+          "Kingdom of Denmark & Norway"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Cirka 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Orusts Östra, Göteborgs- och Bohus län,",
+        "parts": [
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beläteröd, Myckleby (O)",
+        "parts": [
+          "Beläteröd",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Beläteröd, Myckleby, Göteborgs och Bohus län",
+        "parts": [
+          "Beläteröd",
+          "Myckleby",
+          "Göteborgs och Bohus län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby, Orusts Östra, Göteborgs- och Bohus län, Bohuslän, Sweden",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län",
+          "Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby, Orusts Östra, Göteborgs- och Bohus län, Bohuslän, Sweden",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län",
+          "Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Långelanda, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Långelanda",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby, Bohuslän, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Bohuslän",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backa, Myckleby (O)",
+        "parts": [
+          "Backa",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

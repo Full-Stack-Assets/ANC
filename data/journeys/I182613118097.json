@@ -1,0 +1,67 @@
+{
+  "id": "I182613118097",
+  "person": "Elizabeth Bridges",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, USA",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1662",
+        "year": 1662,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wenham, Essex, Massachusetts, USA",
+        "parts": [
+          "Wenham",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 January 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

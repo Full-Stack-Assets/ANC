@@ -1,0 +1,100 @@
+{
+  "id": "I182625971801",
+  "name": {
+    "given": "Thomas",
+    "surname": "Bull",
+    "suffix": null,
+    "full": "Thomas Bull"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 December 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange County, New York, United States of America",
+        "parts": [
+          "Hamptonburgh",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 June 1801",
+        "year": 1801,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Campbell Hall, Orange County, New York, United States of America",
+        "parts": [
+          "Campbell Hall",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600237",
+      "I182567600231"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

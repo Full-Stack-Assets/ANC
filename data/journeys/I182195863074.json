@@ -1,0 +1,56 @@
+{
+  "id": "I182195863074",
+  "person": "Emeline Josephine Reagan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Apr 1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Jul 1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

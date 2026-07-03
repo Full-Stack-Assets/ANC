@@ -1,0 +1,68 @@
+{
+  "id": "I182613025789",
+  "name": {
+    "given": "Margaret",
+    "surname": "Aldham Whipple",
+    "suffix": null,
+    "full": "Margaret Aldham Whipple"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dickleburgh, Norfolk, England",
+        "parts": [
+          "Dickleburgh",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Jan 1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, England",
+        "parts": [
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613025793"
+      }
+    ],
+    "children": [
+      "I182613025723"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

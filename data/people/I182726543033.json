@@ -1,0 +1,85 @@
+{
+  "id": "I182726543033",
+  "name": {
+    "given": "Margaret",
+    "surname": "O'Reilley",
+    "suffix": null,
+    "full": "Margaret O'Reilley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Co, Monabhan, Ireland",
+        "parts": [
+          "Co",
+          "Monabhan",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Nov 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Brunswick, Canada",
+        "parts": [
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726544913",
+      "I182726544896"
+    ],
+    "spouses": [],
+    "children": [
+      "I182195862902"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "I182625982484",
+  "name": {
+    "given": "Mary",
+    "surname": "Carey Stafford",
+    "suffix": null,
+    "full": "Mary Carey Stafford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1499",
+        "year": 1499,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blickling, Broadland District, Norfolk, England",
+        "parts": [
+          "Blickling",
+          "Broadland District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 July 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Hever, Sevenoaks District, Kent, England",
+        "parts": [
+          "Hever",
+          "Sevenoaks District",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982482",
+      "I182625982382"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

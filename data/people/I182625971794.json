@@ -1,0 +1,108 @@
+{
+  "id": "I182625971794",
+  "name": {
+    "given": "Ann",
+    "surname": "Eager",
+    "suffix": null,
+    "full": "Ann Eager"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 November 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange County, New York, United States of America",
+        "parts": [
+          "Hamptonburgh",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 April 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Neelytown, Orange County, New York, United States of America",
+        "parts": [
+          "Neelytown",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Neelytown, Orange County, New York, United States of America",
+        "parts": [
+          "Neelytown",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600237",
+      "I182567600231"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

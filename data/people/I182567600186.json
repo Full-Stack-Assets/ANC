@@ -1,0 +1,109 @@
+{
+  "id": "I182567600186",
+  "name": {
+    "given": "Martinus",
+    "surname": "Goris",
+    "suffix": null,
+    "full": "Martinus Goris"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Weelde, Antwerpen, België",
+        "parts": [
+          "Weelde",
+          "Antwerpen",
+          "België"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weelde, Antwerpen, Belgique",
+        "parts": [
+          "Weelde",
+          "Antwerpen",
+          "Belgique"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587605838"
+    ],
+    "spouses": [
+      {
+        "id": "I182587604493"
+      }
+    ],
+    "children": [
+      "I182587604494",
+      "I182558000906",
+      "I182587604496",
+      "I182587605284",
+      "I182587604497",
+      "I182587604495"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

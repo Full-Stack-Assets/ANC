@@ -1,0 +1,72 @@
+{
+  "id": "I182613025680",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Herne",
+    "suffix": null,
+    "full": "Elizabeth Herne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tibenham, Norfolk, England",
+        "parts": [
+          "Tibenham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Norfolk, England",
+        "parts": [
+          "Hingham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025712",
+      "I182613025723"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025687"
+      }
+    ],
+    "children": [
+      "I182613025644"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

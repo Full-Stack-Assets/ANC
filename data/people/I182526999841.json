@@ -1,0 +1,74 @@
+{
+  "id": "I182526999841",
+  "name": {
+    "given": "David Hawkins",
+    "surname": "Crist",
+    "suffix": null,
+    "full": "David Hawkins Crist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Montgomery, Orange County, New York, USA",
+        "parts": [
+          "Montgomery",
+          "Orange County",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Dec 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lansing, Allamakee County, Iowa, United States of America",
+        "parts": [
+          "Lansing",
+          "Allamakee County",
+          "Iowa",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044131",
+      "I182534044128"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044122"
+      }
+    ],
+    "children": [
+      "I182198562017"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

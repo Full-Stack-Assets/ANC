@@ -1,0 +1,84 @@
+{
+  "id": "I182623665371",
+  "person": "Margaret Pouncefoot",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gloucestershire",
+        "parts": [
+          "Gloucestershire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810665",
+          "page": "Book Title: Tracy Genealogy : ancestors and descendants of Lieutenant Thomas Tracy of Norwich, Connecticut : 16"
+        },
+        {
+          "source_id": "S516810665",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Toddington, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Toddington",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

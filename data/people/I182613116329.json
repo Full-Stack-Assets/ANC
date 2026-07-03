@@ -1,0 +1,67 @@
+{
+  "id": "I182613116329",
+  "name": {
+    "given": "Katherine De Roet",
+    "surname": "Swynford",
+    "suffix": null,
+    "full": "Katherine De Roet Swynford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Nov 1349",
+        "year": 1349,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 May 1403",
+        "year": 1403,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lincoln, Lincolnshire, England",
+        "parts": [
+          "Lincoln",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613116003"
+      }
+    ],
+    "children": [
+      "I182613115567"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

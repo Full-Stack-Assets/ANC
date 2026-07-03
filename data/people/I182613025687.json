@@ -1,0 +1,73 @@
+{
+  "id": "I182613025687",
+  "name": {
+    "given": "John",
+    "surname": "Lawrence, of St. James Park",
+    "suffix": "Jr.",
+    "full": "John Lawrence, of St. James Park Jr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. James, South Elmham, Suffolkshire, England",
+        "parts": [
+          "St. James",
+          "South Elmham",
+          "Suffolkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 January 1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. James, South Elmham, Suffolkshire, England",
+        "parts": [
+          "St. James",
+          "South Elmham",
+          "Suffolkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025697"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025680"
+      }
+    ],
+    "children": [
+      "I182613025644"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I182195862796",
+  "person": "MARY SKINNER",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Glassboro, New Jersey",
+        "parts": [
+          "Glassboro",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "06 Apr 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

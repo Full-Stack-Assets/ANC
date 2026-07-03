@@ -1,0 +1,72 @@
+{
+  "id": "I182613112982",
+  "name": {
+    "given": "Richard",
+    "surname": "Eve",
+    "suffix": null,
+    "full": "Richard Eve"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "White Roding, Essex, England",
+        "parts": [
+          "White Roding",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "White Roding, Essex, England",
+        "parts": [
+          "White Roding",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112989",
+      "I182613112987"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112980"
+      }
+    ],
+    "children": [
+      "I182613112975"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

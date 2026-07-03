@@ -1,0 +1,57 @@
+{
+  "id": "I182534044232",
+  "person": "Margaret Catherine Reid",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Durlach, Stadt Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Durlach",
+          "Stadt Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Waldoboro, Lincoln, Maine, USA",
+        "parts": [
+          "Waldoboro",
+          "Lincoln",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

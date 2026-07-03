@@ -1,0 +1,74 @@
+{
+  "id": "I182613112524",
+  "name": {
+    "given": "Ebenezer",
+    "surname": "Wellington",
+    "suffix": "Jr.",
+    "full": "Ebenezer Wellington Jr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Sep 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lexington, Middlesex, Massachusetts, Colonies",
+        "parts": [
+          "Lexington",
+          "Middlesex",
+          "Massachusetts",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Jan 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcester, Massachusetts, Colonies",
+        "parts": [
+          "Worcester",
+          "Worcester",
+          "Massachusetts",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113511",
+      "I182613113509"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112521"
+      }
+    ],
+    "children": [
+      "I182613112513"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

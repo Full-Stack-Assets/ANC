@@ -1,0 +1,73 @@
+{
+  "id": "I182650552000",
+  "name": {
+    "given": "William",
+    "surname": "James",
+    "suffix": null,
+    "full": "William James"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Jan 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walthamstow, Essex, England",
+        "parts": [
+          "Walthamstow",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newport, Newport, Rhode Island, USA",
+        "parts": [
+          "Newport",
+          "Newport",
+          "Rhode Island",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552162",
+      "I182650552157"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551997"
+      }
+    ],
+    "children": [
+      "I182650551983"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

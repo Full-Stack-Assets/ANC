@@ -1,0 +1,86 @@
+{
+  "id": "I182726544076",
+  "name": {
+    "given": "Ellis",
+    "surname": "Haslam\\Haslome",
+    "suffix": "13X",
+    "full": "Ellis Haslam\\Haslome 13X"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spotland Road Rochdale Lancashire England",
+        "parts": [
+          "Spotland Road Rochdale Lancashire England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haulghe, Bolton, Cheshire, England",
+        "parts": [
+          "Haulghe",
+          "Bolton",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182726543961"
+      }
+    ],
+    "children": [
+      "I182625987264"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182623689923",
+  "name": {
+    "given": "Robert",
+    "surname": "Bates",
+    "suffix": null,
+    "full": "Robert Bates"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 September 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689893"
+      }
+    ],
+    "children": [
+      "I182623689845"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

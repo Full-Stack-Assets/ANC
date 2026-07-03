@@ -1,0 +1,57 @@
+{
+  "id": "I182623679502",
+  "person": "Nathaniel Atwood",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 September 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Apr 1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

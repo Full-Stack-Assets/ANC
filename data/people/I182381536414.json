@@ -1,0 +1,74 @@
+{
+  "id": "I182381536414",
+  "name": {
+    "given": "Bartlett",
+    "surname": "Coffin of Nantucket §",
+    "suffix": null,
+    "full": "Bartlett Coffin of Nantucket §"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Jul 1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536434",
+      "I182381536421"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536407"
+      }
+    ],
+    "children": [
+      "I182381536384"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

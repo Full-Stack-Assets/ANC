@@ -1,0 +1,57 @@
+{
+  "id": "I182620315197",
+  "person": "John Crosby (2nd husband of widow Jane)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Holme On Spalding Moor, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Holme On Spalding Moor",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 January 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holme upon Spalding Moor, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Holme upon Spalding Moor",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Jan 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

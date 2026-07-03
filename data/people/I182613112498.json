@@ -1,0 +1,71 @@
+{
+  "id": "I182613112498",
+  "name": {
+    "given": "Gardner",
+    "surname": "Knight",
+    "suffix": null,
+    "full": "Gardner Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Feb 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Massachusetts",
+        "parts": [
+          "Worcester",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Feb 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmoreland, Cheshire, NH",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "NH"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112514",
+      "I182613112513"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112490"
+      }
+    ],
+    "children": [
+      "I182613023540"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "I182545330233",
+  "name": {
+    "given": "Ann (possible middle name Jane)",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "Ann (possible middle name Jane) Murray"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Sep 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Miramichi, Northumberland, New Brunswick, Canada",
+        "parts": [
+          "Miramichi",
+          "Northumberland",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "06 May 1855",
+        "year": 1855,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tabusintac, Northumberland, New Brunswick, Canada",
+        "parts": [
+          "Tabusintac",
+          "Northumberland",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863338",
+      "I182195863332"
+    ],
+    "spouses": [],
+    "children": [
+      "I182545330540"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

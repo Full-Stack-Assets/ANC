@@ -1,0 +1,75 @@
+{
+  "id": "I182650551974",
+  "name": {
+    "given": "Sarah S.",
+    "surname": "Brightman",
+    "suffix": null,
+    "full": "Sarah S. Brightman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Portsmouth, Newport, Rhode Island, USA",
+        "parts": [
+          "Portsmouth",
+          "Newport",
+          "Rhode Island",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "September 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barker Burying Ground, Middleton, Newport, Rhode Island, USA",
+        "parts": [
+          "Barker Burying Ground",
+          "Middleton",
+          "Newport",
+          "Rhode Island",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551991",
+      "I182650551983"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551978"
+      }
+    ],
+    "children": [
+      "I182650551968"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

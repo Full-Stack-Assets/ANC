@@ -1,0 +1,46 @@
+{
+  "id": "I182381537409",
+  "name": {
+    "given": "Jeane",
+    "surname": "Johnesoun",
+    "suffix": null,
+    "full": "Jeane Johnesoun"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Edinburgh",
+        "parts": [
+          "Edinburgh"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537426"
+      }
+    ],
+    "children": [
+      "I182381537282"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182381537914",
+  "name": {
+    "given": "Owain",
+    "surname": "Maredydd (formerly Owain ap Maredudd)",
+    "suffix": null,
+    "full": "Owain Maredydd (formerly Owain ap Maredudd)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clynnog, Caernarvonshire, Wales",
+        "parts": [
+          "Clynnog",
+          "Caernarvonshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Nov 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Llanwnda, Caernarvonshire, Wales",
+        "parts": [
+          "Llanwnda",
+          "Caernarvonshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538023",
+      "I182381538021"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537896"
+      }
+    ],
+    "children": [
+      "I182381537875"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

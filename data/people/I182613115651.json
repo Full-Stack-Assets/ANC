@@ -1,0 +1,69 @@
+{
+  "id": "I182613115651",
+  "name": {
+    "given": "William",
+    "surname": "FitzHugh",
+    "suffix": null,
+    "full": "William FitzHugh"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1399",
+        "year": 1399,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 October 1452",
+        "year": 1452,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613114501"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

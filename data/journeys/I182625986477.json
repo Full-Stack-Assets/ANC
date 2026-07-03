@@ -1,0 +1,55 @@
+{
+  "id": "I182625986477",
+  "person": "Thomas Bromsgrove Lisle",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bromsgrove, Worcester, England",
+        "parts": [
+          "Bromsgrove",
+          "Worcester",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Jan 1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bredicot, Worcestershire, England",
+        "parts": [
+          "Bredicot",
+          "Worcestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 01 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

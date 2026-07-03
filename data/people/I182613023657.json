@@ -1,0 +1,72 @@
+{
+  "id": "I182613023657",
+  "name": {
+    "given": "Margaret Frowe",
+    "surname": "Deane",
+    "suffix": null,
+    "full": "Margaret Frowe Deane"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Oct 1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Frampton, Lincolnshire, England",
+        "parts": [
+          "Frampton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Apr 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023698",
+      "I182613023690"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023685"
+      }
+    ],
+    "children": [
+      "I182613023613"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "I182623664602",
+  "name": {
+    "given": "Lady Anne\\Ann",
+    "surname": "Freville-Burgoyne-Bosum",
+    "suffix": null,
+    "full": "Lady Anne\\Ann Freville-Burgoyne-Bosum"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Thurlstone, Devonshire, England",
+        "parts": [
+          "Thurlstone",
+          "Devonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664625"
+      }
+    ],
+    "children": [
+      "I182623664640"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Plymouth St and, Devonshire",
+        "parts": [
+          "Plymouth St and",
+          "Devonshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516810622",
+      "title": "1851 United Kingdom Census Sample",
+      "author": "Taylor, Ron, comp.",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182613023513",
+  "person": "Benjamin Ellis Mitchell Jr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 May 1858",
+        "year": 1858,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "BEF 1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

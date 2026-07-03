@@ -1,0 +1,67 @@
+{
+  "id": "I182620320732",
+  "name": {
+    "given": "XV:22144 Gertrud",
+    "surname": "Knutsdotter Svinhufvud af Qvalstad",
+    "suffix": null,
+    "full": "XV:22144 Gertrud Knutsdotter Svinhufvud af Qvalstad"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Höjen, Stora Kopparberg, Örebro, Sverige",
+        "parts": [
+          "Höjen",
+          "Stora Kopparberg",
+          "Örebro",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Främsbacka, Stora Kopparberg, Dalarna, Sweden",
+        "parts": [
+          "Främsbacka",
+          "Stora Kopparberg",
+          "Dalarna",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182522976055"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

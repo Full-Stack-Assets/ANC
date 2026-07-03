@@ -1,0 +1,50 @@
+{
+  "id": "I182625972295",
+  "name": {
+    "given": "Johann Friedrich",
+    "surname": "Germen.",
+    "suffix": null,
+    "full": "Johann Friedrich Germen."
+  },
+  "sex": "M",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Körprich, Nalbach, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Körprich",
+          "Nalbach",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972291"
+      }
+    ],
+    "children": [
+      "I182625972288"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "I182541960235",
+  "name": {
+    "given": "Dorothy",
+    "surname": "Woods Searle",
+    "suffix": null,
+    "full": "Dorothy Woods Searle"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Honiton-on-Otter, Devon, England",
+        "parts": [
+          "Honiton-on-Otter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "U'Cocle Panama",
+        "parts": [
+          "U'Cocle Panama"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541960180"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

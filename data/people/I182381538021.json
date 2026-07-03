@@ -1,0 +1,43 @@
+{
+  "id": "I182381538021",
+  "name": {
+    "given": "Jonet Verch",
+    "surname": "Madog",
+    "suffix": null,
+    "full": "Jonet Verch Madog"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Abererch, Caernarvonshire, , Wales",
+        "parts": [
+          "Abererch",
+          "Caernarvonshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538023"
+      }
+    ],
+    "children": [
+      "I182381537914"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

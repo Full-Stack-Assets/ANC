@@ -1,0 +1,72 @@
+{
+  "id": "I182625981090",
+  "name": {
+    "given": "Thomas",
+    "surname": "Lamberd",
+    "suffix": null,
+    "full": "Thomas Lamberd"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981285",
+      "I182625981296"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981095"
+      }
+    ],
+    "children": [
+      "I182625981084"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

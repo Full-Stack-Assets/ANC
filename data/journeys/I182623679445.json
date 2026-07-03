@@ -1,0 +1,57 @@
+{
+  "id": "I182623679445",
+  "person": "Minea Amelia Foss Bedell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 May 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Morristown, Lamoille, Vermont, USA",
+        "parts": [
+          "Morristown",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Aug 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

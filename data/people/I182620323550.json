@@ -1,0 +1,70 @@
+{
+  "id": "I182620323550",
+  "name": {
+    "given": "John",
+    "surname": "McPherson",
+    "suffix": null,
+    "full": "John McPherson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isle of Skye, Inverness, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Inverness",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Apr 1832",
+        "year": 1832,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lot 62, Belle River, Prince Edward Island, British America",
+        "parts": [
+          "Lot 62",
+          "Belle River",
+          "Prince Edward Island",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323557"
+      }
+    ],
+    "children": [
+      "I182620323439"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

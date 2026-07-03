@@ -1,0 +1,56 @@
+{
+  "id": "I182587607942",
+  "name": {
+    "given": "Katherine",
+    "surname": "Ambrose",
+    "suffix": null,
+    "full": "Katherine Ambrose"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607886",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1616",
+            "year": 1616,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182587607877",
+      "I182587607940",
+      "I182587607941",
+      "I182587607944"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

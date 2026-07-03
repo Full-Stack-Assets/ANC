@@ -1,0 +1,70 @@
+{
+  "id": "I182541959569",
+  "name": {
+    "given": "John",
+    "surname": "(Wyeth) White",
+    "suffix": null,
+    "full": "John (Wyeth) White"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Dec 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shalford, Colchester, Essex, England",
+        "parts": [
+          "Shalford",
+          "Colchester",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Jan 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959564"
+      }
+    ],
+    "children": [
+      "I182541959549"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

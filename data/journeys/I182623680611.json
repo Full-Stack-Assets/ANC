@@ -1,0 +1,88 @@
+{
+  "id": "I182623680611",
+  "person": "Edwardi Bampfelde 15th Great-Grandfather",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Poltimore, Devon, England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1501",
+        "year": 1501,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Poltimore, Devon, England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 May 1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516620244",
+          "page": "The National Archives; Kew, Surrey, England; Records of the Prerogative Court of Canterbury, Series PROB 11; Class: PROB 11; Piece: 22"
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Poltimore, East Devon District, Devon, England",
+        "parts": [
+          "Poltimore",
+          "East Devon District",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

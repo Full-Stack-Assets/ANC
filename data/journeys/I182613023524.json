@@ -1,0 +1,55 @@
+{
+  "id": "I182613023524",
+  "person": "Albert Harris DeCoster",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Buckfield, Oxford, Maine",
+        "parts": [
+          "Buckfield",
+          "Oxford",
+          "Maine"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Jul 1836",
+        "year": 1836,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Avon, Norfolk, Massachusetts",
+        "parts": [
+          "Avon",
+          "Norfolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Jun 1904",
+        "year": 1904,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

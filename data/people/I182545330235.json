@@ -1,0 +1,67 @@
+{
+  "id": "I182545330235",
+  "name": {
+    "given": "John",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "John Murray"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 May 1821",
+        "year": 1821,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Miramichi, Northumberland, New Brunswick",
+        "parts": [
+          "Miramichi",
+          "Northumberland",
+          "New Brunswick"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863338",
+      "I182195863332"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

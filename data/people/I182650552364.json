@@ -1,0 +1,101 @@
+{
+  "id": "I182650552364",
+  "name": {
+    "given": "***Sarah",
+    "surname": "***Gardner",
+    "suffix": null,
+    "full": "***Sarah ***Gardner"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 May 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, U.S.A.",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "U.S.A."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "***20 Mar 1747",
+        "year": 1747,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "***Brookline, Norfolk, Massachusetts, U.S.A.",
+        "parts": [
+          "***Brookline",
+          "Norfolk",
+          "Massachusetts",
+          "U.S.A."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182730797075",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "31 May 1683",
+            "year": 1683,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Roxbury, Suffolk, Massachusetts, USA",
+            "parts": [
+              "Roxbury",
+              "Suffolk",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182650552346"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

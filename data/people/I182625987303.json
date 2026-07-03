@@ -1,0 +1,69 @@
+{
+  "id": "I182625987303",
+  "name": {
+    "given": "Richard",
+    "surname": "Tippinge",
+    "suffix": null,
+    "full": "Richard Tippinge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Darley Dale, Derbyshire, England",
+        "parts": [
+          "Darley Dale",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Darley Dale, Derbyshire, England",
+        "parts": [
+          "Darley Dale",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987306"
+      }
+    ],
+    "children": [
+      "I182625987189"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182625981455",
+  "name": {
+    "given": "Thomas",
+    "surname": "Brigham",
+    "suffix": null,
+    "full": "Thomas Brigham"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1537",
+        "year": 1537,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of Sowerby, Halifax, Yorks, Eng.",
+        "parts": [
+          "of Sowerby",
+          "Halifax",
+          "Yorks",
+          "Eng."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Nov 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981458",
+      "I182625981459"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981439"
+      }
+    ],
+    "children": [
+      "I182620315177"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

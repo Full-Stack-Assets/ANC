@@ -1,0 +1,68 @@
+{
+  "id": "I182541964369",
+  "name": {
+    "given": "Adam",
+    "surname": "Henley",
+    "suffix": null,
+    "full": "Adam Henley"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Mar 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, , England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966026",
+      "I182541966032"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541959128"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

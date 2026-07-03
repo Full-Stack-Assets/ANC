@@ -1,0 +1,64 @@
+{
+  "id": "I182613112513",
+  "name": {
+    "given": "Annabell",
+    "surname": "Willington",
+    "suffix": null,
+    "full": "Annabell Willington"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Nov 1745",
+        "year": 1745,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Feb 1803",
+        "year": 1803,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, New Hampshire",
+        "parts": [
+          "Marlborough",
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112524",
+      "I182613112521"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112514"
+      }
+    ],
+    "children": [
+      "I182613112498"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

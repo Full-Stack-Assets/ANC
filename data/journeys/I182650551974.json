@@ -1,0 +1,58 @@
+{
+  "id": "I182650551974",
+  "person": "Sarah S. Brightman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Portsmouth, Newport, Rhode Island, USA",
+        "parts": [
+          "Portsmouth",
+          "Newport",
+          "Rhode Island",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Barker Burying Ground, Middleton, Newport, Rhode Island, USA",
+        "parts": [
+          "Barker Burying Ground",
+          "Middleton",
+          "Newport",
+          "Rhode Island",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "September 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I182584904986",
+  "person": "William Tybott\\Tibbott",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Montgomeryshire, Wales",
+        "parts": [
+          "Montgomeryshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1517",
+        "year": 1517,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cameley, Somerset, England",
+        "parts": [
+          "Cameley",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

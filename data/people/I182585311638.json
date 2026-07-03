@@ -1,0 +1,87 @@
+{
+  "id": "I182585311638",
+  "name": {
+    "given": "Ellen M",
+    "surname": "Kiernan",
+    "suffix": null,
+    "full": "Ellen M Kiernan"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1884",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Boston",
+        "parts": [
+          "Boston"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182585309921",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "25 Aug 1909",
+            "year": 1909,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            },
+            {
+              "source_id": "S447115921",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

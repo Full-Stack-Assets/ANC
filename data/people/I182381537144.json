@@ -1,0 +1,59 @@
+{
+  "id": "I182381537144",
+  "name": {
+    "given": "James",
+    "surname": "Moir",
+    "suffix": null,
+    "full": "James Moir"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": ", Argyllshire, Scotland",
+        "parts": [
+          "Argyllshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1784",
+        "year": 1784,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537165",
+      "I182381537159"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537141"
+      }
+    ],
+    "children": [
+      "I182381537131"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

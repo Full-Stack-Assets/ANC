@@ -1,0 +1,57 @@
+{
+  "id": "I182623663782",
+  "person": "Caroline Saling",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bayern, Traunstein, Bayern, Germany",
+        "parts": [
+          "Bayern",
+          "Traunstein",
+          "Bayern",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 May 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, USA",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Jul 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

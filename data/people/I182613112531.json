@@ -1,0 +1,141 @@
+{
+  "id": "I182613112531",
+  "name": {
+    "given": "Jonathan",
+    "surname": "Benjamin",
+    "suffix": null,
+    "full": "Jonathan Benjamin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Nov 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 August 1742",
+        "year": 1742,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112544",
+      "I182613112546"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112533"
+      }
+    ],
+    "children": [
+      "I182613112521"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "24 May 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "13 September 1742",
+        "year": 1742,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

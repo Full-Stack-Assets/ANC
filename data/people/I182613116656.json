@@ -1,0 +1,119 @@
+{
+  "id": "I182613116656",
+  "name": {
+    "given": "Phillipa",
+    "surname": "D’Avesnes",
+    "suffix": null,
+    "full": "Phillipa D’Avesnes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Jun 1313",
+        "year": 1313,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Valenciennes, Nord, France",
+        "parts": [
+          "Valenciennes",
+          "Nord",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Aug 1369",
+        "year": 1369,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Windsor, Berkshire, England",
+        "parts": [
+          "Windsor",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Westminster, City of Westminster, Greater London, England",
+        "parts": [
+          "Westminster",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613116531"
+      }
+    ],
+    "children": [
+      "I182613116700",
+      "I182613116709",
+      "I182613116705",
+      "I182613116706",
+      "I182613116003",
+      "I182613116710",
+      "I182613116708",
+      "I182613116703",
+      "I182613116701",
+      "I182613116704",
+      "I182613116707"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

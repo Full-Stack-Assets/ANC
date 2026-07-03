@@ -1,0 +1,77 @@
+{
+  "id": "I182195862717",
+  "person": "Catherine Cheesman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pennsylvania, USA",
+        "parts": [
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Sep 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Glassboro, Gloucester Co., New Jersey",
+        "parts": [
+          "Glassboro",
+          "Gloucester Co.",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Camden, New Jersey, United States",
+        "parts": [
+          "Camden",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Jul 1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182728424028",
+  "person": "Arfvid Persson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Myckleby församling, Wassö, Göteborgs och Bohus län",
+        "parts": [
+          "Myckleby församling",
+          "Wassö",
+          "Göteborgs och Bohus län"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Jul 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

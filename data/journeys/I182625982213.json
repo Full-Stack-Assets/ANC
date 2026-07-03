@@ -1,0 +1,89 @@
+{
+  "id": "I182625982213",
+  "person": "Francis Bryan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cheddington, Aylesbury Vale District, Buckinghamshire, England",
+        "parts": [
+          "Cheddington",
+          "Aylesbury Vale District",
+          "Buckinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 June 1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Clonmel, County Tipperary, Ireland",
+        "parts": [
+          "Clonmel",
+          "County Tipperary",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 February 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Clonmel, County Tipperary, Ireland",
+        "parts": [
+          "Clonmel",
+          "County Tipperary",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

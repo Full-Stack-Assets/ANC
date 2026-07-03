@@ -1,0 +1,69 @@
+{
+  "id": "I182625291885",
+  "person": "Ellen Larkin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Liverpool, Lancashire, England",
+        "parts": [
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        },
+        {
+          "source_id": "S516021907",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Liverpool, Lancashire, England",
+        "parts": [
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

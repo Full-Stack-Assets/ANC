@@ -1,0 +1,46 @@
+{
+  "id": "I182587607076",
+  "name": {
+    "given": "Albert",
+    "surname": "Albertsz",
+    "suffix": null,
+    "full": "Albert Albertsz"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Holland, Noord-Holland, Pays-Bas",
+        "parts": [
+          "North Holland",
+          "Noord-Holland",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607089"
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

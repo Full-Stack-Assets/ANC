@@ -1,0 +1,54 @@
+{
+  "id": "I182650551640",
+  "person": "Mercy Crossman HAYWARD-dunbar",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Apr 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Massachusetts Bay Colony, Britain",
+        "parts": [
+          "Massachusetts Bay Colony",
+          "Britain"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Oct 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

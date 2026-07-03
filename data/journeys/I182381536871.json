@@ -1,0 +1,55 @@
+{
+  "id": "I182381536871",
+  "person": "John MacKenzie",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland.",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 November 1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cable Head West, Prince Edward Island, Canada",
+        "parts": [
+          "Cable Head West",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

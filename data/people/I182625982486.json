@@ -1,0 +1,99 @@
+{
+  "id": "I182625982486",
+  "name": {
+    "given": "Thomas",
+    "surname": "Boleyn",
+    "suffix": null,
+    "full": "Thomas Boleyn"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1499",
+        "year": 1499,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, England",
+        "parts": [
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Kent, England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Penshurst, Sevenoaks District, Kent, England",
+        "parts": [
+          "Penshurst",
+          "Sevenoaks District",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982482",
+      "I182625982382"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

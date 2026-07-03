@@ -1,0 +1,71 @@
+{
+  "id": "I182726546290",
+  "name": {
+    "given": "JOHANNA",
+    "surname": "ANDERSSON",
+    "suffix": null,
+    "full": "JOHANNA ANDERSSON"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Sep 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Of Gard,MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "Of Gard",
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Nov 1802",
+        "year": 1802,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "GRINSBY,MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "GRINSBY",
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319595"
+      }
+    ],
+    "children": [
+      "I182292319579"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

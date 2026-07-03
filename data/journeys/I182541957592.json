@@ -1,0 +1,57 @@
+{
+  "id": "I182541957592",
+  "person": "Hannah Stockdale Stokes",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Waterford, Camden, New Jersey, USA",
+        "parts": [
+          "Waterford",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Apr 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Burlington, Burlington, New Jersey, United States",
+        "parts": [
+          "Burlington",
+          "Burlington",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Apr 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182541959491",
+  "person": "Priscilla Colburn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 Apr 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "03 Feb 1730/31",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

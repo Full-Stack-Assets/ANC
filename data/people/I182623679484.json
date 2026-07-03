@@ -1,0 +1,74 @@
+{
+  "id": "I182623679484",
+  "name": {
+    "given": "William",
+    "surname": "Andrews",
+    "suffix": null,
+    "full": "William Andrews"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Mar 1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Oct 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679513",
+      "I182623679508"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679478"
+      }
+    ],
+    "children": [
+      "I182623679457"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

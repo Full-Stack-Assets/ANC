@@ -1,0 +1,72 @@
+{
+  "id": "I182541966063",
+  "name": {
+    "given": "Jeffery",
+    "surname": "Henley",
+    "suffix": null,
+    "full": "Jeffery Henley"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967139",
+      "I182541967141"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966053"
+      }
+    ],
+    "children": [
+      "I182541966026"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

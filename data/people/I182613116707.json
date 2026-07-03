@@ -1,0 +1,106 @@
+{
+  "id": "I182613116707",
+  "name": {
+    "given": "Prince Thomas Woodstock",
+    "surname": "Plantagenet",
+    "suffix": null,
+    "full": "Prince Thomas Woodstock Plantagenet"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 January 1355",
+        "year": 1355,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodstock, West Oxfordshire District, Oxfordshire, England",
+        "parts": [
+          "Woodstock",
+          "West Oxfordshire District",
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 September 1397",
+        "year": 1397,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nord-Pas-de-Calais, France",
+        "parts": [
+          "Nord-Pas-de-Calais",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Westminster, City of Westminster, Greater London, England",
+        "parts": [
+          "Westminster",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116531",
+      "I182613116656"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

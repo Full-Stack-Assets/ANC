@@ -1,0 +1,112 @@
+{
+  "id": "I182613113080",
+  "name": {
+    "given": "Joanna",
+    "surname": "Brooks",
+    "suffix": null,
+    "full": "Joanna Brooks"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 March 1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 December 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613113069"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1 Dec 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

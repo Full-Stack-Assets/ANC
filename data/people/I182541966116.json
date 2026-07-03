@@ -1,0 +1,70 @@
+{
+  "id": "I182541966116",
+  "name": {
+    "given": "Lady Margarita Ann",
+    "surname": "Wytham",
+    "suffix": null,
+    "full": "Lady Margarita Ann Wytham"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jan 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ledsham, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Ledsham",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England, United Kingdom",
+        "parts": [
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966112"
+      }
+    ],
+    "children": [
+      "I182541966108"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

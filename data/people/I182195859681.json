@@ -1,0 +1,140 @@
+{
+  "id": "I182195859681",
+  "name": {
+    "given": "Augusta M",
+    "surname": "Holst",
+    "suffix": null,
+    "full": "Augusta M Holst"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1859",
+        "year": 1859,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sweden",
+        "parts": [
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 May 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "Boston",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "East Boston, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "East Boston",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195859552",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "15 Nov 1882",
+            "year": 1882,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195859684",
+      "I182195859685",
+      "I182195859682",
+      "I182195859686",
+      "I182195859688"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008680",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

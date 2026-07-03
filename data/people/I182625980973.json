@@ -1,0 +1,42 @@
+{
+  "id": "I182625980973",
+  "name": {
+    "given": "Leonard",
+    "surname": "Thomson",
+    "suffix": null,
+    "full": "Leonard Thomson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1524",
+        "year": 1524,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625980942"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

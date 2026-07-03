@@ -1,0 +1,65 @@
+{
+  "id": "I182585307994",
+  "person": "James Larkin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Canada",
+        "parts": [
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1846",
+        "year": 1846,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Barton, Barton, Washington, Wisconsin, USA",
+        "parts": [
+          "Barton",
+          "Barton",
+          "Washington",
+          "Wisconsin",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "I182541955760",
+  "name": {
+    "given": "James",
+    "surname": "Coffin",
+    "suffix": "Jr",
+    "full": "James Coffin Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Jul 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, USA",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Oct 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, MA, USA",
+        "parts": [
+          "Nantucket",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955827"
+    ],
+    "spouses": [
+      {
+        "id": "I182541960338"
+      }
+    ],
+    "children": [
+      "I182528279309"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

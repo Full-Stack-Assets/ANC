@@ -1,0 +1,126 @@
+{
+  "id": "I182625292273",
+  "name": {
+    "given": "Thomas W",
+    "surname": "Biggs",
+    "suffix": "Sr",
+    "full": "Thomas W Biggs Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southampton, Hampshire, England",
+        "parts": [
+          "Southampton",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "May 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Setauket, Lewis, New York, United States,",
+        "parts": [
+          "Setauket",
+          "Lewis",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516957526",
+          "page": "Genealogical Publishing Co.; Baltimore, MD, USA; Volume Title: New England Marriages Prior to 1700"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970608",
+      "I182730910290",
+      "I182625292278"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970574",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1695",
+            "year": 1695,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "New England, USA",
+            "parts": [
+              "New England",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516957526",
+              "page": "Genealogical Publishing Co.; Baltimore, MD, USA; Volume Title: New England Marriages Prior to 1700"
+            },
+            {
+              "source_id": "S516957526",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182625292269"
+      }
+    ],
+    "children": [
+      "I182625292264"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516957526",
+      "title": "U.S., New England Marriages Prior to 1700",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182650551391",
+  "name": {
+    "given": "Joseph",
+    "surname": "Reynolds",
+    "suffix": "II",
+    "full": "Joseph Reynolds II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Apr 1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Sep 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551634"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551382"
+      }
+    ],
+    "children": [
+      "I182613112479"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182625981402",
+  "name": {
+    "given": "Margery",
+    "surname": "Bleaze MNU",
+    "suffix": null,
+    "full": "Margery Bleaze MNU"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oscroft, Cheshire, England",
+        "parts": [
+          "Oscroft",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "bef 28 Apr 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Oscroft, Cheshire, England - buried Tarvin",
+        "parts": [
+          "Oscroft",
+          "Cheshire",
+          "England - buried Tarvin"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981411"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981397"
+      }
+    ],
+    "children": [
+      "I182625981374"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

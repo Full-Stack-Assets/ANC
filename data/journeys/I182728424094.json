@@ -1,0 +1,55 @@
+{
+  "id": "I182728424094",
+  "person": "Börje Olsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Myckleby, Göteborg & Bohuslän, Sweden",
+        "parts": [
+          "Myckleby",
+          "Göteborg & Bohuslän",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Langelanda, Göteborg & Bohuslän, Sweden",
+        "parts": [
+          "Langelanda",
+          "Göteborg & Bohuslän",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

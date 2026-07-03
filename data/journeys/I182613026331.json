@@ -1,0 +1,91 @@
+{
+  "id": "I182613026331",
+  "person": "Anna Catherine Vaux *",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Great Harrowden, Wellingborough Borough, Northamptonshire, England",
+        "parts": [
+          "Great Harrowden",
+          "Wellingborough Borough",
+          "Northamptonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 August 1488",
+        "year": 1488,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Alcester, Stratford-on-Avon District, Warwickshire, England",
+        "parts": [
+          "Alcester",
+          "Stratford-on-Avon District",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Apr 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Coughton, Stratford-on-Avon District, Warwickshire, England",
+        "parts": [
+          "Coughton",
+          "Stratford-on-Avon District",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

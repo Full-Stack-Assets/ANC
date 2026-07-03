@@ -1,0 +1,55 @@
+{
+  "id": "I182613112710",
+  "person": "John Bernard Hayden Barnard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Salisbury, Wiltshire, England",
+        "parts": [
+          "Salisbury",
+          "Wiltshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Oct 1586 (or 1604)",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Jun 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

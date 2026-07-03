@@ -1,0 +1,109 @@
+{
+  "id": "I182197756380",
+  "name": {
+    "given": "Nancy Ann",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Nancy Ann Albertson"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 April 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chews, Gloucester County, New Jersey, United States of America",
+        "parts": [
+          "Chews",
+          "Gloucester County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 March 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blue Anchor, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Blue Anchor",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Blue Anchor, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Blue Anchor",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182197756381",
+      "I182197756383",
+      "I182197756382"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

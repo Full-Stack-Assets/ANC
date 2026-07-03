@@ -1,0 +1,72 @@
+{
+  "id": "I182650551485",
+  "name": {
+    "given": "Kathes (Katherine)",
+    "surname": "Runham",
+    "suffix": null,
+    "full": "Kathes (Katherine) Runham"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1567 (or 1565)",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Chesterford, Essex, England",
+        "parts": [
+          "Great Chesterford",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Chesterford, Essex, England",
+        "parts": [
+          "Great Chesterford",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551518",
+      "I182650551513"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551482"
+      }
+    ],
+    "children": [
+      "I182650551480"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

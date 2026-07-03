@@ -1,0 +1,251 @@
+{
+  "id": "I182620337704",
+  "name": {
+    "given": "SAMUEL LUNT",
+    "surname": "INGERSOLL",
+    "suffix": null,
+    "full": "SAMUEL LUNT INGERSOLL"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, Colonial Era",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "Colonial Era"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, Colonial Era",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "Colonial Era"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620337728"
+    ],
+    "spouses": [
+      {
+        "id": "I182620337720"
+      }
+    ],
+    "children": [
+      "I182541965971"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falmouth, Barnstable, MA",
+        "parts": [
+          "Falmouth",
+          "Barnstable",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falmouth, Essex Co, MA",
+        "parts": [
+          "Falmouth",
+          "Essex Co",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falmouth, , Maine, USA",
+        "parts": [
+          "Falmouth",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt   1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 Aug 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, Colonial Era",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "Colonial Era"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex Co, MA",
+        "parts": [
+          "Gloucester",
+          "Essex Co",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, , Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

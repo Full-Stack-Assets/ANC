@@ -1,0 +1,72 @@
+{
+  "id": "I182623681825",
+  "name": {
+    "given": "Prince Edmund\\Edmond",
+    "surname": "James, Stewart",
+    "suffix": "Prince of Scotland",
+    "full": "Prince Edmund\\Edmond James, Stewart Prince of Scotland"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Astley, Worcs, England",
+        "parts": [
+          "Astley",
+          "Worcs",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hanley Castle, Worcestershire, England (St Martin's, Worcester, Worcestershire, England--Burial)",
+        "parts": [
+          "Hanley Castle",
+          "Worcestershire",
+          "England (St Martin's",
+          "Worcester",
+          "Worcestershire",
+          "England--Burial)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623681817"
+      }
+    ],
+    "children": [
+      "I182623681607"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

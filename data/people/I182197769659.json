@@ -1,0 +1,72 @@
+{
+  "id": "I182197769659",
+  "name": {
+    "given": "John",
+    "surname": "Macdonald",
+    "suffix": null,
+    "full": "John Macdonald"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Nov 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Main-Ã -Dieu, Nova Scotia, Canada",
+        "parts": [
+          "Main-Ã -Dieu",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Nov 1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Main-Ã -Dieu, Nova Scotia, Canada",
+        "parts": [
+          "Main-Ã -Dieu",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197769975",
+      "I182197769963"
+    ],
+    "spouses": [
+      {
+        "id": "I182197769583"
+      }
+    ],
+    "children": [
+      "I182195858596"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

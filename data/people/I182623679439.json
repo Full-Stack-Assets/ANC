@@ -1,0 +1,146 @@
+{
+  "id": "I182623679439",
+  "name": {
+    "given": "Adelaide Maria",
+    "surname": "Bedell",
+    "suffix": null,
+    "full": "Adelaide Maria Bedell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Nov 1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hyde Park, Lamoille, Vermont, USA",
+        "parts": [
+          "Hyde Park",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Feb 1933",
+        "year": 1933,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rockland, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Rockland",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Fairview Cemetery Scituate, MA",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679447",
+      "I182623679445"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679443"
+      }
+    ],
+    "children": [
+      "I182623679435"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1864",
+        "year": 1864,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont",
+        "parts": [
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1865",
+        "year": 1865,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1863",
+        "year": 1863,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont",
+        "parts": [
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Nov 1863",
+        "year": 1863,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont",
+        "parts": [
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

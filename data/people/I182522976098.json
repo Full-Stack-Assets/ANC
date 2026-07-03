@@ -1,0 +1,164 @@
+{
+  "id": "I182522976098",
+  "name": {
+    "given": "Anne",
+    "surname": "Bowes",
+    "suffix": null,
+    "full": "Anne Bowes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1503",
+        "year": 1503,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 October 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, City of London, Greater London, England",
+        "parts": [
+          "London",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "London, City of London, Greater London, England",
+        "parts": [
+          "London",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620321038"
+    ],
+    "spouses": [
+      {
+        "id": "I182620321002"
+      }
+    ],
+    "children": [
+      "I182522976064"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1499",
+        "year": 1499,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

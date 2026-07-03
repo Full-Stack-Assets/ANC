@@ -1,0 +1,157 @@
+{
+  "id": "I182613118166",
+  "name": {
+    "given": "Dorothy Braye",
+    "surname": "Knollys",
+    "suffix": null,
+    "full": "Dorothy Braye Knollys"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eaton Bray, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Eaton Bray",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Oct 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Botolph Aldgate, London, London, England, United Kingdom",
+        "parts": [
+          "St Botolph Aldgate",
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613118170"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613118158"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eaton Bray, Bedfordshire, England",
+        "parts": [
+          "Eaton Bray",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1524",
+        "year": 1524,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eaton Bray, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Eaton Bray",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "31 Oct 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Minety, Wiltshire, England",
+        "parts": [
+          "Minety",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "31 October 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Minty, Gloucestershire, England, United Kingdom",
+        "parts": [
+          "Minty",
+          "Gloucestershire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

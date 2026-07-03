@@ -1,0 +1,56 @@
+{
+  "id": "I182625972090",
+  "person": "Anna Barbara Heil",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bayern, Traunstein, Bayern, Germany",
+        "parts": [
+          "Bayern",
+          "Traunstein",
+          "Bayern",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Aug 1821",
+        "year": 1821,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fulda,  Noble, Ohio",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Apr 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182650551811",
+  "person": "Nathaniel Reynolds III",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Suffolk, Bay Colony, Massachusetts",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Bay Colony",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Jan 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Oct 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

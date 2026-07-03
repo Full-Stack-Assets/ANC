@@ -1,0 +1,107 @@
+{
+  "id": "I182650551145",
+  "name": {
+    "given": "Mary",
+    "surname": "Tomson",
+    "suffix": null,
+    "full": "Mary Tomson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Plymouth",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 March 1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middleborough, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Middleborough",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Middleborough, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Middleborough",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551123"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

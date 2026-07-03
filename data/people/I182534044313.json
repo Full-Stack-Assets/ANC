@@ -1,0 +1,113 @@
+{
+  "id": "I182534044313",
+  "name": {
+    "given": "Hans Konrad",
+    "surname": "Eichorn",
+    "suffix": null,
+    "full": "Hans Konrad Eichorn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Sept 1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schlachau, Coburg, Bayern, Germany",
+        "parts": [
+          "Schlachau",
+          "Coburg",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 August 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mainz, Rheinland Pfalz, Allemagne",
+        "parts": [
+          "Mainz",
+          "Rheinland Pfalz",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044310"
+      }
+    ],
+    "children": [
+      "I182534044283"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schlachau, Coburg, Bayern, Germany",
+        "parts": [
+          "Schlachau",
+          "Coburg",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "18 Oct 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bavaria, Germany",
+        "parts": [
+          "Bavaria",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

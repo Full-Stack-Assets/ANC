@@ -1,0 +1,84 @@
+{
+  "id": "I182726543868",
+  "name": {
+    "given": "Margaret",
+    "surname": "Woodfall",
+    "suffix": null,
+    "full": "Margaret Woodfall"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bold, Lancashire, , England",
+        "parts": [
+          "Bold",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Unknown",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Enghien, Hainault, Belgium",
+        "parts": [
+          "Enghien",
+          "Hainault",
+          "Belgium"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726543526",
+      "I182726543619"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "I182536728343",
+  "name": {
+    "given": "Rita K.",
+    "surname": "Allerby",
+    "suffix": null,
+    "full": "Rita K. Allerby"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1923",
+        "year": 1923,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516021486",
+          "page": null
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Apr 1999",
+        "year": 1999,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516021486",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113472",
+      "I182613113473"
+    ],
+    "spouses": [
+      {
+        "id": "I182536728340"
+      }
+    ],
+    "children": [
+      "I182536728077",
+      "I182536728539"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head: Wife; Marital Status: Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516021486",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

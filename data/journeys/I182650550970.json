@@ -1,0 +1,55 @@
+{
+  "id": "I182650550970",
+  "person": "Elizabeth",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wiltshire, Wiltshire, England",
+        "parts": [
+          "Wiltshire",
+          "Wiltshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Mar 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ludwell, Wiltshire, England",
+        "parts": [
+          "Ludwell",
+          "Wiltshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "04 Sep 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

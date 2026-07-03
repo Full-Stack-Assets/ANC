@@ -1,0 +1,71 @@
+{
+  "id": "I182623690869",
+  "name": {
+    "given": "John",
+    "surname": " Essex Barber",
+    "suffix": null,
+    "full": "John  Essex Barber"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1488",
+        "year": 1488,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fressingfield, Suffolk, England, United Kingdom",
+        "parts": [
+          "Fressingfield",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fressingfield, Suffolk, England, United Kingdom",
+        "parts": [
+          "Fressingfield",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690864"
+      }
+    ],
+    "children": [
+      "I182623690437"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

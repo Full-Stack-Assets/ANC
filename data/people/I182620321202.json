@@ -1,0 +1,88 @@
+{
+  "id": "I182620321202",
+  "name": {
+    "given": "Mertilia",
+    "surname": "OLOFSSON i LERNBO",
+    "suffix": null,
+    "full": "Mertilia OLOFSSON i LERNBO"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Starbo, Norrbärke, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Starbo",
+          "Norrbärke",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kolviken, Norrbärke, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Kolviken",
+          "Norrbärke",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182522976091",
+      "I182620321201"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

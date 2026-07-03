@@ -1,0 +1,71 @@
+{
+  "id": "I182541967147",
+  "name": {
+    "given": "Margeret",
+    "surname": "Fry",
+    "suffix": null,
+    "full": "Margeret Fry"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967269"
+    ],
+    "spouses": [
+      {
+        "id": "I182541967149"
+      }
+    ],
+    "children": [
+      "I182541967141"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

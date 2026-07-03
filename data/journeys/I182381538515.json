@@ -1,0 +1,54 @@
+{
+  "id": "I182381538515",
+  "person": "Anna Maria Glauner",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Leonberg",
+        "parts": [
+          "Leonberg"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Rutesheim, Böblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "Rutesheim",
+          "Böblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Feb 1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

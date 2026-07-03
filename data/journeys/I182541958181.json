@@ -1,0 +1,54 @@
+{
+  "id": "I182541958181",
+  "person": "Henry Paullin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pilesgrove Twp. Salem,  New Jersey",
+        "parts": [
+          "Pilesgrove Twp. Salem",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 MAY 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pittsgrove, Salem County, New Jersey",
+        "parts": [
+          "Pittsgrove",
+          "Salem County",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Nov 1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

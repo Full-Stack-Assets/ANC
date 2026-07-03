@@ -1,0 +1,91 @@
+{
+  "id": "I182584905455",
+  "name": {
+    "given": "Martha",
+    "surname": "Hodges",
+    "suffix": null,
+    "full": "Martha Hodges"
+  },
+  "sex": null,
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850671",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "13 Jul 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850671",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905428",
+      "I182584905429"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Religion: Anglican",
+      "sources": [
+        {
+          "source_id": "S513850671",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513850671",
+      "title": "Shropshire, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182587607757",
+  "person": "Robert Dalgleish",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Culross, Fife, Scotland",
+        "parts": [
+          "Culross",
+          "Fife",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Mar 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

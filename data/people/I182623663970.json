@@ -1,0 +1,80 @@
+{
+  "id": "I182623663970",
+  "name": {
+    "given": "Johann Valentin",
+    "surname": "Spiegel",
+    "suffix": null,
+    "full": "Johann Valentin Spiegel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Apr 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Altenhof, Fulda, Hesse, Germany",
+        "parts": [
+          "Altenhof",
+          "Fulda",
+          "Hesse",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Jan 1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schmalnau, Fulda, Hessen, Germany",
+        "parts": [
+          "Schmalnau",
+          "Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623663967"
+      }
+    ],
+    "children": [
+      "I182623663842",
+      "I182623664130"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810570",
+      "title": "Hesse, Germany, Deaths, 1851-1958",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

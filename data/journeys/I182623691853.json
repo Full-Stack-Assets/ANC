@@ -1,0 +1,57 @@
+{
+  "id": "I182623691853",
+  "person": "Hester Morse Josselyn\\joslin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 September 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marlboro, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Marlboro",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 April 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

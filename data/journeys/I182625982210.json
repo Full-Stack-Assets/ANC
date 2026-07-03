@@ -1,0 +1,91 @@
+{
+  "id": "I182625982210",
+  "person": "Elizabeth Howard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ashwellthorpe, South Norfolk District, Norfolk, England",
+        "parts": [
+          "Ashwellthorpe",
+          "South Norfolk District",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1445",
+        "year": 1445,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Thetford, Breckland Borough, Norfolk, England",
+        "parts": [
+          "Thetford",
+          "Breckland Borough",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 April 1497",
+        "year": 1497,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Aldgate, City of London, Greater London, England",
+        "parts": [
+          "Aldgate",
+          "City of London",
+          "Greater London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

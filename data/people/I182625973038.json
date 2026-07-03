@@ -1,0 +1,90 @@
+{
+  "id": "I182625973038",
+  "name": {
+    "given": "Christiaan Rijkaard Christiaan",
+    "surname": "Coenen Van Zegenwerp",
+    "suffix": null,
+    "full": "Christiaan Rijkaard Christiaan Coenen Van Zegenwerp"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Akker, Wouw, North Brabant, The Netherlands, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "Akker",
+          "Wouw",
+          "North Brabant",
+          "The Netherlands",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wouw, North Brabant, The Netherlands, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "Wouw",
+          "North Brabant",
+          "The Netherlands",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972925",
+      "I182625973046",
+      "I182625972917"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

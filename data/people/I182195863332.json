@@ -1,0 +1,112 @@
+{
+  "id": "I182195863332",
+  "name": {
+    "given": "Honoria",
+    "surname": "Beatty",
+    "suffix": null,
+    "full": "Honoria Beatty"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Mar 1794",
+        "year": 1794,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mirimachi, Northumberland, New Brunswick, Canada",
+        "parts": [
+          "Mirimachi",
+          "Northumberland",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Brunswick, Canada",
+        "parts": [
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292198",
+      "I182625292197"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863338",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Bet. 1814–1815",
+            "year": 1814,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "New Brunswick, Canada",
+            "parts": [
+              "New Brunswick",
+              "Canada"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182545330234",
+      "I182545330233",
+      "I182545330237",
+      "I182195858962",
+      "I182545330235",
+      "I182625292192"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

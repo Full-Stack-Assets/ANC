@@ -1,0 +1,60 @@
+{
+  "id": "I182623664015",
+  "person": "Valentin SCHEIG (SALING)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hesse, Germany",
+        "parts": [
+          "Hesse",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Stahlberg, Dielkirchen, Bayern, Germany",
+        "parts": [
+          "Stahlberg",
+          "Dielkirchen",
+          "Bayern",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Oct 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810572",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182650551477",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Fuller",
+    "suffix": null,
+    "full": "Elizabeth Fuller"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Redenhall, Harleston, Norfolk, England",
+        "parts": [
+          "Redenhall",
+          "Harleston",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Aug 1633",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wells, Somerset, England",
+        "parts": [
+          "Wells",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551480"
+      }
+    ],
+    "children": [
+      "I182650551472"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

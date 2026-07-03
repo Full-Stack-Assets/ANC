@@ -1,0 +1,81 @@
+{
+  "id": "I182726542953",
+  "name": {
+    "given": "John Florence 'Fleury'",
+    "surname": "Donovan",
+    "suffix": null,
+    "full": "John Florence 'Fleury' Donovan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "County Cork, Ireland",
+        "parts": [
+          "County Cork",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 May 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shediac Bridge New Brunswick, Canada",
+        "parts": [
+          "Shediac Bridge New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182195862902"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

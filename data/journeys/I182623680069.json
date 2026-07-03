@@ -1,0 +1,89 @@
+{
+  "id": "I182623680069",
+  "person": "Abigail Roberts",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Mar 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Nov 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810856",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Northamptonshire, England",
+        "parts": [
+          "Northamptonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Apr 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810856",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182613098449",
+  "name": {
+    "given": "Albert",
+    "surname": "DeCoster",
+    "suffix": null,
+    "full": "Albert DeCoster"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Oct 1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Brookline",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Jun 1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoughton, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Stoughton",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552252",
+      "I182650552243"
+    ],
+    "spouses": [
+      {
+        "id": "I182613098430"
+      }
+    ],
+    "children": [
+      "I182613023524"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

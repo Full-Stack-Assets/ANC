@@ -1,0 +1,71 @@
+{
+  "id": "I182534044257",
+  "name": {
+    "given": "Martin",
+    "surname": "Fell",
+    "suffix": null,
+    "full": "Martin Fell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kesselbrohn, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kesselbrohn",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 March 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kesselbrohn, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kesselbrohn",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044256"
+      }
+    ],
+    "children": [
+      "I182534044245"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

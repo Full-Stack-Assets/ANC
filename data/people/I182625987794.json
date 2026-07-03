@@ -1,0 +1,69 @@
+{
+  "id": "I182625987794",
+  "name": {
+    "given": "Richard",
+    "surname": "Warren",
+    "suffix": null,
+    "full": "Richard Warren"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hertford, Hertfordshire, England",
+        "parts": [
+          "Hertford",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987807"
+      }
+    ],
+    "children": [
+      "I182625987766"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

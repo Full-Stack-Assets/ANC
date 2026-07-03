@@ -1,0 +1,73 @@
+{
+  "id": "I182623690154",
+  "name": {
+    "given": "Anthony William",
+    "surname": "Hilliard",
+    "suffix": "Sir",
+    "full": "Anthony William Hilliard Sir"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arundel, Sussex, England",
+        "parts": [
+          "Arundel",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Oct 1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690357",
+      "I182623690349"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690159"
+      }
+    ],
+    "children": [
+      "I182623690087"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

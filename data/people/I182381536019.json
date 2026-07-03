@@ -1,0 +1,72 @@
+{
+  "id": "I182381536019",
+  "name": {
+    "given": "Hans",
+    "surname": "Jonsson Gröntuv",
+    "suffix": null,
+    "full": "Hans Jonsson Gröntuv"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bommarsbo, Dalarna, Sweden",
+        "parts": [
+          "Bommarsbo",
+          "Dalarna",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "ca 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grangärde, Dalarna, Sverige",
+        "parts": [
+          "Grangärde",
+          "Dalarna",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182522976072",
+      "I182522976064"
+    ],
+    "spouses": [
+      {
+        "id": "I182522975984"
+      }
+    ],
+    "children": [
+      "I182381536014"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "I182625987444",
+  "name": {
+    "given": "Ann",
+    "surname": "Leanord",
+    "suffix": null,
+    "full": "Ann Leanord"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woonton, Herefordshire, England",
+        "parts": [
+          "Woonton",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987451"
+      }
+    ],
+    "children": [
+      "I182625987414"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

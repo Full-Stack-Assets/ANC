@@ -1,0 +1,74 @@
+{
+  "id": "I182623680514",
+  "name": {
+    "given": "Edmund",
+    "surname": "Nutter",
+    "suffix": null,
+    "full": "Edmund Nutter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Macclesfield, Cheshire, England, United Kingdom",
+        "parts": [
+          "Macclesfield",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodkirke Clerke, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Woodkirke Clerke",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681216",
+      "I182623681214"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680509"
+      }
+    ],
+    "children": [
+      "I182623680279"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

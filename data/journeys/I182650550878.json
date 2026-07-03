@@ -1,0 +1,82 @@
+{
+  "id": "I182650550878",
+  "person": "Hannah Adams",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Barton, St, David, Somersetshire, England/Braintree,Norfolk,MA Colony",
+        "parts": [
+          "Barton",
+          "St",
+          "David",
+          "Somersetshire",
+          "England/Braintree",
+          "Norfolk",
+          "MA Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts Colony",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 Jan 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Stockbridge, Massachusetts, USA",
+        "parts": [
+          "Stockbridge",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

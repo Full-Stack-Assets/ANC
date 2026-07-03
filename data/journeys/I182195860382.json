@@ -1,0 +1,101 @@
+{
+  "id": "I182195860382",
+  "person": "Anna Josefina Rånge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hjo Vgt",
+        "parts": [
+          "Hjo Vgt"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Apr 1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Easton, Massachusetts",
+        "parts": [
+          "Easton",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 MAY 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Easton, Massachusetts",
+        "parts": [
+          "Easton",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Aug 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Hjo, Smelen",
+        "parts": [
+          "Hjo",
+          "Smelen"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "departure",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

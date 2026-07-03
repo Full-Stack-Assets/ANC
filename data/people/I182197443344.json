@@ -1,0 +1,185 @@
+{
+  "id": "I182197443344",
+  "name": {
+    "given": "Johannes",
+    "surname": "Magnusson",
+    "suffix": null,
+    "full": "Johannes Magnusson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Sep 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backgården Hadäng farm, Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Backgården Hadäng farm",
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115802",
+          "page": null
+        },
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Jan 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nya Varv, Skaraborg, Sweden",
+        "parts": [
+          "Nya Varv",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115802",
+          "page": null
+        },
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "26 Sep 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alseda församling, Jönköping, Sverige",
+        "parts": [
+          "Alseda församling",
+          "Jönköping",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197443412",
+      "I182197443408"
+    ],
+    "spouses": [
+      {
+        "id": "I182197443388"
+      }
+    ],
+    "children": [
+      "I182197443234"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1755-1852",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115812",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Kibbe",
+        "parts": [
+          "Kibbe"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115802",
+      "title": "Sweden, Indexed Death Records, 1840-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115837",
+      "title": "Jönköping, Sweden, Church Records, 1633-1860",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115812",
+      "title": "Sweden, Church Records, 1451-1943",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

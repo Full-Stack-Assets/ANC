@@ -1,0 +1,232 @@
+{
+  "id": "I182625291737",
+  "name": {
+    "given": "Catherine",
+    "surname": "Burton",
+    "suffix": null,
+    "full": "Catherine Burton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": "Class: RG11; Piece: 3615; Folio: 55; Page: 14; GSU roll: 1341866"
+        },
+        {
+          "source_id": "S513880151",
+          "page": "The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 3758; Folio: 29; Page: 4; GSU roll: 841878"
+        },
+        {
+          "source_id": "S516918987",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Oct 1901",
+        "year": 1901,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool, Lancashire",
+        "parts": [
+          "Liverpool",
+          "Lancashire"
+        ]
+      },
+      "value": null,
+      "note": "unverified",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625291904",
+      "I182726540466"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905624",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "23 Nov 1851",
+            "year": 1851,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Liverpool, Lancashire",
+            "parts": [
+              "Liverpool",
+              "Lancashire"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182789737425"
+      }
+    ],
+    "children": [
+      "I182726540601",
+      "I182625291421",
+      "I182726540467",
+      "I182726540602",
+      "I182625291420",
+      "I182195857640",
+      "I182726540468",
+      "I182625291939",
+      "I182625291885"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Alban, Liverpool, Lancashire, England",
+        "parts": [
+          "St Alban",
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S516918987",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Alban, Lancashire, England",
+        "parts": [
+          "St Alban",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": "The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 3758; Folio: 29; Page: 4; GSU roll: 841878"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool, Lancashire, England",
+        "parts": [
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": "Class: RG11; Piece: 3615; Folio: 55; Page: 14; GSU roll: 1341866"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516021907",
+      "title": "1881 England Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516918987",
+      "title": "1861 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

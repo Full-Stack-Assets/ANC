@@ -1,0 +1,199 @@
+{
+  "id": "I182195858597",
+  "name": {
+    "given": "Sarah Jane",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Sarah Jane Morrow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island",
+        "parts": [
+          "Prince Edward Island"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 June 1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858742",
+      "I182195858743"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858596",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "31 Aug 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Dover, Strafford, New Hampshire",
+            "parts": [
+              "Dover",
+              "Strafford",
+              "New Hampshire"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195858601",
+      "I182195858600",
+      "I182195858327",
+      "I182195858598"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lot 56, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Lot 56",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Daughter",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Wife",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447151101",
+      "title": "1891 Census of Canada",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810486",
+      "title": "Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

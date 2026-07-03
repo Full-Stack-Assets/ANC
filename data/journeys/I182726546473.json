@@ -1,0 +1,56 @@
+{
+  "id": "I182726546473",
+  "person": "Sigrid Olsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "of Myckleby, Goteborg, Swed.",
+        "parts": [
+          "of Myckleby",
+          "Goteborg",
+          "Swed."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grinsby, Myckleby, G-Bhs, Swdn",
+        "parts": [
+          "Grinsby",
+          "Myckleby",
+          "G-Bhs",
+          "Swdn"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Aug 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

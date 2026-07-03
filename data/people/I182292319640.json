@@ -1,0 +1,64 @@
+{
+  "id": "I182292319640",
+  "name": {
+    "given": "Kerstin",
+    "surname": "Rasmusdotter",
+    "suffix": null,
+    "full": "Kerstin Rasmusdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "(Från Kalvhagen, Långelanda (O) vid vigseln.)",
+        "parts": [
+          "(Från Kalvhagen",
+          "Långelanda (O) vid vigseln.)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1742",
+        "year": 1742,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319695",
+      "I182292319690"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319659"
+      }
+    ],
+    "children": [
+      "I182292319628"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

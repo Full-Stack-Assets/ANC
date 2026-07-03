@@ -1,0 +1,53 @@
+{
+  "id": "I182195862805",
+  "person": "Henry M Shone",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New Blacker, Camden, New Jersey",
+        "parts": [
+          "New Blacker",
+          "Camden",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

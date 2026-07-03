@@ -1,0 +1,41 @@
+{
+  "id": "I182625292230",
+  "name": {
+    "given": "William Pattrick",
+    "surname": "Monahan",
+    "suffix": null,
+    "full": "William Pattrick Monahan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625292228"
+      }
+    ],
+    "children": [
+      "I182625292210"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

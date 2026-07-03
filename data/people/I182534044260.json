@@ -1,0 +1,44 @@
+{
+  "id": "I182534044260",
+  "name": {
+    "given": "Bertholdt",
+    "surname": "Geiger",
+    "suffix": null,
+    "full": "Bertholdt Geiger"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "about 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Karlsruhe, Baden, Germany",
+        "parts": [
+          "Karlsruhe",
+          "Baden",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182534044256"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

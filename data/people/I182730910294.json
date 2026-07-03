@@ -1,0 +1,115 @@
+{
+  "id": "I182730910294",
+  "name": {
+    "given": "Sarah",
+    "surname": "Browne",
+    "suffix": null,
+    "full": "Sarah Browne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, London, England, United Kingdom",
+        "parts": [
+          "London",
+          "Middlesex",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jamestown, James, Virginia, USA",
+        "parts": [
+          "Jamestown",
+          "James",
+          "Virginia",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970608",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1619",
+            "year": 1619,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hampshire, Hampshire, England, United Kingdom",
+            "parts": [
+              "Hampshire",
+              "Hampshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

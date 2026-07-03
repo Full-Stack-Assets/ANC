@@ -1,0 +1,165 @@
+{
+  "id": "I182625984824",
+  "name": {
+    "given": "*Captain James",
+    "surname": "Pine\\Pyne",
+    "suffix": "(Immigrant)",
+    "full": "*Captain James Pine\\Pyne (Immigrant)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 June 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": "Source number: 542.000; Source type: Electronic Database; Number of Pages: 1; Submitter Code: DG1"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Oct 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Nassau, New York, Colonial America",
+        "parts": [
+          "Hempstead",
+          "Nassau",
+          "New York",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984931",
+      "I182625984928"
+    ],
+    "spouses": [
+      {
+        "id": "I182625984903",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1652",
+            "year": 1652,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hempstead, Livingston, New York, Colonial America",
+            "parts": [
+              "Hempstead",
+              "Livingston",
+              "New York",
+              "Colonial America"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516008989",
+              "page": "Source number: 542.000; Source type: Electronic Database; Number of Pages: 1; Submitter Code: DG1"
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625984985",
+      "I182625984976",
+      "I182625984987",
+      "I182625984988",
+      "I182625984979",
+      "I182625984986",
+      "I182625984981",
+      "I182625984983",
+      "I182625984982",
+      "I182625984978",
+      "I182625984984",
+      "I182620321916"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 June 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, USA",
+        "parts": [
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516008989",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

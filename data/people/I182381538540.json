@@ -1,0 +1,70 @@
+{
+  "id": "I182381538540",
+  "name": {
+    "given": "Johann",
+    "surname": "Heinrick Henckell",
+    "suffix": null,
+    "full": "Johann Heinrick Henckell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Treysa, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Treysa",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 Mar 1742",
+        "year": 1742,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kupferzell, Württemberg, Germany",
+        "parts": [
+          "Kupferzell",
+          "Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538534"
+      }
+    ],
+    "children": [
+      "I182381538192"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

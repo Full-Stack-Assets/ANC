@@ -1,0 +1,50 @@
+{
+  "id": "I182625984544",
+  "name": {
+    "given": "Ellinor",
+    "surname": "Bewick",
+    "suffix": null,
+    "full": "Ellinor Bewick"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 September 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newcastle Upon Tyne, 624, Northumberland, England, United Kingdom",
+        "parts": [
+          "Newcastle Upon Tyne",
+          "624",
+          "Northumberland",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625984536"
+      }
+    ],
+    "children": [
+      "I182620314998"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

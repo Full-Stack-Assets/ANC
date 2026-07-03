@@ -1,0 +1,58 @@
+{
+  "id": "I182197445221",
+  "name": {
+    "given": "Mans",
+    "surname": "Mansson",
+    "suffix": null,
+    "full": "Mans Mansson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Aug 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ", Jumkil, Uppsala, Sweden",
+        "parts": [
+          "Jumkil",
+          "Uppsala",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197444991",
+      "I182197444985"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115815",
+      "title": "Sweden, Select Baptisms, 1611-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

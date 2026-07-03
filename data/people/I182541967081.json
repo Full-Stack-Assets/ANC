@@ -1,0 +1,92 @@
+{
+  "id": "I182541967081",
+  "name": {
+    "given": "Joane",
+    "surname": "Marche",
+    "suffix": null,
+    "full": "Joane Marche"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 December 1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rattery, South Hams District, Devon, England",
+        "parts": [
+          "Rattery",
+          "South Hams District",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 May 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sherford, South Hams District, Devon, England",
+        "parts": [
+          "Sherford",
+          "South Hams District",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967093",
+      "I182541967097"
+    ],
+    "spouses": [
+      {
+        "id": "I182541967071"
+      }
+    ],
+    "children": [
+      "I182541964176"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

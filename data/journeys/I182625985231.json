@@ -1,0 +1,58 @@
+{
+  "id": "I182625985231",
+  "person": "Thomas Williams Sr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Nov 1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Apr 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516620476",
+          "page": "Extracted Church of England Parish Records; Title: Various publications of parish and probate records"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

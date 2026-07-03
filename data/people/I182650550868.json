@@ -1,0 +1,70 @@
+{
+  "id": "I182650550868",
+  "name": {
+    "given": "John Nathaniel Herman Vandenburg",
+    "surname": " Hayward Ames",
+    "suffix": "Jr Mayflower Descendant Alden Mullins",
+    "full": "John Nathaniel Herman Vandenburg  Hayward Ames Jr Mayflower Descendant Alden Mullins"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Mar 1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Mar 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "West Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550876",
+      "I182650550878"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650550847"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

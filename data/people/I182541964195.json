@@ -1,0 +1,69 @@
+{
+  "id": "I182541964195",
+  "name": {
+    "given": "Winifred 10GGM",
+    "surname": "Pierce Holland",
+    "suffix": null,
+    "full": "Winifred 10GGM Pierce Holland"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1581-1",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorking, Surrey, England",
+        "parts": [
+          "Dorking",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1602 at age 21",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorking, Surrey, England",
+        "parts": [
+          "Dorking",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541964200"
+      }
+    ],
+    "children": [
+      "I182541964104"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

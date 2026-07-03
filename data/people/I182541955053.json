@@ -1,0 +1,374 @@
+{
+  "id": "I182541955053",
+  "name": {
+    "given": "Bridget",
+    "surname": "Butler",
+    "suffix": null,
+    "full": "Bridget Butler"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Limerick, St John's, Limerick city, Limerick, Ireland",
+        "parts": [
+          "Limerick",
+          "St John's",
+          "Limerick city",
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S513850791",
+          "page": "State Archives NSW; Kingswood, New South Wales; Gaol Description and Entrance Books, 1818-1930; Series: 2514; Item: 4/6434; Roll: 852"
+        },
+        {
+          "source_id": "S513850796",
+          "page": null
+        },
+        {
+          "source_id": "S513850792",
+          "page": null
+        },
+        {
+          "source_id": "S506435674",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Oct 1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Limerick Work House, Limerick, Ireland",
+        "parts": [
+          "Limerick Work House",
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S513850796",
+          "page": null
+        },
+        {
+          "source_id": "S513850792",
+          "page": null
+        },
+        {
+          "source_id": "S513850777",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620317391",
+      "I182620317364"
+    ],
+    "spouses": [
+      {
+        "id": "I182620317328",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "May 1828",
+            "year": 1828,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ireland, Ireland",
+            "parts": [
+              "Ireland",
+              "Ireland"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S506435674",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195862910"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Dublin, Ireland",
+        "parts": [
+          "Dublin",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850791",
+          "page": "State Archives NSW; Kingswood, New South Wales; Gaol Description and Entrance Books, 1818-1930; Series: 2514; Item: 4/6434; Roll: 852"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "3 Jan 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Limerick, Ireland",
+        "parts": [
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Adare, Adare, Limerick, Ireland",
+        "parts": [
+          "Adare",
+          "Adare",
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850804",
+          "page": "Education in Ireland: Reports from Commissioners 1801 -1826 Vol. 121; Year Range: 1801 - 1826"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Australia",
+        "parts": [
+          "Australia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850791",
+          "page": "State Archives NSW; Kingswood, New South Wales; Gaol Description and Entrance Books, 1818-1930; Series: 2514; Item: 4/6434; Roll: 852"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Australia",
+        "parts": [
+          "Australia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850791",
+          "page": "State Archives NSW; Kingswood, New South Wales; Gaol Description and Entrance Books, 1818-1930; Series: 2514; Item: 4/6434; Roll: 852"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "16 Oct 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sydney, New South Wales, Australia",
+        "parts": [
+          "Sydney",
+          "New South Wales",
+          "Australia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850791",
+          "page": "State Archives NSW; Kingswood, New South Wales; Gaol Description and Entrance Books, 1818-1930; Series: 2514; Item: 4/6434; Roll: 852"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "20 Aug 1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sydney, New South Wales, Australia",
+        "parts": [
+          "Sydney",
+          "New South Wales",
+          "Australia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850791",
+          "page": "State Archives NSW; Kingswood, New South Wales; Gaol Description and Entrance Books, 1818-1930; Series: 2514; Item: 4/6434; Roll: 852"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Marital Status: Single",
+      "sources": [
+        {
+          "source_id": "S513850792",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S513850791",
+      "title": "New South Wales, Australia, Gaol Description and Entrance Books, 1818-1930",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850796",
+      "title": "Ireland, Civil Registration Deaths Index, 1864-1958",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850792",
+      "title": "Ireland, Select Deaths, 1864-1870",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513850777",
+      "title": "Web: Ireland, Calendar of Wills and Administrations, 1858-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850804",
+      "title": "Ireland, School Masters and Mistresses, 1826",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

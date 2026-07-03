@@ -1,0 +1,72 @@
+{
+  "id": "I182587603018",
+  "name": {
+    "given": "Richard",
+    "surname": "Gray",
+    "suffix": null,
+    "full": "Richard Gray"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt January 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Stansted Mountfichet, Essex, England",
+        "parts": [
+          "Stansted Mountfichet",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Feb 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Gloucester, New Jersey, United States",
+        "parts": [
+          "Newton",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984648"
+    ],
+    "spouses": [
+      {
+        "id": "I182587602979"
+      }
+    ],
+    "children": [
+      "I182541957577"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

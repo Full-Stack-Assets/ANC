@@ -1,0 +1,67 @@
+{
+  "id": "I182613116157",
+  "name": {
+    "given": "Constance Of castille",
+    "surname": null,
+    "suffix": null,
+    "full": "Constance Of castille"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1354",
+        "year": 1354,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spain",
+        "parts": [
+          "Spain"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Mar 1394",
+        "year": 1394,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Leicester, Leicestershire, England",
+        "parts": [
+          "Leicester",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613116003"
+      }
+    ],
+    "children": [
+      "I182613116196"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

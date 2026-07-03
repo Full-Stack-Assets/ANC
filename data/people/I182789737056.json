@@ -1,0 +1,58 @@
+{
+  "id": "I182789737056",
+  "name": {
+    "given": "Lottie M",
+    "surname": "Baker",
+    "suffix": null,
+    "full": "Lottie M Baker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Dec 1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789737027"
+    ],
+    "spouses": [],
+    "children": [
+      "I182789737065"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182195863352",
+  "name": {
+    "given": "Maragaret",
+    "surname": "Acorn Eachorn",
+    "suffix": null,
+    "full": "Maragaret Acorn Eachorn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Nov 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River, Lot 50, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "Lot 50",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Oct 1866",
+        "year": 1866,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mt Albion, Lot 48, Prince Edward Island, Canada",
+        "parts": [
+          "Mt Albion",
+          "Lot 48",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537717",
+      "I182381537712"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863385"
+      }
+    ],
+    "children": [
+      "I182195858975"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

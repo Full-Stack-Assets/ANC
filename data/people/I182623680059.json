@@ -1,0 +1,69 @@
+{
+  "id": "I182623680059",
+  "name": {
+    "given": "Col John Albert",
+    "surname": "EVANS",
+    "suffix": null,
+    "full": "Col John Albert EVANS"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolstanton, Staffordshire, England, United Kingdom",
+        "parts": [
+          "Wolstanton",
+          "Staffordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 September 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Treverigg, Llantrisant, Glamorganshire, Wales",
+        "parts": [
+          "Treverigg",
+          "Llantrisant",
+          "Glamorganshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623688750"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623679965"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

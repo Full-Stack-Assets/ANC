@@ -1,0 +1,57 @@
+{
+  "id": "I182197729555",
+  "person": "Thomas Cheeseman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kingston-Upon-Thames, Royal Borough of Kingston upon Thames, Greater London, England",
+        "parts": [
+          "Kingston-Upon-Thames",
+          "Royal Borough of Kingston upon Thames",
+          "Greater London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Long Island City, Queens, New York, United States",
+        "parts": [
+          "Long Island City",
+          "Queens",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182625972178",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Boellinger*",
+    "suffix": null,
+    "full": "Anna Maria Boellinger*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Mai 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Jan 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972199",
+      "I182625972197"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972184"
+      }
+    ],
+    "children": [
+      "I182625972146"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

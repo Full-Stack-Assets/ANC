@@ -1,0 +1,51 @@
+{
+  "id": "I182534044307",
+  "name": {
+    "given": "Hanß Jerg",
+    "surname": "Schneider",
+    "suffix": null,
+    "full": "Hanß Jerg Schneider"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Mar 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langenreinsdorf, Crimmitschau, Deutschland",
+        "parts": [
+          "Langenreinsdorf",
+          "Crimmitschau",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044321",
+      "I182534044319"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044305"
+      }
+    ],
+    "children": [
+      "I182534044279"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

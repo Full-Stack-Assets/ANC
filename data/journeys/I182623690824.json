@@ -1,0 +1,55 @@
+{
+  "id": "I182623690824",
+  "person": "Elizabeth de Clare",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bardsey, Yorkshire, England",
+        "parts": [
+          "Bardsey",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1503",
+        "year": 1503,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bardsey, Yorkshire, England",
+        "parts": [
+          "Bardsey",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182623686921",
+  "name": {
+    "given": "Juliana",
+    "surname": "Tichborne",
+    "suffix": null,
+    "full": "Juliana Tichborne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1531",
+        "year": 1531,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Odiam, Southampton, England",
+        "parts": [
+          "Odiam",
+          "Southampton",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686945",
+      "I182623686942"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686929"
+      }
+    ],
+    "children": [
+      "I182623682515"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

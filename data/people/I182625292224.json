@@ -1,0 +1,64 @@
+{
+  "id": "I182625292224",
+  "name": {
+    "given": "Charles",
+    "surname": "MacDonald",
+    "suffix": null,
+    "full": "Charles MacDonald"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southampton, Hampshire, England",
+        "parts": [
+          "Southampton",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Barony, Lanarkshire, Scotland",
+        "parts": [
+          "Barony",
+          "Lanarkshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625292221"
+      }
+    ],
+    "children": [
+      "I182625292202"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

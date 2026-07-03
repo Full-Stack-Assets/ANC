@@ -1,0 +1,73 @@
+{
+  "id": "I182620314901",
+  "name": {
+    "given": "Catharine",
+    "surname": "Crosby",
+    "suffix": "L6CK-F3J *",
+    "full": "Catharine Crosby L6CK-F3J *"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Dec 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Moore Hall, Runcorn, Bucklow Hill, Cheshire, England",
+        "parts": [
+          "Moore Hall",
+          "Runcorn",
+          "Bucklow Hill",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Piece 1035: Quarterly Meeting of Cheshire and Staffordshire: Cheshire (1631-1799",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Pennsylvania Colony",
+        "parts": [
+          "Chester",
+          "Pennsylvania Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315063",
+      "I182620315068"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314885"
+      }
+    ],
+    "children": [
+      "I182197756701"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

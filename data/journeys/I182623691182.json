@@ -1,0 +1,59 @@
+{
+  "id": "I182623691182",
+  "person": "Nathaniel Young",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Yarmouth, Barnstable, Massachusetts Bay, British Colonial Am, Massachusetts, USA",
+        "parts": [
+          "Yarmouth",
+          "Barnstable",
+          "Massachusetts Bay",
+          "British Colonial Am",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "April 1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Eastham, Barnstable County, Massachusetts, United States of America",
+        "parts": [
+          "Eastham",
+          "Barnstable County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 April 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

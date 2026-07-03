@@ -1,0 +1,71 @@
+{
+  "id": "I182625970922",
+  "name": {
+    "given": "Sir Hugh",
+    "surname": "Worthington",
+    "suffix": "Sr.",
+    "full": "Sir Hugh Worthington Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1508",
+        "year": 1508,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmslow, Cheshire, England",
+        "parts": [
+          "Wilmslow",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Oct 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmslow, Cheshire, England",
+        "parts": [
+          "Wilmslow",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970924"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970910"
+      }
+    ],
+    "children": [
+      "I182625970885"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

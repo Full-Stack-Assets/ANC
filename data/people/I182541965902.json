@@ -1,0 +1,94 @@
+{
+  "id": "I182541965902",
+  "name": {
+    "given": "Louisa or Lois",
+    "surname": "Ingersoll Hibbard",
+    "suffix": null,
+    "full": "Louisa or Lois Ingersoll Hibbard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 June 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, MA, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "MA",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marblehead, Essex, MA, Massachusetts, USA",
+        "parts": [
+          "Marblehead",
+          "Essex",
+          "MA",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541965971",
+      "I182541965969"
+    ],
+    "spouses": [
+      {
+        "id": "I182541965901"
+      }
+    ],
+    "children": [
+      "I182541965892"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "I182623690357",
+  "person": "Sir Nicholas Hilliard, High Sheriff For Exeter and DE",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Exeter, City of Exeter, Devon, England, United Kingdom",
+        "parts": [
+          "Exeter",
+          "City of Exeter",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Martin-in-the-Fields, Westminster Knightsbridge, London, London, England, United Kingdom",
+        "parts": [
+          "St Martin-in-the-Fields",
+          "Westminster Knightsbridge",
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 January 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,138 @@
+{
+  "id": "I182198585382",
+  "person": "Rosa Prospus",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S447116012",
+          "page": null
+        },
+        {
+          "source_id": "S508119875",
+          "page": null
+        },
+        {
+          "source_id": "S446914946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Las Vegas, Clark, Nevada, USA",
+        "parts": [
+          "Las Vegas",
+          "Clark",
+          "Nevada",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Apr 1999",
+        "year": 1999,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508119875",
+          "page": null
+        },
+        {
+          "source_id": "S446914946",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

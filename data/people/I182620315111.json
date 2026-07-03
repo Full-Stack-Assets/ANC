@@ -1,0 +1,70 @@
+{
+  "id": "I182620315111",
+  "name": {
+    "given": "Margaret",
+    "surname": "Howle",
+    "suffix": null,
+    "full": "Margaret Howle"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Cheshire, England",
+        "parts": [
+          "Chester",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 29 May 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holy Trinity, Chester, Cheshire, England",
+        "parts": [
+          "Holy Trinity",
+          "Chester",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620315123"
+      }
+    ],
+    "children": [
+      "I182620315082"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

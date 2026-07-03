@@ -1,0 +1,85 @@
+{
+  "id": "I182726545366",
+  "name": {
+    "given": "William",
+    "surname": "Denison",
+    "suffix": null,
+    "full": "William Denison"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1542",
+        "year": 1542,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Thorley, Hampshire, England, United Kingdom",
+        "parts": [
+          "Thorley",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 December 1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishop's Stortford, Hertfordshire, England, United Kingdom",
+        "parts": [
+          "Bishop's Stortford",
+          "Hertfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548795"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

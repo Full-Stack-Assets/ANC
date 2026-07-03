@@ -1,0 +1,100 @@
+{
+  "id": "I182613113473",
+  "person": "Florida F Fortier",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marlborough",
+        "parts": [
+          "Marlborough"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        },
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marlborough, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Sep 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Marlborough Ward 3, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough Ward 3",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182625987208",
+  "name": {
+    "given": "William  Thomas",
+    "surname": "Barker alias Coverall",
+    "suffix": null,
+    "full": "William  Thomas Barker alias Coverall"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1508",
+        "year": 1508,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Claverley, Shropshire, England",
+        "parts": [
+          "Claverley",
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 OCT 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Claverly, Shropshire, England",
+        "parts": [
+          "Claverly",
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987235"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625987153"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "I182623666028",
+  "name": {
+    "given": "Paul",
+    "surname": "Tracy",
+    "suffix": null,
+    "full": "Paul Tracy"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, England",
+        "parts": [
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 March 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, England",
+        "parts": [
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Stanway, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Stanway",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623665559"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

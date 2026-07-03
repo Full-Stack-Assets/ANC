@@ -1,0 +1,72 @@
+{
+  "id": "I182381538347",
+  "name": {
+    "given": "William",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "William Murray"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 May 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gleingierhead, Eskdale, Scotland",
+        "parts": [
+          "Gleingierhead",
+          "Eskdale",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1789",
+        "year": 1789,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gleingierhead, Eskdale, Scotland",
+        "parts": [
+          "Gleingierhead",
+          "Eskdale",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538417",
+      "I182381538407"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538339"
+      }
+    ],
+    "children": [
+      "I182381538268"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

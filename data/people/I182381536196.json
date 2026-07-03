@@ -1,0 +1,71 @@
+{
+  "id": "I182381536196",
+  "name": {
+    "given": "Catharine",
+    "surname": "Bowen",
+    "suffix": null,
+    "full": "Catharine Bowen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent, England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "February 1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rotherhithe, Surrey, England",
+        "parts": [
+          "Rotherhithe",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536223",
+      "I182381536215"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536206"
+      }
+    ],
+    "children": [
+      "I182381536180"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

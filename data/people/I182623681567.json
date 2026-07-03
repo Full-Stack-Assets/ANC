@@ -1,0 +1,71 @@
+{
+  "id": "I182623681567",
+  "name": {
+    "given": "Sir Knight John Thomas",
+    "surname": "Roberts, 1st Baronet Roberts of Glassenbury",
+    "suffix": null,
+    "full": "Sir Knight John Thomas Roberts, 1st Baronet Roberts of Glassenbury"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "02 Feb 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassenbury, Kent, England",
+        "parts": [
+          "Glassenbury",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Feb 1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassenbury, Kent, England",
+        "parts": [
+          "Glassenbury",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681856"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681574"
+      }
+    ],
+    "children": [
+      "I182623681530"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

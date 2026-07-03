@@ -1,0 +1,56 @@
+{
+  "id": "I182625972378",
+  "person": "Wendelin Riefer Riffer",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Alsfassen, St Wendel, Saarland, Germany",
+        "parts": [
+          "Alsfassen",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Jan 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Wendel, Saarland, Germany",
+        "parts": [
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Jun 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

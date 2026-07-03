@@ -1,0 +1,109 @@
+{
+  "id": "I182613114836",
+  "name": {
+    "given": "Richard",
+    "surname": "Neville",
+    "suffix": null,
+    "full": "Richard Neville"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 November 1428",
+        "year": 1428,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norwich, City of Norwich, Norfolk, England",
+        "parts": [
+          "Norwich",
+          "City of Norwich",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 April 1471",
+        "year": 1471,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barnet, London Borough of Barnet, Greater London, England",
+        "parts": [
+          "Barnet",
+          "London Borough of Barnet",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Bisham, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Bisham",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613114768",
+      "I182613114791",
+      "I182613114837"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

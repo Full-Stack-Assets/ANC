@@ -1,0 +1,52 @@
+{
+  "id": "I182694740040",
+  "name": {
+    "given": "Shelby E.",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Shelby E. Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Dec 1995",
+        "year": 1995,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Weymouth",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195856777",
+      "I182195856807"
+    ],
+    "spouses": [
+      {
+        "id": "I182694750810"
+      }
+    ],
+    "children": [
+      "I182694750794"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

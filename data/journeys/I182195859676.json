@@ -1,0 +1,56 @@
+{
+  "id": "I182195859676",
+  "person": "Alice Madeline Holst",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hyde Park, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Hyde Park",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Jan 1904",
+        "year": 1904,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Franklin, Massachusetts, USA",
+        "parts": [
+          "Franklin",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "06 Jun 1980",
+        "year": 1980,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

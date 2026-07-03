@@ -1,0 +1,74 @@
+{
+  "id": "I182623690040",
+  "name": {
+    "given": "Elizabeth Greenland Yellings",
+    "surname": "Ballentine",
+    "suffix": null,
+    "full": "Elizabeth Greenland Yellings Ballentine"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Mar 1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Jun 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690107",
+      "I182623690103"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690069"
+      }
+    ],
+    "children": [
+      "I182623689856"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

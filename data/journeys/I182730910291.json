@@ -1,0 +1,67 @@
+{
+  "id": "I182730910291",
+  "person": "John The Immigrant Biggs",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Southampton, Hampshire, England, United Kingdom",
+        "parts": [
+          "Southampton",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 January 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Elizabeth River, Norfolk County, Virginia, USA",
+        "parts": [
+          "Elizabeth River",
+          "Norfolk County",
+          "Virginia",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Mar 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

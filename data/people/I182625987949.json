@@ -1,0 +1,144 @@
+{
+  "id": "I182625987949",
+  "name": {
+    "given": "Nicholas",
+    "surname": "Tabor",
+    "suffix": null,
+    "full": "Nicholas Tabor"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Essex, Essex, England, United Kingdom",
+        "parts": [
+          "Essex",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fryerning, Brentwood Borough, Essex, England",
+        "parts": [
+          "Fryerning",
+          "Brentwood Borough",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Fryerning, Brentwood Borough, Essex, England",
+        "parts": [
+          "Fryerning",
+          "Brentwood Borough",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987948",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1569",
+            "year": 1569,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Essex, Essex, England, United Kingdom",
+            "parts": [
+              "Essex",
+              "Essex",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541957284"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

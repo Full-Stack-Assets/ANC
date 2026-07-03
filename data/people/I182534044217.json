@@ -1,0 +1,66 @@
+{
+  "id": "I182534044217",
+  "name": {
+    "given": "Lucy Lucia",
+    "surname": "Hale",
+    "suffix": null,
+    "full": "Lucy Lucia Hale"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Dec 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tyringham, Massachusetts",
+        "parts": [
+          "Tyringham",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Lansing Almakee, Iowa, USA",
+        "parts": [
+          "Lansing Almakee",
+          "Iowa",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541958590",
+      "I182541958626"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044209"
+      }
+    ],
+    "children": [
+      "I182534044122"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

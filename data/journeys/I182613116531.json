@@ -1,0 +1,91 @@
+{
+  "id": "I182613116531",
+  "person": "Edward Edward III III",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Windsor, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Windsor",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 November 1312",
+        "year": 1312,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Richmond, London Borough of Richmond upon Thames, Greater London, England",
+        "parts": [
+          "Richmond",
+          "London Borough of Richmond upon Thames",
+          "Greater London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 June 1377",
+        "year": 1377,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Westminster, City of Westminster, Greater London, England",
+        "parts": [
+          "Westminster",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

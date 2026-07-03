@@ -1,0 +1,65 @@
+{
+  "id": "I182625972146",
+  "name": {
+    "given": "Susanna Catharina",
+    "surname": "Siegel",
+    "suffix": null,
+    "full": "Susanna Catharina Siegel"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Dec 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Jun 1803",
+        "year": 1803,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972184",
+      "I182625972178"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972150"
+      }
+    ],
+    "children": [
+      "I182625972115"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

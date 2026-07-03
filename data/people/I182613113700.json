@@ -1,0 +1,71 @@
+{
+  "id": "I182613113700",
+  "name": {
+    "given": "Geoffrey",
+    "surname": "Harper",
+    "suffix": "Sr.",
+    "full": "Geoffrey Harper Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grason, Lincoln, Lincolnshire, England",
+        "parts": [
+          "Grason",
+          "Lincoln",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lincolnshire, England",
+        "parts": [
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113726"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113693"
+      }
+    ],
+    "children": [
+      "I182613113677"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

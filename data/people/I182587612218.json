@@ -1,0 +1,122 @@
+{
+  "id": "I182587612218",
+  "name": {
+    "given": "John J",
+    "surname": "Reagan",
+    "suffix": null,
+    "full": "John J Reagan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541936018",
+      "I182584906729"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 2, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 2",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 2, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 2",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Edge Trimmer; Marital Status: Single; Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

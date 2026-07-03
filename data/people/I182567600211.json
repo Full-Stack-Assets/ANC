@@ -1,0 +1,136 @@
+{
+  "id": "I182567600211",
+  "name": {
+    "given": "Margaret",
+    "surname": "Bull",
+    "suffix": null,
+    "full": "Margaret Bull"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 May 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange County, New York, United States of America",
+        "parts": [
+          "Hamptonburgh",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 June 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blooming Grove, Orange, New York, United States",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Craigville, Orange County, New York, United States of America",
+        "parts": [
+          "Craigville",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600237",
+      "I182567600231"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600222"
+      }
+    ],
+    "children": [
+      "I182534044137"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "29 Jun 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, New York, USA",
+        "parts": [
+          "Goshen",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

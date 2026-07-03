@@ -1,0 +1,58 @@
+{
+  "id": "I182381534551",
+  "person": "Joseph Elwell Pedrick",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Upper Penns Neck, Salem, New Jersey, USA",
+        "parts": [
+          "Upper Penns Neck",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Apr 1834",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Jefferson Hospital, Philadelphia, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Jefferson Hospital",
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Jul 1913",
+        "year": 1913,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

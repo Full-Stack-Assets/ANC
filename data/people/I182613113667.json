@@ -1,0 +1,66 @@
+{
+  "id": "I182613113667",
+  "name": {
+    "given": null,
+    "surname": "Simcotts",
+    "suffix": null,
+    "full": "Simcotts"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Kirton, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613023874"
+      }
+    ],
+    "children": [
+      "I182613023864"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I182625972118",
+  "person": "Maria Barbara Sachs",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Evangelisch, Metterzimmern, Neckarkreis, Wuerttemberg",
+        "parts": [
+          "Evangelisch",
+          "Metterzimmern",
+          "Neckarkreis",
+          "Wuerttemberg"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Oct 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "GERMANY",
+        "parts": [
+          "GERMANY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Dec 1808",
+        "year": 1808,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

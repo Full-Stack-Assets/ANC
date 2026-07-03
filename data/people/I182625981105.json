@@ -1,0 +1,72 @@
+{
+  "id": "I182625981105",
+  "name": {
+    "given": "Robert",
+    "surname": "Standards Austen",
+    "suffix": null,
+    "full": "Robert Standards Austen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 April 1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 August 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Tunbridge Wells Borough, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Tunbridge Wells Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625995881"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981118"
+      }
+    ],
+    "children": [
+      "I182625981087"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

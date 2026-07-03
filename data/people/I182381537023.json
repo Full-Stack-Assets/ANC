@@ -1,0 +1,72 @@
+{
+  "id": "I182381537023",
+  "name": {
+    "given": "Isobell",
+    "surname": "Anderson",
+    "suffix": null,
+    "full": "Isobell Anderson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Feb 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kinloss, Morayshire, Scotland",
+        "parts": [
+          "Kinloss",
+          "Morayshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Mar 1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fraserburgh, Aberdeenshire, Scotland",
+        "parts": [
+          "Fraserburgh",
+          "Aberdeenshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537046",
+      "I182381537041"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537029"
+      }
+    ],
+    "children": [
+      "I182381537010"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

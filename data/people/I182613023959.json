@@ -1,0 +1,120 @@
+{
+  "id": "I182613023959",
+  "name": {
+    "given": "Thomas",
+    "surname": "Smythe",
+    "suffix": null,
+    "full": "Thomas Smythe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, England",
+        "parts": [
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024027",
+      "I182613023976"
+    ],
+    "spouses": [
+      {
+        "id": "I182613024028",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 June 1578",
+            "year": 1578,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "St Mary'S, Litchfield, Stafford, Staffordshire, England, United Kingdom",
+            "parts": [
+              "St Mary'S",
+              "Litchfield",
+              "Stafford",
+              "Staffordshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613023943"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

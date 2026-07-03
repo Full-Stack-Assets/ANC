@@ -1,0 +1,56 @@
+{
+  "id": "I182381537740",
+  "person": "Captain Frederick Williams",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "West Farms, County of Westchester, British Colony of New York",
+        "parts": [
+          "West Farms",
+          "County of Westchester",
+          "British Colony of New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Feb 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Williams Homestead, Lot 22, Digby County, Nova Scotia",
+        "parts": [
+          "Williams Homestead",
+          "Lot 22",
+          "Digby County",
+          "Nova Scotia"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 February 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

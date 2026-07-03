@@ -1,0 +1,55 @@
+{
+  "id": "I182613025652",
+  "person": "William Hathorne II. English. 12th GGF",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bray, Berkshire, England",
+        "parts": [
+          "Bray",
+          "Berkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Binfield, Berkshire, England",
+        "parts": [
+          "Binfield",
+          "Berkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Oct 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

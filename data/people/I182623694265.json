@@ -1,0 +1,69 @@
+{
+  "id": "I182623694265",
+  "name": {
+    "given": "Joane",
+    "surname": "Cullpeck",
+    "suffix": null,
+    "full": "Joane Cullpeck"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shaftsbury, Dorset, England",
+        "parts": [
+          "Shaftsbury",
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Magdalen Lave, Essex, England",
+        "parts": [
+          "Magdalen Lave",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694268"
+      }
+    ],
+    "children": [
+      "I182623692019"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

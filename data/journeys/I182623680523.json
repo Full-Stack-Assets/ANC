@@ -1,0 +1,57 @@
+{
+  "id": "I182623680523",
+  "person": "Sir Thomas  Fulford, Knight",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Great Fulford, Dunsford, Devon, England",
+        "parts": [
+          "Great Fulford",
+          "Dunsford",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dunsford, Teignbridge District, Devon, England",
+        "parts": [
+          "Dunsford",
+          "Teignbridge District",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 July 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

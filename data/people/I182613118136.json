@@ -1,0 +1,87 @@
+{
+  "id": "I182613118136",
+  "name": {
+    "given": "Edmund",
+    "surname": "Bridges",
+    "suffix": null,
+    "full": "Edmund Bridges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 October 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 January 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, USA",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613117891",
+      "I182613118133",
+      "I182613024604"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

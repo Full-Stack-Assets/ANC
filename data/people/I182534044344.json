@@ -1,0 +1,119 @@
+{
+  "id": "I182534044344",
+  "name": {
+    "given": "Hans Jerg",
+    "surname": "Reid",
+    "suffix": null,
+    "full": "Hans Jerg Reid"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 November 1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182547590416",
+      "I182547590406"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044343"
+      }
+    ],
+    "children": [
+      "I182534044241"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

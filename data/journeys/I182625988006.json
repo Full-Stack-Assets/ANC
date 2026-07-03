@@ -1,0 +1,57 @@
+{
+  "id": "I182625988006",
+  "person": "Robert Graye I",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marblehead, Essex, Massachusetts, British Colonial America",
+        "parts": [
+          "Marblehead",
+          "Essex",
+          "Massachusetts",
+          "British Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Andover, Essex, Massachusetts, United States",
+        "parts": [
+          "Andover",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "05 Sep 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

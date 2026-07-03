@@ -1,0 +1,71 @@
+{
+  "id": "I182623689531",
+  "name": {
+    "given": "Sir Robert \"the Smythe\"",
+    "surname": "de Pease",
+    "suffix": null,
+    "full": "Sir Robert \"the Smythe\" de Pease"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1485",
+        "year": 1485,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Baddow, Chelmsford Borough, Essex, England",
+        "parts": [
+          "Great Baddow",
+          "Chelmsford Borough",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Apr 1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Baddow, Chelmsford Borough, Essex, England",
+        "parts": [
+          "Great Baddow",
+          "Chelmsford Borough",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689515"
+      }
+    ],
+    "children": [
+      "I182623689505"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182620323557",
+  "name": {
+    "given": "Annie Matheson",
+    "surname": "McPherson",
+    "suffix": null,
+    "full": "Annie Matheson McPherson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "07 Mar 1759",
+        "year": 1759,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Uig Parish, Isle of Skye, Scotland",
+        "parts": [
+          "Uig Parish",
+          "Isle of Skye",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Oct 28, 1849",
+        "year": 1849,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Belle Creek, Queens, Prince Edward Island, Canada",
+        "parts": [
+          "Belle Creek",
+          "Queens",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323550"
+      }
+    ],
+    "children": [
+      "I182620323439"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

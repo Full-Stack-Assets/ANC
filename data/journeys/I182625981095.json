@@ -1,0 +1,55 @@
+{
+  "id": "I182625981095",
+  "person": "Johanna Barker",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aft. 07 Feb 1639/40",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,181 @@
+{
+  "id": "I182195862238",
+  "name": {
+    "given": "Anna",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Anna Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1926",
+        "year": 1926,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862116",
+      "I182195862117"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Daughter",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Daughter",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1998-1999",
+        "year": 1998,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115598",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915226",
+      "title": "1940 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115598",
+      "title": "U.S. Phone and Address Directories, 1993-2002",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

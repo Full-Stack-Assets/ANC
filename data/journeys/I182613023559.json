@@ -1,0 +1,56 @@
+{
+  "id": "I182613023559",
+  "person": "Rachel Thayer",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Randolph, Norfolk County, Massachusetts, USA",
+        "parts": [
+          "Randolph",
+          "Norfolk County",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Jul 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Jun 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

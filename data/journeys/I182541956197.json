@@ -1,0 +1,112 @@
+{
+  "id": "I182541956197",
+  "person": "Abigail Severans",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rattlesden, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Rattlesden",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 June 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ipswich, Massachusetts Bay, British Colonial America, Suffolk, England, United Kingdom",
+        "parts": [
+          "Ipswich",
+          "Massachusetts Bay",
+          "British Colonial America",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 June 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Salisbury, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salisbury",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 April 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Salisbury, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salisbury",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

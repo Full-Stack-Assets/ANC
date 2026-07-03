@@ -1,0 +1,69 @@
+{
+  "id": "I182526999710",
+  "name": {
+    "given": "Jane",
+    "surname": "Thorne",
+    "suffix": null,
+    "full": "Jane Thorne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Upcott, Devon, England",
+        "parts": [
+          "Upcott",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ugber, Cornwall, England",
+        "parts": [
+          "Ugber",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182526999701"
+      }
+    ],
+    "children": [
+      "I182526999637"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

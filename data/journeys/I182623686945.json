@@ -1,0 +1,55 @@
+{
+  "id": "I182623686945",
+  "person": "Nicholas Sir Sheriff of Hampshire Tichborne",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Tichborne, Hampshire, England",
+        "parts": [
+          "Tichborne",
+          "Hampshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1514",
+        "year": 1514,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Royden, Essex, England",
+        "parts": [
+          "Royden",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 May 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

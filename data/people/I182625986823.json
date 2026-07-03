@@ -1,0 +1,72 @@
+{
+  "id": "I182625986823",
+  "name": {
+    "given": "Alicia",
+    "surname": "Nightgall",
+    "suffix": null,
+    "full": "Alicia Nightgall"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1542",
+        "year": 1542,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Standish, Lancashire, , England",
+        "parts": [
+          "Standish",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Mar 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Standish, Lancashire, England",
+        "parts": [
+          "Standish",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986934",
+      "I182625986928"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986829"
+      }
+    ],
+    "children": [
+      "I182625986807"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

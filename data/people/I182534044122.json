@@ -1,0 +1,70 @@
+{
+  "id": "I182534044122",
+  "name": {
+    "given": "Almina Lucia Lucy",
+    "surname": "VanAmburg",
+    "suffix": null,
+    "full": "Almina Lucia Lucy VanAmburg"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "June 10, 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont, USA",
+        "parts": [
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "April 10, 1904",
+        "year": 1904,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Iowa, USA",
+        "parts": [
+          "Iowa",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044209",
+      "I182534044217"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999841"
+      }
+    ],
+    "children": [
+      "I182198562017"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

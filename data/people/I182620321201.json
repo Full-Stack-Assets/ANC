@@ -1,0 +1,129 @@
+{
+  "id": "I182620321201",
+  "name": {
+    "given": "Brita",
+    "surname": "Danielsdotter",
+    "suffix": null,
+    "full": "Brita Danielsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1485",
+        "year": 1485,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gagnef, Gagnef, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Gagnef",
+          "Gagnef",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gagnef, Gagnef, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Gagnef",
+          "Gagnef",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182522976091"
+      }
+    ],
+    "children": [
+      "I182620321196",
+      "I182620321204",
+      "I182522976072",
+      "I182620321198",
+      "I182620321200",
+      "I182620321202",
+      "I182620321197",
+      "I182620321205",
+      "I182620321207",
+      "I182620321396",
+      "I182620321397",
+      "I182620321398"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Jäder, Södermanland, Sverige",
+        "parts": [
+          "Jäder",
+          "Södermanland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Hustru",
+      "sources": [
+        {
+          "source_id": "S516619795",
+          "page": "Genline AB; Johanneshov, Stockholm, Sweden; Swedish Church Records Archive; Volume Number: AI:1"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516619795",
+      "title": "Sweden, Household Clerical Surveys, 1880-1896",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "I182625981333",
+  "name": {
+    "given": "Edwina Alice (Coleman)",
+    "surname": "Wyncoll",
+    "suffix": null,
+    "full": "Edwina Alice (Coleman) Wyncoll"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Waldingfield, Suffolk, England",
+        "parts": [
+          "Little Waldingfield",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Waldingfield, Suffolk, England",
+        "parts": [
+          "Little Waldingfield",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981346",
+      "I182625981348"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981349"
+      }
+    ],
+    "children": [
+      "I182625981329",
+      "I182625981347"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

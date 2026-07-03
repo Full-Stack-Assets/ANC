@@ -1,0 +1,55 @@
+{
+  "id": "I182541959636",
+  "person": "Thomas Townshend",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bracon Ash, Norfolk, England",
+        "parts": [
+          "Bracon Ash",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Oct 1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kings Lynn, Norfolk, England",
+        "parts": [
+          "Kings Lynn",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Jun 1591",
+        "year": 1591,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

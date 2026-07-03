@@ -1,0 +1,87 @@
+{
+  "id": "I182197770234",
+  "person": "Ann Austin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Evesham, Burlington, NJ, USA",
+        "parts": [
+          "Evesham",
+          "Burlington",
+          "NJ",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Apr 1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Camden, New Jersey",
+        "parts": [
+          "Camden",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Nov 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        },
+        {
+          "source_id": "S447152695",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Gloucester, New Jersey, United States",
+        "parts": [
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Dec 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

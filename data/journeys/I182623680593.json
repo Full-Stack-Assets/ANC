@@ -1,0 +1,112 @@
+{
+  "id": "I182623680593",
+  "person": "Richard Warwicke Barnfield",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Poltimore, Devon, , England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Poltimore, Devon, , England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 May 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Cameley, Somerset, England",
+        "parts": [
+          "Cameley",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 May 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810902",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Poltimore, East Devon District, Devon, England",
+        "parts": [
+          "Poltimore",
+          "East Devon District",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

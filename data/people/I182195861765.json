@@ -1,0 +1,96 @@
+{
+  "id": "I182195861765",
+  "name": {
+    "given": "Brita",
+    "surname": "Persdotter",
+    "suffix": null,
+    "full": "Brita Persdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ludvika, Dalarnas, Sweden",
+        "parts": [
+          "Ludvika",
+          "Dalarnas",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 mar 1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grangärde(W)",
+        "parts": [
+          "Grangärde(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195861763",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 feb 1647",
+            "year": 1647,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Grangärde(W)",
+            "parts": [
+              "Grangärde(W)"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195861646",
+      "I182195861766",
+      "I182195861767"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

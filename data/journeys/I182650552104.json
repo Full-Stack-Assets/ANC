@@ -1,0 +1,55 @@
+{
+  "id": "I182650552104",
+  "person": "Alice King",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Edwardstone, Suffolk, England",
+        "parts": [
+          "Edwardstone",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1506",
+        "year": 1506,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hadleigh, Suffolk, England",
+        "parts": [
+          "Hadleigh",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "09 Feb 1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": "I182625984977",
+  "name": {
+    "given": "Thomas",
+    "surname": "Armitage",
+    "suffix": null,
+    "full": "Thomas Armitage"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 December 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Leeds, Yorkshire, West Yorkshire, England, United Kingdom",
+        "parts": [
+          "Leeds",
+          "Yorkshire",
+          "West Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 November 1668",
+        "year": 1668,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Nassau, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Nassau",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625985079"
+    ],
+    "spouses": [
+      {
+        "id": "I182625984980"
+      }
+    ],
+    "children": [
+      "I182625984903"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "16 Nov 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Leeds, St Peter, Yorkshire, England",
+        "parts": [
+          "Leeds",
+          "St Peter",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516958652",
+          "page": "West Yorkshire Archive Service; Wakefield, Yorkshire, England; Yorkshire Parish Records; New Reference Number: RDP68/1/1"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516958652",
+      "title": "West Yorkshire, England, Church of England Baptisms, Marriages and Burials, 1512-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

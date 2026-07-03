@@ -1,0 +1,57 @@
+{
+  "id": "I182650552398",
+  "person": "Josiah Winchester",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Mar 1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brookline, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Feb 1727/28",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

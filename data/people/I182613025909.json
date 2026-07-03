@@ -1,0 +1,156 @@
+{
+  "id": "I182613025909",
+  "name": {
+    "given": "Mary",
+    "surname": "Heath",
+    "suffix": null,
+    "full": "Mary Heath"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 March 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ware, Hertfordshire, England, United Kingdom",
+        "parts": [
+          "Ware",
+          "Hertfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 May 1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Ware, East Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Ware",
+          "East Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025995",
+      "I182613025993"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025908",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 September 1613",
+            "year": 1613,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ware, Hertfordshire, England, United Kingdom",
+            "parts": [
+              "Ware",
+              "Hertfordshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613025624"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I182620338630",
+  "name": {
+    "given": "Mary",
+    "surname": null,
+    "suffix": null,
+    "full": "Mary"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birr, Offaly, Ireland",
+        "parts": [
+          "Birr",
+          "Offaly",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620338764"
+      }
+    ],
+    "children": [
+      "I182587608923"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

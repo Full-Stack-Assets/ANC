@@ -1,0 +1,62 @@
+{
+  "id": "I182613114828",
+  "person": "Thomas Neville",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wakefield, Metropolitan Borough of Wakefield, West Yorkshire, England",
+        "parts": [
+          "Wakefield",
+          "Metropolitan Borough of Wakefield",
+          "West Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 December 1460",
+        "year": 1460,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bisham, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Bisham",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "I182625972305",
+  "name": {
+    "given": "Else",
+    "surname": "Weyerbauer",
+    "suffix": null,
+    "full": "Else Weyerbauer"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saarbrücken, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "Saarbrücken",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Mar 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Johann, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "St Johann",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972320",
+      "I182625972312"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625972302"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "10 Mar 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saarbrücken, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "Saarbrücken",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

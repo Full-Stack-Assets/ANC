@@ -1,0 +1,55 @@
+{
+  "id": "I182381537914",
+  "person": "Owain Maredydd (formerly Owain ap Maredudd)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Clynnog, Caernarvonshire, Wales",
+        "parts": [
+          "Clynnog",
+          "Caernarvonshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Jan 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Llanwnda, Caernarvonshire, Wales",
+        "parts": [
+          "Llanwnda",
+          "Caernarvonshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Nov 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

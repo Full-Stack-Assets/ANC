@@ -1,0 +1,72 @@
+{
+  "id": "I182567600278",
+  "name": {
+    "given": "Peter",
+    "surname": "Josias Bull",
+    "suffix": null,
+    "full": "Peter Josias Bull"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, , England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Aug 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600333",
+      "I182567600325"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600271"
+      }
+    ],
+    "children": [
+      "I182567600250"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

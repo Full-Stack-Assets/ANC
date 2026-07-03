@@ -1,0 +1,72 @@
+{
+  "id": "I182613023818",
+  "name": {
+    "given": "Anne",
+    "surname": "Colcombe",
+    "suffix": null,
+    "full": "Anne Colcombe"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1532",
+        "year": 1532,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dilwyn, Herefordshire, England",
+        "parts": [
+          "Dilwyn",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dilwyn, Herefordshire, England",
+        "parts": [
+          "Dilwyn",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023826",
+      "I182613023822"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023768"
+      }
+    ],
+    "children": [
+      "I182613023698"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

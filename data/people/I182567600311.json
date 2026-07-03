@@ -1,0 +1,63 @@
+{
+  "id": "I182567600311",
+  "name": {
+    "given": "William\\ 9th GGF",
+    "surname": "Simpson",
+    "suffix": null,
+    "full": "William\\ 9th GGF Simpson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Modwen's, Burton Upon Trent, Staffordshire, England",
+        "parts": [
+          "St Modwen's",
+          "Burton Upon Trent",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "unknown",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182567600302"
+      }
+    ],
+    "children": [
+      "I182567600271"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

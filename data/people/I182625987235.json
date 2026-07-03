@@ -1,0 +1,65 @@
+{
+  "id": "I182625987235",
+  "name": {
+    "given": "Sir Humphrey",
+    "surname": "Barker of Aston & Warwickshire*13TH PGGF",
+    "suffix": null,
+    "full": "Sir Humphrey Barker of Aston & Warwickshire*13TH PGGF"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aston, Warwickshire, England",
+        "parts": [
+          "Aston",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aston, Warwickshire, England",
+        "parts": [
+          "Aston",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625987208"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

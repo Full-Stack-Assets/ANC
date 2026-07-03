@@ -1,0 +1,70 @@
+{
+  "id": "I182381536820",
+  "name": {
+    "given": "Dorothea",
+    "surname": "Haigh",
+    "suffix": null,
+    "full": "Dorothea Haigh"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shepley, Yorkshire, England",
+        "parts": [
+          "Shepley",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Huddersfield, St Peter, Yorkshire, England",
+        "parts": [
+          "Huddersfield",
+          "St Peter",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536831"
+      }
+    ],
+    "children": [
+      "I182381536817"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

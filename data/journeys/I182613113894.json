@@ -1,0 +1,56 @@
+{
+  "id": "I182613113894",
+  "person": "Matthew Smyth",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Aylburton, Gloucestershire, England",
+        "parts": [
+          "Aylburton",
+          "Gloucestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bristol, Bristol Unitary Authority, Bristol, England",
+        "parts": [
+          "Bristol",
+          "Bristol Unitary Authority",
+          "Bristol",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

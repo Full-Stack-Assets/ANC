@@ -1,0 +1,43 @@
+{
+  "id": "I182623690234",
+  "name": {
+    "given": "John",
+    "surname": "Coombs",
+    "suffix": null,
+    "full": "John Coombs"
+  },
+  "sex": "M",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 15 Oct 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690573"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690227"
+      }
+    ],
+    "children": [
+      "I182623690129"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

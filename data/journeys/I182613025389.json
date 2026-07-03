@@ -1,0 +1,91 @@
+{
+  "id": "I182613025389",
+  "person": "Margery Perry",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Warkworth, Northumberland Unitary Authority, Northumberland, England",
+        "parts": [
+          "Warkworth",
+          "Northumberland Unitary Authority",
+          "Northumberland",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Exeter, City of Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "City of Exeter",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Exeter, City of Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "City of Exeter",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I182623690566",
+  "name": {
+    "given": "Mary",
+    "surname": "Batchelder",
+    "suffix": null,
+    "full": "Mary Batchelder"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hackney, Middlesex, England",
+        "parts": [
+          "Hackney",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Aug 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampton, Rockingham, New Hampshire, US",
+        "parts": [
+          "Hampton",
+          "Rockingham",
+          "New Hampshire",
+          "US"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691016"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623690212"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

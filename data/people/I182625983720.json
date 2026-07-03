@@ -1,0 +1,77 @@
+{
+  "id": "I182625983720",
+  "name": {
+    "given": "Joyce",
+    "surname": "Culpeper",
+    "suffix": null,
+    "full": "Joyce Culpeper"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984066",
+      "I182625984170"
+    ],
+    "spouses": [
+      {
+        "id": "I182625983634"
+      }
+    ],
+    "children": [
+      "I182625983719",
+      "I182625983721"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

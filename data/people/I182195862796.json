@@ -1,0 +1,76 @@
+{
+  "id": "I182195862796",
+  "name": {
+    "given": "MARY",
+    "surname": "SKINNER",
+    "suffix": null,
+    "full": "MARY SKINNER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassboro, New Jersey",
+        "parts": [
+          "Glassboro",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195862794",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "06 Apr 1787",
+            "year": 1787,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Philadelphia, Pennsylvania, USA",
+            "parts": [
+              "Philadelphia",
+              "Pennsylvania",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862704"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182625987296",
+  "name": {
+    "given": "Sir Richard",
+    "surname": "Woodfall",
+    "suffix": null,
+    "full": "Sir Richard Woodfall"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Sep 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcestershire, England",
+        "parts": [
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Apr 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcestershire, England",
+        "parts": [
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987334"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625987257"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

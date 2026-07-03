@@ -1,0 +1,362 @@
+{
+  "id": "I182198562868",
+  "person": "Vincenza Minochelli",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Italy",
+        "parts": [
+          "Italy"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 1878",
+        "year": 1878,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Brockton Ward 1, Plymouth, Massachusetts; Roll: T625_725; Page: 3B; Enumeration District: 40"
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        },
+        {
+          "source_id": "S447116012",
+          "page": null
+        },
+        {
+          "source_id": "S506435404",
+          "page": "National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Brockton, Plymouth, Massachusetts; Roll: 4481; Page: 3; Enumeration District: 16-16"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "296, Commercial, St, Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "296",
+          "Commercial",
+          "St",
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 Jan 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 Jan 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115786",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Brockton Ward 1, Plymouth, Massachusetts; Roll: T625_725; Page: 3B; Enumeration District: 40"
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1922",
+        "year": 1922,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1927",
+        "year": 1927,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 11,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": "National Archives at Washington, DC; Washington, D.C.; Seventeenth Census of the United States, 1950; Year: 1950; Census Place: Brockton, Plymouth, Massachusetts; Roll: 4481; Page: 3; Enumeration District: 16-16"
+        }
+      ]
+    },
+    {
+      "seq": 12,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

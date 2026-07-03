@@ -1,0 +1,105 @@
+{
+  "id": "I182623679861",
+  "name": {
+    "given": "Captain Robert",
+    "surname": "Evans  1665  nh",
+    "suffix": null,
+    "full": "Captain Robert Evans  1665  nh"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 SEP 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, USA",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008954",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Sep 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, USA",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620244",
+          "page": "The National Archives; Kew, Surrey, England; Records of the Prerogative Court of Canterbury, Series PROB 11; Class: PROB 11; Piece: 801"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679965"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679889"
+      }
+    ],
+    "children": [
+      "I182623679692"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008954",
+      "title": "The New England Historical & Genealogical Register, 1847-2011",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516620244",
+      "title": "England & Wales, Prerogative Court of Canterbury Wills, 1384-1858",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516008989",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

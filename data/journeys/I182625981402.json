@@ -1,0 +1,55 @@
+{
+  "id": "I182625981402",
+  "person": "Margery Bleaze MNU",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Oscroft, Cheshire, England",
+        "parts": [
+          "Oscroft",
+          "Cheshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Oscroft, Cheshire, England - buried Tarvin",
+        "parts": [
+          "Oscroft",
+          "Cheshire",
+          "England - buried Tarvin"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "bef 28 Apr 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

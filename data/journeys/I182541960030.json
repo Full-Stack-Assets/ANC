@@ -1,0 +1,56 @@
+{
+  "id": "I182541960030",
+  "person": "Mary Pitt",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bristol, Somerset, England",
+        "parts": [
+          "Bristol",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Apr 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Sep 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

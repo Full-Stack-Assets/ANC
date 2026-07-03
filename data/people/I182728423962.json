@@ -1,0 +1,94 @@
+{
+  "id": "I182728423962",
+  "name": {
+    "given": "Olof",
+    "surname": "Arfvidsson",
+    "suffix": null,
+    "full": "Olof Arfvidsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 NOV 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kolseröd, Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Kolseröd",
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182728424028",
+      "I182728424014"
+    ],
+    "spouses": [
+      {
+        "id": "I182728423973"
+      }
+    ],
+    "children": [
+      "I182726546473"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "28 NOV 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kolserưod, Myckleby (O)",
+        "parts": [
+          "Kolserưod",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

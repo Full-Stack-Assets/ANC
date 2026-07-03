@@ -1,0 +1,91 @@
+{
+  "id": "I182585303541",
+  "name": {
+    "given": "Frederick Larkin",
+    "surname": "Reagan",
+    "suffix": null,
+    "full": "Frederick Larkin Reagan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1945",
+        "year": 1945,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195857360",
+      "I182195857362"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Son; Marital Status: Never Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508115383",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

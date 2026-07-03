@@ -1,0 +1,73 @@
+{
+  "id": "I182587607735",
+  "name": {
+    "given": "James",
+    "surname": "Burne of Chalmerstone",
+    "suffix": null,
+    "full": "James Burne of Chalmerstone"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of Gogar, Logie, Perthshire, Scotland",
+        "parts": [
+          "of Gogar",
+          "Logie",
+          "Perthshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, , Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587607863",
+      "I182587607846"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536934"
+      }
+    ],
+    "children": [
+      "I182381536920"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

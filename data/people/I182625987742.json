@@ -1,0 +1,74 @@
+{
+  "id": "I182625987742",
+  "name": {
+    "given": "Hester or Esther",
+    "surname": "Cooke",
+    "suffix": null,
+    "full": "Hester or Esther Cooke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Aug 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Btn. 17 Apr 1671 and Jun 1672",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusetts, USA",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987758",
+      "I182625987766"
+    ],
+    "spouses": [
+      {
+        "id": "I182541933966"
+      }
+    ],
+    "children": [
+      "I182541956762"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

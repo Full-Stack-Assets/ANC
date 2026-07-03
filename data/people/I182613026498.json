@@ -1,0 +1,86 @@
+{
+  "id": "I182613026498",
+  "name": {
+    "given": "Robert",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Robert Smith"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 November 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023759",
+      "I182613026493"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182650550876",
+  "name": {
+    "given": "William Abasolum",
+    "surname": "Ames",
+    "suffix": null,
+    "full": "William Abasolum Ames"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Oct 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bruton, Somerset, England",
+        "parts": [
+          "Bruton",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jan 1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts Colony",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550881"
+    ],
+    "spouses": [
+      {
+        "id": "I182650550878"
+      }
+    ],
+    "children": [
+      "I182650550868"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

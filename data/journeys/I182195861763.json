@@ -1,0 +1,72 @@
+{
+  "id": "I182195861763",
+  "person": "Anders Ersson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Västergötland",
+        "parts": [
+          "Västergötland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ca 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grangärde(W)",
+        "parts": [
+          "Grangärde(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 feb 1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Grangärde(W)",
+        "parts": [
+          "Grangärde(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 sep 1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "I182381538502",
+  "person": "Sebastian Ross",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "darnsheim, Boblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "darnsheim",
+          "Boblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182625986801",
+  "name": {
+    "given": "Richard James",
+    "surname": "Valentine",
+    "suffix": null,
+    "full": "Richard James Valentine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 August 1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eccles, Lancashire, England, United Kingdom",
+        "parts": [
+          "Eccles",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Mar 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eccles, Lancashire, England, United Kingdom",
+        "parts": [
+          "Eccles",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986870"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986807"
+      }
+    ],
+    "children": [
+      "I182625986598"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

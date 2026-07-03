@@ -1,0 +1,72 @@
+{
+  "id": "I182625986341",
+  "name": {
+    "given": "Peter",
+    "surname": "Tringham or Stringham",
+    "suffix": null,
+    "full": "Peter Tringham or Stringham"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1633/1634",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1667/69",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987148",
+      "I182625987060"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986344"
+      }
+    ],
+    "children": [
+      "I182625986336"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "I182195861335",
+  "person": "Greta Nilsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Sverige",
+        "parts": [
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Haga, västra götaland",
+        "parts": [
+          "Haga",
+          "västra götaland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 April 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

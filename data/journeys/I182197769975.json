@@ -1,0 +1,73 @@
+{
+  "id": "I182197769975",
+  "person": "Laughlan Macdonald",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "North Uist, Inverness-shire, Scotland",
+        "parts": [
+          "North Uist",
+          "Inverness-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 OCT 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Main-à-Dieu, Nova Scotia, Canada",
+        "parts": [
+          "Main-à-Dieu",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "07 MAY 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Saint James Anglican Cemetary, Main a dieu, Ns",
+        "parts": [
+          "Saint James Anglican Cemetary",
+          "Main a dieu",
+          "Ns"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

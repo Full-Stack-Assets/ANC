@@ -1,0 +1,70 @@
+{
+  "id": "I182292319587",
+  "name": {
+    "given": "Olof",
+    "surname": "Germundsson",
+    "suffix": null,
+    "full": "Olof Germundsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Aug 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wrinken, Myckleby (O)",
+        "parts": [
+          "Wrinken",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Oct 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Önne, Myckleby (O)",
+        "parts": [
+          "Önne",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319628",
+      "I182292319606"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319579"
+      }
+    ],
+    "children": [
+      "I182292318250"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

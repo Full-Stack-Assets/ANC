@@ -1,0 +1,71 @@
+{
+  "id": "I182620334529",
+  "name": {
+    "given": "Thomas",
+    "surname": "Boxe",
+    "suffix": null,
+    "full": "Thomas Boxe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandwich, Kent, England",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Oct 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620334664"
+    ],
+    "spouses": [
+      {
+        "id": "I182620334542"
+      }
+    ],
+    "children": [
+      "I182620325059"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

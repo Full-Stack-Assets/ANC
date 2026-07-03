@@ -1,0 +1,69 @@
+{
+  "id": "I182613112887",
+  "name": {
+    "given": "Sir Edmond",
+    "surname": "Haselwood",
+    "suffix": null,
+    "full": "Sir Edmond Haselwood"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1477",
+        "year": 1477,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maidwell, Northamptonshire, England",
+        "parts": [
+          "Maidwell",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112881"
+      }
+    ],
+    "children": [
+      "I182613112769"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

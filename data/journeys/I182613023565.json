@@ -1,0 +1,57 @@
+{
+  "id": "I182613023565",
+  "person": "Ruth Towne",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Sept. 6, 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Apr 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

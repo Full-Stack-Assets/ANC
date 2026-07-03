@@ -1,0 +1,66 @@
+{
+  "id": "I182650551523",
+  "name": {
+    "given": "Margaret",
+    "surname": "Hone",
+    "suffix": null,
+    "full": "Margaret Hone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, England",
+        "parts": [
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, England",
+        "parts": [
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551546",
+      "I182650551559"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650551518"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

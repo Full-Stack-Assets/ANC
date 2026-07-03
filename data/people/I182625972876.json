@@ -1,0 +1,109 @@
+{
+  "id": "I182625972876",
+  "name": {
+    "given": "Michael",
+    "surname": "Siegwart Sigwart",
+    "suffix": null,
+    "full": "Michael Siegwart Sigwart"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Apr 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Blasien",
+        "parts": [
+          "St. Blasien"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Jan 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Blasien",
+        "parts": [
+          "St. Blasien"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972871"
+      }
+    ],
+    "children": [
+      "I182625972849"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "04 Mar 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sankt Blasien, Baden-Württemberg, Deutschland,",
+        "parts": [
+          "Sankt Blasien",
+          "Baden-Württemberg",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "01 Apr 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saint Blaisen, Sankt Blasien Parish, Waldshut, Baden",
+        "parts": [
+          "Saint Blaisen",
+          "Sankt Blasien Parish",
+          "Waldshut",
+          "Baden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

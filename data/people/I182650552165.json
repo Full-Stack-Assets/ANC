@@ -1,0 +1,73 @@
+{
+  "id": "I182650552165",
+  "name": {
+    "given": "Elizabeth Isabell",
+    "surname": "Allen Brandt",
+    "suffix": null,
+    "full": "Elizabeth Isabell Allen Brandt"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheddington, Buckinghamshire, England",
+        "parts": [
+          "Cheddington",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552174",
+      "I182650552168"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552167"
+      }
+    ],
+    "children": [
+      "I182650552162"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

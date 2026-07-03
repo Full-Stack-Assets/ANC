@@ -1,0 +1,48 @@
+{
+  "id": "I182381536324",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "Benjamin Smyth"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Kirkham, Lancashire, England",
+        "parts": [
+          "Kirkham",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536312"
+      }
+    ],
+    "children": [
+      "I182381536303"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

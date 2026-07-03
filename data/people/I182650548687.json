@@ -1,0 +1,59 @@
+{
+  "id": "I182650548687",
+  "name": {
+    "given": "Sven",
+    "surname": "Olsson",
+    "suffix": null,
+    "full": "Sven Olsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Om 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Varekilsnäs Ng, Stala, Västra Götaland, Sverige",
+        "parts": [
+          "Varekilsnäs Ng",
+          "Stala",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182391485906"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

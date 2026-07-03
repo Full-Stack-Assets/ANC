@@ -1,0 +1,154 @@
+{
+  "id": "I182623679445",
+  "name": {
+    "given": "Minea Amelia",
+    "surname": "Foss Bedell",
+    "suffix": null,
+    "full": "Minea Amelia Foss Bedell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 May 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Aug 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Morristown, Lamoille, Vermont, USA",
+        "parts": [
+          "Morristown",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679474",
+      "I182623679457"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679447"
+      }
+    ],
+    "children": [
+      "I182623679439"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "17 May 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont, Vermont, USA",
+        "parts": [
+          "Vermont",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "5 Aug 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Morristown, Lamoille, Vermont, United States",
+        "parts": [
+          "Morristown",
+          "Lamoille",
+          "Vermont",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "4 August 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

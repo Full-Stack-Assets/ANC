@@ -1,0 +1,86 @@
+{
+  "id": "I182613024605",
+  "name": {
+    "given": "Susan",
+    "surname": "Towne",
+    "suffix": null,
+    "full": "Susan Towne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 October 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, Norfolk, England, United Kingdom",
+        "parts": [
+          "Great Yarmouth",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 July 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, Norfolk, England, United Kingdom",
+        "parts": [
+          "Great Yarmouth",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024608",
+      "I182613024556"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

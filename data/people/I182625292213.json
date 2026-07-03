@@ -1,0 +1,67 @@
+{
+  "id": "I182625292213",
+  "name": {
+    "given": "Cornelius",
+    "surname": "Hierlihy",
+    "suffix": "Lt. Col",
+    "full": "Cornelius Hierlihy Lt. Col"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mallow, Cork, Ireland",
+        "parts": [
+          "Mallow",
+          "Cork",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Town Point, Provence, Nova Scotia, Canada",
+        "parts": [
+          "Town Point",
+          "Provence",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292234"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292210"
+      }
+    ],
+    "children": [
+      "I182625292198"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

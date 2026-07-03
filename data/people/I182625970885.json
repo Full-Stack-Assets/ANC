@@ -1,0 +1,75 @@
+{
+  "id": "I182625970885",
+  "name": {
+    "given": "Hugh",
+    "surname": "Worthington",
+    "suffix": null,
+    "full": "Hugh Worthington"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmslow Cheshire, Cheshire, England, United Kingdom",
+        "parts": [
+          "Wilmslow Cheshire",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Morley, Wilmslow Cheshire Englaand, Cheshire, England, United Kingdom",
+        "parts": [
+          "Morley",
+          "Wilmslow Cheshire Englaand",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970922",
+      "I182625970910"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970882"
+      }
+    ],
+    "children": [
+      "I182567600353"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

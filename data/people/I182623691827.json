@@ -1,0 +1,72 @@
+{
+  "id": "I182623691827",
+  "name": {
+    "given": "Martha",
+    "surname": "Prescott",
+    "suffix": null,
+    "full": "Martha Prescott"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Concord, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Concord",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 May 1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancaster, Middlesex, Massachusetts",
+        "parts": [
+          "Lancaster",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691886"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691837"
+      }
+    ],
+    "children": [
+      "I182623691712"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

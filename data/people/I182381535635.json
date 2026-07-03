@@ -1,0 +1,63 @@
+{
+  "id": "I182381535635",
+  "name": {
+    "given": "Johannis",
+    "surname": "Logalden",
+    "suffix": null,
+    "full": "Johannis Logalden"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huntingdonshire, England",
+        "parts": [
+          "Huntingdonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England, UK",
+        "parts": [
+          "England",
+          "UK"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381535624"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "I182625971800",
+  "name": {
+    "given": "Mary",
+    "surname": "Booth",
+    "suffix": null,
+    "full": "Mary Booth"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 February 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange County, New York, United States of America",
+        "parts": [
+          "Hamptonburgh",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 October 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, Orange County, New York, United States of America",
+        "parts": [
+          "Goshen",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Campbell Hall, Orange County, New York, United States of America",
+        "parts": [
+          "Campbell Hall",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600237",
+      "I182567600231"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

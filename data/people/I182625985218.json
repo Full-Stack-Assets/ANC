@@ -1,0 +1,41 @@
+{
+  "id": "I182625985218",
+  "name": {
+    "given": "Hanna",
+    "surname": "Hubbard",
+    "suffix": null,
+    "full": "Hanna Hubbard"
+  },
+  "sex": "F",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625985214"
+      }
+    ],
+    "children": [
+      "I182625985189"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

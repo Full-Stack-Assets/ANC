@@ -1,0 +1,131 @@
+{
+  "id": "I182587612547",
+  "name": {
+    "given": "Nicholas Thomas",
+    "surname": "Arnold NYE",
+    "suffix": null,
+    "full": "Nicholas Thomas Arnold NYE"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "South Somerset District, Somerset, England",
+        "parts": [
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 January 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ilchester, South Somerset District, Somerset, England",
+        "parts": [
+          "Ilchester",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182587612510"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheselbourne, Dorset, England",
+        "parts": [
+          "Cheselbourne",
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "South Somerset District, Somerset, England",
+        "parts": [
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ilchester, South Somerset District, Somerset, England",
+        "parts": [
+          "Ilchester",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182625987073",
+  "person": "Mary Polly Haslom",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bury, Lancashire, England",
+        "parts": [
+          "Bury",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Dec 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Derby, Derbyshire, England",
+        "parts": [
+          "Derby",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 May 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,351 @@
+{
+  "id": "I182195856889",
+  "name": {
+    "given": "Brian M.",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Brian M. Donahue"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Apr 1963",
+        "year": 1963,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115584",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1981"
+        },
+        {
+          "source_id": "S446914519",
+          "page": null
+        },
+        {
+          "source_id": "S446914507",
+          "page": null
+        },
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197441967",
+      "I182195856886"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1981",
+        "year": 1981,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115584",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1981"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1985-1997",
+        "year": 1985,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chelsea, Massachusetts, USA",
+        "parts": [
+          "Chelsea",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1986",
+        "year": 1986,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, MA",
+        "parts": [
+          "Braintree",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1987-1995",
+        "year": 1987,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1993",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1993-1996",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Quincy, Massachusetts, USA",
+        "parts": [
+          "Quincy",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1995",
+        "year": 1995,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1998-2020",
+        "year": 1998,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoughton, Massachusetts, USA",
+        "parts": [
+          "Stoughton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Massachusetts, USA",
+        "parts": [
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Quincy, MA",
+        "parts": [
+          "Quincy",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115584",
+      "title": "U.S., School Yearbooks, 1900-1999",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914519",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914507",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 1",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S458741983",
+      "title": "U.S., Index to Public Records, 1994-2019",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

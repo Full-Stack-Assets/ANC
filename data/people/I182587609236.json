@@ -1,0 +1,140 @@
+{
+  "id": "I182587609236",
+  "name": {
+    "given": "Christina",
+    "surname": "Kohlepp",
+    "suffix": null,
+    "full": "Christina Kohlepp"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse Cassel",
+        "parts": [
+          "Hesse Cassel"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Philadelphia Ward 15 District 45, Philadelphia, Pennsylvania; Roll: M593_1399; Page: 575A"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Apr 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, Philadelphia, Pennsylvania",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182526999854"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1797",
+        "year": 1797,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Philadelphia Ward 15 District 45, Philadelphia, Pennsylvania; Roll: M593_1399; Page: 575A"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia Ward 15 District 45, 1509 Agden St, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia Ward 15 District 45",
+          "1509 Agden St",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Philadelphia Ward 15 District 45, Philadelphia, Pennsylvania; Roll: M593_1399; Page: 575A"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S506473118",
+      "title": "1870 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

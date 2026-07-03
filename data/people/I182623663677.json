@@ -1,0 +1,112 @@
+{
+  "id": "I182623663677",
+  "name": {
+    "given": "Sebastian",
+    "surname": "Dimmerling",
+    "suffix": null,
+    "full": "Sebastian Dimmerling"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 May 1855",
+        "year": 1855,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, United States of America",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 November 1926",
+        "year": 1926,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ohio, United States of America",
+        "parts": [
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, United States of America",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663820",
+      "I182623663806"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663676"
+      }
+    ],
+    "children": [
+      "I182623663553"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

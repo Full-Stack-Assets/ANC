@@ -1,0 +1,46 @@
+{
+  "id": "I182381537523",
+  "name": {
+    "given": "Henry",
+    "surname": "Banks",
+    "suffix": null,
+    "full": "Henry Banks"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537522"
+      }
+    ],
+    "children": [
+      "I182381537499"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

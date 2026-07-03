@@ -1,0 +1,73 @@
+{
+  "id": "I182728424248",
+  "name": {
+    "given": "William",
+    "surname": "Orcutt",
+    "suffix": null,
+    "full": "William Orcutt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Marys Parish,,Warwickshire,England",
+        "parts": [
+          "St Marys Parish",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth,Norfolk,Massachusetts,USA",
+        "parts": [
+          "Weymouth",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182728424309",
+      "I182728424318"
+    ],
+    "spouses": [
+      {
+        "id": "I182728424287"
+      }
+    ],
+    "children": [
+      "I182650550422"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182625986309",
+  "person": "Hannah Halstead",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Oyster Bay, Nassau, Long Island, New York",
+        "parts": [
+          "Oyster Bay",
+          "Nassau",
+          "Long Island",
+          "New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 April 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gloucester, New Jersey",
+        "parts": [
+          "Gloucester",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 September 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

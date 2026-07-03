@@ -1,0 +1,51 @@
+{
+  "id": "I182623664247",
+  "name": {
+    "given": "James",
+    "surname": "Mitchelsone",
+    "suffix": null,
+    "full": "James Mitchelsone"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "EST 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": "EST"
+      },
+      "place": {
+        "raw": "Prestonpans, East Lothian, Scotland",
+        "parts": [
+          "Prestonpans",
+          "East Lothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664262",
+      "I182623664257"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664253"
+      }
+    ],
+    "children": [
+      "I182587607883"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

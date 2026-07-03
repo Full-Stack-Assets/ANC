@@ -1,0 +1,78 @@
+{
+  "id": "I182195863565",
+  "person": "Eliza Bolton Taber",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Abington, Montgomery, Pennsylvania, United States",
+        "parts": [
+          "Abington",
+          "Montgomery",
+          "Pennsylvania",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Aug 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gloucester, New Jersey, USA",
+        "parts": [
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Sep 1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Gloucester County, New Jersey",
+        "parts": [
+          "Gloucester County",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "bef 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

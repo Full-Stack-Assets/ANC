@@ -1,0 +1,65 @@
+{
+  "id": "I182541966330",
+  "person": "MARY (Sarah) DODGE",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beverly, Essex, MA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Apr 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508670172",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Beverly, Essex, MA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Nov 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508670172",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

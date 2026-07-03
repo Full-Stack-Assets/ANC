@@ -1,0 +1,100 @@
+{
+  "id": "I182623665373",
+  "person": "William Tracy",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Toddington, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Toddington",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1465",
+        "year": 1465,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Toddington, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Toddington",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 October 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S516810665",
+          "page": null
+        },
+        {
+          "source_id": "S516810665",
+          "page": "Book Title: Tracy Genealogy : ancestors and descendants of Lieutenant Thomas Tracy of Norwich, Connecticut : 16"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Gloucestershire",
+        "parts": [
+          "Gloucestershire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810665",
+          "page": "Book Title: Tracy Genealogy : ancestors and descendants of Lieutenant Thomas Tracy of Norwich, Connecticut : 16"
+        },
+        {
+          "source_id": "S516810665",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

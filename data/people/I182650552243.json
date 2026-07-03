@@ -1,0 +1,74 @@
+{
+  "id": "I182650552243",
+  "name": {
+    "given": "Elizabeth Betsey",
+    "surname": "Harris",
+    "suffix": null,
+    "full": "Elizabeth Betsey Harris"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoughton, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Stoughton",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Mar 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckfield, Oxford, Maine, United States",
+        "parts": [
+          "Buckfield",
+          "Oxford",
+          "Maine",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552260",
+      "I182650552256"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552252"
+      }
+    ],
+    "children": [
+      "I182613098449"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

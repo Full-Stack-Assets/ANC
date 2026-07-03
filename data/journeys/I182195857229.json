@@ -1,0 +1,58 @@
+{
+  "id": "I182195857229",
+  "person": "Douglas Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hudson, NH",
+        "parts": [
+          "Hudson",
+          "NH"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1993",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Massachusetts, USA",
+        "parts": [
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

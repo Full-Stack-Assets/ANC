@@ -1,0 +1,77 @@
+{
+  "id": "I182195860477",
+  "name": {
+    "given": "Clara Gustafva Maria",
+    "surname": "Svenson",
+    "suffix": null,
+    "full": "Clara Gustafva Maria Svenson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Aug 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Easton, Massachusetts",
+        "parts": [
+          "North Easton",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195860476",
+      "I182195860382"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "17 Sep 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

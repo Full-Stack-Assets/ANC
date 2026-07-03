@@ -1,0 +1,48 @@
+{
+  "id": "I182541960291",
+  "name": {
+    "given": "Mary",
+    "surname": "Griggs",
+    "suffix": null,
+    "full": "Mary Griggs"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England, England, United Kingdom",
+        "parts": [
+          "England",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541960298"
+      }
+    ],
+    "children": [
+      "I182381536578"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

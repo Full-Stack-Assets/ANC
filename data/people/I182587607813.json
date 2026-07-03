@@ -1,0 +1,69 @@
+{
+  "id": "I182587607813",
+  "name": {
+    "given": "Marion",
+    "surname": "Meason",
+    "suffix": null,
+    "full": "Marion Meason"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Culross, Perthshire, Scotland",
+        "parts": [
+          "Culross",
+          "Perthshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Sep 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Culross, Fife, Scotland",
+        "parts": [
+          "Culross",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607797"
+      }
+    ],
+    "children": [
+      "I182587607764"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

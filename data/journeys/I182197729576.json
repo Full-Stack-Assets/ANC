@@ -1,0 +1,57 @@
+{
+  "id": "I182197729576",
+  "person": "Mary Margaret Valentine",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hempstead, Nassau County, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Nassau County",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Nassau, Lewis, New York, United States",
+        "parts": [
+          "Nassau",
+          "Lewis",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

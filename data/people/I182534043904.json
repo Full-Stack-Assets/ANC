@@ -1,0 +1,123 @@
+{
+  "id": "I182534043904",
+  "name": {
+    "given": "Dennis",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Dennis Donahue"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1945",
+        "year": 1945,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197441999"
+    ],
+    "spouses": [
+      {
+        "id": "I182541965728",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1966",
+            "year": 1966,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Brockton, Massachusetts, USA",
+            "parts": [
+              "Brockton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447150985",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head: Son; Marital Status: Never Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447150985",
+      "title": "Massachusetts, Marriage Index, 1901-1955 and 1966-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

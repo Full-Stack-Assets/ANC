@@ -1,0 +1,116 @@
+{
+  "id": "I182620325006",
+  "name": {
+    "given": "Henry",
+    "surname": "Townsend",
+    "suffix": null,
+    "full": "Henry Townsend"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 May 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bracon Ash, Norfolk, England, United Kingdom",
+        "parts": [
+          "Bracon Ash",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 August 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norwich, Norfolk, England, United Kingdom",
+        "parts": [
+          "Norwich",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620325005",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "5 November 1590",
+            "year": 1590,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Bracon Ash, Norfolk, England, United Kingdom",
+            "parts": [
+              "Bracon Ash",
+              "Norfolk",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182584905029"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

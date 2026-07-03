@@ -1,0 +1,55 @@
+{
+  "id": "I182650551711",
+  "person": "Isabella (Isobel) Falconer Dunbar",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Halkerton, Forfar, Angus, Scotland",
+        "parts": [
+          "Halkerton",
+          "Forfar",
+          "Angus",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grange Hill, Scotland",
+        "parts": [
+          "Grange Hill",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Aug 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182623681856",
+  "person": "John Walter\\Walteri Framingham\\Fremingham Robertson\\Roberts, Esq., Baron Roberts of Glassenbury Sir",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Glassenbury Manor, Cranbrook, Kent, England",
+        "parts": [
+          "Glassenbury Manor",
+          "Cranbrook",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cranbrook, Kent/Woolston/Welford, Gloucestershire, England",
+        "parts": [
+          "Cranbrook",
+          "Kent/Woolston/Welford",
+          "Gloucestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Jun 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

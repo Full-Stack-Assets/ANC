@@ -1,0 +1,152 @@
+{
+  "id": "I182613112951",
+  "name": {
+    "given": "EN ALICE",
+    "surname": "STAGGE Staggs",
+    "suffix": "23 GGM",
+    "full": "EN ALICE STAGGE Staggs 23 GGM"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Sep 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Lawrence Pountney, London, England",
+        "parts": [
+          "St Lawrence Pountney",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112955"
+      }
+    ],
+    "children": [
+      "I182613112927"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Aug 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Lawrence Pountney, London, England",
+        "parts": [
+          "St Lawrence Pountney",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Sep 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Talard, Somerset, England",
+        "parts": [
+          "Talard",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset County, England",
+        "parts": [
+          "Somerset County",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maldon, Essex, England",
+        "parts": [
+          "Maldon",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

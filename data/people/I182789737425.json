@@ -1,0 +1,68 @@
+{
+  "id": "I182789737425",
+  "name": {
+    "given": "Thomas",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Thomas Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ribbesmere, Galway, Ireland",
+        "parts": [
+          "Ribbesmere",
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625291737"
+      }
+    ],
+    "children": [
+      "I182195857640"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

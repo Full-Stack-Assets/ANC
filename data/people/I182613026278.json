@@ -1,0 +1,70 @@
+{
+  "id": "I182613026278",
+  "name": {
+    "given": "Sir Knight Thomas",
+    "surname": "Throckmorton, MP, of Tortworth &amp; of Corse Court",
+    "suffix": null,
+    "full": "Sir Knight Thomas Throckmorton, MP, of Tortworth &amp; of Corse Court"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1509",
+        "year": 1509,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newent, Forest of Dean District, Gloucestershire, England",
+        "parts": [
+          "Newent",
+          "Forest of Dean District",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Mar 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newent, Forest of Dean District, Gloucestershire, England",
+        "parts": [
+          "Newent",
+          "Forest of Dean District",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026337",
+      "I182613026331"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613026261"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

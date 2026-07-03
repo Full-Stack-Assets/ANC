@@ -1,0 +1,126 @@
+{
+  "id": "I182613024028",
+  "name": {
+    "given": "Anne Irene",
+    "surname": "Moore",
+    "suffix": null,
+    "full": "Anne Irene Moore"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shoreditch, Middlesex, London, England, United Kingdom",
+        "parts": [
+          "Shoreditch",
+          "Middlesex",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, Norfolk, England, United Kingdom",
+        "parts": [
+          "Norfolk",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024103",
+      "I182613024081"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023959",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 June 1578",
+            "year": 1578,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "St Mary'S, Litchfield, Stafford, Staffordshire, England, United Kingdom",
+            "parts": [
+              "St Mary'S",
+              "Litchfield",
+              "Stafford",
+              "Staffordshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613023943"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

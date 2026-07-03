@@ -1,0 +1,119 @@
+{
+  "id": "I182541960385",
+  "name": {
+    "given": "John",
+    "surname": "Nash",
+    "suffix": null,
+    "full": "John Nash"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Martley, Worcestershire, England",
+        "parts": [
+          "Martley",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Powick, Worcestershire, England",
+        "parts": [
+          "Powick",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964011",
+      "I182541964010"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964012",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1534",
+            "year": 1534,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "England, England, United Kingdom",
+            "parts": [
+              "England",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182541960374"
+      }
+    ],
+    "children": [
+      "I182541956230"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

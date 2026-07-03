@@ -1,0 +1,56 @@
+{
+  "id": "I182625985204",
+  "person": "Mary Walcott Ward",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Monmouth County, New Jersey, USA",
+        "parts": [
+          "Monmouth County",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Egg Harbor City, Atlantic, New Jersey, United States",
+        "parts": [
+          "Egg Harbor City",
+          "Atlantic",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Jan 1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

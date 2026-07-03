@@ -1,0 +1,70 @@
+{
+  "id": "I182625986368",
+  "name": {
+    "given": "Thomas",
+    "surname": "Cheesman",
+    "suffix": null,
+    "full": "Thomas Cheesman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Mar 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "1677592 Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "1677592 Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Surrey, England",
+        "parts": [
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986439"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986374"
+      }
+    ],
+    "children": [
+      "I182625986356"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

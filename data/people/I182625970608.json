@@ -1,0 +1,176 @@
+{
+  "id": "I182625970608",
+  "name": {
+    "given": "Richard William",
+    "surname": "Biggs III",
+    "suffix": null,
+    "full": "Richard William Biggs III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southampton, Hampshire, England",
+        "parts": [
+          "Southampton",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Sept. 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jamestown, James, Virginia, United States",
+        "parts": [
+          "Jamestown",
+          "James",
+          "Virginia",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970632",
+      "I182625970636"
+    ],
+    "spouses": [
+      {
+        "id": "I182730910289",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1605",
+            "year": 1605,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": ",Southhampton,England",
+            "parts": [
+              "Southhampton",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182730910290",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1615",
+            "year": 1615,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Southampton, Hampshire, England",
+            "parts": [
+              "Southampton",
+              "Hampshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182730910294",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1619",
+            "year": 1619,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hampshire, Hampshire, England, United Kingdom",
+            "parts": [
+              "Hampshire",
+              "Hampshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182625292278"
+      }
+    ],
+    "children": [
+      "I182730910291",
+      "I182730910292",
+      "I182625292273",
+      "I182730910293"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "I182625982484",
+  "person": "Mary Carey Stafford",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Blickling, Broadland District, Norfolk, England",
+        "parts": [
+          "Blickling",
+          "Broadland District",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1499",
+        "year": 1499,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hever, Sevenoaks District, Kent, England",
+        "parts": [
+          "Hever",
+          "Sevenoaks District",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

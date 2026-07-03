@@ -1,0 +1,126 @@
+{
+  "id": "I182613114837",
+  "name": {
+    "given": "Richard",
+    "surname": "Neville",
+    "suffix": null,
+    "full": "Richard Neville"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1400",
+        "year": 1400,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Durham, Durham Unitary Authority, County Durham, England",
+        "parts": [
+          "Durham",
+          "Durham Unitary Authority",
+          "County Durham",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 December 1460",
+        "year": 1460,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Burghfield, West Berkshire Unitary Authority, Berkshire, England",
+        "parts": [
+          "Burghfield",
+          "West Berkshire Unitary Authority",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613115033",
+      "I182613115034"
+    ],
+    "spouses": [
+      {
+        "id": "I182613114791"
+      }
+    ],
+    "children": [
+      "I182613114833",
+      "I182613114836",
+      "I182613114832",
+      "I182613114829",
+      "I182613114838",
+      "I182613114835",
+      "I182613114834",
+      "I182613114828",
+      "I182613114827"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

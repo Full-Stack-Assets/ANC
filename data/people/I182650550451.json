@@ -1,0 +1,66 @@
+{
+  "id": "I182650550451",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Mitchell",
+    "suffix": null,
+    "full": "Elizabeth Mitchell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1 Nov 1681 and 5 Dec 1684",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550469",
+      "I182650550468"
+    ],
+    "spouses": [
+      {
+        "id": "I182650550458"
+      }
+    ],
+    "children": [
+      "I182650550436"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

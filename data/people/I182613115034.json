@@ -1,0 +1,107 @@
+{
+  "id": "I182613115034",
+  "name": {
+    "given": "Joan",
+    "surname": "Neville",
+    "suffix": null,
+    "full": "Joan Neville"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1375",
+        "year": 1375,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Champagne-Ardenne, France",
+        "parts": [
+          "Champagne-Ardenne",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 November 1440",
+        "year": 1440,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "South Yorkshire, England",
+        "parts": [
+          "South Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Lincoln, City of Lincoln, Lincolnshire, England",
+        "parts": [
+          "Lincoln",
+          "City of Lincoln",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613115033"
+      }
+    ],
+    "children": [
+      "I182613114837"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182613112318",
+  "person": "Remember Stowell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Apr 1662",
+        "year": 1662,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hingham, America, Massachusetts, United States",
+        "parts": [
+          "Hingham",
+          "America",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "05 Nov 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

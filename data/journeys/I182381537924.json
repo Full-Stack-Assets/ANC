@@ -1,0 +1,55 @@
+{
+  "id": "I182381537924",
+  "person": "Elizabeth Elsbeth Bulkeley",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beaumaris, Anglesey, Wales",
+        "parts": [
+          "Beaumaris",
+          "Anglesey",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Northbourne, Kent, England",
+        "parts": [
+          "Northbourne",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Feb 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182623692044",
+  "person": "Joane Barnard Whittaker",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Epworth, Lincolnshire, England",
+        "parts": [
+          "Epworth",
+          "Lincolnshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "South Ockendon, Essex, , England",
+        "parts": [
+          "South Ockendon",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Feb 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

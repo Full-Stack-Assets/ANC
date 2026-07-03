@@ -1,0 +1,71 @@
+{
+  "id": "I182650551811",
+  "name": {
+    "given": "Nathaniel",
+    "surname": "Reynolds",
+    "suffix": "III",
+    "full": "Nathaniel Reynolds III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Jan 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Bay Colony, Massachusetts",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Bay Colony",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Oct 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551815"
+      }
+    ],
+    "children": [
+      "I182650551408"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

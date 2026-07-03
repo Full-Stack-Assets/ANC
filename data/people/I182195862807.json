@@ -1,0 +1,65 @@
+{
+  "id": "I182195862807",
+  "name": {
+    "given": "Emaline",
+    "surname": "Shone",
+    "suffix": null,
+    "full": "Emaline Shone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Apx 1834/39",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Mar 1928",
+        "year": 1928,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862704",
+      "I182195862717"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

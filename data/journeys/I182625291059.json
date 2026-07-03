@@ -1,0 +1,177 @@
+{
+  "id": "I182625291059",
+  "person": "eliza wood",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Willington Somerset England",
+        "parts": [
+          "Willington Somerset England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        },
+        {
+          "source_id": "S516918987",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/17"
+        },
+        {
+          "source_id": "S516919029",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/12"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Jan 1848",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516919029",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/12"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "St James, Clerkenwell, Middlesex, England",
+        "parts": [
+          "St James",
+          "Clerkenwell",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516918987",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Mar 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516919008",
+          "page": "London Metropolitan Archives; London, England, UK; London Church of England Parish Registers; Reference Number: P90/PAN1/128"
+        },
+        {
+          "source_id": "S516919008",
+          "page": null
+        },
+        {
+          "source_id": "S513850664",
+          "page": null
+        },
+        {
+          "source_id": "S513850664",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/17"
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

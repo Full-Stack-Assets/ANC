@@ -1,0 +1,85 @@
+{
+  "id": "I182584905428",
+  "name": {
+    "given": "Rychard",
+    "surname": "Hodges",
+    "suffix": null,
+    "full": "Rychard Hodges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Dec 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dymock, Gloucestershire, England",
+        "parts": [
+          "Dymock",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Apr 1548",
+        "year": 1548,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dymock, Gloucestershire, England",
+        "parts": [
+          "Dymock",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182584905429"
+      }
+    ],
+    "children": [
+      "I182584905417",
+      "I182584905455"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513850668",
+      "title": "Bristol, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850671",
+      "title": "Shropshire, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182541959410",
+  "name": {
+    "given": "Mary",
+    "surname": "Woodbury",
+    "suffix": null,
+    "full": "Mary Woodbury"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Oct 1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Massachusetts",
+        "parts": [
+          "Beverly",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Aug 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, USA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959404"
+      }
+    ],
+    "children": [
+      "I182541959371"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

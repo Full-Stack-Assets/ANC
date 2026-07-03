@@ -1,0 +1,90 @@
+{
+  "id": "I182650549121",
+  "name": {
+    "given": "Sir John",
+    "surname": "De Hardy. Knight of the Garter",
+    "suffix": "Sheriff of London 1528",
+    "full": "Sir John De Hardy. Knight of the Garter Sheriff of London 1528"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1489",
+        "year": 1489,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wetwang, East Riding, Yorkshire, England",
+        "parts": [
+          "Wetwang",
+          "East Riding",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London England",
+        "parts": [
+          "London England"
+        ]
+      },
+      "value": null,
+      "note": "poisoned at a banquet",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650549126"
+      }
+    ],
+    "children": [
+      "I182650549105"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1489",
+        "year": 1489,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Riding, Yorkshire, , England",
+        "parts": [
+          "East Riding",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

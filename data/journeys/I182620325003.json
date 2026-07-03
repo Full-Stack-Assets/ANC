@@ -1,0 +1,69 @@
+{
+  "id": "I182620325003",
+  "person": "Joseph Mansfield",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bourne End, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Bourne End",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lynn, Massachusetts Bay Colony, British Colonial America, Essex, England, United Kingdom",
+        "parts": [
+          "Lynn",
+          "Massachusetts Bay Colony",
+          "British Colonial America",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 April 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

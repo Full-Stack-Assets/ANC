@@ -1,0 +1,94 @@
+{
+  "id": "I182197444985",
+  "person": "Brita Pehrsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Norrbarke, Kopparberg, Sweden",
+        "parts": [
+          "Norrbarke",
+          "Kopparberg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Feb 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Backgården, Hadäng, Velinga, Västra Götaland, Sweden",
+        "parts": [
+          "Backgården",
+          "Hadäng",
+          "Velinga",
+          "Västra Götaland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Feb 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "I182381537301",
+  "name": {
+    "given": "Androw",
+    "surname": "Lyndsay",
+    "suffix": null,
+    "full": "Androw Lyndsay"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Aug 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Anstruther, Fife",
+        "parts": [
+          "Anstruther",
+          "Fife"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537324"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537321"
+      }
+    ],
+    "children": [
+      "I182381537295"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

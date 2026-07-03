@@ -1,0 +1,71 @@
+{
+  "id": "I182541960338",
+  "name": {
+    "given": "Ruth",
+    "surname": "Gardner",
+    "suffix": null,
+    "full": "Ruth Gardner"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Jan 1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, United States",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Oct 1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, United States",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541955760"
+      }
+    ],
+    "children": [
+      "I182528279309"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

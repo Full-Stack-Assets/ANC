@@ -1,0 +1,92 @@
+{
+  "id": "I182541964104",
+  "name": {
+    "given": "Ann",
+    "surname": "Holland",
+    "suffix": null,
+    "full": "Ann Holland"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorking, Surrey, England, United Kingdom",
+        "parts": [
+          "Dorking",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 March 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964200",
+      "I182541964195"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964106"
+      }
+    ],
+    "children": [
+      "I182541958293"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

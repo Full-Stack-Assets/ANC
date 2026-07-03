@@ -1,0 +1,54 @@
+{
+  "id": "I182613112228",
+  "person": "John French",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts Colony",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Mar 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Massachusetts, United States of America",
+        "parts": [
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 February 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

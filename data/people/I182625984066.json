@@ -1,0 +1,91 @@
+{
+  "id": "I182625984066",
+  "name": {
+    "given": "Richard",
+    "surname": "Culpepper",
+    "suffix": null,
+    "full": "Richard Culpepper"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1430",
+        "year": 1430,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Peckham, Tonbridge and Malling Borough, Kent, England",
+        "parts": [
+          "West Peckham",
+          "Tonbridge and Malling Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1484",
+        "year": 1484,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Peckham, Tonbridge and Malling Borough, Kent, England",
+        "parts": [
+          "West Peckham",
+          "Tonbridge and Malling Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625984170"
+      }
+    ],
+    "children": [
+      "I182625983720",
+      "I182625984169",
+      "I182625984171"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

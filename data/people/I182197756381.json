@@ -1,0 +1,105 @@
+{
+  "id": "I182197756381",
+  "name": {
+    "given": "Mary",
+    "surname": "Ware",
+    "suffix": null,
+    "full": "Mary Ware"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 September 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester County, New Jersey, United States of America",
+        "parts": [
+          "Gloucester County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 January 1845",
+        "year": 1845,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Montgomery County, Ohio, United States of America",
+        "parts": [
+          "Montgomery County",
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Pyrmont, Montgomery County, Ohio, United States of America",
+        "parts": [
+          "Pyrmont",
+          "Montgomery County",
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197756380"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182620325059",
+  "name": {
+    "given": "Martha Jane",
+    "surname": "Box",
+    "suffix": null,
+    "full": "Martha Jane Box"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Nov 1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Andrew, London, England",
+        "parts": [
+          "St Andrew",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620334529",
+      "I182620334542"
+    ],
+    "spouses": [
+      {
+        "id": "I182620325052"
+      }
+    ],
+    "children": [
+      "I182620325005"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

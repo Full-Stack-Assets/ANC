@@ -1,0 +1,88 @@
+{
+  "id": "I182381537186",
+  "name": {
+    "given": "Janet",
+    "surname": "MacGregor",
+    "suffix": null,
+    "full": "Janet MacGregor"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland, United Kingdom",
+        "parts": [
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Oct 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland, United Kingdom",
+        "parts": [
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537199"
+      }
+    ],
+    "children": [
+      "I182381537173"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland, United Kingdom",
+        "parts": [
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

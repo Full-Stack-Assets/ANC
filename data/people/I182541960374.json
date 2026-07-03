@@ -1,0 +1,70 @@
+{
+  "id": "I182541960374",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "White (?)",
+    "suffix": null,
+    "full": "Elizabeth White (?)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Martley, Worcestershire, England",
+        "parts": [
+          "Martley",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bedfordshire, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Bedfordshire",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541960385"
+      }
+    ],
+    "children": [
+      "I182541956230"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

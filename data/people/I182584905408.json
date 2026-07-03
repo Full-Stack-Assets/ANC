@@ -1,0 +1,65 @@
+{
+  "id": "I182584905408",
+  "name": {
+    "given": "John",
+    "surname": "Hatton Adams K HFR",
+    "suffix": null,
+    "full": "John Hatton Adams K HFR"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton St David, Somerset, England",
+        "parts": [
+          "Barton St David",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1542/43",
+        "year": 1542,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton St David, Somerset, England",
+        "parts": [
+          "Barton St David",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182584904941"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

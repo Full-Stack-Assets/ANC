@@ -1,0 +1,72 @@
+{
+  "id": "I182541967139",
+  "name": {
+    "given": "William Edward",
+    "surname": "Henly",
+    "suffix": null,
+    "full": "William Edward Henly"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967168",
+      "I182541967165"
+    ],
+    "spouses": [
+      {
+        "id": "I182541967141"
+      }
+    ],
+    "children": [
+      "I182541966063"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

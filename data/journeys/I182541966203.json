@@ -1,0 +1,56 @@
+{
+  "id": "I182541966203",
+  "person": "John (Wyeth) White",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Shalford, Colchester, Essex, England",
+        "parts": [
+          "Shalford",
+          "Colchester",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Dec 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Jan 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

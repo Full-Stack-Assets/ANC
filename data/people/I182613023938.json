@@ -1,0 +1,159 @@
+{
+  "id": "I182613023938",
+  "name": {
+    "given": "John",
+    "surname": "Fox",
+    "suffix": ", 3rd?",
+    "full": "John Fox , 3rd?"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Dec 1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walcott, Norfolk, England",
+        "parts": [
+          "Walcott",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Jan 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walcott, North Norfolk District, Norfolk, England",
+        "parts": [
+          "Walcott",
+          "North Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025078",
+      "I182613025110"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613023922"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walcott, North Norfolk District, Norfolk, England",
+        "parts": [
+          "Walcott",
+          "North Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1 Aug 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walcott, Norfolk, England",
+        "parts": [
+          "Walcott",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "8 Jan 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walcott, Norfolk, England",
+        "parts": [
+          "Walcott",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

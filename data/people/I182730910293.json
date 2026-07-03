@@ -1,0 +1,85 @@
+{
+  "id": "I182730910293",
+  "name": {
+    "given": "William",
+    "surname": "Biggs",
+    "suffix": null,
+    "full": "William Biggs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southampton, Hampshire, England",
+        "parts": [
+          "Southampton",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Mar 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elizabeth River, Norfolk, Virginia, USA",
+        "parts": [
+          "Elizabeth River",
+          "Norfolk",
+          "Virginia",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970608",
+      "I182730910290"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

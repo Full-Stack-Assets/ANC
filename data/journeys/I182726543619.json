@@ -1,0 +1,88 @@
+{
+  "id": "I182726543619",
+  "person": "Jennette",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Warwickshire, England",
+        "parts": [
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1499",
+        "year": 1499,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Warwickshire, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Warwickshire",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1514",
+        "year": 1514,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Denchworth, Berkshire, England",
+        "parts": [
+          "Denchworth",
+          "Berkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Sep 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

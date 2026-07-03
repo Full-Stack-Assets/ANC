@@ -1,0 +1,49 @@
+{
+  "id": "I182587607797",
+  "name": {
+    "given": "Robert *Rot)",
+    "surname": "Hunter",
+    "suffix": null,
+    "full": "Robert *Rot) Hunter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Sep 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glasgow, Lanarkshire, Scotland, United Kingdom",
+        "parts": [
+          "Glasgow",
+          "Lanarkshire",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607813"
+      }
+    ],
+    "children": [
+      "I182587607764"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182623663970",
+  "person": "Johann Valentin Spiegel",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Altenhof, Fulda, Hesse, Germany",
+        "parts": [
+          "Altenhof",
+          "Fulda",
+          "Hesse",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Apr 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Schmalnau, Fulda, Hessen, Germany",
+        "parts": [
+          "Schmalnau",
+          "Fulda",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Jan 1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

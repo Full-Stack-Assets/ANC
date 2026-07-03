@@ -1,0 +1,159 @@
+{
+  "id": "I182381536994",
+  "name": {
+    "given": "Isabella",
+    "surname": "Boyce",
+    "suffix": null,
+    "full": "Isabella Boyce"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelton, Kirkudbrightshire, Scotland",
+        "parts": [
+          "Kelton",
+          "Kirkudbrightshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bay Fortune, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Bay Fortune",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537018"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537010"
+      }
+    ],
+    "children": [
+      "I182381536967"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cassaend Kelton, Dumfries-Shire, Scotland",
+        "parts": [
+          "Cassaend Kelton",
+          "Dumfries-Shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Cassaend, Kelton, Kirkcudbrightshire, Scotland",
+        "parts": [
+          "Cassaend",
+          "Kelton",
+          "Kirkcudbrightshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bay Fortune, Prince Edward Island, Canada",
+        "parts": [
+          "Bay Fortune",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "31/ / 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bay Fortune, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Bay Fortune",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

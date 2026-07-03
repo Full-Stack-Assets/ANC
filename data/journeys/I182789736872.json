@@ -1,0 +1,64 @@
+{
+  "id": "I182789736872",
+  "person": "Harriett Susanna Piggot",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Savage Harbour, Prince Edward Island, Canada",
+        "parts": [
+          "Savage Harbour",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Dec 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Massachusetts, USA",
+        "parts": [
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1943",
+        "year": 1943,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

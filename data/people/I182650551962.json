@@ -1,0 +1,71 @@
+{
+  "id": "I182650551962",
+  "name": {
+    "given": "Martha Mary Luther",
+    "surname": "Cole",
+    "suffix": null,
+    "full": "Martha Mary Luther Cole"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 May 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Swansea, Bristol, Massachusetts, United States",
+        "parts": [
+          "Swansea",
+          "Bristol",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Swansea, Bristol, Massachusetts, United States",
+        "parts": [
+          "Swansea",
+          "Bristol",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551968"
+      }
+    ],
+    "children": [
+      "I182650551944"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

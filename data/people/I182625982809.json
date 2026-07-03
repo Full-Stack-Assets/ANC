@@ -1,0 +1,156 @@
+{
+  "id": "I182625982809",
+  "name": {
+    "given": "King Henry VIII",
+    "surname": null,
+    "suffix": null,
+    "full": "King Henry VIII"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 June 1491",
+        "year": 1491,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greenwich, Royal Borough of Greenwich, Greater London, England",
+        "parts": [
+          "Greenwich",
+          "Royal Borough of Greenwich",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 January 1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, City of Westminster, Greater London, England",
+        "parts": [
+          "St James",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Windsor, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Windsor",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625982485",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 May 1533",
+            "year": 1533,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516958479",
+              "page": null
+            },
+            {
+              "source_id": "S516958479",
+              "page": "Henry County Local; Publication Date: 29/ Jul/ 1976; Publication Place: New Castle, Kentucky, USA; URL: https://www.newspapers.com/image/920571034/?article=09f45860-9777-4cb4-8fe4-bd90d89af87d&focus=0.030712668,0.93664306,0.15072031,0.975404&xid=3398"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625983112"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516958479",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

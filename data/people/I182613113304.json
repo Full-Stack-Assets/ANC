@@ -1,0 +1,90 @@
+{
+  "id": "I182613113304",
+  "name": {
+    "given": "Faith",
+    "surname": "Bevelle",
+    "suffix": null,
+    "full": "Faith Bevelle"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 August 1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huntingdon, Huntingdonshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Huntingdon",
+          "Huntingdonshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113213",
+      "I182613113312",
+      "I182613113313",
+      "I182613113305"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

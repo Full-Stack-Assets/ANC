@@ -1,0 +1,48 @@
+{
+  "id": "I182594402074",
+  "person": "Margaret Hughes",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Newborough, Anglesey, Wales",
+        "parts": [
+          "Newborough",
+          "Anglesey",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "(11G-GM)",
+        "parts": [
+          "(11G-GM)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

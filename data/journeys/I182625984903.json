@@ -1,0 +1,104 @@
+{
+  "id": "I182625984903",
+  "person": "Susan Armitage",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bradford, Yorkshire, West Yorkshire, England, United Kingdom",
+        "parts": [
+          "Bradford",
+          "Yorkshire",
+          "West Yorkshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hempstead, Livingston, New York, Colonial America",
+        "parts": [
+          "Hempstead",
+          "Livingston",
+          "New York",
+          "Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": "Source number: 542.000; Source type: Electronic Database; Number of Pages: 1; Submitter Code: DG1"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Hempstead, New York, USA",
+        "parts": [
+          "Hempstead",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 January 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

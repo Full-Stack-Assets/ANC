@@ -1,0 +1,123 @@
+{
+  "id": "I182613112261",
+  "name": {
+    "given": "Robert (Robertus)",
+    "surname": "Tucker",
+    "suffix": null,
+    "full": "Robert (Robertus) Tucker"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Jun 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton-next-Gravesand, Kent, England",
+        "parts": [
+          "Milton-next-Gravesand",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Mar 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Massachusetts",
+        "parts": [
+          "Milton",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613112254"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "MA",
+        "parts": [
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "Bet. 09–11 Mar 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Massachusetts Bay Colony",
+        "parts": [
+          "Milton",
+          "Massachusetts Bay Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

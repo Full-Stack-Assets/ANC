@@ -1,0 +1,70 @@
+{
+  "id": "I182292319731",
+  "name": {
+    "given": "Sven",
+    "surname": "Persson",
+    "suffix": null,
+    "full": "Sven Persson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "ABT 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ramkvilla, Jönköpings län, Sweden",
+        "parts": [
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319723"
+      }
+    ],
+    "children": [
+      "I182292319713"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

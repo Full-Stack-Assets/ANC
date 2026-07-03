@@ -1,0 +1,70 @@
+{
+  "id": "I182541965892",
+  "person": "Joseph Hibbard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Manchester, Mass, Massachusetts, USA",
+        "parts": [
+          "Manchester",
+          "Mass",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 April 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marblehead, Massachusetts, USA",
+        "parts": [
+          "Marblehead",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Jul 1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

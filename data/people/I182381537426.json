@@ -1,0 +1,70 @@
+{
+  "id": "I182381537426",
+  "name": {
+    "given": "Johne John",
+    "surname": "WATSONE\\WATSON",
+    "suffix": null,
+    "full": "Johne John WATSONE\\WATSON"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Craigmillar, Edinburgh, Midlothian, Scotland",
+        "parts": [
+          "Craigmillar",
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Apr 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537409"
+      }
+    ],
+    "children": [
+      "I182381537282"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

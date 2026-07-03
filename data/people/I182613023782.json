@@ -1,0 +1,71 @@
+{
+  "id": "I182613023782",
+  "name": {
+    "given": "Ian Hans",
+    "surname": "Ivarson",
+    "suffix": null,
+    "full": "Ian Hans Ivarson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1493",
+        "year": 1493,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckingham, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Buckingham",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckingham, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Buckingham",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613023780"
+      }
+    ],
+    "children": [
+      "I182613023707"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

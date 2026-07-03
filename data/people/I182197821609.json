@@ -1,0 +1,94 @@
+{
+  "id": "I182197821609",
+  "name": {
+    "given": "Claes",
+    "surname": "PIETERSZ",
+    "suffix": null,
+    "full": "Claes PIETERSZ"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stolwijk",
+        "parts": [
+          "Stolwijk"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        },
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stolwijk",
+        "parts": [
+          "Stolwijk"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        },
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197824762",
+      "I182197825181"
+    ],
+    "spouses": [
+      {
+        "id": "I182197821577"
+      }
+    ],
+    "children": [
+      "I182197821557"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S476265398",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

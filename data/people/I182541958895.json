@@ -1,0 +1,219 @@
+{
+  "id": "I182541958895",
+  "name": {
+    "given": "Henry L",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Henry L Donahue"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jan 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Massachusetts, USA",
+        "parts": [
+          "Worcester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S447115751",
+          "page": null
+        },
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541939915",
+      "I182541940428"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "4 Feb 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447252836",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 18, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 18",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Son",
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 19, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 19",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Salesman; Marital Status: Single; Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 14, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 14",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Son",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Suffolk, Massachusetts, USA",
+        "parts": [
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head: Head",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115751",
+      "title": "1900 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447252836",
+      "title": "Massachusetts, Boston Archdiocese Roman Catholic Sacramental Records, 1789-1900",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

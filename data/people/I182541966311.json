@@ -1,0 +1,48 @@
+{
+  "id": "I182541966311",
+  "name": {
+    "given": "Anne (Anna)",
+    "surname": "Allen",
+    "suffix": null,
+    "full": "Anne (Anna) Allen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "05 Jul 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Long Bennington, Lincolnshire, England",
+        "parts": [
+          "Long Bennington",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966310"
+      }
+    ],
+    "children": [
+      "I182541966306"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

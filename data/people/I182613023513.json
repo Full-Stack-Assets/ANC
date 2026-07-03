@@ -1,0 +1,97 @@
+{
+  "id": "I182613023513",
+  "name": {
+    "given": "Benjamin Ellis",
+    "surname": "Mitchell Jr",
+    "suffix": null,
+    "full": "Benjamin Ellis Mitchell Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 May 1858",
+        "year": 1858,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "BEF 1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112473",
+      "I182613112469"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023502"
+      }
+    ],
+    "children": [
+      "I182536798044"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "28 MAY 1858",
+        "year": 1858,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, United States",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

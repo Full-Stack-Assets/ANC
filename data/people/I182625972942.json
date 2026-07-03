@@ -1,0 +1,66 @@
+{
+  "id": "I182625972942",
+  "name": {
+    "given": "Joanna (Bastaard)",
+    "surname": "van Hoorne",
+    "suffix": null,
+    "full": "Joanna (Bastaard) van Hoorne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "?",
+        "parts": [
+          "?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 February 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tongelre, Eindhoven",
+        "parts": [
+          "Tongelre",
+          "Eindhoven"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972946"
+      }
+    ],
+    "children": [
+      "I182625972917"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

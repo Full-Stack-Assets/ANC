@@ -1,0 +1,55 @@
+{
+  "id": "I182659715006",
+  "person": "Mary Ellen Nell Giessen Donohue",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cincinnati, Hamilton, Ohio",
+        "parts": [
+          "Cincinnati",
+          "Hamilton",
+          "Ohio"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Jul 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Jacksonville, Duval, Florida",
+        "parts": [
+          "Jacksonville",
+          "Duval",
+          "Florida"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Oct 1979",
+        "year": 1979,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

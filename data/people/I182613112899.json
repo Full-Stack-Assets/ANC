@@ -1,0 +1,73 @@
+{
+  "id": "I182613112899",
+  "name": {
+    "given": "Damaris Page Gardner",
+    "surname": "Sibley",
+    "suffix": null,
+    "full": "Damaris Page Gardner Sibley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Feb 1597",
+        "year": 1597,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saint Pauls, Walden, Hertfordshire, England",
+        "parts": [
+          "Saint Pauls",
+          "Walden",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 November 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salem",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112914"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112908"
+      }
+    ],
+    "children": [
+      "I182613112683"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

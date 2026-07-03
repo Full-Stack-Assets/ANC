@@ -1,0 +1,88 @@
+{
+  "id": "I182625987637",
+  "name": {
+    "given": "Jane Sibyl",
+    "surname": "Marshorrison",
+    "suffix": null,
+    "full": "Jane Sibyl Marshorrison"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cashiobury, Walford, Hertfordshire, England, United Kingdom",
+        "parts": [
+          "Cashiobury",
+          "Walford",
+          "Hertfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 June 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987786"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987608"
+      }
+    ],
+    "children": [
+      "I182625987635",
+      "I182625987638",
+      "I182625987634",
+      "I182625987636",
+      "I182541957758"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

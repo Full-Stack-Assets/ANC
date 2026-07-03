@@ -1,0 +1,66 @@
+{
+  "id": "I182625970617",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Ireland",
+    "suffix": null,
+    "full": "Elizabeth Ireland"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Dec 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Michael Paternoster Royal, London, England",
+        "parts": [
+          "St Michael Paternoster Royal",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970644",
+      "I182625970642"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625292278"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182620314915",
+  "person": "*Nichollas Farlam",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Of High Ousley, Allendale, Northumberland, England",
+        "parts": [
+          "Of High Ousley",
+          "Allendale",
+          "Northumberland",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Allendale, , , England",
+        "parts": [
+          "Allendale",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 May 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

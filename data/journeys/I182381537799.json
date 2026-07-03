@@ -1,0 +1,57 @@
+{
+  "id": "I182381537799",
+  "person": "Rachel Vincent",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Yonkers, Westchester, New York, United States",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Yonkers, Westchester, New York, United States",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

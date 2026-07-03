@@ -1,0 +1,73 @@
+{
+  "id": "I182613112756",
+  "name": {
+    "given": "Lady Alice Gascoigne",
+    "surname": "Haselwood Bernard (Barnard)",
+    "suffix": null,
+    "full": "Lady Alice Gascoigne Haselwood Bernard (Barnard)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Aug 1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maidwell Par., Brixworth, Northamptonshire, England",
+        "parts": [
+          "Maidwell Par.",
+          "Brixworth",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Oct 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington Hall, Abington, Northamptonshire, England",
+        "parts": [
+          "Abington Hall",
+          "Abington",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112769"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112752"
+      }
+    ],
+    "children": [
+      "I182613112735"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

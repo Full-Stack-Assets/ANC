@@ -1,0 +1,68 @@
+{
+  "id": "I182381536493",
+  "name": {
+    "given": "William",
+    "surname": "Tetherly",
+    "suffix": "II",
+    "full": "William Tetherly II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Apr 1597",
+        "year": 1597,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northam, Devon, England",
+        "parts": [
+          "Northam",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Apr. 30, 1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kittery, York, Maine, United States",
+        "parts": [
+          "Kittery",
+          "York",
+          "Maine",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536507"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381536486"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

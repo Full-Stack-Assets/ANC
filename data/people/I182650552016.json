@@ -1,0 +1,71 @@
+{
+  "id": "I182650552016",
+  "name": {
+    "given": "Lyon Edward",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "Lyon Edward Smyth"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warkton, Northamptonshire, England",
+        "parts": [
+          "Warkton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 JAN 1668",
+        "year": 1668,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northhampton, England",
+        "parts": [
+          "Northhampton",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552074",
+      "I182650552065"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552005"
+      }
+    ],
+    "children": [
+      "I182650551997"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

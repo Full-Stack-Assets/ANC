@@ -1,0 +1,65 @@
+{
+  "id": "I182650551711",
+  "name": {
+    "given": "Isabella (Isobel)",
+    "surname": "Falconer Dunbar",
+    "suffix": null,
+    "full": "Isabella (Isobel) Falconer Dunbar"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halkerton, Forfar, Angus, Scotland",
+        "parts": [
+          "Halkerton",
+          "Forfar",
+          "Angus",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Aug 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grange Hill, Scotland",
+        "parts": [
+          "Grange Hill",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650551686"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

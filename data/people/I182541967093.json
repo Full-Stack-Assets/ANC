@@ -1,0 +1,70 @@
+{
+  "id": "I182541967093",
+  "name": {
+    "given": "Robert",
+    "surname": "Martyn (of Stockenham)",
+    "suffix": null,
+    "full": "Robert Martyn (of Stockenham)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "of Sherford, Devon, England, Great Britain",
+        "parts": [
+          "of Sherford",
+          "Devon",
+          "England",
+          "Great Britain"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Feb 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sherford, Devon, England",
+        "parts": [
+          "Sherford",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541967097"
+      }
+    ],
+    "children": [
+      "I182541967081"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182625292247",
+  "name": {
+    "given": "David",
+    "surname": "Hawkins 2R",
+    "suffix": null,
+    "full": "David Hawkins 2R"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Sep 1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Long Island City, Queens, New York, United States",
+        "parts": [
+          "Long Island City",
+          "Queens",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Feb 1796",
+        "year": 1796,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange, New York, United States",
+        "parts": [
+          "Hamptonburgh",
+          "Orange",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292257",
+      "I182625292255"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292245"
+      }
+    ],
+    "children": [
+      "I182534044148"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

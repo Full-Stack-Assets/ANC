@@ -1,0 +1,75 @@
+{
+  "id": "I182195860381",
+  "person": "Simon A Swanson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Göteborgs Och Bohus",
+        "parts": [
+          "Göteborgs Och Bohus"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 MAR 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Easton, Massachusetts",
+        "parts": [
+          "Easton",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 MAY 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Easton, Bristol, Massachusetts",
+        "parts": [
+          "Easton",
+          "Bristol",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Mar 1921",
+        "year": 1921,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

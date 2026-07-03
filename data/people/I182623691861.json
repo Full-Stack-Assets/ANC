@@ -1,0 +1,269 @@
+{
+  "id": "I182623691861",
+  "name": {
+    "given": "Nathaniel",
+    "surname": "Joslin",
+    "suffix": null,
+    "full": "Nathaniel Joslin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 April 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts Bay Colony, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts Bay Colony",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 March 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts Bay Colony, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts Bay Colony",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691905",
+      "I182623691900"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691853"
+      }
+    ],
+    "children": [
+      "I182623691720"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 Jun 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 June 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancaster, Worc, MA",
+        "parts": [
+          "Lancaster",
+          "Worc",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 JUN 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancaster, Worcester Co., Massachusetts",
+        "parts": [
+          "Lancaster",
+          "Worcester Co.",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 April 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancaster, Worcester, Massachusetts, United States",
+        "parts": [
+          "Lancaster",
+          "Worcester",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "MA",
+        "parts": [
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "8 Mar 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "5 March 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlboro, Middlesex, MA, United States",
+        "parts": [
+          "Marlboro",
+          "Middlesex",
+          "MA",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "5 Mar 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": "Age: 69",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "8 Mar 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, MA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182292319723",
+  "person": "Märit Håkansdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stora Torp, Ramkvilla, Jönköping, Sverige",
+        "parts": [
+          "Stora Torp",
+          "Ramkvilla",
+          "Jönköping",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköping, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköping",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 SEP 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

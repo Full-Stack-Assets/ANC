@@ -1,0 +1,56 @@
+{
+  "id": "I182292319695",
+  "person": "Djur Persson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hylletofta, Jönköping, Sverige",
+        "parts": [
+          "Hylletofta",
+          "Jönköping",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 okt 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

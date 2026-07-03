@@ -1,0 +1,126 @@
+{
+  "id": "I182197444985",
+  "name": {
+    "given": "Brita",
+    "surname": "Pehrsdotter",
+    "suffix": null,
+    "full": "Brita Pehrsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backgården, Hadäng, Velinga, Västra Götaland, Sweden",
+        "parts": [
+          "Backgården",
+          "Hadäng",
+          "Velinga",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197445060",
+      "I182381535988"
+    ],
+    "spouses": [
+      {
+        "id": "I182197444991"
+      }
+    ],
+    "children": [
+      "I182197445221",
+      "I182197444971"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "25 Feb 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrbarke, Kopparberg, Sweden",
+        "parts": [
+          "Norrbarke",
+          "Kopparberg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115831",
+      "title": "Sweden, Select Burials, 1649-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115815",
+      "title": "Sweden, Select Baptisms, 1611-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

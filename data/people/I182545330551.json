@@ -1,0 +1,85 @@
+{
+  "id": "I182545330551",
+  "name": {
+    "given": "William Eugene",
+    "surname": "Blake",
+    "suffix": null,
+    "full": "William Eugene Blake"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Aug 1884",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eldred, McKean, Pennsylvania",
+        "parts": [
+          "Eldred",
+          "McKean",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Aug 1955",
+        "year": 1955,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Utica, Licking, Ohio",
+        "parts": [
+          "Utica",
+          "Licking",
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182545330540"
+    ],
+    "spouses": [],
+    "children": [
+      "I182545330568"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

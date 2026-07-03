@@ -1,0 +1,71 @@
+{
+  "id": "I182623689782",
+  "name": {
+    "given": "Thankful",
+    "surname": "Atkins",
+    "suffix": null,
+    "full": "Thankful Atkins"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Jan 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26  Jul 1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689818"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689787"
+      }
+    ],
+    "children": [
+      "I182623679498"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

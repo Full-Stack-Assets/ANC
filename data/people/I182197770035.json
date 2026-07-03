@@ -1,0 +1,66 @@
+{
+  "id": "I182197770035",
+  "name": {
+    "given": "John",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "John Morrow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Feb 1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lisburn, Antrim, Northern Ireland",
+        "parts": [
+          "Lisburn",
+          "Antrim",
+          "Northern Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Lot # 47, PEI, Canada",
+        "parts": [
+          "Lot # 47",
+          "PEI",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536536"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536534"
+      }
+    ],
+    "children": [
+      "I182197770013"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

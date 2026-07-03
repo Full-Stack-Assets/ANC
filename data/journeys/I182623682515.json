@@ -1,0 +1,58 @@
+{
+  "id": "I182623682515",
+  "person": "Eleanore Cresswell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rodenham, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Rodenham",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 January 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Benet's, London, London, England, United Kingdom",
+        "parts": [
+          "St Benet's",
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 September 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

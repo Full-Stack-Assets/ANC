@@ -1,0 +1,81 @@
+{
+  "id": "I182587607943",
+  "name": {
+    "given": "Janet",
+    "surname": "Chalmers",
+    "suffix": null,
+    "full": "Janet Chalmers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Chalmerstone",
+        "parts": [
+          "Chalmerstone"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Iss Several Daus",
+        "parts": [
+          "Iss Several Daus"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607886"
+      }
+    ],
+    "children": [
+      "I182587607877",
+      "I182587607940",
+      "I182587607941",
+      "I182587607944"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

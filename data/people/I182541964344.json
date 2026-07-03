@@ -1,0 +1,104 @@
+{
+  "id": "I182541964344",
+  "name": {
+    "given": "Henry",
+    "surname": "PAULLIN (Pawlin) (Palling)",
+    "suffix": null,
+    "full": "Henry PAULLIN (Pawlin) (Palling)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "ENGLAND",
+        "parts": [
+          "ENGLAND"
+        ]
+      },
+      "value": null,
+      "note": "possibly Padbury, Buckinghamshire; but baptism in London, makes that location more likely",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove Salem County, New Jersey",
+        "parts": [
+          "Pilesgrove Salem County",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964570",
+      "I182541964572"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964338"
+      }
+    ],
+    "children": [
+      "I182541959101"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1684-1700",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bucks, Pennsylvania, USA",
+        "parts": [
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508119566",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508119566",
+      "title": "Records of the Courts of Quarter Sessions and Common Pleas of Bucks County, Pennsylvania, 1684-1700",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

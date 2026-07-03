@@ -1,0 +1,97 @@
+{
+  "id": "I182195863173",
+  "name": {
+    "given": "James",
+    "surname": "McCue",
+    "suffix": null,
+    "full": "James McCue"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195863174",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Unknown",
+            "year": null,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195863107",
+      "I182195863175"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

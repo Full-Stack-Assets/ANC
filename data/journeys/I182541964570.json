@@ -1,0 +1,54 @@
+{
+  "id": "I182541964570",
+  "person": "HENRY Sr. PAULIN Captain, Immigrant",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Buckinghamshire, England",
+        "parts": [
+          "Buckinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": ", Pasquotank, North Carolina, USA",
+        "parts": [
+          "Pasquotank",
+          "North Carolina",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

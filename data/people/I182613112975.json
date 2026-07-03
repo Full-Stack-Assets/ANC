@@ -1,0 +1,73 @@
+{
+  "id": "I182613112975",
+  "name": {
+    "given": "Adam",
+    "surname": "EVE",
+    "suffix": null,
+    "full": "Adam EVE"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "White Roding, Essex, England",
+        "parts": [
+          "White Roding",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Mar 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112982",
+      "I182613112980"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112970"
+      }
+    ],
+    "children": [
+      "I182613112533"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

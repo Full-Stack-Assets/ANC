@@ -1,0 +1,74 @@
+{
+  "id": "I182625972093",
+  "name": {
+    "given": "Joseph Michael",
+    "surname": "Hohman",
+    "suffix": null,
+    "full": "Joseph Michael Hohman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Apr 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mittelkalbach, Fulda, Hessen, Germany",
+        "parts": [
+          "Mittelkalbach",
+          "Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Jul 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Enoch, Noble, Ohio, United States",
+        "parts": [
+          "Enoch",
+          "Noble",
+          "Ohio",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972104",
+      "I182625972100"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972090"
+      }
+    ],
+    "children": [
+      "I182623698466"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

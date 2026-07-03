@@ -1,0 +1,74 @@
+{
+  "id": "I182613113064",
+  "name": {
+    "given": "John",
+    "surname": "Richardson",
+    "suffix": null,
+    "full": "John Richardson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 August 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 November 1745",
+        "year": 1745,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113073",
+      "I182613113090"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113069"
+      }
+    ],
+    "children": [
+      "I182613113052"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

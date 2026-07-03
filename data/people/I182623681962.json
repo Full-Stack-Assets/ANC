@@ -1,0 +1,79 @@
+{
+  "id": "I182623681962",
+  "name": {
+    "given": "Elizabeth Martha",
+    "surname": "Brereton Of Malpas",
+    "suffix": null,
+    "full": "Elizabeth Martha Brereton Of Malpas"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Malpas, Cheshire, England, United Kingdom",
+        "parts": [
+          "Malpas",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 November 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire, Cheshire, England, United Kingdom",
+        "parts": [
+          "Cheshire",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623682304"
+      }
+    ],
+    "children": [
+      "I182623681869"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810996",
+      "title": "Cheshire, England, Select Bishop's Transcripts, 1576-1933",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

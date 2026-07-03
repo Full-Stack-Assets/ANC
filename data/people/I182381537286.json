@@ -1,0 +1,71 @@
+{
+  "id": "I182381537286",
+  "name": {
+    "given": "Bessie",
+    "surname": "PEIRSONE\\PEIRSON\\PERSON\\PEARSON\\PEARSONE",
+    "suffix": null,
+    "full": "Bessie PEIRSONE\\PEIRSON\\PERSON\\PEARSON\\PEARSONE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Jul 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Midlothian, Scotland",
+        "parts": [
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537361",
+      "I182381537348"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537295"
+      }
+    ],
+    "children": [
+      "I182381537279"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

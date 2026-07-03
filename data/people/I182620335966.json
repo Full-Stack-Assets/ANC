@@ -1,0 +1,56 @@
+{
+  "id": "I182620335966",
+  "name": {
+    "given": "Robert",
+    "surname": "Mansel",
+    "suffix": null,
+    "full": "Robert Mansel"
+  },
+  "sex": null,
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182620335913"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "15 Apr 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, England",
+        "parts": [
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516621441",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516621441",
+      "title": "Gloucestershire, England, Church of England Baptisms, Marriages and Burials, 1538-1813",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

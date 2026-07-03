@@ -1,0 +1,161 @@
+{
+  "id": "I182195858598",
+  "name": {
+    "given": "Howard Russell",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Howard Russell Morrow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Aug 1913",
+        "year": 1913,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton Norfolk Co. MA USA",
+        "parts": [
+          "Milton Norfolk Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 686"
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Dec 1973",
+        "year": 1973,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterbury New Haven County Connecticut USA",
+        "parts": [
+          "Waterbury New Haven County Connecticut USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858596",
+      "I182195858597"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Son",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 686"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "military",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Occupation: Howard D Johnson Co",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 686"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880317",
+      "title": "U.S., World War II Draft Cards Young Men, 1940-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

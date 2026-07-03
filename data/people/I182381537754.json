@@ -1,0 +1,74 @@
+{
+  "id": "I182381537754",
+  "name": {
+    "given": "Caleb",
+    "surname": "Hunt",
+    "suffix": null,
+    "full": "Caleb Hunt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grove Farm, Throgg's Neck, British Colony of New York",
+        "parts": [
+          "Grove Farm",
+          "Throgg's Neck",
+          "British Colony of New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Dec 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grove Farm, Eastchester, Westchester, New York, United States",
+        "parts": [
+          "Grove Farm",
+          "Eastchester",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537788",
+      "I182381537779"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537747"
+      }
+    ],
+    "children": [
+      "I182381537723"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

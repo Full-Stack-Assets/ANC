@@ -1,0 +1,103 @@
+{
+  "id": "I182197730733",
+  "name": {
+    "given": "John",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "John Albertson"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 December 1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 December 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Haddonfield, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Haddonfield",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197730682"
+      }
+    ],
+    "children": [
+      "I182197730739",
+      "I182197730740",
+      "I182197730737",
+      "I182197730734",
+      "I182197730742",
+      "I182197730736",
+      "I182197730741",
+      "I182197730735",
+      "I182197730738"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182620323505",
+  "name": {
+    "given": "Malcolm",
+    "surname": "Ross",
+    "suffix": null,
+    "full": "Malcolm Ross"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kilmuir, Inverness, Scotland, United Kingdom",
+        "parts": [
+          "Kilmuir",
+          "Inverness",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "05 Jul 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cromarty, Ross & Cromarty, Scotland",
+        "parts": [
+          "Cromarty",
+          "Ross & Cromarty",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323502"
+      }
+    ],
+    "children": [
+      "I182620323070"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182623694579",
+  "person": "Hannah Cooke",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, United States",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 January 1699 -1700",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lyme, New London, Connecticut, United States",
+        "parts": [
+          "Lyme",
+          "New London",
+          "Connecticut",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 July 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,133 @@
+{
+  "id": "I182613112228",
+  "name": {
+    "given": "John",
+    "surname": "French",
+    "suffix": null,
+    "full": "John French"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Mar 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts Colony",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 February 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts, United States of America",
+        "parts": [
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112244",
+      "I182613112251"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613112204"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "10 March 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "10 March 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Braintree",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts Colony",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

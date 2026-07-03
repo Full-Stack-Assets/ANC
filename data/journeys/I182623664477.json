@@ -1,0 +1,56 @@
+{
+  "id": "I182623664477",
+  "person": "Elizabeth Hussey Catesby",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Coughton Court, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Coughton Court",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Drayton, Somerset, England",
+        "parts": [
+          "Drayton",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 DEC 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

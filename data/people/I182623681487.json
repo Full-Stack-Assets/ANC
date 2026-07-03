@@ -1,0 +1,142 @@
+{
+  "id": "I182623681487",
+  "name": {
+    "given": "Ellen",
+    "surname": "Hilton",
+    "suffix": "^\\+ Dame & Baroness Hilton",
+    "full": "Ellen Hilton ^\\+ Dame & Baroness Hilton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northwich, Cheshire West and Chester Unitary Authority, Cheshire, England",
+        "parts": [
+          "Northwich",
+          "Cheshire West and Chester Unitary Authority",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 March 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sunderland, Metropolitan Borough of Sunderland, Tyne and Wear, England",
+        "parts": [
+          "Sunderland",
+          "Metropolitan Borough of Sunderland",
+          "Tyne and Wear",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Houghton-le-Spring, Metropolitan Borough of Sunderland, Tyne and Wear, England",
+        "parts": [
+          "Houghton-le-Spring",
+          "Metropolitan Borough of Sunderland",
+          "Tyne and Wear",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623682052",
+      "I182623681869"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681927"
+      }
+    ],
+    "children": [
+      "I182623681926",
+      "I182623681469"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516810962",
+      "title": "Cheshire, England, Parish Registers, 1538-1909",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182623691905",
+  "name": {
+    "given": "Nathaniel",
+    "surname": "Josselyn (Joslin)",
+    "suffix": null,
+    "full": "Nathaniel Josselyn (Joslin)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 June 1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 April 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691953",
+      "I182623691947"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691900"
+      }
+    ],
+    "children": [
+      "I182623691861"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

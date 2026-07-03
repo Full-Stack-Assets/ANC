@@ -1,0 +1,131 @@
+{
+  "id": "I182613025238",
+  "name": {
+    "given": "William Sir Knight Parr",
+    "surname": "Catherine Parr,Esquire To The Body To He",
+    "suffix": null,
+    "full": "William Sir Knight Parr Catherine Parr,Esquire To The Body To He"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1483",
+        "year": 1483,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kendal Castle, Westmoreland, Cumbria, England, United Kingdom",
+        "parts": [
+          "Kendal Castle",
+          "Westmoreland",
+          "Cumbria",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 September 1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Horton, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Horton",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Horton, South Northamptonshire Borough, Northamptonshire, England",
+        "parts": [
+          "Horton",
+          "South Northamptonshire Borough",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025391"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025239"
+      }
+    ],
+    "children": [
+      "I182613025390",
+      "I182613025389",
+      "I182613025085"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

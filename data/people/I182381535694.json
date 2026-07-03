@@ -1,0 +1,50 @@
+{
+  "id": "I182381535694",
+  "name": {
+    "given": "JOHN",
+    "surname": "SOUTHGATE",
+    "suffix": null,
+    "full": "JOHN SOUTHGATE"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Elton, Huntingdon, England",
+        "parts": [
+          "Elton",
+          "Huntingdon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535701"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535676"
+      }
+    ],
+    "children": [
+      "I182381535671"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "I182623680534",
+  "person": "Ursula Bamfield Fulford",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Poltimore,,Devon,England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dunsford, Devon, England",
+        "parts": [
+          "Dunsford",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Dec 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508120342",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Dunsford, Devonshire, England",
+        "parts": [
+          "Dunsford",
+          "Devonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508120342",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

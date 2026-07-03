@@ -1,0 +1,71 @@
+{
+  "id": "I182623664358",
+  "name": {
+    "given": "Agnes Rae",
+    "surname": "Davie",
+    "suffix": null,
+    "full": "Agnes Rae Davie"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Scotland",
+        "parts": [
+          "Falkirk",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Scotland",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664386",
+      "I182623664375"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664362"
+      }
+    ],
+    "children": [
+      "I182623664346"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

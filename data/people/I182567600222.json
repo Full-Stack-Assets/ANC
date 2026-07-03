@@ -1,0 +1,243 @@
+{
+  "id": "I182567600222",
+  "name": {
+    "given": "Silas 1730",
+    "surname": "Horton",
+    "suffix": "Sr*+*",
+    "full": "Silas 1730 Horton Sr*+*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 December 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southold, Suffolk, LI, NY, USA",
+        "parts": [
+          "Southold",
+          "Suffolk",
+          "LI",
+          "NY",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 February 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, Orange, New York, USA",
+        "parts": [
+          "Goshen",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182570421661",
+      "I182570421656"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600211"
+      }
+    ],
+    "children": [
+      "I182534044137"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "27 December 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southold, Suffolk County, New York, United States of America",
+        "parts": [
+          "Southold",
+          "Suffolk County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": "Find A Grave Record used",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southold, Long Island, New York",
+        "parts": [
+          "Southold",
+          "Long Island",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "25 December 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southhold, Long Island, New York",
+        "parts": [
+          "Southhold",
+          "Long Island",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southhold, Long Island, New York",
+        "parts": [
+          "Southhold",
+          "Long Island",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, USA",
+        "parts": [
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, Orange, New York, USA",
+        "parts": [
+          "Goshen",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, N Y",
+        "parts": [
+          "Goshen",
+          "N Y"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "10 Mar 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, New York",
+        "parts": [
+          "Goshen",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

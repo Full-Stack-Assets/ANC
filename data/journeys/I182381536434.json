@@ -1,0 +1,54 @@
+{
+  "id": "I182381536434",
+  "person": "Peter Coffin Sr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nantucket, Massachusetts",
+        "parts": [
+          "Nantucket",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Aug 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Aug 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

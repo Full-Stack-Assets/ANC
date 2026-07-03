@@ -1,0 +1,71 @@
+{
+  "id": "I182625987153",
+  "name": {
+    "given": "Henry\\Henrie",
+    "surname": "Barker",
+    "suffix": null,
+    "full": "Henry\\Henrie Barker"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Derby, Derbyshire, England",
+        "parts": [
+          "Derby",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 May 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Derby, Derbyshire, England",
+        "parts": [
+          "Derby",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987208"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987189"
+      }
+    ],
+    "children": [
+      "I182625987065"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

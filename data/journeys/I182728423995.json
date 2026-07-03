@@ -1,0 +1,58 @@
+{
+  "id": "I182728423995",
+  "person": "Sven Tollesson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kalseröd, Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Kalseröd",
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Omkr 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182623691804",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Howe",
+    "suffix": null,
+    "full": "Benjamin Howe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Dec 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts, British Colonial America",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts",
+          "British Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Sep 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts, British Colonial America",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts",
+          "British Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694508",
+      "I182623694490"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691817"
+      }
+    ],
+    "children": [
+      "I182623691752"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

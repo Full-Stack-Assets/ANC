@@ -1,0 +1,172 @@
+{
+  "id": "I182195863338",
+  "name": {
+    "given": "John",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "John Murray"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Aug 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saint John, 1653973, New Brunswick, Canada",
+        "parts": [
+          "Saint John",
+          "1653973",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1821",
+        "year": 1821,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tabusintac, New Brunswick, Canada",
+        "parts": [
+          "Tabusintac",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538103",
+      "I182381538084"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863332",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Bet. 1814–1815",
+            "year": 1814,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "New Brunswick, Canada",
+            "parts": [
+              "New Brunswick",
+              "Canada"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182545330234",
+      "I182545330233",
+      "I182545330237",
+      "I182195858962",
+      "I182545330235",
+      "I182625292192"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "23 Aug 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "PE Island, Canada",
+        "parts": [
+          "PE Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "18 Jun 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tabusintac, New Brunswick, Canada",
+        "parts": [
+          "Tabusintac",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

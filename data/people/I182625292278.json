@@ -1,0 +1,69 @@
+{
+  "id": "I182625292278",
+  "name": {
+    "given": "AGNES",
+    "surname": "HENLEY",
+    "suffix": null,
+    "full": "AGNES HENLEY"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampshire, England",
+        "parts": [
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampshire, England",
+        "parts": [
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970617"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970608"
+      }
+    ],
+    "children": [
+      "I182625292273"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

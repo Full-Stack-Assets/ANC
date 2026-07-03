@@ -1,0 +1,63 @@
+{
+  "id": "I182541934447",
+  "name": {
+    "given": "Mary E",
+    "surname": "Sleeter",
+    "suffix": null,
+    "full": "Mary E Sleeter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jan 1878",
+        "year": 1878,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey, USA",
+        "parts": [
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625995943",
+      "I182195862466"
+    ],
+    "spouses": [
+      {
+        "id": "I182625995941"
+      }
+    ],
+    "children": [
+      "I182541934480"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

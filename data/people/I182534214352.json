@@ -1,0 +1,207 @@
+{
+  "id": "I182534214352",
+  "name": {
+    "given": "Mary",
+    "surname": "Fallon",
+    "suffix": null,
+    "full": "Mary Fallon"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S447116012",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 November 1915",
+        "year": 1915,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "Boston",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "West Roxbury, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "West Roxbury",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534214338",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "24 Nov 1867",
+            "year": 1867,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Roxbury, Massachusetts, USA",
+            "parts": [
+              "Roxbury",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446915296",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182534214734",
+      "I182534214733",
+      "I182534214735",
+      "I182534214736",
+      "I182534214737"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1859",
+        "year": 1859,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 20, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 20",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

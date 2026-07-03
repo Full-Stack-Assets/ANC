@@ -1,0 +1,70 @@
+{
+  "id": "I182623681216",
+  "name": {
+    "given": "George",
+    "surname": "Nutter",
+    "suffix": null,
+    "full": "George Nutter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1548",
+        "year": 1548,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jan 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Macclesfield, Cheshire, England",
+        "parts": [
+          "Macclesfield",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681269"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681214"
+      }
+    ],
+    "children": [
+      "I182623680514"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

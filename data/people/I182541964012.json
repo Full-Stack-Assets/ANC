@@ -1,0 +1,86 @@
+{
+  "id": "I182541964012",
+  "name": {
+    "given": "John",
+    "surname": "Nash",
+    "suffix": null,
+    "full": "John Nash"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1502",
+        "year": 1502,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Richmond, Surrey, England, United Kingdom",
+        "parts": [
+          "Richmond",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541960385",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1534",
+            "year": 1534,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "England, England, United Kingdom",
+            "parts": [
+              "England",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

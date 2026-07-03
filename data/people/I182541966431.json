@@ -1,0 +1,74 @@
+{
+  "id": "I182541966431",
+  "name": {
+    "given": "8 Juliana",
+    "surname": "Grossmann",
+    "suffix": null,
+    "full": "8 Juliana Grossmann"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marxheim, Donau-Ries, Bayern, Germany",
+        "parts": [
+          "Marxheim",
+          "Donau-Ries",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Mar 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marxheim, Donau-Ries, Bayern, Germany",
+        "parts": [
+          "Marxheim",
+          "Donau-Ries",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966462",
+      "I182541966465"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966434"
+      }
+    ],
+    "children": [
+      "I182541966413"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

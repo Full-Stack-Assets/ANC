@@ -1,0 +1,71 @@
+{
+  "id": "I182625987451",
+  "name": {
+    "given": "John",
+    "surname": "S\\Tringham",
+    "suffix": "I",
+    "full": "John S\\Tringham I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woonton, Almeley, Herefordshire, England",
+        "parts": [
+          "Woonton",
+          "Almeley",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woonton, Almeley, Herefordshire, England",
+        "parts": [
+          "Woonton",
+          "Almeley",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987444"
+      }
+    ],
+    "children": [
+      "I182625987414"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

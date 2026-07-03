@@ -1,0 +1,70 @@
+{
+  "id": "I182623691458",
+  "name": {
+    "given": "John",
+    "surname": "French",
+    "suffix": null,
+    "full": "John French"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Jun 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Kingston",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Jan 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Kingston",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691605",
+      "I182623691598"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623691418"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182623691979",
+  "name": {
+    "given": "Elizabeth (Ann) Maude",
+    "surname": "Whittaker (Collins)",
+    "suffix": null,
+    "full": "Elizabeth (Ann) Maude Whittaker (Collins)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 May 1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorset, Dorsetshire, England",
+        "parts": [
+          "Dorset",
+          "Dorsetshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623692049",
+      "I182623692044"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691995"
+      }
+    ],
+    "children": [
+      "I182623691926"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

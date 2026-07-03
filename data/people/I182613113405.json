@@ -1,0 +1,86 @@
+{
+  "id": "I182613113405",
+  "name": {
+    "given": "Rees",
+    "surname": "Davis",
+    "suffix": null,
+    "full": "Rees Davis"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 March 1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Benefield, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Benefield",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 August 1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent, Kent, England, United Kingdom",
+        "parts": [
+          "Kent",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113402",
+      "I182613113375"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182623663939",
+  "name": {
+    "given": "Johann Martin",
+    "surname": "Schaad",
+    "suffix": null,
+    "full": "Johann Martin Schaad"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 September 1782",
+        "year": 1782,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Kreis St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "Urweiler",
+          "Kreis St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 September 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Temperancville, Malaga Monroe Ohio, Ohio, USA",
+        "parts": [
+          "Temperancville",
+          "Malaga Monroe Ohio",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663988",
+      "I182623663985"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663832"
+      }
+    ],
+    "children": [
+      "I182623663790"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

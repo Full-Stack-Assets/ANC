@@ -1,0 +1,75 @@
+{
+  "id": "I182650551097",
+  "name": {
+    "given": "Jane",
+    "surname": "Cooke",
+    "suffix": null,
+    "full": "Jane Cooke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "leyden, Holland, Reusel-de Mierden, Noord-Brabant, Netherlands",
+        "parts": [
+          "leyden",
+          "Holland",
+          "Reusel-de Mierden",
+          "Noord-Brabant",
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Btn. 1632 and 1640",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551123",
+      "I182650551120"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551112"
+      }
+    ],
+    "children": [
+      "I182650551075"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "I182789736245",
+  "name": {
+    "given": "William Kemble",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "William Kemble Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lot 38, 1654441, Prince Edward Island, Canada",
+        "parts": [
+          "Lot 38",
+          "1654441",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Jun 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlottetown, 1654443, Prince Edward Island, Canada",
+        "parts": [
+          "Charlottetown",
+          "1654443",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789735397"
+    ],
+    "spouses": [],
+    "children": [
+      "I182789737100"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

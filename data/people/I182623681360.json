@@ -1,0 +1,102 @@
+{
+  "id": "I182623681360",
+  "name": {
+    "given": "Lady Sarah",
+    "surname": "Owens",
+    "suffix": null,
+    "full": "Lady Sarah Owens"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sabdenhall, Lancastershire, England",
+        "parts": [
+          "Sabdenhall",
+          "Lancastershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, Devon, England",
+        "parts": [
+          "Somerset",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681417",
+      "I182623681416"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681368"
+      }
+    ],
+    "children": [
+      "I182623681269"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": null,
+      "place": {
+        "raw": "Great Waltham,Essex,England",
+        "parts": [
+          "Great Waltham",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447253093",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447253093",
+      "title": "England, Select Births and Christenings, 1538-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

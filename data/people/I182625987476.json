@@ -1,0 +1,44 @@
+{
+  "id": "I182625987476",
+  "name": {
+    "given": "Hugh",
+    "surname": "Powle",
+    "suffix": null,
+    "full": "Hugh Powle"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1508",
+        "year": 1508,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Leominster, Herefordshire, England",
+        "parts": [
+          "Leominster",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625987434"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

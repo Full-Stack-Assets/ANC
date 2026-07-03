@@ -1,0 +1,68 @@
+{
+  "id": "I182623689455",
+  "name": {
+    "given": "Joan",
+    "surname": "Tabor",
+    "suffix": null,
+    "full": "Joan Tabor"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1513",
+        "year": 1513,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pulloxhill, Bedfordshire, England",
+        "parts": [
+          "Pulloxhill",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Sep 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baldock, Hertfordshire, England",
+        "parts": [
+          "Baldock",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689469",
+      "I182623689476"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623689411"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

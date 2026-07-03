@@ -1,0 +1,44 @@
+{
+  "id": "I182625972096",
+  "name": {
+    "given": "JOHANN GEORG",
+    "surname": "HEIL",
+    "suffix": null,
+    "full": "JOHANN GEORG HEIL"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda, Hesse, Germany",
+        "parts": [
+          "Fulda",
+          "Hesse",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625972090"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182625986323",
+  "name": {
+    "given": "Mary Margaret",
+    "surname": "VALENTINE",
+    "suffix": null,
+    "full": "Mary Margaret VALENTINE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jan 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Long Island Nassau, NY, USA",
+        "parts": [
+          "Hempstead",
+          "Long Island Nassau",
+          "NY",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 June, 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nassau, Lewis County, New York, USA",
+        "parts": [
+          "Nassau",
+          "Lewis County",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986581",
+      "I182625986572"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986319"
+      }
+    ],
+    "children": [
+      "I182625986316"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

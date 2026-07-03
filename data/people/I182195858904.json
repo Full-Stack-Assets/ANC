@@ -1,0 +1,108 @@
+{
+  "id": "I182195858904",
+  "name": {
+    "given": "Robert (Jr.)",
+    "surname": "Swallow",
+    "suffix": "Jr",
+    "full": "Robert (Jr.) Swallow Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Oct 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 May 1904",
+        "year": 1904,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863399",
+      "I182195863389"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858905",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1839-12-17",
+            "year": 1839,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Prince Edward Island, Canada",
+            "parts": [
+              "Prince Edward Island",
+              "Canada"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195858906",
+      "I182195858910",
+      "I182195858907",
+      "I182195858914",
+      "I182195858742",
+      "I182195858911",
+      "I182195858909",
+      "I182195858908",
+      "I182195858912"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

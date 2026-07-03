@@ -1,0 +1,55 @@
+{
+  "id": "I182613112307",
+  "person": "John Flagg",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Watertown, Middlesex, MA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Nov 1677",
+        "year": 1677,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Newton, Middlesex, MA",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Mar 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

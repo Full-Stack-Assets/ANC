@@ -1,0 +1,77 @@
+{
+  "id": "I182195864069",
+  "person": "Mary Naylor",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Darby, Chester, Pennsylvania, United States",
+        "parts": [
+          "Darby",
+          "Chester",
+          "Pennsylvania",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Delaware, Pennsylvania",
+        "parts": [
+          "Delaware",
+          "Pennsylvania"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Apr 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Pennsylvania, United States",
+        "parts": [
+          "Pennsylvania",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "BEF 20 APR 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

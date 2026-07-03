@@ -1,0 +1,73 @@
+{
+  "id": "I182623691937",
+  "name": {
+    "given": "Thomas",
+    "surname": "King",
+    "suffix": "II Deacon",
+    "full": "Thomas King II Deacon"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Feb 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Moreton, St Mary The Virgin, Essex, England",
+        "parts": [
+          "Moreton",
+          "St Mary The Virgin",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 May 1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudbury, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Sudbury",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623692019"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691926"
+      }
+    ],
+    "children": [
+      "I182623691900"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

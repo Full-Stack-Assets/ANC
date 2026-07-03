@@ -1,0 +1,55 @@
+{
+  "id": "I182623681607",
+  "person": "Sir Richard Martin James (Esquire, Baron of Smarden)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hanley Castle, Worcestershire, England",
+        "parts": [
+          "Hanley Castle",
+          "Worcestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Smarden, Kent, England",
+        "parts": [
+          "Smarden",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Dec 1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182625972115",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Saemaennin",
+    "suffix": null,
+    "full": "Anna Maria Saemaennin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Dec 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Jan 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972150",
+      "I182625972146"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972122"
+      }
+    ],
+    "children": [
+      "I182625972100"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

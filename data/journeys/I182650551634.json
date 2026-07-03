@@ -1,0 +1,55 @@
+{
+  "id": "I182650551634",
+  "person": "Jemima Perkins",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Sidney, Kennebec, Maine, USA",
+        "parts": [
+          "Sidney",
+          "Kennebec",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 APR 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Auburn, Maine",
+        "parts": [
+          "Auburn",
+          "Maine"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 NOV 1846",
+        "year": 1846,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

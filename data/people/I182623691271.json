@@ -1,0 +1,74 @@
+{
+  "id": "I182623691271",
+  "name": {
+    "given": "Thankful",
+    "surname": "Rogers",
+    "suffix": null,
+    "full": "Thankful Rogers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Jul 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Harwich",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chatham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Chatham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694585",
+      "I182623694579"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691278"
+      }
+    ],
+    "children": [
+      "I182623679513"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "I182650552398",
+  "name": {
+    "given": "Josiah",
+    "surname": "Winchester",
+    "suffix": null,
+    "full": "Josiah Winchester"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Mar 1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Feb 1727/28",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552414",
+      "I182650552425"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552396"
+      }
+    ],
+    "children": [
+      "I182650552352"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "27 Mar 1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, MA, Massachusetts, USA",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "MA",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

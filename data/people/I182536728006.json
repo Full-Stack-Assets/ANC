@@ -1,0 +1,202 @@
+{
+  "id": "I182536728006",
+  "name": {
+    "given": "Michael F",
+    "surname": "Clifford",
+    "suffix": "Sr",
+    "full": "Michael F Clifford Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Apr 1943",
+        "year": 1943,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008654",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1961"
+        },
+        {
+          "source_id": "S516008654",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1960"
+        },
+        {
+          "source_id": "S516008652",
+          "page": null
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182536728236",
+      "I182536728235"
+    ],
+    "spouses": [
+      {
+        "id": "I182536728077"
+      }
+    ],
+    "children": [
+      "I182197441783",
+      "I182536728341",
+      "I182536728342"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head: Son; Marital Status: Never Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1960",
+        "year": 1960,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008654",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1960"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1961",
+        "year": 1961,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008654",
+          "page": "\"U.S., School Yearbooks, 1880-2012\"; School Name: Brockton High School; Year: 1961"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1993",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008652",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516008654",
+      "title": "U.S., School Yearbooks, 1900-2016",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516008652",
+      "title": "U.S., Public Records Index, 1950-1993, Volume 1",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

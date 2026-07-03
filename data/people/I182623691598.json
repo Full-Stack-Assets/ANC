@@ -1,0 +1,71 @@
+{
+  "id": "I182623691598",
+  "name": {
+    "given": "Ruhamah",
+    "surname": "Choate",
+    "suffix": null,
+    "full": "Ruhamah Choate"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Dec 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Kingston",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Jan 1808",
+        "year": 1808,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Kingston",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691605"
+      }
+    ],
+    "children": [
+      "I182623691458"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

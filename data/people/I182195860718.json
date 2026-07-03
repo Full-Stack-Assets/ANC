@@ -1,0 +1,184 @@
+{
+  "id": "I182195860718",
+  "name": {
+    "given": "Gustaf",
+    "surname": "Rånge",
+    "suffix": null,
+    "full": "Gustaf Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dimbo, Sverige",
+        "parts": [
+          "Dimbo",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": "Year: 1885; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 5; List Number: 643"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 February 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195860775",
+      "I182195860776"
+    ],
+    "spouses": [
+      {
+        "id": "I182195860781",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 Sept 1862",
+            "year": 1862,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hjo landsförsamling, Skaraborg, Sverige",
+            "parts": [
+              "Hjo landsförsamling",
+              "Skaraborg",
+              "Sverige"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182195861102",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "Sweden",
+            "parts": [
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182726541454"
+      }
+    ],
+    "children": [
+      "I182195860382",
+      "I182195860779",
+      "I182195860778",
+      "I182195860777",
+      "I182195860780"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "29 May 1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, New York, USA",
+        "parts": [
+          "New York",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": "Year: 1885; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 5; List Number: 643"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Liverpool, England and Queenstown, Ireland",
+        "parts": [
+          "Liverpool",
+          "England and Queenstown",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": "Year: 1885; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 5; List Number: 643"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914991",
+      "title": "New York, Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

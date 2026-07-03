@@ -1,0 +1,57 @@
+{
+  "id": "I182623663790",
+  "person": "Nicolas SCHOTT SCHAAD",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Urweiler, Kreis St Wendel, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Urweiler",
+          "Kreis St Wendel",
+          "Rheinland-Pfalz",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Feb 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fulda, Noble, Ohio, USA",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Jun 1897",
+        "year": 1897,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

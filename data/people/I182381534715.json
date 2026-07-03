@@ -1,0 +1,71 @@
+{
+  "id": "I182381534715",
+  "name": {
+    "given": "Isaac",
+    "surname": "Elwell",
+    "suffix": null,
+    "full": "Isaac Elwell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove Township, Salem Co, NJ",
+        "parts": [
+          "Pilesgrove Township",
+          "Salem Co",
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "AFT 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "Philadelphia, PA",
+        "parts": [
+          "Philadelphia",
+          "PA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381534745",
+      "I182381535027"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534725"
+      }
+    ],
+    "children": [
+      "I182381534679"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

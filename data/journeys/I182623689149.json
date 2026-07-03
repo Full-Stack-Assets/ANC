@@ -1,0 +1,55 @@
+{
+  "id": "I182623689149",
+  "person": "Katherine Thompson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hunsdon, Hertfordshire, England",
+        "parts": [
+          "Hunsdon",
+          "Hertfordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hunsdon, Hertfordshire, England",
+        "parts": [
+          "Hunsdon",
+          "Hertfordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

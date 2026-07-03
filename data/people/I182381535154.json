@@ -1,0 +1,68 @@
+{
+  "id": "I182381535154",
+  "name": {
+    "given": "Sarah",
+    "surname": "Riggs",
+    "suffix": null,
+    "full": "Sarah Riggs"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "England, UK",
+        "parts": [
+          "England",
+          "UK"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Nov 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandwich, Kent, England",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535169"
+      }
+    ],
+    "children": [
+      "I182381535139"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

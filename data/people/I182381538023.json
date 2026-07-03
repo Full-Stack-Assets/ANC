@@ -1,0 +1,64 @@
+{
+  "id": "I182381538023",
+  "name": {
+    "given": "Meredydd Ap Thomas",
+    "surname": "Ap Ieuan",
+    "suffix": null,
+    "full": "Meredydd Ap Thomas Ap Ieuan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Llanwnda, Caernarvonshire, , Wales",
+        "parts": [
+          "Llanwnda",
+          "Caernarvonshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "1675627, Somerset, England",
+        "parts": [
+          "1675627",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538021"
+      }
+    ],
+    "children": [
+      "I182381537914"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

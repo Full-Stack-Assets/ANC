@@ -1,0 +1,55 @@
+{
+  "id": "I182526999535",
+  "person": "Mary A Upton Kennedy",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ballycultra, County Down, Northern Ireland",
+        "parts": [
+          "Ballycultra",
+          "County Down",
+          "Northern Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 November 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ringwould, Kent, England",
+        "parts": [
+          "Ringwould",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 October 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

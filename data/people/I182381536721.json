@@ -1,0 +1,48 @@
+{
+  "id": "I182381536721",
+  "name": {
+    "given": "Hannah",
+    "surname": "Hewood",
+    "suffix": null,
+    "full": "Hannah Hewood"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Almondbury, Yorkshire, England",
+        "parts": [
+          "Almondbury",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536724"
+      }
+    ],
+    "children": [
+      "I182195863399"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

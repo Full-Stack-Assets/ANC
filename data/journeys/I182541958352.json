@@ -1,0 +1,57 @@
+{
+  "id": "I182541958352",
+  "person": "Thomas Dolliver ELWELL 8gg Sr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gloucester,Essex,Massachusetts,USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Nov 1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, United States",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Apr 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

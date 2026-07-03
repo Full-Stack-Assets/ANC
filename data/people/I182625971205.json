@@ -1,0 +1,67 @@
+{
+  "id": "I182625971205",
+  "name": {
+    "given": "John (Old Radnor)",
+    "surname": "Bull (Ey)",
+    "suffix": null,
+    "full": "John (Old Radnor) Bull (Ey)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipplepen, Devon, England",
+        "parts": [
+          "Ipplepen",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotts Hall, Brabourne, Kent, England, United Kingdom",
+        "parts": [
+          "Scotts Hall",
+          "Brabourne",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182567600462"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

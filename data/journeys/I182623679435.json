@@ -1,0 +1,56 @@
+{
+  "id": "I182623679435",
+  "person": "Leon John Owen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wolcott, Vermont, USA",
+        "parts": [
+          "Wolcott",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jun 1884",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Rockland, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Rockland",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 NOV 1957",
+        "year": 1957,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

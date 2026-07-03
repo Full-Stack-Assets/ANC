@@ -1,0 +1,55 @@
+{
+  "id": "I182587602979",
+  "person": "Esther Gillett Gray",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Connecticut, USA",
+        "parts": [
+          "Connecticut",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, USA",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 May 1756",
+        "year": 1756,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

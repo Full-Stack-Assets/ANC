@@ -1,0 +1,74 @@
+{
+  "id": "I182623663832",
+  "name": {
+    "given": "Katharina Catherine",
+    "surname": "LERNER",
+    "suffix": null,
+    "full": "Katharina Catherine LERNER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Sankt Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "Sankt Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 AUG 1863",
+        "year": 1863,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Malaga, Monroe, Ohio, USA",
+        "parts": [
+          "Malaga",
+          "Monroe",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663946",
+      "I182623663944"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663939"
+      }
+    ],
+    "children": [
+      "I182623663790"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

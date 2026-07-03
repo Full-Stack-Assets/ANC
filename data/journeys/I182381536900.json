@@ -1,0 +1,55 @@
+{
+  "id": "I182381536900",
+  "person": "Marion BURN",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jun 1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Nov 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

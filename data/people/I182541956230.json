@@ -1,0 +1,72 @@
+{
+  "id": "I182541956230",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Nash",
+    "suffix": null,
+    "full": "Elizabeth Nash"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1529/39",
+        "year": 1529,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Martley, Worcestershire, England",
+        "parts": [
+          "Martley",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Powich, Worcestershire, England",
+        "parts": [
+          "Powich",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960385",
+      "I182541960374"
+    ],
+    "spouses": [
+      {
+        "id": "I182541956242"
+      }
+    ],
+    "children": [
+      "I182541956127"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "I182541958021",
+  "name": {
+    "given": "Anne Beth",
+    "surname": "Olmstead",
+    "suffix": null,
+    "full": "Anne Beth Olmstead"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "09 Feb 1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stovall, Essexshire, England",
+        "parts": [
+          "Stovall",
+          "Essexshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stovall, Essex, England",
+        "parts": [
+          "Stovall",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

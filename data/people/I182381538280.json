@@ -1,0 +1,71 @@
+{
+  "id": "I182381538280",
+  "name": {
+    "given": "Sarah",
+    "surname": "Morgan",
+    "suffix": null,
+    "full": "Sarah Morgan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Feb 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Groton Town, New London, Connecticut, United States",
+        "parts": [
+          "Groton Town",
+          "New London",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New London, New London, Connecticut, United States",
+        "parts": [
+          "New London",
+          "New London",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538329"
+      }
+    ],
+    "children": [
+      "I182381538262"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

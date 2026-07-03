@@ -1,0 +1,55 @@
+{
+  "id": "I182625972220",
+  "person": "Maria Schwartz",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Aug 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Sep 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182541955417",
+  "person": "Axel Verner Reinholdsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ucklum, Västra Götaland, Sverige",
+        "parts": [
+          "Ucklum",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1896-04-11",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjärtum, Västra Götaland, Sverige",
+        "parts": [
+          "Hjärtum",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1975-07-12",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

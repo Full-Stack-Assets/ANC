@@ -1,0 +1,73 @@
+{
+  "id": "I182620323043",
+  "name": {
+    "given": "Christina \"Christy\"",
+    "surname": "Ross",
+    "suffix": null,
+    "full": "Christina \"Christy\" Ross"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kilmuir, Isle of Skye, Scotland",
+        "parts": [
+          "Kilmuir",
+          "Isle of Skye",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 Mar 1901",
+        "year": 1901,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Big Intervale, Northeast Margaree, Nova Scotia, Canada",
+        "parts": [
+          "Big Intervale",
+          "Northeast Margaree",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323059",
+      "I182620323070"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323052"
+      }
+    ],
+    "children": [
+      "I182620322947"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

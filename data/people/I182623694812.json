@@ -1,0 +1,49 @@
+{
+  "id": "I182623694812",
+  "name": {
+    "given": "Catherine",
+    "surname": "Gleeson",
+    "suffix": null,
+    "full": "Catherine Gleeson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Athenry, Co, Galway, Ireland",
+        "parts": [
+          "Athenry",
+          "Co",
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694821"
+      }
+    ],
+    "children": [
+      "I182620338750"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

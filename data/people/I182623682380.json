@@ -1,0 +1,67 @@
+{
+  "id": "I182623682380",
+  "name": {
+    "given": "Elizabeth Martha",
+    "surname": "Brereton Of Malpas",
+    "suffix": null,
+    "full": "Elizabeth Martha Brereton Of Malpas"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Malpas, Cheshire, England, United Kingdom",
+        "parts": [
+          "Malpas",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 November 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire, Cheshire, England, United Kingdom",
+        "parts": [
+          "Cheshire",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623682052"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

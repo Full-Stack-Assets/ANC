@@ -1,0 +1,57 @@
+{
+  "id": "I182650551472",
+  "person": "James Clarke",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wells, Mendip District, Somerset, England",
+        "parts": [
+          "Wells",
+          "Mendip District",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1612 / record",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brookline, Norfolk County, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk County",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 December 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

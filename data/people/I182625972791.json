@@ -1,0 +1,71 @@
+{
+  "id": "I182625972791",
+  "name": {
+    "given": "Angela",
+    "surname": "Haab",
+    "suffix": null,
+    "full": "Angela Haab"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Mar 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jul 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972798"
+      }
+    ],
+    "children": [
+      "I182625972635"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

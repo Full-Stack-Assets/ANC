@@ -1,0 +1,69 @@
+{
+  "id": "I182650552157",
+  "name": {
+    "given": "Anne",
+    "surname": "Bourne  (13ggm)",
+    "suffix": null,
+    "full": "Anne Bourne  (13ggm)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, England",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Aug 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, England",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552162"
+      }
+    ],
+    "children": [
+      "I182650552000"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

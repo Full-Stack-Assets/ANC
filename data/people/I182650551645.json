@@ -1,0 +1,134 @@
+{
+  "id": "I182650551645",
+  "name": {
+    "given": "Elisha Thaxter",
+    "surname": "DUNBAR",
+    "suffix": "(Yeoman",
+    "full": "Elisha Thaxter DUNBAR (Yeoman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Oct 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bear Cove, Hingham, Plymouth, Massachusetts Bay Colony, Britain",
+        "parts": [
+          "Bear Cove",
+          "Hingham",
+          "Plymouth",
+          "Massachusetts Bay Colony",
+          "Britain"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Aug 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts Bay Colony, Britain",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts Bay Colony",
+          "Britain"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551659",
+      "I182650551663"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551640"
+      }
+    ],
+    "children": [
+      "I182650551398"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 Oct 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "9 Oct 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

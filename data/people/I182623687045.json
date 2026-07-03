@@ -1,0 +1,71 @@
+{
+  "id": "I182623687045",
+  "name": {
+    "given": "Sir Lord John I",
+    "surname": "Bourchier, Knight of Bath,",
+    "suffix": null,
+    "full": "Sir Lord John I Bourchier, Knight of Bath,"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 July 1470",
+        "year": 1470,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halstead, Essex, England, United Kingdom",
+        "parts": [
+          "Halstead",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 April 1539",
+        "year": 1539,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baunton, Devon, England, United Kingdom",
+        "parts": [
+          "Baunton",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623680780"
+      }
+    ],
+    "children": [
+      "I182623680578"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

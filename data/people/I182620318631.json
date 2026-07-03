@@ -1,0 +1,85 @@
+{
+  "id": "I182620318631",
+  "name": {
+    "given": "John",
+    "surname": "Brady",
+    "suffix": null,
+    "full": "John Brady"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620318480",
+      "I182620318474"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York Ward 22 District 2, New York, New York, New York, USA",
+        "parts": [
+          "New York Ward 22 District 2",
+          "New York",
+          "New York",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Laborer",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506473136",
+      "title": "1860 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

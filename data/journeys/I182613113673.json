@@ -1,0 +1,55 @@
+{
+  "id": "I182613113673",
+  "person": "Sarah Smith",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nottingham, Nottinghamshire, England",
+        "parts": [
+          "Nottingham",
+          "Nottinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bourne, Lincolnshire, England",
+        "parts": [
+          "Bourne",
+          "Lincolnshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Sep 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

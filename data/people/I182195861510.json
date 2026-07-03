@@ -1,0 +1,84 @@
+{
+  "id": "I182195861510",
+  "name": {
+    "given": "Måns",
+    "surname": "Månsson Rånge",
+    "suffix": null,
+    "full": "Måns Månsson Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Okt 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Skaraborg, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Apr 1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Skaraborg, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Dog av huvudsjuka",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861579",
+      "I182195861581"
+    ],
+    "spouses": [
+      {
+        "id": "I182195861488"
+      }
+    ],
+    "children": [
+      "I182195861020"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

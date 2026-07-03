@@ -1,0 +1,71 @@
+{
+  "id": "I182650552598",
+  "name": {
+    "given": "George Lewis",
+    "surname": "Whiting",
+    "suffix": null,
+    "full": "George Lewis Whiting"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Mar 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Abington",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 May 1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duxbury, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Duxbury",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552593"
+      }
+    ],
+    "children": [
+      "I182650552565"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

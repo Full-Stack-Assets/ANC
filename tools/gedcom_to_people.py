@@ -27,8 +27,35 @@ _UNDATED_SORT = {"birth": -10_000, "christening": -9_999, "baptism": -9_999,
                  "death": 9_998, "burial": 9_999}
 
 
+def _event_key(ev: dict) -> tuple:
+    return (ev["type"], (ev.get("date") or {}).get("raw"),
+            (ev.get("place") or {}).get("raw"), ev.get("value"))
+
+
+def _dedupe_events(vitals: dict, events: list[dict]) -> list[dict]:
+    """Ancestry exports repeat events for every merged hint/tree. Collapse
+    exact duplicates (same type, date, place, value), merging their source
+    citations into the surviving event."""
+    kept: dict[tuple, dict] = {_event_key(ev): ev for ev in vitals.values()}
+    result = []
+    for ev in events:
+        key = _event_key(ev)
+        if key in kept:
+            survivor = kept[key]
+            for c in ev["sources"]:
+                if c not in survivor["sources"]:
+                    survivor["sources"].append(c)
+            if survivor["sources"]:
+                survivor["confidence"] = "documented"
+        else:
+            kept[key] = ev
+            result.append(ev)
+    return result
+
+
 def build_person(raw: dict, sources: dict[str, dict]) -> dict:
     """Assemble the final person record from a parsed individual."""
+    raw["events"] = _dedupe_events(raw["vitals"], raw["events"])
     marriage_events = [s["marriage"] for s in raw["relationships"]["spouses"] if s.get("marriage")]
     all_events = list(raw["vitals"].values()) + raw["events"] + marriage_events
 
@@ -64,8 +91,22 @@ def build_journey_seed(person: dict) -> dict | None:
     for ev in list(person["vitals"].values()) + person["events"] + [
         s["marriage"] for s in person["relationships"]["spouses"] if s.get("marriage")
     ]:
-        if ev.get("place"):
+        # Vitals contribute only their preferred record; alternate birth/death
+        # events (conflicting places from merged trees) stay in the person
+        # file but don't become waypoints.
+        if ev.get("place") and (ev["type"] not in VITAL_TYPES or ev in person["vitals"].values()):
             candidates.append(ev)
+
+    # Collapse repeats of the same stop (same event kind, place, year).
+    seen: set = set()
+    unique = []
+    for ev in candidates:
+        key = (ev["type"], ev["place"]["raw"].lower(),
+               (ev.get("date") or {}).get("year") if ev.get("date") else None)
+        if key not in seen:
+            seen.add(key)
+            unique.append(ev)
+    candidates = unique
     if not candidates:
         return None
 

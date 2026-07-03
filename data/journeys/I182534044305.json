@@ -1,0 +1,55 @@
+{
+  "id": "I182534044305",
+  "person": "Maria Catharina Herold",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Niederschlettenbach, Bayern, Germany",
+        "parts": [
+          "Niederschlettenbach",
+          "Bayern",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Malmsheim, Wuerttemberg, Germany",
+        "parts": [
+          "Malmsheim",
+          "Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 Sep 1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

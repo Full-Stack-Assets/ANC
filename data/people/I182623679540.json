@@ -1,0 +1,118 @@
+{
+  "id": "I182623679540",
+  "name": {
+    "given": "Walter",
+    "surname": "Foss",
+    "suffix": "Jr",
+    "full": "Walter Foss Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jun 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greenland, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Greenland",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Dec 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine, USA",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623688796"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679534"
+      }
+    ],
+    "children": [
+      "I182623679493"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jun 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greenland, Rockingham County, New Hampshire, United States of America",
+        "parts": [
+          "Greenland",
+          "Rockingham County",
+          "New Hampshire",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "09 Dec 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scarborough, Cumberland County, Maine, United States of America",
+        "parts": [
+          "Scarborough",
+          "Cumberland County",
+          "Maine",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

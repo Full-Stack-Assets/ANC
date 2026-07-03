@@ -1,0 +1,51 @@
+{
+  "id": "I182625986282",
+  "person": "Ann Hannah Ellis",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Clarborough, Nottinghamshire, England",
+        "parts": [
+          "Clarborough",
+          "Nottinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Apr 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Upton, Burlington, New Jersey, United States",
+        "parts": [
+          "Upton",
+          "Burlington",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

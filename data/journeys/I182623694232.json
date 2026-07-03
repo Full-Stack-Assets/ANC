@@ -1,0 +1,56 @@
+{
+  "id": "I182623694232",
+  "person": "Dr. Henry William Whittaker GGF",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Burnley, Lancashire, England",
+        "parts": [
+          "Burnley",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Northwoods, Lancashire. Buried: Feb 1589 Prescot, Lancashire, England",
+        "parts": [
+          "Northwoods",
+          "Lancashire. Buried: Feb 1589 Prescot",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

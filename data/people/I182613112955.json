@@ -1,0 +1,71 @@
+{
+  "id": "I182613112955",
+  "name": {
+    "given": "Samuel",
+    "surname": "Shattuck",
+    "suffix": null,
+    "full": "Samuel Shattuck"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Talard, Somerset, England, United Kingdom",
+        "parts": [
+          "Talard",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Talard, Somerset, England, United Kingdom",
+        "parts": [
+          "Talard",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112951"
+      }
+    ],
+    "children": [
+      "I182613112927"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

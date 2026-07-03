@@ -1,0 +1,118 @@
+{
+  "id": "I182534218517",
+  "name": {
+    "given": "James",
+    "surname": "Donahoe",
+    "suffix": null,
+    "full": "James Donahoe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1803",
+        "year": 1803,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool",
+        "parts": [
+          "Liverpool"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Aug 1915",
+        "year": 1915,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534218516"
+      }
+    ],
+    "children": [
+      "I182534218001",
+      "I182534219117",
+      "I182534219118",
+      "I182534219119",
+      "I182534219120",
+      "I182534219121",
+      "I182534219122"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "5-15 - Ninety-fourth street",
+        "parts": [
+          "5-15 - Ninety-fourth street"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506473951",
+      "title": "Liverpool, England, Catholic Baptisms, 1741-1919",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "I182195859033",
+  "name": {
+    "given": "Margaret",
+    "surname": "Mackenzie",
+    "suffix": null,
+    "full": "Margaret Mackenzie"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Peters Bay, Prince Edward Island, Canada",
+        "parts": [
+          "St Peters Bay",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greater London, London, Surrey, United Kingdom",
+        "parts": [
+          "Greater London",
+          "London",
+          "Surrey",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536871",
+      "I182381536867"
+    ],
+    "spouses": [
+      {
+        "id": "I182195859175",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1810",
+            "year": 1810,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195859178",
+      "I182195859177",
+      "I182195858905"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

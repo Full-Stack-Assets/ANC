@@ -1,0 +1,56 @@
+{
+  "id": "I182623663988",
+  "person": "Johann Jacob Schaad",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Baltersweiler, Saarland, Deu",
+        "parts": [
+          "Baltersweiler",
+          "Saarland",
+          "Deu"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 February 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland, Deu",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland",
+          "Deu"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 April 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

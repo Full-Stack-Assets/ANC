@@ -1,0 +1,91 @@
+{
+  "id": "I182625983634",
+  "name": {
+    "given": "Edmund",
+    "surname": "Howard",
+    "suffix": null,
+    "full": "Edmund Howard"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1478",
+        "year": 1478,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tisbury, Wiltshire Unitary Authority, Wiltshire, England",
+        "parts": [
+          "Tisbury",
+          "Wiltshire Unitary Authority",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Mar 1539",
+        "year": 1539,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, England",
+        "parts": [
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982381",
+      "I182625982380"
+    ],
+    "spouses": [
+      {
+        "id": "I182625983720"
+      }
+    ],
+    "children": [
+      "I182625983719",
+      "I182625983721"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

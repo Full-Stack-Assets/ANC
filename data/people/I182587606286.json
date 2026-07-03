@@ -1,0 +1,95 @@
+{
+  "id": "I182587606286",
+  "name": {
+    "given": "Morgan",
+    "surname": "Drewett",
+    "suffix": null,
+    "full": "Morgan Drewett"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stepney, Middlesex, England UK, London, England, United Kingdom",
+        "parts": [
+          "Stepney",
+          "Middlesex",
+          "England UK",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 December 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chichester, Chester, Pennsylvania USA, Pennsylvania, USA",
+        "parts": [
+          "Chichester",
+          "Chester",
+          "Pennsylvania USA",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980870",
+      "I182625980874"
+    ],
+    "spouses": [
+      {
+        "id": "I182587606722"
+      }
+    ],
+    "children": [
+      "I182541935662"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

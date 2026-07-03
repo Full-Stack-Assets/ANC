@@ -1,0 +1,53 @@
+{
+  "id": "I182381536354",
+  "person": "Elisha Coffin Sr.",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nantucket, Massachusetts",
+        "parts": [
+          "Nantucket",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Mar 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Savage Harbor, Prince Edward Island",
+        "parts": [
+          "Savage Harbor",
+          "Prince Edward Island"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Oct 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,434 @@
+{
+  "id": "I182197442975",
+  "name": {
+    "given": "Anna Josephina",
+    "surname": "Svenson",
+    "suffix": null,
+    "full": "Anna Josephina Svenson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Hjo",
+        "parts": [
+          "Hjo"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115945",
+          "page": null
+        },
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S447115923",
+          "page": null
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447115751",
+          "page": null
+        },
+        {
+          "source_id": "S446915028",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        },
+        {
+          "source_id": "S447115930",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Aug 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S447115786",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197443234",
+      "I182197443290",
+      "I182197444088"
+    ],
+    "spouses": [
+      {
+        "id": "I182197442974",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 May 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Easton, Massachusetts, USA",
+            "parts": [
+              "Easton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446915296",
+              "page": null
+            },
+            {
+              "source_id": "S447115921",
+              "page": null
+            },
+            {
+              "source_id": "S447115751",
+              "page": null
+            },
+            {
+              "source_id": "S446914824",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182197443071",
+      "I182197442785",
+      "I182197443128"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Sweden, Suède",
+        "parts": [
+          "Sweden",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relationship: Dotter",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1882",
+        "year": 1882,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": {
+        "raw": "12 Maj 1882",
+        "year": 1882,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fredagen",
+        "parts": [
+          "Fredagen"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115945",
+          "page": null
+        },
+        {
+          "source_id": "S447115930",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "4 Jun 1892",
+        "year": 1892,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Bristol, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Wife",
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": null,
+      "place": {
+        "raw": "Hull, England",
+        "parts": [
+          "Hull",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115945",
+          "page": null
+        },
+        {
+          "source_id": "S447115930",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Hjo, Smelen",
+        "parts": [
+          "Hjo",
+          "Smelen"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115945",
+      "title": "Gothenburg, Sweden, Passenger Lists, 1869-1951",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115905",
+      "title": "Massachusetts, Death Records, 1841-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115923",
+      "title": "Sweden, Indexed Birth Records, 1859-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115751",
+      "title": "1900 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915028",
+      "title": "Sweden, Selected Indexed Household Clerical Surveys, 1880-1893",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115930",
+      "title": "Sweden, Emigration Registers, 1869-1948",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S447115786",
+      "title": "Massachusetts, Death Index, 1901-1980",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914946",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

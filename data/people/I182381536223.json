@@ -1,0 +1,48 @@
+{
+  "id": "I182381536223",
+  "name": {
+    "given": "George",
+    "surname": "Bowen",
+    "suffix": null,
+    "full": "George Bowen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Deptford, Kent, England",
+        "parts": [
+          "Deptford",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536215"
+      }
+    ],
+    "children": [
+      "I182381536196"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

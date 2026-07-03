@@ -1,0 +1,57 @@
+{
+  "id": "I182623691261",
+  "person": "Amasa Snow",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Truro, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Truro",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 January 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Truro, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Truro",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 January 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

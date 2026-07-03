@@ -1,0 +1,63 @@
+{
+  "id": "I182623690786",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Turford",
+    "suffix": null,
+    "full": "Elizabeth Turford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, England",
+        "parts": [
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Dec 1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Surrey, England",
+        "parts": [
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623690702"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

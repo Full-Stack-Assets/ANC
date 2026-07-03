@@ -1,0 +1,72 @@
+{
+  "id": "I182623664723",
+  "name": {
+    "given": "Lady KATHERINE\\Catherine",
+    "surname": "HOLT-van Wyke-de La Spine\\Spinney,",
+    "suffix": "of Wyke",
+    "full": "Lady KATHERINE\\Catherine HOLT-van Wyke-de La Spine\\Spinney, of Wyke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton, Warwickshire, England",
+        "parts": [
+          "Coughton",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton, Warwickshire, England",
+        "parts": [
+          "Coughton",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664734",
+      "I182623664733"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664730"
+      }
+    ],
+    "children": [
+      "I182623664555"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

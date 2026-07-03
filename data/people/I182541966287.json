@@ -1,0 +1,72 @@
+{
+  "id": "I182541966287",
+  "name": {
+    "given": "Priscilla",
+    "surname": "Colburn",
+    "suffix": null,
+    "full": "Priscilla Colburn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 Apr 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "03 Feb 1730/31",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966374",
+      "I182541966376"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966295"
+      }
+    ],
+    "children": [
+      "I182541966277"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

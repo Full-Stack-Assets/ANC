@@ -1,0 +1,57 @@
+{
+  "id": "I182613023595",
+  "person": "Phebe Smith",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boxford, Essex, Massachusetts, British America",
+        "parts": [
+          "Boxford",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Aug 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Jan 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

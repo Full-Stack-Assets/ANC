@@ -1,0 +1,49 @@
+{
+  "id": "I182197771156",
+  "name": {
+    "given": "William",
+    "surname": "Stockdale",
+    "suffix": null,
+    "full": "William Stockdale"
+  },
+  "sex": null,
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Chester, Pennsylvania",
+        "parts": [
+          "Chester",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146275",
+      "title": "U.S., Quaker Meeting Records, 1681-1935",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "I182613023787",
+  "person": "Hillenour Hellen Elinore West NB Greene Family Tree, created by Tony Greene",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cadney, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Cadney",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1514",
+        "year": 1514,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "OF, CADNEY, LINCOLNSHIRE, ENG",
+        "parts": [
+          "OF",
+          "CADNEY",
+          "LINCOLNSHIRE",
+          "ENG"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Lincolnshire, England",
+        "parts": [
+          "Lincolnshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "DECEASED",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

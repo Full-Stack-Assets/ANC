@@ -1,0 +1,63 @@
+{
+  "id": "I182625291661",
+  "person": "Lucy Allen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Clerkenwell",
+        "parts": [
+          "Clerkenwell"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1846",
+        "year": 1846,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

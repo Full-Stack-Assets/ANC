@@ -1,0 +1,95 @@
+{
+  "id": "I182585307149",
+  "person": "Owen Larkin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": "Class: RG11; Piece: 3011; Folio: 89; Page: 16; GSU roll: 1341719"
+        },
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Mark, Warwickshire, England",
+        "parts": [
+          "St Mark",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Birmingham, Warwickshire, England",
+        "parts": [
+          "Birmingham",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": "Class: RG11; Piece: 3011; Folio: 89; Page: 16; GSU roll: 1341719"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

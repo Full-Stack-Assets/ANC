@@ -1,0 +1,73 @@
+{
+  "id": "I182620325068",
+  "name": {
+    "given": "Mary Elizabeth",
+    "surname": "Walton",
+    "suffix": null,
+    "full": "Mary Elizabeth Walton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Sep 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, City of London, Greater London, England",
+        "parts": [
+          "London",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620325166",
+      "I182620325090"
+    ],
+    "spouses": [
+      {
+        "id": "I182620325076"
+      }
+    ],
+    "children": [
+      "I182620325010"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

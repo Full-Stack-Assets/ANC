@@ -1,0 +1,68 @@
+{
+  "id": "I182623689599",
+  "name": {
+    "given": "GEORGE",
+    "surname": "WARREN",
+    "suffix": null,
+    "full": "GEORGE WARREN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poynton, Cheshire, England",
+        "parts": [
+          "Poynton",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London,  England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689590"
+      }
+    ],
+    "children": [
+      "I182623688986"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

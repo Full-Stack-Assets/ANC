@@ -1,0 +1,68 @@
+{
+  "id": "I182381536293",
+  "name": {
+    "given": "Nancy Joanna",
+    "surname": "Cutler",
+    "suffix": null,
+    "full": "Nancy Joanna Cutler"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Husbandsbosworth, Leicestershire, England",
+        "parts": [
+          "Husbandsbosworth",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 January 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, MA, USA",
+        "parts": [
+          "Charlestown",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959997",
+      "I182381536303"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381536282"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

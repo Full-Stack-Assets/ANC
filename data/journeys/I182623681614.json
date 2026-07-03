@@ -1,0 +1,65 @@
+{
+  "id": "I182623681614",
+  "person": "Martin Bowes",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447152581",
+          "page": "Gale Research Company; Detroit, Michigan; Accession Number: 503674"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Shouldham, Norfolk, England",
+        "parts": [
+          "Shouldham",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Feb 1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447152581",
+          "page": "Gale Research Company; Detroit, Michigan; Accession Number: 503674"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

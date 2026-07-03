@@ -1,0 +1,114 @@
+{
+  "id": "I182620318480",
+  "person": "Patrick Brady",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Sep 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New York Ward 22 District 2, New York, New York, New York, USA",
+        "parts": [
+          "New York Ward 22 District 2",
+          "New York",
+          "New York",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Milwaukee, Wisconsin, USA",
+        "parts": [
+          "Milwaukee",
+          "Wisconsin",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Nov 1874",
+        "year": 1874,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "New York, USA",
+        "parts": [
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473082",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

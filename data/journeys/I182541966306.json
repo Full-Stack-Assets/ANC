@@ -1,0 +1,53 @@
+{
+  "id": "I182541966306",
+  "person": "Richard Phillips",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Essex, England",
+        "parts": [
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "York, Maine",
+        "parts": [
+          "York",
+          "Maine"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

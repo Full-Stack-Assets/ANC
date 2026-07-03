@@ -1,0 +1,72 @@
+{
+  "id": "I182625986417",
+  "name": {
+    "given": "John",
+    "surname": "Rason",
+    "suffix": null,
+    "full": "John Rason"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Dec 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987023",
+      "I182625987036"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986402"
+      }
+    ],
+    "children": [
+      "I182625986383"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

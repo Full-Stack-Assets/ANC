@@ -1,0 +1,67 @@
+{
+  "id": "I182541959386",
+  "name": {
+    "given": "Abigail",
+    "surname": "(Hyde) Stowell",
+    "suffix": null,
+    "full": "Abigail (Hyde) Stowell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Aug 1777",
+        "year": 1777,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541959366"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

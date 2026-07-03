@@ -1,0 +1,68 @@
+{
+  "id": "I182613112445",
+  "name": {
+    "given": "Johanes William",
+    "surname": "Gleydehyll Gledall",
+    "suffix": null,
+    "full": "Johanes William Gleydehyll Gledall"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1516",
+        "year": 1516,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halifax or Huddersfield, Yorkshire, England",
+        "parts": [
+          "Halifax or Huddersfield",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112439"
+      }
+    ],
+    "children": [
+      "I182613112417"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

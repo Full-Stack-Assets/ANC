@@ -1,0 +1,64 @@
+{
+  "id": "I182726543033",
+  "person": "Margaret O'Reilley",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Co, Monabhan, Ireland",
+        "parts": [
+          "Co",
+          "Monabhan",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New Brunswick, Canada",
+        "parts": [
+          "New Brunswick",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Nov 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

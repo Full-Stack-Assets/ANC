@@ -1,0 +1,80 @@
+{
+  "id": "I182625972507",
+  "name": {
+    "given": "Nicolaas Raban",
+    "surname": "van Langen \"Heer van West-Kreyenburg\"",
+    "suffix": null,
+    "full": "Nicolaas Raban van Langen \"Heer van West-Kreyenburg\""
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "um 1457",
+        "year": 1457,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hoya, Emsland,",
+        "parts": [
+          "Hoya",
+          "Emsland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Meppen, Ems",
+        "parts": [
+          "Meppen",
+          "Ems"
+        ]
+      },
+      "value": null,
+      "note": "1557 war er tot",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972563"
+      }
+    ],
+    "children": [
+      "I182625972486"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

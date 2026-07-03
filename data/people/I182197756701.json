@@ -1,0 +1,51 @@
+{
+  "id": "I182197756701",
+  "name": {
+    "given": "Mary C.",
+    "surname": "Fairlamb",
+    "suffix": null,
+    "full": "Mary C. Fairlamb"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Jul 1705",
+        "year": 1705,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Delaware, Pennsylvania",
+        "parts": [
+          "Chester",
+          "Delaware",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620314885",
+      "I182620314901"
+    ],
+    "spouses": [
+      {
+        "id": "I182197756552"
+      }
+    ],
+    "children": [
+      "I182197732129"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

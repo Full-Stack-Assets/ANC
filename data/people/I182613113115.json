@@ -1,0 +1,122 @@
+{
+  "id": "I182613113115",
+  "name": {
+    "given": "Katrina\\Katherine\\Catherine   (Franklin)",
+    "surname": "Prince Beville\\Buell Clark\\Clarke\\Colt\\Coult",
+    "suffix": null,
+    "full": "Katrina\\Katherine\\Catherine   (Franklin) Prince Beville\\Buell Clark\\Clarke\\Colt\\Coult"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "April 17, 1601",
+        "year": 1601,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, England",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "February 12, 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huntingdonshire, England",
+        "parts": [
+          "Huntingdonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113135",
+      "I182613113136"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113134",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1617",
+            "year": 1617,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Manchester, Lancashire, England, United Kingdom",
+            "parts": [
+              "Manchester",
+              "Lancashire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613113103",
+      "I182613113133",
+      "I182613113132"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

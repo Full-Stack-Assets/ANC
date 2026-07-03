@@ -1,0 +1,72 @@
+{
+  "id": "I182381535139",
+  "name": {
+    "given": "John",
+    "surname": "Jorden",
+    "suffix": null,
+    "full": "John Jorden"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mamble, Worcestershire, England",
+        "parts": [
+          "Mamble",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ribbesford, Worcestershire, England?",
+        "parts": [
+          "Ribbesford",
+          "Worcestershire",
+          "England?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535169",
+      "I182381535154"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535143"
+      }
+    ],
+    "children": [
+      "I182381535131"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,223 @@
+{
+  "id": "I182197442974",
+  "name": {
+    "given": "Simon",
+    "surname": "Swanson",
+    "suffix": null,
+    "full": "Simon Swanson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 March 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sweden",
+        "parts": [
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447115751",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197443214",
+      "I182292318217"
+    ],
+    "spouses": [
+      {
+        "id": "I182197442975",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 May 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Easton, Massachusetts, USA",
+            "parts": [
+              "Easton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446915296",
+              "page": null
+            },
+            {
+              "source_id": "S447115921",
+              "page": null
+            },
+            {
+              "source_id": "S447115751",
+              "page": null
+            },
+            {
+              "source_id": "S446914824",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182197443071",
+      "I182197442785",
+      "I182197443128"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1888",
+        "year": 1888,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Bristol, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Gamle Stad Götell",
+        "parts": [
+          "Gamle Stad Götell"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115751",
+      "title": "1900 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446914946",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

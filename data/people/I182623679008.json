@@ -1,0 +1,105 @@
+{
+  "id": "I182623679008",
+  "name": {
+    "given": "Peter",
+    "surname": "Sullivan",
+    "suffix": null,
+    "full": "Peter Sullivan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Jun 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": "Calculated form certified death certifiacte",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Jan 1884",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Weymouth",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Cause of death Phthisis",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679053",
+      "I182623679034"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679004"
+      }
+    ],
+    "children": [
+      "I182623679000"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182570421656",
+  "name": {
+    "given": "Mary",
+    "surname": "Swazey",
+    "suffix": null,
+    "full": "Mary Swazey"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mattituck, Suffolk, New York, United States",
+        "parts": [
+          "Mattituck",
+          "Suffolk",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Dec 1782",
+        "year": 1782,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, Orange, New York, United States of America",
+        "parts": [
+          "Goshen",
+          "Orange",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182570421661"
+      }
+    ],
+    "children": [
+      "I182567600222"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

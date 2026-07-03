@@ -1,0 +1,72 @@
+{
+  "id": "I182584904944",
+  "name": {
+    "given": "Thomas (Tomas)",
+    "surname": "Hodges",
+    "suffix": null,
+    "full": "Thomas (Tomas) Hodges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 Jan 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dymock, Gloucestershire, England",
+        "parts": [
+          "Dymock",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 May 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Congresbury, Somerset, England",
+        "parts": [
+          "Congresbury",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905417",
+      "I182584905416"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904941"
+      }
+    ],
+    "children": [
+      "I182584904936"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

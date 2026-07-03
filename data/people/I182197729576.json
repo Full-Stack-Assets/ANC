@@ -1,0 +1,74 @@
+{
+  "id": "I182197729576",
+  "name": {
+    "given": "Mary Margaret",
+    "surname": "Valentine",
+    "suffix": null,
+    "full": "Mary Margaret Valentine"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Nassau County, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Nassau County",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nassau, Lewis, New York, United States",
+        "parts": [
+          "Nassau",
+          "Lewis",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541956481",
+      "I182198586989"
+    ],
+    "spouses": [
+      {
+        "id": "I182197729555"
+      }
+    ],
+    "children": [
+      "I182195863536"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

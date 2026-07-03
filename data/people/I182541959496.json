@@ -1,0 +1,69 @@
+{
+  "id": "I182541959496",
+  "name": {
+    "given": "Caleb",
+    "surname": "Pond",
+    "suffix": null,
+    "full": "Caleb Pond"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Dec 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Feb 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wrentham, Norfolk, MA",
+        "parts": [
+          "Wrentham",
+          "Norfolk",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959491"
+      }
+    ],
+    "children": [
+      "I182541959437"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

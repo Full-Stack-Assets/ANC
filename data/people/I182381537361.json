@@ -1,0 +1,73 @@
+{
+  "id": "I182381537361",
+  "name": {
+    "given": "William",
+    "surname": "Peirsone",
+    "suffix": null,
+    "full": "William Peirsone"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 APR 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland, United Kingdom",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537376",
+      "I182381537374"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537348"
+      }
+    ],
+    "children": [
+      "I182381537286"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

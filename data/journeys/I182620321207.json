@@ -1,0 +1,68 @@
+{
+  "id": "I182620321207",
+  "person": "Peder Andersson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Lernbo, Norrbärcke, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Lernbo",
+          "Norrbärcke",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1536",
+        "year": 1536,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Norrmesunda 1:6, Anundsjö, Örnsköldsvik, Västernorrland, Suède",
+        "parts": [
+          "Norrmesunda 1:6",
+          "Anundsjö",
+          "Örnsköldsvik",
+          "Västernorrland",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

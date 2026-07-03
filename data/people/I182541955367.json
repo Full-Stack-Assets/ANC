@@ -1,0 +1,85 @@
+{
+  "id": "I182541955367",
+  "name": {
+    "given": "Elaine Alice",
+    "surname": "Goula",
+    "suffix": null,
+    "full": "Elaine Alice Goula"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jan 1947",
+        "year": 1947,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 May 2023",
+        "year": 2023,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Attleboro, Bristol, Massachusetts, USA",
+        "parts": [
+          "Attleboro",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955356"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

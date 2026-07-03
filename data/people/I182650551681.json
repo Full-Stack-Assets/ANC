@@ -1,0 +1,70 @@
+{
+  "id": "I182650551681",
+  "name": {
+    "given": "Rose",
+    "surname": "Elseph Wylie 9ggm",
+    "suffix": "\"Elseph MacRoss\" \"Rose of Holme\" \"Etta Elsbeth Rose Wylie\"",
+    "full": "Rose Elseph Wylie 9ggm \"Elseph MacRoss\" \"Rose of Holme\" \"Etta Elsbeth Rose Wylie\""
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Jan 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edinburgh, Midlothian, Scotland",
+        "parts": [
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Nov 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, buried in Liberty Plain Cemetery",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "buried in Liberty Plain Cemetery"
+        ]
+      },
+      "value": null,
+      "note": "Buried in Liberty Plain Cemetery",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551677"
+      }
+    ],
+    "children": [
+      "I182650551659"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

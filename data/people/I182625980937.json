@@ -1,0 +1,66 @@
+{
+  "id": "I182625980937",
+  "name": {
+    "given": "Margaret",
+    "surname": "Lyons",
+    "suffix": null,
+    "full": "Margaret Lyons"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1547",
+        "year": 1547,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Johnstone, Dumfries-shire, Scotland",
+        "parts": [
+          "Johnstone",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland, United Kingdom",
+        "parts": [
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625980976"
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

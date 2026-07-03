@@ -1,0 +1,56 @@
+{
+  "id": "I182620323052",
+  "person": "John \"Soldier\" MacLeod",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Raasay, Inverness-shire, Scotland",
+        "parts": [
+          "Raasay",
+          "Inverness-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "07 Jul 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Inverness County, Cape Breton Island, Nova Scotia, Canada",
+        "parts": [
+          "Inverness County",
+          "Cape Breton Island",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "07 Jul 1897",
+        "year": 1897,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

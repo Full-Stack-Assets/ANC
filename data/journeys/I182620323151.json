@@ -1,0 +1,90 @@
+{
+  "id": "I182620323151",
+  "person": "Hugh E Ross",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kilmuir (Isle of Skye), Highland, Scotland",
+        "parts": [
+          "Kilmuir (Isle of Skye)",
+          "Highland",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Big Intervale, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Big Intervale",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1892",
+        "year": 1892,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "North East Margaree, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "North East Margaree",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

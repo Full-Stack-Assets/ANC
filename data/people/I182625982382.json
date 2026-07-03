@@ -1,0 +1,133 @@
+{
+  "id": "I182625982382",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Boleyn",
+    "suffix": null,
+    "full": "Elizabeth Boleyn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arundel, Arun District, West Sussex, England",
+        "parts": [
+          "Arundel",
+          "Arun District",
+          "West Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 April 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hever, Sevenoaks District, Kent, England",
+        "parts": [
+          "Hever",
+          "Sevenoaks District",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Lambeth, London Borough of Lambeth, Greater London, England",
+        "parts": [
+          "Lambeth",
+          "London Borough of Lambeth",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982211",
+      "I182625982210"
+    ],
+    "spouses": [
+      {
+        "id": "I182625982482"
+      }
+    ],
+    "children": [
+      "I182625982484",
+      "I182625982486",
+      "I182625982485",
+      "I182625982481",
+      "I182625982483"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

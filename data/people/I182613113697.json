@@ -1,0 +1,70 @@
+{
+  "id": "I182613113697",
+  "name": {
+    "given": "Thomae Thomas",
+    "surname": "Harper",
+    "suffix": null,
+    "full": "Thomae Thomas Harper"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, Bury St Edmunds, Suffolk, England",
+        "parts": [
+          "St James",
+          "Bury St Edmunds",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "06 Jul 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Olave Silver Street, London, England",
+        "parts": [
+          "St Olave Silver Street",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113695"
+      }
+    ],
+    "children": [
+      "I182613113686"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182650552162",
+  "name": {
+    "given": "Edmund",
+    "surname": "James (13ggf)",
+    "suffix": null,
+    "full": "Edmund James (13ggf)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Sep 1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, England",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "06 Aug 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chelmsford, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Chelmsford",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552167",
+      "I182650552165"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552157"
+      }
+    ],
+    "children": [
+      "I182650552000"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

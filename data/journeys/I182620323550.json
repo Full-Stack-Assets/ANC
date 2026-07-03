@@ -1,0 +1,56 @@
+{
+  "id": "I182620323550",
+  "person": "John McPherson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Isle of Skye, Inverness, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Inverness",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lot 62, Belle River, Prince Edward Island, British America",
+        "parts": [
+          "Lot 62",
+          "Belle River",
+          "Prince Edward Island",
+          "British America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Apr 1832",
+        "year": 1832,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "I182613026495",
+  "name": {
+    "given": "Thomas",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Thomas Smith"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bourne, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Bourne",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 September 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bourne, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Bourne",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023759",
+      "I182613026493"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

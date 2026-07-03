@@ -1,0 +1,74 @@
+{
+  "id": "I182623689845",
+  "name": {
+    "given": "Mary",
+    "surname": "Bates",
+    "suffix": null,
+    "full": "Mary Bates"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Jul 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, United States",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": "Age: 0",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Jan 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Cumberland, Maine, United States",
+        "parts": [
+          "Yarmouth",
+          "Cumberland",
+          "Maine",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689923",
+      "I182623689893"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689866"
+      }
+    ],
+    "children": [
+      "I182623689818"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

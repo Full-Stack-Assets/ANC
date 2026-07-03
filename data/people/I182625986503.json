@@ -1,0 +1,71 @@
+{
+  "id": "I182625986503",
+  "name": {
+    "given": "Humfrey",
+    "surname": "Hemmings",
+    "suffix": null,
+    "full": "Humfrey Hemmings"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Feckenham, Worcestershire, England",
+        "parts": [
+          "Feckenham",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Feckenham, Worcestershire, England",
+        "parts": [
+          "Feckenham",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986520"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986500"
+      }
+    ],
+    "children": [
+      "I182625986461"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

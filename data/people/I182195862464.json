@@ -1,0 +1,74 @@
+{
+  "id": "I182195862464",
+  "name": {
+    "given": "John Schone",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "John Schone Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Dec 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maple Shade, Burlington, New Jersey, USA",
+        "parts": [
+          "Maple Shade",
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Nov 1932",
+        "year": 1932,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, PA",
+        "parts": [
+          "Philadelphia",
+          "PA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862458",
+      "I182195862459"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

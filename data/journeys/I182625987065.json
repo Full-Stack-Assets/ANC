@@ -1,0 +1,55 @@
+{
+  "id": "I182625987065",
+  "person": "Peter\\Peeter Barker",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Darley, Derbyshire, England",
+        "parts": [
+          "Darley",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 May 1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Darley, Derbyshire, England",
+        "parts": [
+          "Darley",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

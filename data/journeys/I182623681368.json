@@ -1,0 +1,79 @@
+{
+  "id": "I182623681368",
+  "person": "Henry Nutter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Lancashire, England",
+        "parts": [
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Reedley Hallows, Burnley, Lancashire, England",
+        "parts": [
+          "Reedley Hallows",
+          "Burnley",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "St Annes, Fylde Borough, Lancashire, England",
+        "parts": [
+          "St Annes",
+          "Fylde Borough",
+          "Lancashire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

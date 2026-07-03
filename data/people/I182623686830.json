@@ -1,0 +1,71 @@
+{
+  "id": "I182623686830",
+  "name": {
+    "given": "Lady Ann",
+    "surname": "Langton❤️",
+    "suffix": null,
+    "full": "Lady Ann Langton❤️"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langton, Yorkshire, England",
+        "parts": [
+          "Langton",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Aug 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Mary Magdalen's, Milk Street, London, Middlesex, England",
+        "parts": [
+          "St. Mary Magdalen's",
+          "Milk Street",
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623686858"
+      }
+    ],
+    "children": [
+      "I182623686802"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

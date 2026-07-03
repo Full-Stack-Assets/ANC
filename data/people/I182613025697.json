@@ -1,0 +1,65 @@
+{
+  "id": "I182613025697",
+  "name": {
+    "given": "John",
+    "surname": "Lawrence",
+    "suffix": null,
+    "full": "John Lawrence"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1537",
+        "year": 1537,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, Suffolk, England",
+        "parts": [
+          "St James",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Jan 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613025687"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182623687218",
+  "person": "*Johanna \\ Jone HARWILL \\  HARELL",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wolborough and Newton Abbot, Devon, England",
+        "parts": [
+          "Wolborough and Newton Abbot",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Jan 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Durnford, Wiltshire,England",
+        "parts": [
+          "Durnford",
+          "Wiltshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

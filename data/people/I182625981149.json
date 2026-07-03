@@ -1,0 +1,48 @@
+{
+  "id": "I182625981149",
+  "name": {
+    "given": "John Thomas",
+    "surname": "Kenworthy Kenward",
+    "suffix": null,
+    "full": "John Thomas Kenworthy Kenward"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1495",
+        "year": 1495,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England, England, United Kingdom",
+        "parts": [
+          "England",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625981164"
+      }
+    ],
+    "children": [
+      "I182625981144"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

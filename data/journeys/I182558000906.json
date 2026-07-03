@@ -1,0 +1,84 @@
+{
+  "id": "I182558000906",
+  "person": "Marij Gooris",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Holland, Reusel-de Mierden, Noord-Brabant, Netherlands",
+        "parts": [
+          "Holland",
+          "Reusel-de Mierden",
+          "Noord-Brabant",
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grave",
+        "parts": [
+          "Grave"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S514024022",
+          "page": "Brabants Historisch Informatie Centrum; The Hague, Netherlands; Trouwen"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

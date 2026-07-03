@@ -1,0 +1,73 @@
+{
+  "id": "I182613112400",
+  "name": {
+    "given": "William Robert",
+    "surname": "Batts",
+    "suffix": "Fellow Vice Master Of Oxford University",
+    "full": "William Robert Batts Fellow Vice Master Of Oxford University"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 July 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Okewell, Birstal Parish, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Okewell",
+          "Birstal Parish",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 August 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birstall, Yorkshire, England, United Kingdom or Henrico, VA",
+        "parts": [
+          "Birstall",
+          "Yorkshire",
+          "England",
+          "United Kingdom or Henrico",
+          "VA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112387"
+      }
+    ],
+    "children": [
+      "I182613112382"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

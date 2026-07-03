@@ -1,0 +1,70 @@
+{
+  "id": "I182541960231",
+  "name": {
+    "given": "Sir Richard Edward Woodstocke",
+    "surname": "Cooke of Gidea Hall (Followed his Father to court and served",
+    "suffix": null,
+    "full": "Sir Richard Edward Woodstocke Cooke of Gidea Hall (Followed his Father to court and served"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1521",
+        "year": 1521,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gidea Hall, Romford, London Borough of Havering, Greater London, England",
+        "parts": [
+          "Gidea Hall",
+          "Romford",
+          "London Borough of Havering",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Oct 1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Romford, London Borough of Havering, Greater London, England",
+        "parts": [
+          "Romford",
+          "London Borough of Havering",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960255"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541960160"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

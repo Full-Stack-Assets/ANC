@@ -1,0 +1,114 @@
+{
+  "id": "I182726546473",
+  "name": {
+    "given": "Sigrid",
+    "surname": "Olsdotter",
+    "suffix": null,
+    "full": "Sigrid Olsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of Myckleby, Goteborg, Swed.",
+        "parts": [
+          "of Myckleby",
+          "Goteborg",
+          "Swed."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Aug 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grinsby, Myckleby, G-Bhs, Swdn",
+        "parts": [
+          "Grinsby",
+          "Myckleby",
+          "G-Bhs",
+          "Swdn"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182728423962",
+      "I182728423973"
+    ],
+    "spouses": [
+      {
+        "id": "I182726546489"
+      }
+    ],
+    "children": [
+      "I182292319595"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kalseröd, Myckleby (O)",
+        "parts": [
+          "Kalseröd",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "19 Aug 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby (O)",
+        "parts": [
+          "Grindsby",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

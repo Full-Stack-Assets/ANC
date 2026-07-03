@@ -1,0 +1,370 @@
+{
+  "id": "I182613023754",
+  "name": {
+    "given": "JACOB",
+    "surname": "TOWNE Ensign",
+    "suffix": "#11-1158",
+    "full": "JACOB TOWNE Ensign #11-1158"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Mar 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Nicholas Parish, Great Yarmouth, Norfolk, England",
+        "parts": [
+          "St Nicholas Parish",
+          "Great Yarmouth",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Nov 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boxford, Topsfield, Essex, Massachusetts",
+        "parts": [
+          "Boxford",
+          "Topsfield",
+          "Essex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Topsfield, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Topsfield",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024608",
+      "I182613024556"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023753"
+      }
+    ],
+    "children": [
+      "I182613023600"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 Feb 1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Nicholas Parish, Great Yarmouth, Norfolk, England, United Kingdom",
+        "parts": [
+          "St. Nicholas Parish",
+          "Great Yarmouth",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 Feb 1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, County, Norfolk, England",
+        "parts": [
+          "Great Yarmouth",
+          "County",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 March 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, County, Norfolk, England",
+        "parts": [
+          "Great Yarmouth",
+          "County",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 March 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, Great Yarmouth Borough, Norfolk, England",
+        "parts": [
+          "Great Yarmouth",
+          "Great Yarmouth Borough",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 March 1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, Great Yarmouth Borough, Norfolk, England",
+        "parts": [
+          "Great Yarmouth",
+          "Great Yarmouth Borough",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 Mar 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex, Massachusetts, USA",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 Mar 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Norfolk, England",
+        "parts": [
+          "Yarmouth",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 March 1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Nicholas Ch, Gt Yarmouth, England",
+        "parts": [
+          "St Nicholas Ch",
+          "Gt Yarmouth",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "27 November 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex County, Massachusetts",
+        "parts": [
+          "Topsfield",
+          "Essex County",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "27 November 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Topsfield",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "27 Nov 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516008680",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

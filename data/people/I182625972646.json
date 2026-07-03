@@ -1,0 +1,74 @@
+{
+  "id": "I182625972646",
+  "name": {
+    "given": "Johann Nikolaus",
+    "surname": "Lermen Lerner",
+    "suffix": null,
+    "full": "Johann Nikolaus Lermen Lerner"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Sep 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Breitenbach, St Wendel, Saarland, Germany",
+        "parts": [
+          "Breitenbach",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Sep 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972828",
+      "I182625972815"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972635"
+      }
+    ],
+    "children": [
+      "I182623663946"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

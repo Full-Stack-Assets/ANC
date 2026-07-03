@@ -1,0 +1,94 @@
+{
+  "id": "I182587606722",
+  "name": {
+    "given": "Cassandra",
+    "surname": "Thompson",
+    "suffix": null,
+    "full": "Cassandra Thompson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 July 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stepney, London, Middlesex, London, England, United Kingdom",
+        "parts": [
+          "Stepney",
+          "London",
+          "Middlesex",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 December 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Salem, New Jersey USA, USA",
+        "parts": [
+          "Salem",
+          "Salem",
+          "New Jersey USA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980849",
+      "I182625980191"
+    ],
+    "spouses": [
+      {
+        "id": "I182587606286"
+      }
+    ],
+    "children": [
+      "I182541935662"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

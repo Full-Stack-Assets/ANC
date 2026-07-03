@@ -1,0 +1,73 @@
+{
+  "id": "I182650548761",
+  "name": {
+    "given": "Agnes Ann",
+    "surname": " Langley",
+    "suffix": null,
+    "full": "Agnes Ann  Langley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 July 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandy, Central Bedfordshire Unitary Authority, Bedfordshire, England",
+        "parts": [
+          "Sandy",
+          "Central Bedfordshire Unitary Authority",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Jul 1677",
+        "year": 1677,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Massachusetts, USA",
+        "parts": [
+          "Salem",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548770",
+      "I182650548767"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548756"
+      }
+    ],
+    "children": [
+      "I182620337728"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

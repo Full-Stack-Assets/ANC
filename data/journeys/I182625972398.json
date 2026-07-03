@@ -1,0 +1,56 @@
+{
+  "id": "I182625972398",
+  "person": "Anna Maria Tholey",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 August 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Breiten, St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "Breiten",
+          "St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 December 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

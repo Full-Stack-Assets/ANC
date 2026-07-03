@@ -1,0 +1,57 @@
+{
+  "id": "I182547590472",
+  "name": {
+    "given": "Daniel Patrick",
+    "surname": "Clifford",
+    "suffix": null,
+    "full": "Daniel Patrick Clifford"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Nov 1992",
+        "year": 1992,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "San Diego, California",
+        "parts": [
+          "San Diego",
+          "California"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "Birthdate: 24 Nov 1992; Birth County: San Diego"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197441783",
+      "I182195856890"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

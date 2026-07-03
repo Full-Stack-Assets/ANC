@@ -1,0 +1,74 @@
+{
+  "id": "I182613113052",
+  "name": {
+    "given": "Joann Richardson",
+    "surname": "Knight",
+    "suffix": null,
+    "full": "Joann Richardson Knight"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 NOV 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcester County, Massachusetts, USA",
+        "parts": [
+          "Worcester",
+          "Worcester County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113064",
+      "I182613113069"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113055"
+      }
+    ],
+    "children": [
+      "I182613112514"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

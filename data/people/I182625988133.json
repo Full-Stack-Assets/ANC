@@ -1,0 +1,46 @@
+{
+  "id": "I182625988133",
+  "name": {
+    "given": "Thomas",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Thomas Taber"
+  },
+  "sex": "M",
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182541933966",
+      "I182541956633"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S516961293",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516961293",
+      "title": "Massachusetts, U.S., Wills and Probate Records, 1635-1991",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

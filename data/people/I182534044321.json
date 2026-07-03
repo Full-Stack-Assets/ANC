@@ -1,0 +1,60 @@
+{
+  "id": "I182534044321",
+  "name": {
+    "given": "Hans Martin",
+    "surname": "Schneider",
+    "suffix": null,
+    "full": "Hans Martin Schneider"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Crimmitschau",
+        "parts": [
+          "Crimmitschau"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044319"
+      }
+    ],
+    "children": [
+      "I182534044307"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

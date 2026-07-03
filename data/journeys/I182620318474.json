@@ -1,0 +1,165 @@
+{
+  "id": "I182620318474",
+  "person": "Mary Hagan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": "The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: New York Ward 22 District 2, New York, New York; Roll: M653_820; Page: 356; Famil"
+        },
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 05595 / 01"
+        },
+        {
+          "source_id": "",
+          "page": "New York City Department of Records & Information Services; New York City, New York; New York City Birth Certificates"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Louth, Ireland",
+        "parts": [
+          "Louth",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 May 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 05595 / 01"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "New York Ward 22 District 2, New York, New York, New York, USA",
+        "parts": [
+          "New York Ward 22 District 2",
+          "New York",
+          "New York",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": "The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: New York Ward 22 District 2, New York, New York; Roll: M653_820; Page: 356; Famil"
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "New York, New York",
+        "parts": [
+          "New York",
+          "New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Mar 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "New York, USA",
+        "parts": [
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473082",
+          "page": "The National Archives in Washington, DC; Washington, DC, USA; U.s., Civil War Pension Index: General Index to Pension Files, 1861-1934; NAI Title: General Index to Civil War and Later Pension Files, Ca. 1949-Ca. 1949; NAI Number: 563268; Record Group Title"
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Sky?",
+        "parts": [
+          "Sky?"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 05595 / 01"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

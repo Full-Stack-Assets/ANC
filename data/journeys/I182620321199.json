@@ -1,0 +1,92 @@
+{
+  "id": "I182620321199",
+  "person": "Olof Hansson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nedre Starbo Norrbärke Dalarna Sverige, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Nedre Starbo Norrbärke Dalarna Sverige",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1465",
+        "year": 1465,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skalmsjö. Anundsjö",
+        "parts": [
+          "Skalmsjö. Anundsjö"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1499",
+        "year": 1499,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Nedre Starbo, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Nedre Starbo",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1539",
+        "year": 1539,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

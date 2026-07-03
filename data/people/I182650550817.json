@@ -1,0 +1,114 @@
+{
+  "id": "I182650550817",
+  "name": {
+    "given": "Sarah",
+    "surname": "Packard",
+    "suffix": null,
+    "full": "Sarah Packard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 January 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Bridgewater",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 July 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Bridgewater",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Brockton, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Brockton",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550847",
+      "I182650550842"
+    ],
+    "spouses": [
+      {
+        "id": "I182650550819"
+      }
+    ],
+    "children": [
+      "I182650550801"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

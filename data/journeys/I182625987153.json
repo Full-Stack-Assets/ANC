@@ -1,0 +1,55 @@
+{
+  "id": "I182625987153",
+  "person": "Henry\\Henrie Barker",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Derby, Derbyshire, England",
+        "parts": [
+          "Derby",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Derby, Derbyshire, England",
+        "parts": [
+          "Derby",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 May 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

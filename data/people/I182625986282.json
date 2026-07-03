@@ -1,0 +1,65 @@
+{
+  "id": "I182625986282",
+  "name": {
+    "given": "Ann Hannah",
+    "surname": "Ellis",
+    "suffix": null,
+    "full": "Ann Hannah Ellis"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Apr 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clarborough, Nottinghamshire, England",
+        "parts": [
+          "Clarborough",
+          "Nottinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Catherine Collins would have been 9 years old when Ann Hannah Ellis was born, Catherine &amp; Thomas Ellis married in 1722 so, Ann would have been 12 when they married. Do the Math",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Upton, Burlington, New Jersey, United States",
+        "parts": [
+          "Upton",
+          "Burlington",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986293"
+      }
+    ],
+    "children": [
+      "I182195863427"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "I182197770013",
+  "name": {
+    "given": "William John",
+    "surname": "Morrow (Morrogh)",
+    "suffix": null,
+    "full": "William John Morrow (Morrogh)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "County Armagh, Northern Ireland",
+        "parts": [
+          "County Armagh",
+          "Northern Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 JUL 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Lake, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "North Lake",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197770035",
+      "I182381536534"
+    ],
+    "spouses": [
+      {
+        "id": "I182197770003",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "Nantucket, Massachusetts, USA",
+            "parts": [
+              "Nantucket",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182541935920",
+      "I182197769931",
+      "I182587608458"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

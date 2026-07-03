@@ -1,0 +1,58 @@
+{
+  "id": "I182541958360",
+  "person": "Miriam JOHNSON OR COHAWKIN 8gg",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cohawkin, Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Cohawkin",
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

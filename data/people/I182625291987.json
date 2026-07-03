@@ -1,0 +1,46 @@
+{
+  "id": "I182625291987",
+  "name": {
+    "given": "Maurice",
+    "surname": "Carey (Mulkarey)",
+    "suffix": null,
+    "full": "Maurice Carey (Mulkarey)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625291986"
+      }
+    ],
+    "children": [
+      "I182587609016"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,365 @@
+{
+  "id": "I182195857640",
+  "name": {
+    "given": "Thomas",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Thomas Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool, England",
+        "parts": [
+          "Liverpool",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "The National Archives; London, England, UK; War Office: Soldiers' Documents, First World War Wo363"
+        },
+        {
+          "source_id": "S513879842",
+          "page": null
+        },
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Lowell Ward 7, Middlesex, Massachusetts; Roll: T625_711; Page: 4A; Enumeration District: 562"
+        },
+        {
+          "source_id": "S516918987",
+          "page": "Class: Rg 9; Piece: 2652; Folio: 114; Page: 26; GSU roll: 543006"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maine, USA",
+        "parts": [
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789737425",
+      "I182625291737",
+      "I182584905624"
+    ],
+    "spouses": [
+      {
+        "id": "I182625288498",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "25 Dec 1905",
+            "year": 1905,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "St Lukes Ramsgate",
+            "parts": [
+              "St Lukes Ramsgate"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "",
+              "page": "The National Archives; London, England, UK; War Office: Soldiers' Documents, First World War Wo363"
+            },
+            {
+              "source_id": "",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195857362"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1864",
+        "year": 1864,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Lowell Ward 7, Middlesex, Massachusetts; Roll: T625_711; Page: 4A; Enumeration District: 562"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Alban, Liverpool, Lancashire, England",
+        "parts": [
+          "St Alban",
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S516918987",
+          "page": "Class: Rg 9; Piece: 2652; Folio: 114; Page: 26; GSU roll: 543006"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1877",
+        "year": 1877,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Benedicta;  Silver Ridge, Aroostook, Maine",
+        "parts": [
+          "Benedicta;  Silver Ridge",
+          "Aroostook",
+          "Maine"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516621750",
+          "page": "Collection Number: G&M_1; Roll Number: 1"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Lowell Ward 7, Middlesex, Massachusetts; Roll: T625_711; Page: 4A; Enumeration District: 562"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Head; Occupation: Coal Miner",
+      "sources": [
+        {
+          "source_id": "S513879842",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "military",
+      "date": {
+        "raw": "1914",
+        "year": 1914,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "The National Archives; London, England, UK; War Office: Soldiers' Documents, First World War Wo363"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "8 Apr 1918",
+        "year": 1918,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Howe Brook, Aroostook, Maine",
+        "parts": [
+          "Howe Brook",
+          "Aroostook",
+          "Maine"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "The National Archives in Washington, DC; Washington, DC; Record of Appointment of Postmasters, 1832-Sept. 30, 1971; Record Group: Records of the Post Office Department; Record Group Number: 28; Series: M841; Roll Number: 53"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Presque Isle, Aroostook, Maine, USA",
+        "parts": [
+          "Presque Isle",
+          "Aroostook",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S513879842",
+      "title": "1911 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918987",
+      "title": "1861 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516621750",
+      "title": "U.S., Indexed County Land Ownership Maps, 1860-1918",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915197",
+      "title": "U.S. City Directories, 1822-1995",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918970",
+      "title": "New York, New York, U.S., Extracted Marriage Index, 1866-1937",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850687",
+      "title": "U.S., Army Transport Service Arriving and Departing Passenger Lists, 1910-1939",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "I182613023540",
+  "name": {
+    "given": "Nelson",
+    "surname": "Knight",
+    "suffix": null,
+    "full": "Nelson Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Mar 1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112498",
+      "I182613112490"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023535"
+      }
+    ],
+    "children": [
+      "I182613023530"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Hampshire",
+        "parts": [
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire, United States",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, Massachusetts, USA",
+        "parts": [
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "I182613023759",
+  "name": {
+    "given": "Edward",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Edward Smith"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 September 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Castle, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Castle",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Nov 1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bourne, Lincolnshire, England",
+        "parts": [
+          "Bourne",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023867",
+      "I182613023864"
+    ],
+    "spouses": [
+      {
+        "id": "I182613026493",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1575",
+            "year": 1575,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Bourne, Lincolnshire, England, United Kingdom",
+            "parts": [
+              "Bourne",
+              "Lincolnshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613026494",
+      "I182613026495",
+      "I182613026498",
+      "I182613026497",
+      "I182613026496",
+      "I182613023685"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

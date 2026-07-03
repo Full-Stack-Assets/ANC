@@ -1,0 +1,56 @@
+{
+  "id": "I182381535701",
+  "person": "Agnes Tebott",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Northamptonshire, Oxfordshire, Warwickshire, United Kingdom",
+        "parts": [
+          "Northamptonshire",
+          "Oxfordshire",
+          "Warwickshire",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1527",
+        "year": 1527,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hardingstone, Northamptonshire, England",
+        "parts": [
+          "Hardingstone",
+          "Northamptonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

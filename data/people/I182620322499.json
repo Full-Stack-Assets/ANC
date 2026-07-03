@@ -1,0 +1,72 @@
+{
+  "id": "I182620322499",
+  "name": {
+    "given": "Ellen Nellie",
+    "surname": "Gilmore",
+    "suffix": null,
+    "full": "Ellen Nellie Gilmore"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Oct 1845",
+        "year": 1845,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Galway, Ireland",
+        "parts": [
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Feb 1921",
+        "year": 1921,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322542",
+      "I182620322532"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322519"
+      }
+    ],
+    "children": [
+      "I182620322484"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

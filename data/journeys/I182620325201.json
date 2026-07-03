@@ -1,0 +1,87 @@
+{
+  "id": "I182620325201",
+  "person": "Elizabetha Botheroyd",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Halifax, Yorkshire, England",
+        "parts": [
+          "Halifax",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1530-1534",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Halifax, York, England",
+        "parts": [
+          "Halifax",
+          "York",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Jun 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        },
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Elland, Yorkshire, England",
+        "parts": [
+          "Elland",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

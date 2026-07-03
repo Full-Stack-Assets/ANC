@@ -1,0 +1,83 @@
+{
+  "id": "I182789735690",
+  "name": {
+    "given": "Rebecca",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Rebecca Coffin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Jul 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Savage Harbor, PEI",
+        "parts": [
+          "Savage Harbor",
+          "PEI"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Mar 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Savage Harbour, Kings, PEI, Canada",
+        "parts": [
+          "Savage Harbour",
+          "Kings",
+          "PEI",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789735397"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

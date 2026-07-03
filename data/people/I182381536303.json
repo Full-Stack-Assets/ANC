@@ -1,0 +1,72 @@
+{
+  "id": "I182381536303",
+  "name": {
+    "given": "Dorothey",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "Dorothey Smyth"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirkham, Lancashire, England",
+        "parts": [
+          "Kirkham",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Mar 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aughton (near Ormskirk), Lancashire, England",
+        "parts": [
+          "Aughton (near Ormskirk)",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536324",
+      "I182381536312"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959997"
+      }
+    ],
+    "children": [
+      "I182381536293"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

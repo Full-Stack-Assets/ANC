@@ -1,0 +1,69 @@
+{
+  "id": "I182625972320",
+  "name": {
+    "given": "Joachim",
+    "surname": "von Weyerbauer",
+    "suffix": null,
+    "full": "Joachim von Weyerbauer"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burbach, Saarland, Germany",
+        "parts": [
+          "Burbach",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burbach, Saarland, Allemagne",
+        "parts": [
+          "Burbach",
+          "Saarland",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972312"
+      }
+    ],
+    "children": [
+      "I182625972305"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

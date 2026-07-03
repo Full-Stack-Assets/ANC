@@ -1,0 +1,152 @@
+{
+  "id": "I182613112254",
+  "name": {
+    "given": "Rebecca",
+    "surname": "Tucker",
+    "suffix": null,
+    "full": "Rebecca Tucker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Milton",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Jun 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Norfolk, Massachusetts",
+        "parts": [
+          "Milton",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112261"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112257"
+      }
+    ],
+    "children": [
+      "I182613112251"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "12 June 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Milton",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "12 Jun 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Milton",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

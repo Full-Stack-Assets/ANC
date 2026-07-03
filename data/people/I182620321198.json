@@ -1,0 +1,84 @@
+{
+  "id": "I182620321198",
+  "name": {
+    "given": "Olaus Andreae",
+    "surname": "Angermanus",
+    "suffix": null,
+    "full": "Olaus Andreae Angermanus"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prastgarden Sidensjo, Dalarnas, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Prastgarden Sidensjo",
+          "Dalarnas",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 October 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "I fångenskap 8 år Gripsholms slott, Mariefred",
+        "parts": [
+          "I fångenskap 8 år Gripsholms slott",
+          "Mariefred"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182522976091",
+      "I182620321201"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

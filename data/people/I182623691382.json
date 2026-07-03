@@ -1,0 +1,95 @@
+{
+  "id": "I182623691382",
+  "name": {
+    "given": "Sullivan D",
+    "surname": "Owen",
+    "suffix": null,
+    "full": "Sullivan D Owen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jan 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Apr 1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barre, Washington, Vermont, USA",
+        "parts": [
+          "Barre",
+          "Washington",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691479",
+      "I182623691447"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691378"
+      }
+    ],
+    "children": [
+      "I182623679443"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jan 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barre, Vermont",
+        "parts": [
+          "Barre",
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

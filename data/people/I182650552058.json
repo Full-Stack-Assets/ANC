@@ -1,0 +1,47 @@
+{
+  "id": "I182650552058",
+  "name": {
+    "given": "James",
+    "surname": "Brabrooke",
+    "suffix": null,
+    "full": "James Brabrooke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northamptonshire, England",
+        "parts": [
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552042"
+      }
+    ],
+    "children": [
+      "I182650552033"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

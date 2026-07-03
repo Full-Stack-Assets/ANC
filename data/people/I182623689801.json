@@ -1,0 +1,74 @@
+{
+  "id": "I182623689801",
+  "name": {
+    "given": "Rebecca",
+    "surname": "Young",
+    "suffix": null,
+    "full": "Rebecca Young"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691162",
+      "I182623691153"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691127"
+      }
+    ],
+    "children": [
+      "I182623679502"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

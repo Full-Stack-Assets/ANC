@@ -1,0 +1,69 @@
+{
+  "id": "I182541960101",
+  "name": {
+    "given": "William Thomas",
+    "surname": "Gibbes\\Gybbes",
+    "suffix": null,
+    "full": "William Thomas Gibbes\\Gybbes"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1531",
+        "year": 1531,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcestershire, , England",
+        "parts": [
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 May 1601",
+        "year": 1601,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcestershire, , England",
+        "parts": [
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541960089"
+      }
+    ],
+    "children": [
+      "I182541960048"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "I182623691720",
+  "person": "Thomas Joslin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marlborough, Middlesex, MA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Mar 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fort William-henry",
+        "parts": [
+          "Fort William-henry"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

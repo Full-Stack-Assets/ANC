@@ -1,0 +1,86 @@
+{
+  "id": "I182541956631",
+  "person": "Hester or Esther Cooke",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Plymouth, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Plymouth",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 August 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusetts, USA",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508117531",
+          "page": "Historical Society of Pennsylvania; Society of Mayflower Descendants in the Commonwealth of Pennsylvania"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Dartmouth, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Dartmouth",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 April 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

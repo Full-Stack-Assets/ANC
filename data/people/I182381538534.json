@@ -1,0 +1,71 @@
+{
+  "id": "I182381538534",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Lotz",
+    "suffix": null,
+    "full": "Elizabeth Lotz"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Treysa, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Treysa",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Oct 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cassel, Ahrweiler, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Cassel",
+          "Ahrweiler",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538540"
+      }
+    ],
+    "children": [
+      "I182381538192"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

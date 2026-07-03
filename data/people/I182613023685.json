@@ -1,0 +1,267 @@
+{
+  "id": "I182613023685",
+  "name": {
+    "given": "Robert",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "Robert Smyth"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 March  1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelstern, East Lindsey District, Lincolnshire, England",
+        "parts": [
+          "Kelstern",
+          "East Lindsey District",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 November 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sutterton, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Sutterton",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023759"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023657"
+      }
+    ],
+    "children": [
+      "I182613023613"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 Mar 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 March  1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 March 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 March  1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton in Holland, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Kirton in Holland",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 March 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelstern, East Lindsey District, Lincolnshire, England",
+        "parts": [
+          "Kelstern",
+          "East Lindsey District",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 March  1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, , England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 November 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 November 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lincoln, City of Lincoln, Lincolnshire, England",
+        "parts": [
+          "Lincoln",
+          "City of Lincoln",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 November 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, , England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

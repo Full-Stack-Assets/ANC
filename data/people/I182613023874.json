@@ -1,0 +1,41 @@
+{
+  "id": "I182613023874",
+  "name": {
+    "given": "Ros",
+    "surname": "Simcotts",
+    "suffix": null,
+    "full": "Ros Simcotts"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113667"
+      }
+    ],
+    "children": [
+      "I182613023864"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

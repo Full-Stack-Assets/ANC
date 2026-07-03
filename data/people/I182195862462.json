@@ -1,0 +1,51 @@
+{
+  "id": "I182195862462",
+  "name": {
+    "given": "Julia",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Julia Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1863",
+        "year": 1863,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "NJ",
+        "parts": [
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862458",
+      "I182195862459"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

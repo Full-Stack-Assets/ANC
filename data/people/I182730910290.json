@@ -1,0 +1,117 @@
+{
+  "id": "I182730910290",
+  "name": {
+    "given": "Sarah Anne",
+    "surname": "Juxon Marshe Biggs",
+    "suffix": null,
+    "full": "Sarah Anne Juxon Marshe Biggs"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Aug 1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 May 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jamestown, James, Virginia, United States",
+        "parts": [
+          "Jamestown",
+          "James",
+          "Virginia",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970608",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1615",
+            "year": 1615,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Southampton, Hampshire, England",
+            "parts": [
+              "Southampton",
+              "Hampshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182730910291",
+      "I182730910292",
+      "I182625292273",
+      "I182730910293"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

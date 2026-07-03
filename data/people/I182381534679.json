@@ -1,0 +1,73 @@
+{
+  "id": "I182381534679",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Elwell",
+    "suffix": null,
+    "full": "Elizabeth Elwell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Mar 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pennsville, Salem, New Jersey, USA",
+        "parts": [
+          "Pennsville",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Feb 1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pennsville, Salem, New Jersey",
+        "parts": [
+          "Pennsville",
+          "Salem",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381534715",
+      "I182381534725"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534685"
+      }
+    ],
+    "children": [
+      "I182381534660"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

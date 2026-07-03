@@ -1,0 +1,70 @@
+{
+  "id": "I182541967165",
+  "name": {
+    "given": "Margret",
+    "surname": "Barnes",
+    "suffix": null,
+    "full": "Margret Barnes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bremhill, Wiltshire, England",
+        "parts": [
+          "Bremhill",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiltshire, England",
+        "parts": [
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967174"
+    ],
+    "spouses": [
+      {
+        "id": "I182541967168"
+      }
+    ],
+    "children": [
+      "I182541967139"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "I182625973006",
+  "name": {
+    "given": "Isabele",
+    "surname": "Haengrave (Haengreve, Hanegreeff)",
+    "suffix": null,
+    "full": "Isabele Haengrave (Haengreve, Hanegreeff)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1495",
+        "year": 1495,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eindhoven, North Brabant, The Netherlands, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "Eindhoven",
+          "North Brabant",
+          "The Netherlands",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972925",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 July 1540",
+            "year": 1540,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Eindhoven, North Brabant, The Netherlands, Noord-Brabant, Pays-Bas",
+            "parts": [
+              "Eindhoven",
+              "North Brabant",
+              "The Netherlands",
+              "Noord-Brabant",
+              "Pays-Bas"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625973005",
+      "I182625972996",
+      "I182625972997",
+      "I182625973000",
+      "I182625973002",
+      "I182625972899",
+      "I182625972995",
+      "I182625972998",
+      "I182625973001",
+      "I182625973004",
+      "I182625973007",
+      "I182625973003",
+      "I182625973009"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

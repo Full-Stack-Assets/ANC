@@ -1,0 +1,70 @@
+{
+  "id": "I182625985189",
+  "name": {
+    "given": "Edward",
+    "surname": "Williams",
+    "suffix": "Sr",
+    "full": "Edward Williams Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, New Jersey, USA",
+        "parts": [
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625985214",
+      "I182625985218"
+    ],
+    "spouses": [
+      {
+        "id": "I182625985204"
+      }
+    ],
+    "children": [
+      "I182542052534"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

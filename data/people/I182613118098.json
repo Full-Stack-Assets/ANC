@@ -1,0 +1,87 @@
+{
+  "id": "I182613118098",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Bridges",
+    "suffix": null,
+    "full": "Benjamin Bridges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 January 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, USA",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 August 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Framingham, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Framingham",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613117891",
+      "I182613118106",
+      "I182613024604"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

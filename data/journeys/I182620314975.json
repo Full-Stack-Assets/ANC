@@ -1,0 +1,54 @@
+{
+  "id": "I182620314975",
+  "person": "Nicholas Farlam 0",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bishopside, Eastalandaile(Allendale) England",
+        "parts": [
+          "Bishopside",
+          "Eastalandaile(Allendale) England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Allendale, Northumberland, England",
+        "parts": [
+          "Allendale",
+          "Northumberland",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

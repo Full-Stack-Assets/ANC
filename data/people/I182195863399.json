@@ -1,0 +1,73 @@
+{
+  "id": "I182195863399",
+  "name": {
+    "given": "Robert William",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "Robert William Swallow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pontefract, Yorkshire, England",
+        "parts": [
+          "Pontefract",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Apr 1865",
+        "year": 1865,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Annandale, Prince Edward Island, Canada",
+        "parts": [
+          "Annandale",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536724",
+      "I182381536721"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863389"
+      }
+    ],
+    "children": [
+      "I182195858904",
+      "I182587609739"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

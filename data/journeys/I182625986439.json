@@ -1,0 +1,55 @@
+{
+  "id": "I182625986439",
+  "person": "John I *** Cheesman (Esquire)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Broadwater, Sussex, England",
+        "parts": [
+          "Broadwater",
+          "Sussex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kingston, Surrey, England",
+        "parts": [
+          "Kingston",
+          "Surrey",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Jul 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

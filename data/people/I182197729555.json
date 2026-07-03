@@ -1,0 +1,74 @@
+{
+  "id": "I182197729555",
+  "name": {
+    "given": "Thomas",
+    "surname": "Cheeseman",
+    "suffix": null,
+    "full": "Thomas Cheeseman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-Upon-Thames, Royal Borough of Kingston upon Thames, Greater London, England",
+        "parts": [
+          "Kingston-Upon-Thames",
+          "Royal Borough of Kingston upon Thames",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Long Island City, Queens, New York, United States",
+        "parts": [
+          "Long Island City",
+          "Queens",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182198586943",
+      "I182198586968"
+    ],
+    "spouses": [
+      {
+        "id": "I182197729576"
+      }
+    ],
+    "children": [
+      "I182195863536"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182584904992",
+  "name": {
+    "given": "Walter",
+    "surname": "Ylling  Ist",
+    "suffix": null,
+    "full": "Walter Ylling  Ist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, Devon, England",
+        "parts": [
+          "Somerset",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, Devon, England",
+        "parts": [
+          "Somerset",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182584904937"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

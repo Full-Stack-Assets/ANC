@@ -1,0 +1,74 @@
+{
+  "id": "I182381536421",
+  "name": {
+    "given": "Christian",
+    "surname": "Gard",
+    "suffix": null,
+    "full": "Christian Gard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 May 1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Mar 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536470",
+      "I182381536460"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536434"
+      }
+    ],
+    "children": [
+      "I182381536414"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "I182195864068",
+  "name": {
+    "given": "Everard",
+    "surname": "Bolton Jr",
+    "suffix": null,
+    "full": "Everard Bolton Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 May 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ross, Herefordshire, England",
+        "parts": [
+          "Ross",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Dec 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheltenham, Philadelphia, Pennsylvania, United States",
+        "parts": [
+          "Cheltenham",
+          "Philadelphia",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195864069",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "2 Apr 1707",
+            "year": 1707,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Delaware, Pennsylvania",
+            "parts": [
+              "Delaware",
+              "Pennsylvania"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195863565",
+      "I182195864072",
+      "I182195864070",
+      "I182195864071"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "I182623689573",
+  "person": "Ellen Anne Chester",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Freckenham, Mildenhall, Soham Parish, Suffolk, East Anglia, England",
+        "parts": [
+          "Freckenham",
+          "Mildenhall",
+          "Soham Parish",
+          "Suffolk",
+          "East Anglia",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Nov 1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Freckenham Parish, Meldenhall, Suffolk, England",
+        "parts": [
+          "Freckenham Parish",
+          "Meldenhall",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Sep 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

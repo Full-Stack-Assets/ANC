@@ -1,0 +1,67 @@
+{
+  "id": "I182584904983",
+  "name": {
+    "given": "Susanna",
+    "surname": "Hobbes Tibbott",
+    "suffix": null,
+    "full": "Susanna Hobbes Tibbott"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales, England",
+        "parts": [
+          "Wales",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 May 1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182584904986"
+      }
+    ],
+    "children": [
+      "I182584904961"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

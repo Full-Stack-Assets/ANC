@@ -1,0 +1,196 @@
+{
+  "id": "I182625981458",
+  "name": {
+    "given": "Thomas III",
+    "surname": "Brienne Brigham",
+    "suffix": "(aka Tomlinson)",
+    "full": "Thomas III Brienne Brigham (aka Tomlinson)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1524",
+        "year": 1524,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheddington, Aylesbury Vale District, Buckinghamshire, England",
+        "parts": [
+          "Cheddington",
+          "Aylesbury Vale District",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Little Gaddesden, Dacorum Borough, Hertfordshire, England",
+        "parts": [
+          "Little Gaddesden",
+          "Dacorum Borough",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981463",
+      "I182625981492"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981459"
+      }
+    ],
+    "children": [
+      "I182625981455"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1524",
+        "year": 1524,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "06 Feb 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

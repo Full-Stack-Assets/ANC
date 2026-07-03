@@ -1,0 +1,73 @@
+{
+  "id": "I182197773318",
+  "name": {
+    "given": "William",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "William Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197773319"
+      }
+    ],
+    "children": [
+      "I182197772127"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182613023540",
+  "person": "Nelson Knight",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 Mar 1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

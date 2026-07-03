@@ -1,0 +1,63 @@
+{
+  "id": "I182381536023",
+  "name": {
+    "given": "MALIN",
+    "surname": "JOHANSDOTTER",
+    "suffix": null,
+    "full": "MALIN JOHANSDOTTER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Huggarbo, Norrbärke (W)",
+        "parts": [
+          "Huggarbo",
+          "Norrbärke (W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726543293"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536035"
+      }
+    ],
+    "children": [
+      "I182197445060"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

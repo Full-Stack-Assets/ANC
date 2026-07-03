@@ -1,0 +1,86 @@
+{
+  "id": "I182623680780",
+  "name": {
+    "given": "Jane",
+    "surname": "Hungerford",
+    "suffix": null,
+    "full": "Jane Hungerford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1446",
+        "year": 1446,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Heytesbury, Wiltshire Unitary Authority, Wiltshire, England",
+        "parts": [
+          "Heytesbury",
+          "Wiltshire Unitary Authority",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1517",
+        "year": 1517,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623687045"
+      }
+    ],
+    "children": [
+      "I182623680578"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

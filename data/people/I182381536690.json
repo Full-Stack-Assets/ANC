@@ -1,0 +1,59 @@
+{
+  "id": "I182381536690",
+  "name": {
+    "given": "Murdo",
+    "surname": "MacDonald",
+    "suffix": null,
+    "full": "Murdo MacDonald"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "North Uist, Inverness-shire, Scotland",
+        "parts": [
+          "North Uist",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "North Uist, Inverness-shire, Scotland",
+        "parts": [
+          "North Uist",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536682"
+      }
+    ],
+    "children": [
+      "I182197770080"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

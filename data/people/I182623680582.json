@@ -1,0 +1,78 @@
+{
+  "id": "I182623680582",
+  "name": {
+    "given": "Sir Knight John",
+    "surname": "Fulford",
+    "suffix": null,
+    "full": "Sir Knight John Fulford"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1503",
+        "year": 1503,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Crediton, Devon, England",
+        "parts": [
+          "Crediton",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1544",
+        "year": 1544,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulford, Crediton, Devon, England",
+        "parts": [
+          "Fulford",
+          "Crediton",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623680578"
+      }
+    ],
+    "children": [
+      "I182623680539"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

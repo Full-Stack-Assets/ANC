@@ -1,0 +1,57 @@
+{
+  "id": "I182650552527",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Pendleton",
+    "suffix": null,
+    "full": "Elizabeth Pendleton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Rouen, Seine-Maritime, Haute-Normandie, France",
+        "parts": [
+          "Rouen",
+          "Seine-Maritime",
+          "Haute-Normandie",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552524"
+      }
+    ],
+    "children": [
+      "I182650552519"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

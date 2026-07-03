@@ -1,0 +1,152 @@
+{
+  "id": "I182197444991",
+  "name": {
+    "given": "Måns",
+    "surname": "Månsson Rånge",
+    "suffix": null,
+    "full": "Måns Månsson Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Daretorp, Skattegården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Daretorp",
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Jun 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526384872",
+      "I182526384900"
+    ],
+    "spouses": [
+      {
+        "id": "I182197444985"
+      }
+    ],
+    "children": [
+      "I182197445221",
+      "I182197444971"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "11 Apr 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alvsborg, Sweden",
+        "parts": [
+          "Alvsborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1680-1708",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115812",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115815",
+      "title": "Sweden, Select Baptisms, 1611-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115812",
+      "title": "Sweden, Church Records, 1451-1943",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115831",
+      "title": "Sweden, Select Burials, 1649-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

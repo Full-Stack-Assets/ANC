@@ -1,0 +1,57 @@
+{
+  "id": "I182292319706",
+  "person": "Ingrid Persdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hökhult, Fröderyd, Jönköping, Sverige",
+        "parts": [
+          "Hökhult",
+          "Fröderyd",
+          "Jönköping",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 apr 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

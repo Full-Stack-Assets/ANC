@@ -1,0 +1,71 @@
+{
+  "id": "I182623689469",
+  "name": {
+    "given": "Ashton",
+    "surname": "Tabor",
+    "suffix": null,
+    "full": "Ashton Tabor"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassbrock, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Glassbrock",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassbrock, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Glassbrock",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689476"
+      }
+    ],
+    "children": [
+      "I182623689455"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

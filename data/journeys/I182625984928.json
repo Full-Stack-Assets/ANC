@@ -1,0 +1,55 @@
+{
+  "id": "I182625984928",
+  "person": "Edith N Williams",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jun 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hempstead, Long Island, New York",
+        "parts": [
+          "Hempstead",
+          "Long Island",
+          "New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

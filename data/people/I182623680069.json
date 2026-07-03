@@ -1,0 +1,112 @@
+{
+  "id": "I182623680069",
+  "name": {
+    "given": "Abigail",
+    "surname": "Roberts",
+    "suffix": null,
+    "full": "Abigail Roberts"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Mar 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Nov 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810856",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "9 Apr 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northamptonshire, England",
+        "parts": [
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810856",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680269",
+      "I182623680266"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680251"
+      }
+    ],
+    "children": [
+      "I182623679868"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810856",
+      "title": "Northamptonshire, England, Church of England Baptisms, Marriages and Burials, 1532-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

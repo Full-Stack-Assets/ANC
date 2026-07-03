@@ -1,0 +1,166 @@
+{
+  "id": "I182541956554",
+  "name": {
+    "given": "Philip  I",
+    "surname": "Taber Tabor",
+    "suffix": null,
+    "full": "Philip  I Taber Tabor"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 September 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tiverton, Devon, England, United Kingdom",
+        "parts": [
+          "Tiverton",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Dec 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tiverton, Newport, Rhode Island, United States",
+        "parts": [
+          "Tiverton",
+          "Newport",
+          "Rhode Island",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541957284",
+      "I182541957758"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987879",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 December 1639",
+            "year": 1639,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Cambridge, Middlesex, Massachusetts, USA",
+            "parts": [
+              "Cambridge",
+              "Middlesex",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182625988288"
+      }
+    ],
+    "children": [
+      "I182625987880",
+      "I182625988287",
+      "I182541933966"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Providence, Providence, Rhode Island, USA",
+        "parts": [
+          "Providence",
+          "Providence",
+          "Rhode Island",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

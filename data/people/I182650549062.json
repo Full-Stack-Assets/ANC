@@ -1,0 +1,69 @@
+{
+  "id": "I182650549062",
+  "name": {
+    "given": "Lady Mary Margaret",
+    "surname": "Stanley",
+    "suffix": null,
+    "full": "Lady Mary Margaret Stanley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hooton, Cheshire, England",
+        "parts": [
+          "Hooton",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 March 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bobbingworth, Essex, England",
+        "parts": [
+          "Bobbingworth",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650549105"
+      }
+    ],
+    "children": [
+      "I182650549010"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

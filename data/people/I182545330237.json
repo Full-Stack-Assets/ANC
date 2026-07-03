@@ -1,0 +1,75 @@
+{
+  "id": "I182545330237",
+  "name": {
+    "given": "Mary",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "Mary Murray"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Oct 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Miramichi, Northumberland, New Brunswick",
+        "parts": [
+          "Miramichi",
+          "Northumberland",
+          "New Brunswick"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Aug 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birch Hill Free, Lot 49, Prince Edward Island, CANADA",
+        "parts": [
+          "Birch Hill Free",
+          "Lot 49",
+          "Prince Edward Island",
+          "CANADA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863338",
+      "I182195863332"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

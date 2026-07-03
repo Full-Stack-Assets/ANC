@@ -1,0 +1,106 @@
+{
+  "id": "I182623681614",
+  "name": {
+    "given": "Martin",
+    "surname": "Bowes",
+    "suffix": null,
+    "full": "Martin Bowes"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447152581",
+          "page": "Gale Research Company; Detroit, Michigan; Accession Number: 503674"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shouldham, Norfolk, England",
+        "parts": [
+          "Shouldham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447152581",
+          "page": "Gale Research Company; Detroit, Michigan; Accession Number: 503674"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623681601"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "19 August 1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, City of London, Greater London, England",
+        "parts": [
+          "London",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447152581",
+      "title": "Biography & Genealogy Master Index (BGMI)",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

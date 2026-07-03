@@ -1,0 +1,71 @@
+{
+  "id": "I182292319755",
+  "name": {
+    "given": "Håkan",
+    "surname": "Månsson",
+    "suffix": "Stora Torp",
+    "full": "Håkan Månsson Stora Torp"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stora Torp, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Stora Torp",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stora Torp, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Stora Torp",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319745"
+      }
+    ],
+    "children": [
+      "I182292319723"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

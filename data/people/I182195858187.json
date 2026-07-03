@@ -1,0 +1,146 @@
+{
+  "id": "I182195858187",
+  "name": {
+    "given": "Jeremiah",
+    "surname": "Regan",
+    "suffix": null,
+    "full": "Jeremiah Regan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619414",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt 1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "New Hampshire, USA",
+        "parts": [
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862893",
+      "I182195862882"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858188",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "25 Jul 1857",
+            "year": 1857,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Lawrence, Massachusetts, USA",
+            "parts": [
+              "Lawrence",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182541936018",
+      "I182195857866"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woolwich, Woolwich, Kent, England",
+        "parts": [
+          "Woolwich",
+          "Woolwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S516619414",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516619414",
+      "title": "1851 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

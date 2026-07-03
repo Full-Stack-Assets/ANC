@@ -1,0 +1,95 @@
+{
+  "id": "I182623679447",
+  "name": {
+    "given": "Daniel C",
+    "surname": "Bedel",
+    "suffix": null,
+    "full": "Daniel C Bedel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Feb 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Whitehall, Washington, New York, USA",
+        "parts": [
+          "Whitehall",
+          "Washington",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Oct 1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691507",
+      "I182623691492"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679445"
+      }
+    ],
+    "children": [
+      "I182623679439"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont, USA",
+        "parts": [
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

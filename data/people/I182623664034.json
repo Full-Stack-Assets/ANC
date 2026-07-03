@@ -1,0 +1,67 @@
+{
+  "id": "I182623664034",
+  "name": {
+    "given": "Maria Maja",
+    "surname": "PERSDOTTER",
+    "suffix": null,
+    "full": "Maria Maja PERSDOTTER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bergsjö, Gävleborg, Sverige SWEDEN",
+        "parts": [
+          "Bergsjö",
+          "Gävleborg",
+          "Sverige SWEDEN"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Nov 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bjuråker Ahlsjö Gävleborgs Län",
+        "parts": [
+          "Bjuråker Ahlsjö Gävleborgs Län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664139"
+      }
+    ],
+    "children": [
+      "I182623663979"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

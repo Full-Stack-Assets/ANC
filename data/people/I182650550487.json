@@ -1,0 +1,118 @@
+{
+  "id": "I182650550487",
+  "name": {
+    "given": "Margaret 'Maria\\Mary' Alice'",
+    "surname": "Cromwell Williams",
+    "suffix": "Vochin (1st Husband) Stocking Mitchell - Child of Henry Cromwell - Mother of Experience Mitchell",
+    "full": "Margaret 'Maria\\Mary' Alice' Cromwell Williams Vochin (1st Husband) Stocking Mitchell - Child of Henry Cromwell - Mother of Experience Mitchell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 October 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Cambridgeshire, England",
+        "parts": [
+          "Cambridge",
+          "Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "05 November 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, Colonial America",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S518613288",
+          "page": "New England Historical Genealogical Society; Boston, Massachusetts; Massachusetts Vitals to 1850"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550541"
+    ],
+    "spouses": [
+      {
+        "id": "I182650550562"
+      },
+      {
+        "id": "I182650550572",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "of MA",
+            "parts": [
+              "of MA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516008989",
+              "page": null
+            },
+            {
+              "source_id": "S516008989",
+              "page": "Source number: 1394.130; Source type: Family group sheet, FGSE, listed as parents; Number of Pages: 1"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182650550469"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S518613288",
+      "title": "Massachusetts, U.S., Compiled Birth, Marriage, and Death Records, 1700-1850",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008989",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

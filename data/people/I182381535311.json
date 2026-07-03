@@ -1,0 +1,70 @@
+{
+  "id": "I182381535311",
+  "name": {
+    "given": "Susanna  Sarah",
+    "surname": "Maus",
+    "suffix": null,
+    "full": "Susanna  Sarah Maus"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington County, New Jersey, Colonial America",
+        "parts": [
+          "Burlington County",
+          "New Jersey",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1808",
+        "year": 1808,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Littlestown, Adams, Pennsylvania, United States",
+        "parts": [
+          "Littlestown",
+          "Adams",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535340"
+      }
+    ],
+    "children": [
+      "I182381535298"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

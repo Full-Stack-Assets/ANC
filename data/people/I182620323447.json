@@ -1,0 +1,93 @@
+{
+  "id": "I182620323447",
+  "name": {
+    "given": "Malcolm",
+    "surname": "Docherty",
+    "suffix": null,
+    "full": "Malcolm Docherty"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isle of Skye, Inverness, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Inverness",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Oct 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brook, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Brook",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323439"
+      }
+    ],
+    "children": [
+      "I182620323023"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "20 Oct 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brook Village, Inverness Co., Cape Breton, Nova Scotia",
+        "parts": [
+          "Brook Village",
+          "Inverness Co.",
+          "Cape Breton",
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

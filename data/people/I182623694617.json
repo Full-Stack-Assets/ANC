@@ -1,0 +1,63 @@
+{
+  "id": "I182623694617",
+  "name": {
+    "given": "Priscilla",
+    "surname": "Hamblin",
+    "suffix": null,
+    "full": "Priscilla Hamblin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Apr 1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barnstable, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Barnstable",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694624"
+      }
+    ],
+    "children": [
+      "I182623694585"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "I182623690116",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Royall",
+    "suffix": null,
+    "full": "Elizabeth Royall"
+  },
+  "sex": "F",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1671/2",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690129"
+      }
+    ],
+    "children": [
+      "I182623690069"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

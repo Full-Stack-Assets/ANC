@@ -1,0 +1,72 @@
+{
+  "id": "I182613112710",
+  "name": {
+    "given": "John Bernard Hayden",
+    "surname": "Barnard",
+    "suffix": null,
+    "full": "John Bernard Hayden Barnard"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Oct 1586 (or 1604)",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Wiltshire, England",
+        "parts": [
+          "Salisbury",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Jun 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112735",
+      "I182613112739"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112702"
+      }
+    ],
+    "children": [
+      "I182613112680"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

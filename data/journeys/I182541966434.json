@@ -1,0 +1,57 @@
+{
+  "id": "I182541966434",
+  "person": "Johann Peter Christ",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Zeilsheim, Frankfurt am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfurt am Main",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 June 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marxheim, Donau-Ries, Bayern, Germany",
+        "parts": [
+          "Marxheim",
+          "Donau-Ries",
+          "Bayern",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 May 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

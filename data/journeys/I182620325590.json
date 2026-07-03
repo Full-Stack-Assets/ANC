@@ -1,0 +1,81 @@
+{
+  "id": "I182620325590",
+  "person": "Elizabeth Anthony Botheroyd",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Elland, St Mary, Yorkshire, England",
+        "parts": [
+          "Elland",
+          "St Mary",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Elland, St Mary, Yorkshire, England",
+        "parts": [
+          "Elland",
+          "St Mary",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Kingston upon Hull, Kingston upon Hull Unitary Authority, East Riding of Yorkshire, England",
+        "parts": [
+          "Kingston upon Hull",
+          "Kingston upon Hull Unitary Authority",
+          "East Riding of Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

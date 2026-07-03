@@ -1,0 +1,52 @@
+{
+  "id": "I182195861774",
+  "name": {
+    "given": "Lisbet",
+    "surname": "Persdotter",
+    "suffix": null,
+    "full": "Lisbet Persdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861646",
+      "I182195861638"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "I182625984979",
+  "name": {
+    "given": "Jonathan",
+    "surname": "Pine",
+    "suffix": null,
+    "full": "Jonathan Pine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, New York, USA",
+        "parts": [
+          "Hempstead",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 December 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cape May NJ, New Jersey, USA",
+        "parts": [
+          "Cape May NJ",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984824",
+      "I182625984903"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "I182623680578",
+  "name": {
+    "given": "Lady Dorothy (Elizabeth)",
+    "surname": "BOURCHIER Chichester",
+    "suffix": null,
+    "full": "Lady Dorothy (Elizabeth) BOURCHIER Chichester"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Nov 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Fulford, Devon, Angleterre, United Kingdom",
+        "parts": [
+          "Great Fulford",
+          "Devon",
+          "Angleterre",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 August 1548",
+        "year": 1548,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braunton, Devon, England",
+        "parts": [
+          "Braunton",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623687045",
+      "I182623680780"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680582"
+      }
+    ],
+    "children": [
+      "I182623680539"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

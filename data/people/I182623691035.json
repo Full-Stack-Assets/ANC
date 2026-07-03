@@ -1,0 +1,67 @@
+{
+  "id": "I182623691035",
+  "name": {
+    "given": "Agnes Anne",
+    "surname": "Petley",
+    "suffix": null,
+    "full": "Agnes Anne Petley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1482",
+        "year": 1482,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Downe, Kent, England, United Kingdom",
+        "parts": [
+          "Downe",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Downe, Kent, England, United Kingdom",
+        "parts": [
+          "Downe",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623690890"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "I182197756383",
+  "person": "Josiah Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gloucester County, New Jersey, United States of America",
+        "parts": [
+          "Gloucester County",
+          "New Jersey",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 October 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Camden County, New Jersey, United States of America",
+        "parts": [
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 October 1859",
+        "year": 1859,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Blue Anchor, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Blue Anchor",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

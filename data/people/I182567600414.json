@@ -1,0 +1,86 @@
+{
+  "id": "I182567600414",
+  "name": {
+    "given": "William (Knight)",
+    "surname": "Bull (Warwickshire)",
+    "suffix": null,
+    "full": "William (Knight) Bull (Warwickshire)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Jul 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Apr 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, , England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600462",
+      "I182567600446"
+    ],
+    "spouses": [],
+    "children": [
+      "I182567600400"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

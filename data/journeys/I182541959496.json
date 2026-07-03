@@ -1,0 +1,55 @@
+{
+  "id": "I182541959496",
+  "person": "Caleb Pond",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Dec 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wrentham, Norfolk, MA",
+        "parts": [
+          "Wrentham",
+          "Norfolk",
+          "MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Feb 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

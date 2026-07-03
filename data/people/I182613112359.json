@@ -1,0 +1,71 @@
+{
+  "id": "I182613112359",
+  "name": {
+    "given": "Grace",
+    "surname": "Wallop",
+    "suffix": null,
+    "full": "Grace Wallop"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bramfield, Suffolk, England",
+        "parts": [
+          "Bramfield",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Sep 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bramfield, Suffolk, England",
+        "parts": [
+          "Bramfield",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112367"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112361"
+      }
+    ],
+    "children": [
+      "I182613112346"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

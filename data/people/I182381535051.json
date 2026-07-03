@@ -1,0 +1,71 @@
+{
+  "id": "I182381535051",
+  "name": {
+    "given": "Hannah",
+    "surname": "Groff",
+    "suffix": null,
+    "full": "Hannah Groff"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, New Jersey, USA",
+        "parts": [
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Salem County, New Jersey",
+        "parts": [
+          "Salem County",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535298",
+      "I182541958374"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535055"
+      }
+    ],
+    "children": [
+      "I182381534685"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

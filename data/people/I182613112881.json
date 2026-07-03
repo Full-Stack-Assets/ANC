@@ -1,0 +1,69 @@
+{
+  "id": "I182613112881",
+  "name": {
+    "given": "*Lady Jane (Hazelwood)",
+    "surname": "Chaunterell",
+    "suffix": "15xggm",
+    "full": "*Lady Jane (Hazelwood) Chaunterell 15xggm"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1481",
+        "year": 1481,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northampton, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Northampton",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "July 1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112887"
+      }
+    ],
+    "children": [
+      "I182613112769"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

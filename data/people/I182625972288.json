@@ -1,0 +1,74 @@
+{
+  "id": "I182625972288",
+  "name": {
+    "given": "Peter",
+    "surname": "Germen",
+    "suffix": "*",
+    "full": "Peter Germen *"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Körprich, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Körprich",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Feb 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Körprich, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Körprich",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972295",
+      "I182625972291"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972285"
+      }
+    ],
+    "children": [
+      "I182625972248"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

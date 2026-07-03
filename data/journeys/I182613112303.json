@@ -1,0 +1,57 @@
+{
+  "id": "I182613112303",
+  "person": "Eunice Flagg",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Oct 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

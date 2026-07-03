@@ -1,0 +1,53 @@
+{
+  "id": "I182292319587",
+  "person": "Olof Germundsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wrinken, Myckleby (O)",
+        "parts": [
+          "Wrinken",
+          "Myckleby (O)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Aug 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Önne, Myckleby (O)",
+        "parts": [
+          "Önne",
+          "Myckleby (O)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Oct 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

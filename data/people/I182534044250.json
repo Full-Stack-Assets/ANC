@@ -1,0 +1,74 @@
+{
+  "id": "I182534044250",
+  "name": {
+    "given": "Mattheuss",
+    "surname": "Eichorn",
+    "suffix": "I",
+    "full": "Mattheuss Eichorn I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goebrichen (Neulingen), Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Goebrichen (Neulingen)",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 April 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goebrichen (Neulingen), Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Goebrichen (Neulingen)",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044265",
+      "I182534044275"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044245"
+      }
+    ],
+    "children": [
+      "I182534044238"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

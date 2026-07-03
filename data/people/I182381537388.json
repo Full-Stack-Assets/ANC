@@ -1,0 +1,69 @@
+{
+  "id": "I182381537388",
+  "name": {
+    "given": "Henry Gulrige Or",
+    "surname": "Peirson",
+    "suffix": null,
+    "full": "Henry Gulrige Or Peirson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 May 1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537381"
+      }
+    ],
+    "children": [
+      "I182381537376"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

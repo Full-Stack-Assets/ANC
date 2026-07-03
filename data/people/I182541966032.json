@@ -1,0 +1,72 @@
+{
+  "id": "I182541966032",
+  "name": {
+    "given": "Margaret",
+    "surname": "Edwards",
+    "suffix": null,
+    "full": "Margaret Edwards"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warminster, Wiltshire, England",
+        "parts": [
+          "Warminster",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966092",
+      "I182541966103"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966026"
+      }
+    ],
+    "children": [
+      "I182541964369"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

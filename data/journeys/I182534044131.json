@@ -1,0 +1,54 @@
+{
+  "id": "I182534044131",
+  "person": "Philip Crist",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Goshen, New York",
+        "parts": [
+          "Goshen",
+          "New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "March 10, 1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Goshen, New York, USA",
+        "parts": [
+          "Goshen",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 29, 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

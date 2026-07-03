@@ -1,0 +1,106 @@
+{
+  "id": "I182584905417",
+  "name": {
+    "given": "Jhon, John",
+    "surname": "Hodges",
+    "suffix": null,
+    "full": "Jhon, John Hodges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Dec 1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dymock, Gloucestershire, England",
+        "parts": [
+          "Dymock",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Oct 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dymock, Gloucestershire, England",
+        "parts": [
+          "Dymock",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905428",
+      "I182584905429"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905416"
+      }
+    ],
+    "children": [
+      "I182584904944"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "16 Jun",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bristol, England",
+        "parts": [
+          "Bristol",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850668",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513850668",
+      "title": "Bristol, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

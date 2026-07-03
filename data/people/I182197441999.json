@@ -1,0 +1,537 @@
+{
+  "id": "I182197441999",
+  "name": {
+    "given": "Howard Francis",
+    "surname": "Donahue",
+    "suffix": "Sr",
+    "full": "Howard Francis Donahue Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Jul 1919",
+        "year": 1919,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        },
+        {
+          "source_id": "S446914507",
+          "page": null
+        },
+        {
+          "source_id": "S446914599",
+          "page": null
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        },
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S446914569",
+          "page": null
+        },
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Oct 2008",
+        "year": 2008,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Easton, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Easton",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195860029",
+      "I182197442785"
+    ],
+    "spouses": [
+      {
+        "id": "I182198562790"
+      }
+    ],
+    "children": [
+      "I182197441967",
+      "I182534043904",
+      "I182534043914"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "20 Apr 1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "First Lutheran Church (Bethesda), Brockton (Campello), Plymouth, Massachusetts, USA",
+        "parts": [
+          "First Lutheran Church (Bethesda)",
+          "Brockton (Campello)",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 3, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 3",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Stepson",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": "Relative Relation to Head: Mother",
+      "sources": [
+        {
+          "source_id": "S446914599",
+          "page": null
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head: Head; Marital Status: Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "Before 1951",
+        "year": 1951,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1958",
+        "year": 1958,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1994",
+        "year": 1994,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "military",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Occupation: Arthur Holbrook",
+      "sources": [
+        {
+          "source_id": "S446914599",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Massachusetts, USA",
+        "parts": [
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914519",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914507",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 1",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914599",
+      "title": "U.S. WWII Draft Cards Young Men, 1940-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915226",
+      "title": "1940 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914762",
+      "title": "U.S., Social Security Death Index, 1935-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914569",
+      "title": "Massachusetts, Birth Index, 1860-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915197",
+      "title": "U.S. City Directories, 1822-1995",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447150985",
+      "title": "Massachusetts, Marriage Index, 1901-1955 and 1966-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

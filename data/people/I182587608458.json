@@ -1,0 +1,89 @@
+{
+  "id": "I182587608458",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Benjamin Morrow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Dec 1802",
+        "year": 1802,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Point, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "East Point",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greenwich, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Greenwich",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197770013",
+      "I182197770003"
+    ],
+    "spouses": [],
+    "children": [
+      "I182587608479",
+      "I182587608496"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

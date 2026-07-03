@@ -1,0 +1,49 @@
+{
+  "id": "I182381537490",
+  "name": {
+    "given": "Margrat",
+    "surname": "Aiken",
+    "suffix": null,
+    "full": "Margrat Aiken"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537509",
+      "I182381537504"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537499"
+      }
+    ],
+    "children": [
+      "I182381537274"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

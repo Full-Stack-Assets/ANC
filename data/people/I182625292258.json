@@ -1,0 +1,68 @@
+{
+  "id": "I182625292258",
+  "name": {
+    "given": "Mary Susannah",
+    "surname": "Owen",
+    "suffix": null,
+    "full": "Mary Susannah Owen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "aft 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "Brookhaven, Suffolk, NY",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625292261"
+      }
+    ],
+    "children": [
+      "I182625292255"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

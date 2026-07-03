@@ -1,0 +1,88 @@
+{
+  "id": "I182541967071",
+  "name": {
+    "given": "Richard Marche B. C 1568  D 29 Apr 1612",
+    "surname": "MARCHE of Devon, England ( Marsh",
+    "suffix": null,
+    "full": "Richard Marche B. C 1568  D 29 Apr 1612 MARCHE of Devon, England ( Marsh"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Stockenham, Sherford, Devon, England",
+        "parts": [
+          "Stockenham",
+          "Sherford",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Apr 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sherwood Green, Devon, England",
+        "parts": [
+          "Sherwood Green",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541967081"
+      }
+    ],
+    "children": [
+      "I182541964176"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

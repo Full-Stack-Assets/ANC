@@ -1,0 +1,55 @@
+{
+  "id": "I182381537023",
+  "person": "Isobell Anderson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kinloss, Morayshire, Scotland",
+        "parts": [
+          "Kinloss",
+          "Morayshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Feb 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fraserburgh, Aberdeenshire, Scotland",
+        "parts": [
+          "Fraserburgh",
+          "Aberdeenshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Mar 1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

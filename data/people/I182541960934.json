@@ -1,0 +1,68 @@
+{
+  "id": "I182541960934",
+  "name": {
+    "given": "Francis",
+    "surname": "Austin",
+    "suffix": null,
+    "full": "Francis Austin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Jun 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Horsmonden, Kent, England",
+        "parts": [
+          "Horsmonden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Sep 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Evesham,Burlington,New Jersey,USA",
+        "parts": [
+          "Evesham",
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981055"
+    ],
+    "spouses": [],
+    "children": [
+      "I182197770234"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

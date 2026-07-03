@@ -1,0 +1,55 @@
+{
+  "id": "I182623664551",
+  "person": "Sir John Throcmorton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Coughton,Warwickshire,England",
+        "parts": [
+          "Coughton",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Coughton Court, Warwickshire,  England,",
+        "parts": [
+          "Coughton Court",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aft. 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

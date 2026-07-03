@@ -1,0 +1,55 @@
+{
+  "id": "I182567600380",
+  "person": "Lady Sarah Nowell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kingshurst Hall, Warwickshire, England",
+        "parts": [
+          "Kingshurst Hall",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Dec 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

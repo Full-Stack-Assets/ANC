@@ -1,0 +1,66 @@
+{
+  "id": "I182381536046",
+  "name": {
+    "given": "15:15681 ELIN",
+    "surname": null,
+    "suffix": null,
+    "full": "15:15681 ELIN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Dalsland (P)?",
+        "parts": [
+          "Dalsland (P)?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 MAY 1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ludvika bruk, Grangärde Kopparbergs län",
+        "parts": [
+          "Ludvika bruk",
+          "Grangärde Kopparbergs län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536055"
+      }
+    ],
+    "children": [
+      "I182381536035"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "I182625972507",
+  "person": "Nicolaas Raban van Langen \"Heer van West-Kreyenburg\"",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hoya, Emsland,",
+        "parts": [
+          "Hoya",
+          "Emsland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "um 1457",
+        "year": 1457,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Meppen, Ems",
+        "parts": [
+          "Meppen",
+          "Ems"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

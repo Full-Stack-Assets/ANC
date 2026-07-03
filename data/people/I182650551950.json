@@ -1,0 +1,71 @@
+{
+  "id": "I182650551950",
+  "name": {
+    "given": "Martha",
+    "surname": "Howard",
+    "suffix": null,
+    "full": "Martha Howard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Feb 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "West Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Mar 1792",
+        "year": 1792,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "West Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551955"
+      }
+    ],
+    "children": [
+      "I182650551937"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

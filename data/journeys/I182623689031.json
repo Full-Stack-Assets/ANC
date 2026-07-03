@@ -1,0 +1,55 @@
+{
+  "id": "I182623689031",
+  "person": "Dawna Rose Davis",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St. Dionis Backchurch, London, England",
+        "parts": [
+          "St. Dionis Backchurch",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10/13/1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Dunstan in the West, London, England",
+        "parts": [
+          "St Dunstan in the West",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 June 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

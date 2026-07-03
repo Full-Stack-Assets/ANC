@@ -1,0 +1,57 @@
+{
+  "id": "I182623679874",
+  "person": "Timothy Carle",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eliot, York, Maine, United States",
+        "parts": [
+          "Eliot",
+          "York",
+          "Maine",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woodbridge, Middlesex, New Jersey, United States",
+        "parts": [
+          "Woodbridge",
+          "Middlesex",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "bef 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

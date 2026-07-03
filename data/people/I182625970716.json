@@ -1,0 +1,70 @@
+{
+  "id": "I182625970716",
+  "name": {
+    "given": "Eleanor",
+    "surname": "HARMAN",
+    "suffix": null,
+    "full": "Eleanor HARMAN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dowdeswell, Gloucestershire, England",
+        "parts": [
+          "Dowdeswell",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lower House Manor,Dowdeswell,Gloucestershire,England",
+        "parts": [
+          "Lower House Manor",
+          "Dowdeswell",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970719"
+      }
+    ],
+    "children": [
+      "I182625970663"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

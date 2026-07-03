@@ -1,0 +1,86 @@
+{
+  "id": "I182613025540",
+  "name": {
+    "given": "Ruth",
+    "surname": "Swinnerton",
+    "suffix": null,
+    "full": "Ruth Swinnerton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, Great Yarmouth Borough, Norfolk, England",
+        "parts": [
+          "Great Yarmouth",
+          "Great Yarmouth Borough",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 May 1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salem",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023925",
+      "I182613023922"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

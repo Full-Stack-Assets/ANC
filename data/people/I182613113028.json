@@ -1,0 +1,71 @@
+{
+  "id": "I182613113028",
+  "name": {
+    "given": "John",
+    "surname": "Glascocke",
+    "suffix": null,
+    "full": "John Glascocke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bobbingworth, Essex, England",
+        "parts": [
+          "Bobbingworth",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stanford Rivers, Essex, England",
+        "parts": [
+          "Stanford Rivers",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113037"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113022"
+      }
+    ],
+    "children": [
+      "I182613113017"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

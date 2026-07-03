@@ -1,0 +1,69 @@
+{
+  "id": "I182650552115",
+  "name": {
+    "given": "Peter",
+    "surname": "Gawge",
+    "suffix": null,
+    "full": "Peter Gawge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1498",
+        "year": 1498,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boxford, Suffolk, England",
+        "parts": [
+          "Boxford",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Nov 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edwardstone, Suffolk, England",
+        "parts": [
+          "Edwardstone",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Will written 31 Aug 1540 in Edwardstone, Suffolk, England; Proved in PCC London, England 24 Nov 1540. Possibly from bubonic plague (Black Death) which was epidemic in England in that era",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552104"
+      }
+    ],
+    "children": [
+      "I182650552084"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

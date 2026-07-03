@@ -1,0 +1,71 @@
+{
+  "id": "I182613023690",
+  "name": {
+    "given": "Rachael",
+    "surname": "Frowe",
+    "suffix": null,
+    "full": "Rachael Frowe"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire, England",
+        "parts": [
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Winslow, Herefordshire, England",
+        "parts": [
+          "Winslow",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023773",
+      "I182613023707"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023698"
+      }
+    ],
+    "children": [
+      "I182613023657"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

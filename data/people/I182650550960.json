@@ -1,0 +1,120 @@
+{
+  "id": "I182650550960",
+  "name": {
+    "given": "John",
+    "surname": "Ames",
+    "suffix": null,
+    "full": "John Ames"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bruton, Somerset, England, United Kingdom",
+        "parts": [
+          "Bruton",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 February 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bruton, Somerset, England, United Kingdom",
+        "parts": [
+          "Bruton",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650550910",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1539",
+            "year": 1539,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Bruton, Somerset, England, United Kingdom",
+            "parts": [
+              "Bruton",
+              "Somerset",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182650550906"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

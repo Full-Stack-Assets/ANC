@@ -1,0 +1,68 @@
+{
+  "id": "I182584904937",
+  "name": {
+    "given": "Walter",
+    "surname": "Ylling \\ Illing",
+    "suffix": null,
+    "full": "Walter Ylling \\ Illing"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset: Bruton - Parish",
+        "parts": [
+          "Somerset: Bruton - Parish"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 May 1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904992"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904936"
+      }
+    ],
+    "children": [
+      "I182584904930"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

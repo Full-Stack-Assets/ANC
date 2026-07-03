@@ -1,0 +1,67 @@
+{
+  "id": "I182381536807",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Blackett",
+    "suffix": null,
+    "full": "Benjamin Blackett"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "England?",
+        "parts": [
+          "England?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southwark, Surrey, England",
+        "parts": [
+          "Southwark",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536799"
+      }
+    ],
+    "children": [
+      "I182381536767"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

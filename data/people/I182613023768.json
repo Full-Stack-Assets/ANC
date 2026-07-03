@@ -1,0 +1,70 @@
+{
+  "id": "I182613023768",
+  "name": {
+    "given": "Thomas",
+    "surname": "Deane",
+    "suffix": null,
+    "full": "Thomas Deane"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire, England",
+        "parts": [
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorset, England",
+        "parts": [
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026405",
+      "I182613026392"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023818"
+      }
+    ],
+    "children": [
+      "I182613023698"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

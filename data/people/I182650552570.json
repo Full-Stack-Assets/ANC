@@ -1,0 +1,71 @@
+{
+  "id": "I182650552570",
+  "name": {
+    "given": "Peter Schurman",
+    "surname": "Strang",
+    "suffix": null,
+    "full": "Peter Schurman Strang"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Mar 1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chelton, Prince County, Prince Edward Island, Canada",
+        "parts": [
+          "Chelton",
+          "Prince County",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "03 Jan 1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pembroke, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Pembroke",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552565"
+      }
+    ],
+    "children": [
+      "I182650552556"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

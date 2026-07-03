@@ -1,0 +1,65 @@
+{
+  "id": "I182620320618",
+  "name": {
+    "given": "Matts",
+    "surname": "Christophersson",
+    "suffix": null,
+    "full": "Matts Christophersson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Okänd Ort",
+        "parts": [
+          "Okänd Ort"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Spjutsbo, Norrbärke, Kopparbergs län, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Spjutsbo",
+          "Norrbärke",
+          "Kopparbergs län",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620320599"
+      }
+    ],
+    "children": [
+      "I182620320586"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182650552524",
+  "name": {
+    "given": "Isaac",
+    "surname": "DeCoster",
+    "suffix": "Sr",
+    "full": "Isaac DeCoster Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Rouen, Seine-Maritime, Haute-Normandie, France",
+        "parts": [
+          "Rouen",
+          "Seine-Maritime",
+          "Haute-Normandie",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jul  1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Dunstan, Stepney, Middlesex, England",
+        "parts": [
+          "St Dunstan",
+          "Stepney",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552532"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552527"
+      }
+    ],
+    "children": [
+      "I182650552519"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

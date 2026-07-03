@@ -1,0 +1,57 @@
+{
+  "id": "I182613112533",
+  "person": "Annabele Eve",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, Colonies",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "Colonies"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Jun 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, Colonies",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "Colonies"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

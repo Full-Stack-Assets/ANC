@@ -1,0 +1,74 @@
+{
+  "id": "I182623691995",
+  "name": {
+    "given": "John Henry",
+    "surname": "Collins",
+    "suffix": "I",
+    "full": "John Henry Collins I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Nov 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saint Mary, Aylesbury, Buckinghamshire, England",
+        "parts": [
+          "Saint Mary",
+          "Aylesbury",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Feb 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623692033",
+      "I182623692026"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691979"
+      }
+    ],
+    "children": [
+      "I182623691926"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

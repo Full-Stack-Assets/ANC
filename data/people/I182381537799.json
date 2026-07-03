@@ -1,0 +1,73 @@
+{
+  "id": "I182381537799",
+  "name": {
+    "given": "Rachel",
+    "surname": "Vincent",
+    "suffix": null,
+    "full": "Rachel Vincent"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yonkers, Westchester, New York, United States",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yonkers, Westchester, New York, United States",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537820"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537803"
+      }
+    ],
+    "children": [
+      "I182381537740"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

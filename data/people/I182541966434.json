@@ -1,0 +1,74 @@
+{
+  "id": "I182541966434",
+  "name": {
+    "given": "Johann Peter",
+    "surname": "Christ",
+    "suffix": null,
+    "full": "Johann Peter Christ"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 June 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfurt am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfurt am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 May 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marxheim, Donau-Ries, Bayern, Germany",
+        "parts": [
+          "Marxheim",
+          "Donau-Ries",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966437",
+      "I182541966447"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966431"
+      }
+    ],
+    "children": [
+      "I182541966413"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

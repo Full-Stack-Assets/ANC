@@ -1,0 +1,57 @@
+{
+  "id": "I182625972302",
+  "person": "Johann Eberhard BECKER",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St Arnual, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "St Arnual",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "st Arnual, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "st Arnual",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Mar 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

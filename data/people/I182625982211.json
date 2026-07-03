@@ -1,0 +1,114 @@
+{
+  "id": "I182625982211",
+  "name": {
+    "given": "Humphrey",
+    "surname": "Bourchier",
+    "suffix": null,
+    "full": "Humphrey Bourchier"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1435",
+        "year": 1435,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halstead, Braintree District, Essex, England",
+        "parts": [
+          "Halstead",
+          "Braintree District",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 April 1471",
+        "year": 1471,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barnet, London Borough of Barnet, Hertfordshire, England",
+        "parts": [
+          "Barnet",
+          "London Borough of Barnet",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Westminster, City of Westminster, Greater London, England",
+        "parts": [
+          "Westminster",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625982210"
+      }
+    ],
+    "children": [
+      "I182625981492",
+      "I182625982379",
+      "I182625982382",
+      "I182625982383"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

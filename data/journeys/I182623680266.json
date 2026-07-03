@@ -1,0 +1,57 @@
+{
+  "id": "I182623680266",
+  "person": "Abigail Nutter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, USA",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Jan 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "I182650552223",
+  "person": "Mary Tyllcocke",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bedfordshire, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Bedfordshire",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Rhode Island, Rhode Island, USA",
+        "parts": [
+          "Rhode Island",
+          "Rhode Island",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

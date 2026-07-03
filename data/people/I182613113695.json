@@ -1,0 +1,67 @@
+{
+  "id": "I182613113695",
+  "name": {
+    "given": "Susan",
+    "surname": "West",
+    "suffix": null,
+    "full": "Susan West"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nottinghamshire, England",
+        "parts": [
+          "Nottinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nottinghamshire, England",
+        "parts": [
+          "Nottinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113697"
+      }
+    ],
+    "children": [
+      "I182613113686"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

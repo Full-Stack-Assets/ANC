@@ -1,0 +1,74 @@
+{
+  "id": "I182381536384",
+  "name": {
+    "given": "Rebecca",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Rebecca Coffin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 0",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Oct 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 42",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536414",
+      "I182381536407"
+    ],
+    "spouses": [
+      {
+        "id": "I182528279309"
+      }
+    ],
+    "children": [
+      "I182381536354"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

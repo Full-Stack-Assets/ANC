@@ -1,0 +1,58 @@
+{
+  "id": "I182650552346",
+  "person": "899 Sarah Seaver",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Feb 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Montlake, Brooklyn, Windham, Connecticut, USA",
+        "parts": [
+          "Montlake",
+          "Brooklyn",
+          "Windham",
+          "Connecticut",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Jul 1777",
+        "year": 1777,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,85 @@
+{
+  "id": "I182567600446",
+  "name": {
+    "given": "Lady Mary",
+    "surname": "Wallendine Bull",
+    "suffix": null,
+    "full": "Lady Mary Wallendine Bull"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cottenham, Cambridgeshire, England",
+        "parts": [
+          "Cottenham",
+          "Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "aft 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182567600462"
+      }
+    ],
+    "children": [
+      "I182567600414"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

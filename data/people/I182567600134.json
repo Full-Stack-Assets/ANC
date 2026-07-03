@@ -1,0 +1,65 @@
+{
+  "id": "I182567600134",
+  "name": {
+    "given": "John 5th, Lord Weste\\",
+    "surname": "West",
+    "suffix": "Sir 12GGF",
+    "full": "John 5th, Lord Weste\\ West Sir 12GGF"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cotton End, Northamptonshire, England",
+        "parts": [
+          "Cotton End",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cotton End, Northamptonshire, England",
+        "parts": [
+          "Cotton End",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381535676"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

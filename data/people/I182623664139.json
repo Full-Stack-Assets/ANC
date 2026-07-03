@@ -1,0 +1,67 @@
+{
+  "id": "I182623664139",
+  "name": {
+    "given": "Johan",
+    "surname": "Hansson",
+    "suffix": null,
+    "full": "Johan Hansson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bergsjö, Gävleborg, Sverige",
+        "parts": [
+          "Bergsjö",
+          "Gävleborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Nov 1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bjuråker Ahlsjö Gävleborgs Län",
+        "parts": [
+          "Bjuråker Ahlsjö Gävleborgs Län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664034"
+      }
+    ],
+    "children": [
+      "I182623663979"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

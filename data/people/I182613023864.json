@@ -1,0 +1,115 @@
+{
+  "id": "I182613023864",
+  "name": {
+    "given": "Agnes Ros",
+    "surname": "Simcotts",
+    "suffix": null,
+    "full": "Agnes Ros Simcotts"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lincolnshire, England",
+        "parts": [
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023874",
+      "I182613113667"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023867",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 Jan 1542",
+            "year": 1542,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Stilton, Lincolnshire, England",
+            "parts": [
+              "Stilton",
+              "Lincolnshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613023759"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

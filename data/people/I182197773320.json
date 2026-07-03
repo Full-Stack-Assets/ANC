@@ -1,0 +1,53 @@
+{
+  "id": "I182197773320",
+  "name": {
+    "given": "Anna",
+    "surname": "Townsend",
+    "suffix": null,
+    "full": "Anna Townsend"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197772127",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1767",
+            "year": 1767,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447151841",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182197773321"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

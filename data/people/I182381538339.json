@@ -1,0 +1,71 @@
+{
+  "id": "I182381538339",
+  "name": {
+    "given": "Christian",
+    "surname": "Brown",
+    "suffix": null,
+    "full": "Christian Brown"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Canobie , Dumfries-shire, Scotland",
+        "parts": [
+          "Canobie",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 1745",
+        "year": 1745,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gleingierhead, Eskdale, Scotland",
+        "parts": [
+          "Gleingierhead",
+          "Eskdale",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538357"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538347"
+      }
+    ],
+    "children": [
+      "I182381538268"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "I182195859300",
+  "person": "Terry Ann Arsenault",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Newton",
+        "parts": [
+          "Newton"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1975",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508115383",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Newton, Massachusetts, USA",
+        "parts": [
+          "Newton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Jul 1975",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508115383",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

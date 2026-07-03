@@ -1,0 +1,68 @@
+{
+  "id": "I182650551503",
+  "name": {
+    "given": "Catherine",
+    "surname": "Cook",
+    "suffix": null,
+    "full": "Catherine Cook"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 February 1513",
+        "year": 1513,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Georgeham, Devon, England, United Kingdom",
+        "parts": [
+          "Georgeham",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Finningham, Mid Suffolk District, Suffolk, England, United Kingdom",
+        "parts": [
+          "Finningham",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650551490"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

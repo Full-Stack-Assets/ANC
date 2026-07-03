@@ -1,0 +1,85 @@
+{
+  "id": "I182625972141",
+  "name": {
+    "given": "Friederich",
+    "surname": "Sachs",
+    "suffix": null,
+    "full": "Friederich Sachs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 März 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Deutschland",
+        "parts": [
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972136"
+      }
+    ],
+    "children": [
+      "I182625972118"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1745",
+        "year": 1745,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

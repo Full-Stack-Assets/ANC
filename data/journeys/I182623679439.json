@@ -1,0 +1,57 @@
+{
+  "id": "I182623679439",
+  "person": "Adelaide Maria Bedell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hyde Park, Lamoille, Vermont, USA",
+        "parts": [
+          "Hyde Park",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Nov 1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Rockland, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Rockland",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 Feb 1933",
+        "year": 1933,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

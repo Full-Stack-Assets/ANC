@@ -1,0 +1,71 @@
+{
+  "id": "I182625970882",
+  "name": {
+    "given": "Linda",
+    "surname": "Grant",
+    "suffix": null,
+    "full": "Linda Grant"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire Oaks, Cheshire, England",
+        "parts": [
+          "Cheshire Oaks",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "after 1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire Co., England",
+        "parts": [
+          "Cheshire Co.",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970905",
+      "I182625970897"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970885"
+      }
+    ],
+    "children": [
+      "I182567600353"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

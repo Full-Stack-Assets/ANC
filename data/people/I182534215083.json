@@ -1,0 +1,85 @@
+{
+  "id": "I182534215083",
+  "name": {
+    "given": "Anna Esther Fallon",
+    "surname": "Ryan",
+    "suffix": null,
+    "full": "Anna Esther Fallon Ryan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pittsford, Vermont, USA",
+        "parts": [
+          "Pittsford",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Apr 1952",
+        "year": 1952,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudbury, Rutland, Vermont, USA",
+        "parts": [
+          "Sudbury",
+          "Rutland",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534214351",
+      "I182534214353"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S506472660",
+      "title": "Vermont, U.S., Death Records, 1909-2008",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

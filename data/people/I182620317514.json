@@ -1,0 +1,61 @@
+{
+  "id": "I182620317514",
+  "name": {
+    "given": "Peter",
+    "surname": "Butler",
+    "suffix": null,
+    "full": "Peter Butler"
+  },
+  "sex": "M",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620317364",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Mar 1802",
+            "year": 1802,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ireland, Ireland",
+            "parts": [
+              "Ireland",
+              "Ireland"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S506435674",
+              "page": null
+            },
+            {
+              "source_id": "S506435674",
+              "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 02412 / 02"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "I182625981374",
+  "person": "Mary Marie Bleaze",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Tarporley, Cheshire, England, United Kingdom",
+        "parts": [
+          "Tarporley",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "S. Matthew's, Walsall, Staffordshire, England",
+        "parts": [
+          "S. Matthew's",
+          "Walsall",
+          "Staffordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Dec 1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516958356",
+          "page": "Extracted Church of England Parish Records; Title: Various publications of parish and probate records"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Cheshire, Cheshire, England, United Kingdom",
+        "parts": [
+          "Cheshire",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 November 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810996",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Tarporlay, Cheshire, England",
+        "parts": [
+          "Tarporlay",
+          "Cheshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Nov 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810996",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

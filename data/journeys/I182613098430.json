@@ -1,0 +1,55 @@
+{
+  "id": "I182613098430",
+  "person": "Sybil Howard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Feb 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Oct 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

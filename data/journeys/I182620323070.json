@@ -1,0 +1,90 @@
+{
+  "id": "I182620323070",
+  "person": "Murdoch K. Ross Sr.",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kilmuir, Isle of Skye, Scotland",
+        "parts": [
+          "Kilmuir",
+          "Isle of Skye",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Portree, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Portree",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 October 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Margaree Valley, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Margaree Valley",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

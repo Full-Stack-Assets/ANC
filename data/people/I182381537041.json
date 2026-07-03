@@ -1,0 +1,65 @@
+{
+  "id": "I182381537041",
+  "name": {
+    "given": "Janet",
+    "surname": "Ramage",
+    "suffix": null,
+    "full": "Janet Ramage"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1680 / 81   ??",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prestonkirk, East Lothian, Scotland",
+        "parts": [
+          "Prestonkirk",
+          "East Lothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537061",
+      "I182381537057"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537046"
+      }
+    ],
+    "children": [
+      "I182381537023"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

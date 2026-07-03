@@ -1,0 +1,88 @@
+{
+  "id": "I182195858747",
+  "person": "Ulysses Swallow",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Little Pond Kings County, Lot 56, Prince Edward Island, Canada",
+        "parts": [
+          "Little Pond Kings County",
+          "Lot 56",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 may1879",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lot 56, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Lot 56",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Dundas Prince Edward Island Canada",
+        "parts": [
+          "Dundas Prince Edward Island Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 apr 1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

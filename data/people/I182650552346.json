@@ -1,0 +1,74 @@
+{
+  "id": "I182650552346",
+  "name": {
+    "given": "899 Sarah",
+    "surname": "Seaver",
+    "suffix": null,
+    "full": "899 Sarah Seaver"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Feb 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Jul 1777",
+        "year": 1777,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Montlake, Brooklyn, Windham, Connecticut, USA",
+        "parts": [
+          "Montlake",
+          "Brooklyn",
+          "Windham",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552364"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552352"
+      }
+    ],
+    "children": [
+      "I182650552328"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

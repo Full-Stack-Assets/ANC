@@ -1,0 +1,56 @@
+{
+  "id": "I182534044164",
+  "person": "Catharina \"Catharine\" \\MullerMoller\\Miller",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "New York, New York, NY",
+        "parts": [
+          "New York",
+          "New York",
+          "NY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "05 Oct 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sayre Bor, Bradford, Pennsylvania, USA",
+        "parts": [
+          "Sayre Bor",
+          "Bradford",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Jul 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

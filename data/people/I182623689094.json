@@ -1,0 +1,71 @@
+{
+  "id": "I182623689094",
+  "name": {
+    "given": "Elizabeth Agnes",
+    "surname": "Ravensdale Redington",
+    "suffix": null,
+    "full": "Elizabeth Agnes Ravensdale Redington"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1527",
+        "year": 1527,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hunsdon, Hertfordshire, England",
+        "parts": [
+          "Hunsdon",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jun 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689157",
+      "I182623689149"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689121"
+      }
+    ],
+    "children": [
+      "I182623689076"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

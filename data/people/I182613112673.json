@@ -1,0 +1,71 @@
+{
+  "id": "I182613112673",
+  "name": {
+    "given": "Jonathan (Browne)",
+    "surname": "Brown",
+    "suffix": "(p9GGF)",
+    "full": "Jonathan (Browne) Brown (p9GGF)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Oct 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 Feb 1691",
+        "year": 1691,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112670"
+      }
+    ],
+    "children": [
+      "I182613112546"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182382755760",
+  "name": {
+    "given": "Sofia",
+    "surname": "Nilsdotter",
+    "suffix": null,
+    "full": "Sofia Nilsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 jan 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haga, Stala (O)",
+        "parts": [
+          "Haga",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 jan 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Ng, Stala (O)",
+        "parts": [
+          "Hjälmvik Ng",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548639"
+    ],
+    "spouses": [
+      {
+        "id": "I182382755763"
+      }
+    ],
+    "children": [
+      "I182292318217"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

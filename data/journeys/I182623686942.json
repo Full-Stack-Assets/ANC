@@ -1,0 +1,60 @@
+{
+  "id": "I182623686942",
+  "person": "Juliana Fenrother",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "London, Middlesex, Eng., London, England, United Kingdom",
+        "parts": [
+          "London",
+          "Middlesex",
+          "Eng.",
+          "London",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Tichborne, Eng., Hampshire, England, United Kingdom",
+        "parts": [
+          "Tichborne",
+          "Eng.",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

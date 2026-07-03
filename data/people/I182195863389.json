@@ -1,0 +1,71 @@
+{
+  "id": "I182195863389",
+  "name": {
+    "given": "Catherine Kate",
+    "surname": "Blackett",
+    "suffix": null,
+    "full": "Catherine Kate Blackett"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Dec 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536186",
+      "I182381536180"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863399"
+      }
+    ],
+    "children": [
+      "I182195858904",
+      "I182587609739"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

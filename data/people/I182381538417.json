@@ -1,0 +1,71 @@
+{
+  "id": "I182381538417",
+  "name": {
+    "given": "John",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "John Murray"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 Feb 1677",
+        "year": 1677,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ewes, Dumfries, Scotland",
+        "parts": [
+          "Ewes",
+          "Dumfries",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Feb.1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ewes, Dumfries-shire, Scotland",
+        "parts": [
+          "Ewes",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538436"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538407"
+      }
+    ],
+    "children": [
+      "I182381538347"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

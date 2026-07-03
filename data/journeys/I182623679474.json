@@ -1,0 +1,57 @@
+{
+  "id": "I182623679474",
+  "person": "Luther Foss",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cornish City, Sullivan, New Hampshire, USA",
+        "parts": [
+          "Cornish City",
+          "Sullivan",
+          "New Hampshire",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Mar 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lake Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Lake Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "09 Apr 1879",
+        "year": 1879,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

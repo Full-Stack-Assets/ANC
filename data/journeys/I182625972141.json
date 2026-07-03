@@ -1,0 +1,51 @@
+{
+  "id": "I182625972141",
+  "person": "Friederich Sachs",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Deutschland",
+        "parts": [
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 März 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

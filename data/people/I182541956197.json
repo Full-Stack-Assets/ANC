@@ -1,0 +1,135 @@
+{
+  "id": "I182541956197",
+  "name": {
+    "given": "Abigail",
+    "surname": "Severans",
+    "suffix": null,
+    "full": "Abigail Severans"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 June 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rattlesden, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Rattlesden",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 April 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salisbury",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Salisbury, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salisbury",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541956067",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "13 June 1635",
+            "year": 1635,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ipswich, Massachusetts Bay, British Colonial America, Suffolk, England, United Kingdom",
+            "parts": [
+              "Ipswich",
+              "Massachusetts Bay",
+              "British Colonial America",
+              "Suffolk",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

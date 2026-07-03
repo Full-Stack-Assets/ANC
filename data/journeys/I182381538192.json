@@ -1,0 +1,57 @@
+{
+  "id": "I182381538192",
+  "person": "Johann Hermann Henckel (Jenkins)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Treysa, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Treysa",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Aug 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hesse, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Hesse",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 May 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

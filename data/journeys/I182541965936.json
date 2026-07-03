@@ -1,0 +1,62 @@
+{
+  "id": "I182541965936",
+  "person": "Jeremiah Hibbard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marblehead",
+        "parts": [
+          "Marblehead"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 May 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Castine, Maine",
+        "parts": [
+          "Castine",
+          "Maine"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Apr 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

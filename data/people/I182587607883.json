@@ -1,0 +1,49 @@
+{
+  "id": "I182587607883",
+  "name": {
+    "given": "Anna",
+    "surname": "Mitchelsone",
+    "suffix": null,
+    "full": "Anna Mitchelsone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664247",
+      "I182623664253"
+    ],
+    "spouses": [
+      {
+        "id": "I182587607877"
+      }
+    ],
+    "children": [
+      "I182381536934"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

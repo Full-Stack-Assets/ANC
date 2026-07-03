@@ -1,0 +1,64 @@
+{
+  "id": "I182594402074",
+  "name": {
+    "given": "Margaret",
+    "surname": "Hughes",
+    "suffix": null,
+    "full": "Margaret Hughes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newborough, Anglesey, Wales",
+        "parts": [
+          "Newborough",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "(11G-GM)",
+        "parts": [
+          "(11G-GM)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620334079"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537857"
+      }
+    ],
+    "children": [
+      "I182381537850"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

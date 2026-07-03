@@ -1,0 +1,57 @@
+{
+  "id": "I182625971205",
+  "person": "John (Old Radnor) Bull (Ey)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ipplepen, Devon, England",
+        "parts": [
+          "Ipplepen",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Scotts Hall, Brabourne, Kent, England, United Kingdom",
+        "parts": [
+          "Scotts Hall",
+          "Brabourne",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

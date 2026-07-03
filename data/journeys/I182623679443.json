@@ -1,0 +1,57 @@
+{
+  "id": "I182623679443",
+  "person": "JOHN F OWEN",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Waterford, Caledonia, Vermont, USA",
+        "parts": [
+          "Waterford",
+          "Caledonia",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jul 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Taunton, Bristol, Massachusetts, USA",
+        "parts": [
+          "Taunton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 NOV 1932",
+        "year": 1932,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

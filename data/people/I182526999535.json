@@ -1,0 +1,68 @@
+{
+  "id": "I182526999535",
+  "name": {
+    "given": "Mary A",
+    "surname": "Upton Kennedy",
+    "suffix": null,
+    "full": "Mary A Upton Kennedy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 November 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ballycultra, County Down, Northern Ireland",
+        "parts": [
+          "Ballycultra",
+          "County Down",
+          "Northern Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 October 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ringwould, Kent, England",
+        "parts": [
+          "Ringwould",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999552",
+      "I182526999578"
+    ],
+    "spouses": [],
+    "children": [
+      "I182526999513"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

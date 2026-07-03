@@ -1,0 +1,518 @@
+{
+  "id": "I182198562830",
+  "name": {
+    "given": "Angelo",
+    "surname": "Prospus (Prospero)",
+    "suffix": null,
+    "full": "Angelo Prospus (Prospero)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Naples, Napoli, Campania, Italy",
+        "parts": [
+          "Naples",
+          "Napoli",
+          "Campania",
+          "Italy"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        },
+        {
+          "source_id": "S447115751",
+          "page": null
+        },
+        {
+          "source_id": "S447116012",
+          "page": null
+        },
+        {
+          "source_id": "S516958479",
+          "page": "The Boston Globe; Publication Date: 2/ May/ 1889; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/430848309/?article=74dd2f32-c824-40b1-ab13-eabec5ed0b15/8082e491-3603-4b12-b122-6a67dc525068&focus=0.39476615,0.3959383,0"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1945",
+        "year": 1945,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "brockton,plymouth,mass.,usa.",
+        "parts": [
+          "brockton",
+          "plymouth",
+          "mass.",
+          "usa."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182198585213",
+      "I182198585214"
+    ],
+    "spouses": [
+      {
+        "id": "I182198585119",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 May 1889",
+            "year": 1889,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts",
+            "parts": [
+              "Boston",
+              "Massachusetts"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446915296",
+              "page": null
+            },
+            {
+              "source_id": "S447115921",
+              "page": null
+            },
+            {
+              "source_id": "S516958479",
+              "page": "The Boston Globe; Publication Date: 2/ May/ 1889; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/430848309/?article=74dd2f32-c824-40b1-ab13-eabec5ed0b15/8082e491-3603-4b12-b122-6a67dc525068&focus=0.39476615,0.3959383,0"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182198562868",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "08 Jan 1902",
+            "year": 1902,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182198585384",
+      "I182198565594",
+      "I182198585383",
+      "I182198585382",
+      "I182198585322",
+      "I182198565587",
+      "I182198565589",
+      "I182198565593",
+      "I182198565596",
+      "I182198565597",
+      "I182198565598",
+      "I182198562790"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 6, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 6",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Widowed; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 1, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 1",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1927",
+        "year": 1927,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 9A; Enumeration District: 0013; FHL microfilm: 2340673"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Husband",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915226",
+      "title": "1940 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115751",
+      "title": "1900 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516958479",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915197",
+      "title": "U.S. City Directories, 1822-1995",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914946",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447252836",
+      "title": "Massachusetts, Boston Archdiocese Roman Catholic Sacramental Records, 1789-1900",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

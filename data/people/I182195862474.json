@@ -1,0 +1,75 @@
+{
+  "id": "I182195862474",
+  "name": {
+    "given": "Emma Frances",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Emma Frances Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Aug 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chamberburg City, Mercer, New Jersey",
+        "parts": [
+          "Chamberburg City",
+          "Mercer",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Apr 1976",
+        "year": 1976,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mullica Hill, Gloucester, New Jersey, United States of America",
+        "parts": [
+          "Mullica Hill",
+          "Gloucester",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862295",
+      "I182195862467"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

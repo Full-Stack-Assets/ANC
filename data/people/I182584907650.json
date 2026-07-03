@@ -1,0 +1,94 @@
+{
+  "id": "I182584907650",
+  "name": {
+    "given": "Garrett",
+    "surname": "Fitzgerald",
+    "suffix": null,
+    "full": "Garrett Fitzgerald"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182584907649",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "20 Nov 1803",
+            "year": 1803,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Saint Nicholas, Brighton, Sussex, England",
+            "parts": [
+              "Saint Nicholas",
+              "Brighton",
+              "Sussex",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541955276"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S513850773",
+      "title": "Ireland, Select Births and Baptisms, 1620-1911",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

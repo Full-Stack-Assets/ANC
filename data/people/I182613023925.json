@@ -1,0 +1,266 @@
+{
+  "id": "I182613023925",
+  "name": {
+    "given": "Captain John (Smythe)",
+    "surname": "Symonds",
+    "suffix": null,
+    "full": "Captain John (Smythe) Symonds"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Oct 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, North Norfolk District, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "North Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 September 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex, Massachusetts, USA",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023944",
+      "I182613023943"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023922"
+      }
+    ],
+    "children": [
+      "I182613023753",
+      "I182613025540"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "9 Oct 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Norfolk, England",
+        "parts": [
+          "Yarmouth",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "2 July 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts Bay Colony, Colonial America",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts Bay Colony",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "19 September 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, USA",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "2 July 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bradford, Essex County, Massachusetts",
+        "parts": [
+          "Bradford",
+          "Essex County",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "20 Jul 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bradford, Essex County, Massachusetts - America",
+        "parts": [
+          "Bradford",
+          "Essex County",
+          "Massachusetts - America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "02 Jul 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex, Massachusetts, USA",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "20 Jul 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bradford, Essex County, Massachusetts Bay Colony",
+        "parts": [
+          "Bradford",
+          "Essex County",
+          "Massachusetts Bay Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "2 July 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, British Colonies",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "British Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "I182541955290",
+  "name": {
+    "given": "Johanna",
+    "surname": "Andersdotter",
+    "suffix": null,
+    "full": "Johanna Andersdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 augusti 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mollösund",
+        "parts": [
+          "Mollösund"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 november 1856",
+        "year": 1856,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torsby, Västra Götaland, Sverige",
+        "parts": [
+          "Torsby",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955302",
+      "I182587610021"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541955327",
+      "I182541955316",
+      "I182195859671"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

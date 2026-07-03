@@ -1,0 +1,111 @@
+{
+  "id": "I182534044310",
+  "name": {
+    "given": "Elisabeth",
+    "surname": "Reinhart",
+    "suffix": null,
+    "full": "Elisabeth Reinhart"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schlachau, Coburg, Bayern, Germany",
+        "parts": [
+          "Schlachau",
+          "Coburg",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bayern, Bayern, Allemagne",
+        "parts": [
+          "Bayern",
+          "Bayern",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044313"
+      }
+    ],
+    "children": [
+      "I182534044283"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bavaria, Germany",
+        "parts": [
+          "Bavaria",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bayern, Germany",
+        "parts": [
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

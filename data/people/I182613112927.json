@@ -1,0 +1,72 @@
+{
+  "id": "I182613112927",
+  "name": {
+    "given": "William Milton Badger",
+    "surname": "Shattuck",
+    "suffix": "Sr",
+    "full": "William Milton Badger Shattuck Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorchester, Dorsetshire, England",
+        "parts": [
+          "Dorchester",
+          "Dorsetshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex County, Massachusetts (at sea)",
+        "parts": [
+          "Salem",
+          "Essex County",
+          "Massachusetts (at sea)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112955",
+      "I182613112951"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112917"
+      }
+    ],
+    "children": [
+      "I182613112908"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

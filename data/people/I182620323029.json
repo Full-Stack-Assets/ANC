@@ -1,0 +1,113 @@
+{
+  "id": "I182620323029",
+  "name": {
+    "given": "John",
+    "surname": "Beaton",
+    "suffix": null,
+    "full": "John Beaton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isle of Skye, Highland, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Highland",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 July 1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skye Glen, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Skye Glen",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323023"
+      }
+    ],
+    "children": [
+      "I182620322951"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isle of Skye, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "02 JUL 1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buried at Skye Glen Cemetery, Cape Breton, Nova Scotia, died at 77",
+        "parts": [
+          "Buried at Skye Glen Cemetery",
+          "Cape Breton",
+          "Nova Scotia",
+          "died at 77"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

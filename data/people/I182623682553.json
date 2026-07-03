@@ -1,0 +1,72 @@
+{
+  "id": "I182623682553",
+  "name": {
+    "given": "Joane",
+    "surname": "Leffingwell Gillman",
+    "suffix": null,
+    "full": "Joane Leffingwell Gillman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Colne, Essex, England",
+        "parts": [
+          "Earls Colne",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Colne, Essex, England",
+        "parts": [
+          "Earls Colne",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686781",
+      "I182623686776"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686763"
+      }
+    ],
+    "children": [
+      "I182623682482"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

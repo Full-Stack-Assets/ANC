@@ -1,0 +1,70 @@
+{
+  "id": "I182584904964",
+  "name": {
+    "given": "James Robertson",
+    "surname": "Matthew",
+    "suffix": null,
+    "full": "James Robertson Matthew"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent,England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent,England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904974",
+      "I182584904971"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904963"
+      }
+    ],
+    "children": [
+      "I182584904948"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

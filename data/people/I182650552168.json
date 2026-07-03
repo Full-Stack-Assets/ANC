@@ -1,0 +1,156 @@
+{
+  "id": "I182650552168",
+  "name": {
+    "given": "Lady Elizabeth Margaret",
+    "surname": "Alabaster, Allen",
+    "suffix": null,
+    "full": "Lady Elizabeth Margaret Alabaster, Allen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wix, Essex, England",
+        "parts": [
+          "Wix",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Sep 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goldington, Bedfordshire, England",
+        "parts": [
+          "Goldington",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552187"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552174"
+      }
+    ],
+    "children": [
+      "I182650552165"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wix Manor, Wix, Essex",
+        "parts": [
+          "Wix Manor",
+          "Wix",
+          "Essex"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "5 Sep 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goldington Castle, Goldington, Bedfordshire",
+        "parts": [
+          "Goldington Castle",
+          "Goldington",
+          "Bedfordshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bedfordshire, England",
+        "parts": [
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "29 Jan 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Pancras, Soper Lane, London, England",
+        "parts": [
+          "St Pancras",
+          "Soper Lane",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

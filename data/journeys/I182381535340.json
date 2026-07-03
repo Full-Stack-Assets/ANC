@@ -1,0 +1,55 @@
+{
+  "id": "I182381535340",
+  "person": "Garret Groff",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Burlington, New Jersey, Colonial America",
+        "parts": [
+          "Burlington",
+          "New Jersey",
+          "Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Salem, New Jersey, United States",
+        "parts": [
+          "Salem",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 June 1797",
+        "year": 1797,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

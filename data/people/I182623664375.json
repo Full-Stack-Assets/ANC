@@ -1,0 +1,108 @@
+{
+  "id": "I182623664375",
+  "name": {
+    "given": "Lady Elizabeth Rachel",
+    "surname": "Lawrence,",
+    "suffix": null,
+    "full": "Lady Elizabeth Rachel Lawrence,"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Apr 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jamestown, James, Virginia, USA",
+        "parts": [
+          "Jamestown",
+          "James",
+          "Virginia",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664396",
+      "I182623664390"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664386",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "18 Oct 1575",
+            "year": 1575,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Marborough, Salisbury, Wiltshire, England",
+            "parts": [
+              "Marborough",
+              "Salisbury",
+              "Wiltshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182623664358"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

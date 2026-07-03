@@ -1,0 +1,48 @@
+{
+  "id": "I182587607681",
+  "name": {
+    "given": "John",
+    "surname": "MacKenzie",
+    "suffix": null,
+    "full": "John MacKenzie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "04 Apr 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clackmannanshire, , Clackmannanshire, Scotland",
+        "parts": [
+          "Clackmannanshire",
+          "Clackmannanshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607692"
+      }
+    ],
+    "children": [
+      "I182381536897"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182650552337",
+  "name": {
+    "given": "Timothy",
+    "surname": "Harris",
+    "suffix": "ff",
+    "full": "Timothy Harris ff"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 April 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Brookline",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 Nov 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Brookline",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552372",
+      "I182650552369"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552328"
+      }
+    ],
+    "children": [
+      "I182650552260"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

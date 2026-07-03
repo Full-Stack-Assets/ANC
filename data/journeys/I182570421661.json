@@ -1,0 +1,57 @@
+{
+  "id": "I182570421661",
+  "person": "Capt. Barnabas Horton II",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Southold, Suffolk, New York, USA",
+        "parts": [
+          "Southold",
+          "Suffolk",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Goshen, Orange, New York, USA",
+        "parts": [
+          "Goshen",
+          "Orange",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Oct 1782",
+        "year": 1782,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

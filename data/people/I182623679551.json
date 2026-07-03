@@ -1,0 +1,70 @@
+{
+  "id": "I182623679551",
+  "name": {
+    "given": "SAMUEL",
+    "surname": "CARLL",
+    "suffix": "JR",
+    "full": "SAMUEL CARLL JR"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Feb 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, America",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 May 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine, USA",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679854",
+      "I182623679692"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623679534"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

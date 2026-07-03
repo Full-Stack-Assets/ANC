@@ -1,0 +1,92 @@
+{
+  "id": "I182625292273",
+  "person": "Thomas W Biggs Sr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Southampton, Hampshire, England",
+        "parts": [
+          "Southampton",
+          "Hampshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New England, USA",
+        "parts": [
+          "New England",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516957526",
+          "page": "Genealogical Publishing Co.; Baltimore, MD, USA; Volume Title: New England Marriages Prior to 1700"
+        },
+        {
+          "source_id": "S516957526",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Setauket, Lewis, New York, United States,",
+        "parts": [
+          "Setauket",
+          "Lewis",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516957526",
+          "page": "Genealogical Publishing Co.; Baltimore, MD, USA; Volume Title: New England Marriages Prior to 1700"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

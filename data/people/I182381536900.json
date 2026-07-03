@@ -1,0 +1,72 @@
+{
+  "id": "I182381536900",
+  "name": {
+    "given": "Marion",
+    "surname": "BURN",
+    "suffix": null,
+    "full": "Marion BURN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Jun 1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Nov 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536920",
+      "I182381536919"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536914"
+      }
+    ],
+    "children": [
+      "I182381536888"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

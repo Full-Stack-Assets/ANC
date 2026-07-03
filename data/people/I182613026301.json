@@ -1,0 +1,67 @@
+{
+  "id": "I182613026301",
+  "name": {
+    "given": "Sir Ira \"English\"",
+    "surname": "Johnson \"Knight\"",
+    "suffix": "111",
+    "full": "Sir Ira \"English\" Johnson \"Knight\" 111"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jul 1455",
+        "year": 1455,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stamford, Kesteven, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Stamford",
+          "Kesteven",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "December 26 1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stamford, Rutland, England",
+        "parts": [
+          "Stamford",
+          "Rutland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613026294"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

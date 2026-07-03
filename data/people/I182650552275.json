@@ -1,0 +1,74 @@
+{
+  "id": "I182650552275",
+  "name": {
+    "given": "William B",
+    "surname": "Linfield",
+    "suffix": "II",
+    "full": "William B Linfield II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Dec 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Mar 1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552297",
+      "I182650552293"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552266"
+      }
+    ],
+    "children": [
+      "I182650552256"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

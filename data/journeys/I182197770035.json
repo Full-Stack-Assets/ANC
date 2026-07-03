@@ -1,0 +1,50 @@
+{
+  "id": "I182197770035",
+  "person": "John Morrow",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Lisburn, Antrim, Northern Ireland",
+        "parts": [
+          "Lisburn",
+          "Antrim",
+          "Northern Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Feb 1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lot # 47, PEI, Canada",
+        "parts": [
+          "Lot # 47",
+          "PEI",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

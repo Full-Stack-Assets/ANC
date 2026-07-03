@@ -1,0 +1,69 @@
+{
+  "id": "I182541958255",
+  "name": {
+    "given": "Sarah   [all have same mom]",
+    "surname": "Bassett-Ewell",
+    "suffix": null,
+    "full": "Sarah   [all have same mom] Bassett-Ewell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 August 1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Apr 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Salem, New Jersey, Colonial America",
+        "parts": [
+          "Salem",
+          "Salem",
+          "New Jersey",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541958293"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541958217"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

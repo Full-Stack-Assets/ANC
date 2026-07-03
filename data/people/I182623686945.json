@@ -1,0 +1,69 @@
+{
+  "id": "I182623686945",
+  "name": {
+    "given": "Nicholas Sir Sheriff of Hampshire",
+    "surname": "Tichborne",
+    "suffix": null,
+    "full": "Nicholas Sir Sheriff of Hampshire Tichborne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1514",
+        "year": 1514,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tichborne, Hampshire, England",
+        "parts": [
+          "Tichborne",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 May 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Royden, Essex, England",
+        "parts": [
+          "Royden",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623686942"
+      }
+    ],
+    "children": [
+      "I182623686921"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

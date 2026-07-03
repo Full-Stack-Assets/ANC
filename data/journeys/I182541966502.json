@@ -1,0 +1,57 @@
+{
+  "id": "I182541966502",
+  "person": "Hartman Wider",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Mainz, Mainz, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Mainz",
+          "Mainz",
+          "Rheinland-Pfalz",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Höchst, Frankfurt am Main, Hessen, Deutschland",
+        "parts": [
+          "Höchst",
+          "Frankfurt am Main",
+          "Hessen",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Feb 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

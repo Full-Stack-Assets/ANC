@@ -1,0 +1,147 @@
+{
+  "id": "I182650552414",
+  "name": {
+    "given": "John",
+    "surname": "Winchester",
+    "suffix": null,
+    "full": "John Winchester"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 May 1611",
+        "year": 1611,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "USA",
+        "parts": [
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Apr 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Muddy River, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Muddy River",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552425"
+      }
+    ],
+    "children": [
+      "I182650552398"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "19 MAY 1611",
+        "year": 1611,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranbrook, Kent, England",
+        "parts": [
+          "Cranbrook",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "25 APR 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Muddy River, Massachusetts, USA",
+        "parts": [
+          "Muddy River",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "25 APR 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Muddy River, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Muddy River",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

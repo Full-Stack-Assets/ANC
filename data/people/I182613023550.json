@@ -1,0 +1,72 @@
+{
+  "id": "I182613023550",
+  "name": {
+    "given": "Ira",
+    "surname": "Beals",
+    "suffix": null,
+    "full": "Ira Beals"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 May 1796",
+        "year": 1796,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk , Massachusetts",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Mar 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk , Massachusetts",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": "Pneumonia",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112194",
+      "I182613112189"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023543"
+      }
+    ],
+    "children": [
+      "I182613023535"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

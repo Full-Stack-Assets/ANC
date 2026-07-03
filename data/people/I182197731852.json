@@ -1,0 +1,84 @@
+{
+  "id": "I182197731852",
+  "name": {
+    "given": "Samuel Moore",
+    "surname": "Gregory",
+    "suffix": null,
+    "full": "Samuel Moore Gregory"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 May 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pedricktown, New Jersey",
+        "parts": [
+          "Pedricktown",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Oct 1948",
+        "year": 1948,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Donegal, Lancaster, Pennsylvania, USA",
+        "parts": [
+          "West Donegal",
+          "Lancaster",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197731851",
+      "I182197730735"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447147251",
+      "title": "Pennsylvania, Death Certificates, 1906-1967",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "I182197731994",
+  "name": {
+    "given": "John",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "John Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Dec 1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Camden, New Jersey",
+        "parts": [
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 December 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester Twp, , Gloucester, NJ",
+        "parts": [
+          "Gloucester Twp",
+          "Gloucester",
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Haddonfield, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Haddonfield",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197756280",
+      "I182197732129"
+    ],
+    "spouses": [
+      {
+        "id": "I182197732094",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1794-10-13",
+            "year": 1794,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Camden, New Jersey",
+            "parts": [
+              "Camden",
+              "New Jersey"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862458"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447146275",
+      "title": "U.S., Quaker Meeting Records, 1681-1935",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

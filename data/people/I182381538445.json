@@ -1,0 +1,62 @@
+{
+  "id": "I182381538445",
+  "name": {
+    "given": "Janet",
+    "surname": "Findlay",
+    "suffix": null,
+    "full": "Janet Findlay"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alves, Moray, Scotland",
+        "parts": [
+          "Alves",
+          "Moray",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538448"
+      }
+    ],
+    "children": [
+      "I182381538407"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

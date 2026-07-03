@@ -1,0 +1,57 @@
+{
+  "id": "I182541955638",
+  "person": "David Walter Hohmann",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1924",
+        "year": 1924,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Trenton, New Jersey",
+        "parts": [
+          "Trenton",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

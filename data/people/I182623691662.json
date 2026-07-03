@@ -1,0 +1,69 @@
+{
+  "id": "I182623691662",
+  "name": {
+    "given": "Timothy",
+    "surname": "Bruce",
+    "suffix": null,
+    "full": "Timothy Bruce"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Feb 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex, Massachusetts",
+        "parts": [
+          "Woburn",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Jan 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691653"
+      }
+    ],
+    "children": [
+      "I182623691642"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

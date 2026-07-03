@@ -1,0 +1,91 @@
+{
+  "id": "I182541964106",
+  "name": {
+    "given": "Roger John",
+    "surname": "Bassett",
+    "suffix": null,
+    "full": "Roger John Bassett"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 May 1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorking, Surrey, England, United Kingdom",
+        "parts": [
+          "Dorking",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorking, Surrey, England, United Kingdom",
+        "parts": [
+          "Dorking",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964207"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964104"
+      }
+    ],
+    "children": [
+      "I182541958293"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

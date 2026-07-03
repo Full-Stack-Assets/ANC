@@ -1,0 +1,97 @@
+{
+  "id": "I182195861646",
+  "name": {
+    "given": "Pehr",
+    "surname": "Andersson",
+    "suffix": null,
+    "full": "Pehr Andersson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grangärde(W)",
+        "parts": [
+          "Grangärde(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861763",
+      "I182195861765"
+    ],
+    "spouses": [
+      {
+        "id": "I182195861638",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "11 NOV 1665",
+            "year": 1665,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195861776",
+      "I182195861769",
+      "I182195861773",
+      "I182195861768",
+      "I182195861774",
+      "I182195861775",
+      "I182195861581"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

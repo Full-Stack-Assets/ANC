@@ -1,0 +1,74 @@
+{
+  "id": "I182195864071",
+  "name": {
+    "given": "Samuel",
+    "surname": "Bolton",
+    "suffix": null,
+    "full": "Samuel Bolton"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington Twp, Philadelphia, PA",
+        "parts": [
+          "Abington Twp",
+          "Philadelphia",
+          "PA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 September 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germantown, Philadelphia, PA",
+        "parts": [
+          "Germantown",
+          "Philadelphia",
+          "PA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195864068",
+      "I182195864069"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

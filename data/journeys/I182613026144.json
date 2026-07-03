@@ -1,0 +1,59 @@
+{
+  "id": "I182613026144",
+  "person": "EN Sir John, Knight Yorkshire, Acklome 14 ggf",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Morley, Leeds, Yorkshire, West Yorkshire, England, United Kingdom",
+        "parts": [
+          "Morley",
+          "Leeds",
+          "Yorkshire",
+          "West Yorkshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1482",
+        "year": 1482,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bosworths Field, Near Leicester, Leicestershire, England (NOT Battle of Bosworth Field - 1485)",
+        "parts": [
+          "Bosworths Field",
+          "Near Leicester",
+          "Leicestershire",
+          "England (NOT Battle of Bosworth Field - 1485)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "I182195861763",
+  "name": {
+    "given": "Anders",
+    "surname": "Ersson",
+    "suffix": null,
+    "full": "Anders Ersson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ca 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Västergötland",
+        "parts": [
+          "Västergötland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 sep 1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grangärde(W)",
+        "parts": [
+          "Grangärde(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195861765",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 feb 1647",
+            "year": 1647,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Grangärde(W)",
+            "parts": [
+              "Grangärde(W)"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195861646",
+      "I182195861766",
+      "I182195861767"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

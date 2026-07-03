@@ -1,0 +1,57 @@
+{
+  "id": "I182625972382",
+  "person": "Katharina Thomes",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Alsfassen, St. Wendel, Saarland, Deutschland",
+        "parts": [
+          "Alsfassen",
+          "St. Wendel",
+          "Saarland",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Alsfassen, St Wendel, Saarland, Deutschland",
+        "parts": [
+          "Alsfassen",
+          "St Wendel",
+          "Saarland",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Feb 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

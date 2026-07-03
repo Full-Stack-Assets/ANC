@@ -1,0 +1,74 @@
+{
+  "id": "I182623691926",
+  "name": {
+    "given": "Alice Anne",
+    "surname": "Collins",
+    "suffix": "- 7th GG",
+    "full": "Alice Anne Collins - 7th GG"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudbury, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Sudbury",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 December 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudbury, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Sudbury",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691995",
+      "I182623691979"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691937"
+      }
+    ],
+    "children": [
+      "I182623691900"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

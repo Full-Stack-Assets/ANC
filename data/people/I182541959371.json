@@ -1,0 +1,65 @@
+{
+  "id": "I182541959371",
+  "name": {
+    "given": "Sarah",
+    "surname": "White",
+    "suffix": null,
+    "full": "Sarah White"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "07 Aug 1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk County, Massachusetts",
+        "parts": [
+          "Roxbury",
+          "Suffolk County",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959404",
+      "I182541959410"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959422"
+      }
+    ],
+    "children": [
+      "I182541959337"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

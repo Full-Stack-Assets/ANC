@@ -1,0 +1,145 @@
+{
+  "id": "I182197730682",
+  "name": {
+    "given": "Ann",
+    "surname": "Pine",
+    "suffix": null,
+    "full": "Ann Pine"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 October 1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester County, New Jersey, United States of America",
+        "parts": [
+          "Gloucester County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 December 1863",
+        "year": 1863,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Camden County, New Jersey, United States of America",
+        "parts": [
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Haddonfield, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Haddonfield",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197730733"
+      }
+    ],
+    "children": [
+      "I182197730739",
+      "I182197730740",
+      "I182197730737",
+      "I182197730734",
+      "I182197730742",
+      "I182197730736",
+      "I182197730741",
+      "I182197730735",
+      "I182197730738"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Camden, New Jersey",
+        "parts": [
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447146275",
+      "title": "U.S., Quaker Meeting Records, 1681-1935",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

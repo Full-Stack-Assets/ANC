@@ -1,0 +1,210 @@
+{
+  "id": "I182620325097",
+  "name": {
+    "given": "Sir Knight Edward Graf",
+    "surname": "Mansfield\\Mansell",
+    "suffix": null,
+    "full": "Sir Knight Edward Graf Mansfield\\Mansell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margam, Glamorgan, Wales, United Kingdom",
+        "parts": [
+          "Margam",
+          "Glamorgan",
+          "Wales",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 August 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "City of London, London, England, United Kingdom",
+        "parts": [
+          "City of London",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Margam, Neath Port Talbot, Wales",
+        "parts": [
+          "Margam",
+          "Neath Port Talbot",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620325139",
+      "I182620325132"
+    ],
+    "spouses": [
+      {
+        "id": "I182620325420"
+      }
+    ],
+    "children": [
+      "I182620325418",
+      "I182620325417",
+      "I182620325419",
+      "I182620327364",
+      "I182620325076"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margam, Glamorgan, Wales",
+        "parts": [
+          "Margam",
+          "Glamorgan",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "6 Aug 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aug, Bad Tolz-Wolfratshausen, Bayern, Germany",
+        "parts": [
+          "Aug",
+          "Bad Tolz-Wolfratshausen",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "06 Aug 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Dionis Backchurch, London, England",
+        "parts": [
+          "St Dionis Backchurch",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516621422",
+      "title": "Dictionary of National Biography, Volumes 1-22",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516620590",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516620217",
+      "title": "History of the family of Maunsell (Mansell, Mansel)",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516620476",
+      "title": "Shropshire, England, Extracted Church of England Parish Records, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "I182195859673",
+  "name": {
+    "given": "Axel Serenius",
+    "surname": "Holst",
+    "suffix": null,
+    "full": "Axel Serenius Holst"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Sept 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torsby, Västra Götaland, Sweden",
+        "parts": [
+          "Torsby",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195859671",
+      "I182195859672"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

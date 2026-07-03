@@ -1,0 +1,87 @@
+{
+  "id": "I182197821527",
+  "name": {
+    "given": "Heljnrik",
+    "surname": "Albersen or Gijsbersen",
+    "suffix": null,
+    "full": "Heljnrik Albersen or Gijsbersen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Amsterdam, Noord-Holland, Netherlands",
+        "parts": [
+          "Amsterdam",
+          "Noord-Holland",
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197821557",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "24 Nov 1602",
+            "year": 1602,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Amsterdam, Noord-Holland, Netherlands",
+            "parts": [
+              "Amsterdam",
+              "Noord-Holland",
+              "Netherlands"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447153188",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447153188",
+      "title": "Netherlands, Select Marriages, 1565-1892",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447152997",
+      "title": "Netherlands, Select Births and Baptisms, 1564-1910",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

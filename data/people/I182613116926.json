@@ -1,0 +1,68 @@
+{
+  "id": "I182613116926",
+  "name": {
+    "given": "Isabella Of france",
+    "surname": null,
+    "suffix": null,
+    "full": "Isabella Of france"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Aug 1295",
+        "year": 1295,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Paris, France",
+        "parts": [
+          "Paris",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Aug 1358",
+        "year": 1358,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Castle Rising, Norfolk, England",
+        "parts": [
+          "Castle Rising",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613116842"
+      }
+    ],
+    "children": [
+      "I182613116531"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

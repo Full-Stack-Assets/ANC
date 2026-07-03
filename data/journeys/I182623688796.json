@@ -1,0 +1,55 @@
+{
+  "id": "I182623688796",
+  "person": "Sarah Babb",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hampton Falls, Rockingham, New Hampshire",
+        "parts": [
+          "Hampton Falls",
+          "Rockingham",
+          "New Hampshire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Sep 1711",
+        "year": 1711,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

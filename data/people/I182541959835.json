@@ -1,0 +1,70 @@
+{
+  "id": "I182541959835",
+  "name": {
+    "given": "pp154 MARY",
+    "surname": "BOURCHIER",
+    "suffix": "MM13",
+    "full": "pp154 MARY BOURCHIER MM13"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roanne, Loire, Rhone-Alpes, France",
+        "parts": [
+          "Roanne",
+          "Loire",
+          "Rhone-Alpes",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Jul 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Helen Bishopgate, London, England",
+        "parts": [
+          "St Helen Bishopgate",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959850"
+      }
+    ],
+    "children": [
+      "I182541959817"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

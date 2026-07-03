@@ -1,0 +1,68 @@
+{
+  "id": "I182567600250",
+  "name": {
+    "given": "John Hunter",
+    "surname": "Bull",
+    "suffix": null,
+    "full": "John Hunter Bull"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 May 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, , England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600278",
+      "I182567600271"
+    ],
+    "spouses": [],
+    "children": [
+      "I182567600237"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

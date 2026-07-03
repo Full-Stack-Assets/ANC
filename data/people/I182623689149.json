@@ -1,0 +1,69 @@
+{
+  "id": "I182623689149",
+  "name": {
+    "given": "Katherine",
+    "surname": "Thompson",
+    "suffix": null,
+    "full": "Katherine Thompson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hunsdon, Hertfordshire, England",
+        "parts": [
+          "Hunsdon",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "May 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hunsdon, Hertfordshire, England",
+        "parts": [
+          "Hunsdon",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689157"
+      }
+    ],
+    "children": [
+      "I182623689094"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

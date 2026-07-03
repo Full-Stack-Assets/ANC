@@ -1,0 +1,69 @@
+{
+  "id": "I182625972302",
+  "name": {
+    "given": "Johann Eberhard",
+    "surname": "BECKER",
+    "suffix": null,
+    "full": "Johann Eberhard BECKER"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Arnual, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "St Arnual",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Mar 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "st Arnual, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "st Arnual",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972305"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625972291"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

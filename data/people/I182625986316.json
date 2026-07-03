@@ -1,0 +1,140 @@
+{
+  "id": "I182625986316",
+  "name": {
+    "given": "Richard",
+    "surname": "Cheesman",
+    "suffix": "Sr",
+    "full": "Richard Cheesman Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 November 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Long Island City, Queens, New York, United States",
+        "parts": [
+          "Long Island City",
+          "Queens",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 September 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheesman Plantation, Gloucester, New Jersey, United States",
+        "parts": [
+          "Cheesman Plantation",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986319",
+      "I182625986323"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986309"
+      }
+    ],
+    "children": [
+      "I182625986293"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "9 Nov 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Long Island City, Queens County, New York, United States of America",
+        "parts": [
+          "Long Island City",
+          "Queens County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucs, New Jersey, USA",
+        "parts": [
+          "Gloucs",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheesemen Plantion, Gloucester County, New Jersey, USA",
+        "parts": [
+          "Cheesemen Plantion",
+          "Gloucester County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

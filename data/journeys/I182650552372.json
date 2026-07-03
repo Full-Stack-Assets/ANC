@@ -1,0 +1,55 @@
+{
+  "id": "I182650552372",
+  "person": "Timothy Harris",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Jul 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brookline, Suffolk, Massachusetts",
+        "parts": [
+          "Brookline",
+          "Suffolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Sep 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

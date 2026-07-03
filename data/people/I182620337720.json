@@ -1,0 +1,71 @@
+{
+  "id": "I182620337720",
+  "name": {
+    "given": "JUDITH",
+    "surname": "MADIVER",
+    "suffix": "\\My  6th great-grandmother \\RICHARD INKERSALL\\ INGERSOLL LINE \\Line that belonges to my children Buffey, Spring, April, and Bill",
+    "full": "JUDITH MADIVER \\My  6th great-grandmother \\RICHARD INKERSALL\\ INGERSOLL LINE \\Line that belonges to my children Buffey, Spring, April, and Bill"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Purpooduck, Cumberland, Maine, Colonial Era",
+        "parts": [
+          "Purpooduck",
+          "Cumberland",
+          "Maine",
+          "Colonial Era"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 May 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, Colonial Era",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "Colonial Era"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620337704"
+      }
+    ],
+    "children": [
+      "I182541965971"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

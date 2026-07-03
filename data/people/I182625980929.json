@@ -1,0 +1,70 @@
+{
+  "id": "I182625980929",
+  "name": {
+    "given": "Isabel",
+    "surname": "Best",
+    "suffix": null,
+    "full": "Isabel Best"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ovenden, Halifax, Yorkshire, England",
+        "parts": [
+          "Ovenden",
+          "Halifax",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Sep 1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barnby Dun, Yorkshire, England",
+        "parts": [
+          "Barnby Dun",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625980931"
+      }
+    ],
+    "children": [
+      "I182625980904"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

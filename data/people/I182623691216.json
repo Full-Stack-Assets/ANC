@@ -1,0 +1,65 @@
+{
+  "id": "I182623691216",
+  "name": {
+    "given": "Joseph Stephen",
+    "surname": "ATWOOD",
+    "suffix": "Sr",
+    "full": "Joseph Stephen ATWOOD Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Oct 1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, MA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Apr 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, MA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623691202"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

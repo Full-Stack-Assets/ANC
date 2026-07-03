@@ -1,0 +1,70 @@
+{
+  "id": "I182623687194",
+  "name": {
+    "given": "Thomas",
+    "surname": "Buckenham Bokenham",
+    "suffix": null,
+    "full": "Thomas Buckenham Bokenham"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1508",
+        "year": 1508,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warnham, Sussex, England",
+        "parts": [
+          "Warnham",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 December 1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Temple Church, London, London, England",
+        "parts": [
+          "Temple Church",
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623687201"
+      }
+    ],
+    "children": [
+      "I182623687166"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

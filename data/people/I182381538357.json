@@ -1,0 +1,47 @@
+{
+  "id": "I182381538357",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Gibson",
+    "suffix": null,
+    "full": "Elizabeth Gibson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canonbie, Dumfries-shire, , Scotland",
+        "parts": [
+          "Canonbie",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538388",
+      "I182381538375"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381538339"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

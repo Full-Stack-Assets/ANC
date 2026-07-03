@@ -1,0 +1,38 @@
+{
+  "id": "I182694750716",
+  "name": {
+    "given": "Scott Howard",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Scott Howard Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 May 2000",
+        "year": 2000,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195856777",
+      "I182694750629"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

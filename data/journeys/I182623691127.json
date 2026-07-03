@@ -1,0 +1,57 @@
+{
+  "id": "I182623691127",
+  "person": "Eleazer Atwood",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eastham, Barnstable County, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable County",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "September 15, 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "March 19, 1796",
+        "year": 1796,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

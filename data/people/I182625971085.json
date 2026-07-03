@@ -1,0 +1,116 @@
+{
+  "id": "I182625971085",
+  "name": {
+    "given": "Alyce",
+    "surname": "Hornyold",
+    "suffix": null,
+    "full": "Alyce Hornyold"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "December 1495",
+        "year": 1495,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kidderminster, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Kidderminster",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 August 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, Somerset, England, United Kingdom",
+        "parts": [
+          "Somerset",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625971049",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1514",
+            "year": 1514,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "England, England, United Kingdom",
+            "parts": [
+              "England",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625970960"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

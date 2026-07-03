@@ -1,0 +1,102 @@
+{
+  "id": "I182195864069",
+  "name": {
+    "given": "Mary",
+    "surname": "Naylor",
+    "suffix": null,
+    "full": "Mary Naylor"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Darby, Chester, Pennsylvania, United States",
+        "parts": [
+          "Darby",
+          "Chester",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "BEF 20 APR 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Pennsylvania, United States",
+        "parts": [
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541956510"
+    ],
+    "spouses": [
+      {
+        "id": "I182195864068",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "2 Apr 1707",
+            "year": 1707,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Delaware, Pennsylvania",
+            "parts": [
+              "Delaware",
+              "Pennsylvania"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195863565",
+      "I182195864072",
+      "I182195864070",
+      "I182195864071"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

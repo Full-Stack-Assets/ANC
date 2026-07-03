@@ -1,0 +1,56 @@
+{
+  "id": "I182381538214",
+  "name": {
+    "given": "Hans Hermann",
+    "surname": "Sohl",
+    "suffix": null,
+    "full": "Hans Hermann Sohl"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381538203"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

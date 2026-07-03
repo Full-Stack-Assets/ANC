@@ -1,0 +1,79 @@
+{
+  "id": "I182650551395",
+  "name": {
+    "given": "Amie Amy",
+    "surname": "Reynolds (Dunbar)",
+    "suffix": "II",
+    "full": "Amie Amy Reynolds (Dunbar) II"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Massachusetts",
+        "parts": [
+          "Bridgewater",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1844",
+        "year": 1844,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551408",
+      "I182650551403"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551398"
+      }
+    ],
+    "children": [
+      "I182650551382"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

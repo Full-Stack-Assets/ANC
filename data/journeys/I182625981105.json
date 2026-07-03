@@ -1,0 +1,56 @@
+{
+  "id": "I182625981105",
+  "person": "Robert Standards Austen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Goudhurst, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 April 1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Goudhurst, Tunbridge Wells Borough, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Tunbridge Wells Borough",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 August 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

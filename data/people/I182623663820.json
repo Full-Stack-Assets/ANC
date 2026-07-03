@@ -1,0 +1,154 @@
+{
+  "id": "I182623663820",
+  "name": {
+    "given": "August",
+    "surname": "Dimmerling",
+    "suffix": "Sr",
+    "full": "August Dimmerling Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Aug 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse Cassel, Germany",
+        "parts": [
+          "Hesse Cassel",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Jun 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda, Noble, Ohio, United States",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, United States of America",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623663806"
+      }
+    ],
+    "children": [
+      "I182623663889",
+      "I182623663892",
+      "I182623663891",
+      "I182623663890",
+      "I182623663677"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "28 Aug 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse, Germany",
+        "parts": [
+          "Hesse",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 Aug 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essen, Germany",
+        "parts": [
+          "Essen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

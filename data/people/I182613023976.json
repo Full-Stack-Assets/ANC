@@ -1,0 +1,192 @@
+{
+  "id": "I182613023976",
+  "name": {
+    "given": "Joane",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "Joane Smyth"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cratfield, Suffolk, England",
+        "parts": [
+          "Cratfield",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Jan 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wrentham, Suffolk, England",
+        "parts": [
+          "Wrentham",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008788",
+          "page": "The Tyler Collection, The Institute of Heraldic and Genealogical Studies; Kent, England, Tyler Index to Parish Registers, 1538-1874"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "3 Jun 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent",
+        "parts": [
+          "Kent"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008788",
+          "page": "The Tyler Collection, The Institute of Heraldic and Genealogical Studies; Kent, England, Tyler Index to Parish Registers, 1538-1874"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613024027",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "3 November 1543",
+            "year": 1543,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Cratfield, Suffolk, England, United Kingdom",
+            "parts": [
+              "Cratfield",
+              "Suffolk",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613023959"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "abt 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008788",
+          "page": "The Tyler Collection, The Institute of Heraldic and Genealogical Studies; Kent, England, Tyler Index to Parish Registers, 1538-1874"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Willaughby, Lincoln, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Willaughby",
+          "Lincoln",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008788",
+      "title": "Kent, England, Tyler Index to Parish Registers, 1538-1874",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

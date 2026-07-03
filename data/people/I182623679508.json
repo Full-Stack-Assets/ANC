@@ -1,0 +1,71 @@
+{
+  "id": "I182623679508",
+  "name": {
+    "given": "Mary",
+    "surname": "Snow",
+    "suffix": null,
+    "full": "Mary Snow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 May 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Truro, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Truro",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Nov 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts",
+        "parts": [
+          "Boston",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691261"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679513"
+      }
+    ],
+    "children": [
+      "I182623679484"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

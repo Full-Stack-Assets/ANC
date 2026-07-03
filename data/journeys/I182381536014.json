@@ -1,0 +1,57 @@
+{
+  "id": "I182381536014",
+  "person": "*Olof Hansson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bommarsbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Bommarsbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bommersbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Bommersbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

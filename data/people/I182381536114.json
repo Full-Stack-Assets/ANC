@@ -1,0 +1,64 @@
+{
+  "id": "I182381536114",
+  "name": {
+    "given": "Eke",
+    "surname": "Persson Tång",
+    "suffix": null,
+    "full": "Eke Persson Tång"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Nöbbele, Tolg (G)",
+        "parts": [
+          "Nöbbele",
+          "Tolg (G)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "ABT 1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Skärsbäck, Ramkvilla (F)",
+        "parts": [
+          "Skärsbäck",
+          "Ramkvilla (F)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536134"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536120"
+      }
+    ],
+    "children": [
+      "I182381536104"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

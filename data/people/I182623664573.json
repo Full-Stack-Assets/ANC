@@ -1,0 +1,71 @@
+{
+  "id": "I182623664573",
+  "name": {
+    "given": "Sir Lord Robert",
+    "surname": "Olney-van Weston,",
+    "suffix": "Lord of Weston,High Sheriff of Olney, Knight",
+    "full": "Sir Lord Robert Olney-van Weston, Lord of Weston,High Sheriff of Olney, Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bedfordshire, England",
+        "parts": [
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weston, Buckinghamshire, England",
+        "parts": [
+          "Weston",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664640",
+      "I182623664580"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664565"
+      }
+    ],
+    "children": [
+      "I182623664547"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

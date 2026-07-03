@@ -1,0 +1,203 @@
+{
+  "id": "I182381537173",
+  "name": {
+    "given": "John",
+    "surname": "McArthur",
+    "suffix": null,
+    "full": "John McArthur"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon,  Arl, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Arl",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon, Argyll, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Argyll",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537199",
+      "I182381537186"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381537159"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon,  Arl, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Arl",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon,  Arl, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Arl",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon,  Arl, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Arl",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon, Argyll, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Argyll",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "AUG 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon, Argyll, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Argyll",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "Aug 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Dunoon, Argyll, Scotland",
+        "parts": [
+          "Milton",
+          "Dunoon",
+          "Argyll",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

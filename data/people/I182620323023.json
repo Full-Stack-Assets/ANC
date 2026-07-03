@@ -1,0 +1,74 @@
+{
+  "id": "I182620323023",
+  "name": {
+    "given": "Mary",
+    "surname": "Doherty",
+    "suffix": null,
+    "full": "Mary Doherty"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jun 24, 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Portage, Prince, Prince Edward Island, Canada",
+        "parts": [
+          "Portage",
+          "Prince",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Mar 13, 1894",
+        "year": 1894,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skye Glen, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Skye Glen",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323447",
+      "I182620323439"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323029"
+      }
+    ],
+    "children": [
+      "I182620322951"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

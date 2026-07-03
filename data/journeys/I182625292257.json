@@ -1,0 +1,57 @@
+{
+  "id": "I182625292257",
+  "person": "Capt. Eleazor Howell Hawkins",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Setauket, Suffolk, New York, USA",
+        "parts": [
+          "Setauket",
+          "Suffolk",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "07 Aug 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Setauket, Suffolk County, New York, United States of America",
+        "parts": [
+          "Setauket",
+          "Suffolk County",
+          "New York",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Sep 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

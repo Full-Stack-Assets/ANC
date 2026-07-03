@@ -1,0 +1,160 @@
+{
+  "id": "I182613026220",
+  "name": {
+    "given": "Hannah \"Anna\" Jörgina",
+    "surname": "Throckmorton Johnson",
+    "suffix": null,
+    "full": "Hannah \"Anna\" Jörgina Throckmorton Johnson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Aug 1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Kent, England",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 May 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Kent, England",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026261"
+    ],
+    "spouses": [
+      {
+        "id": "I182613026232"
+      }
+    ],
+    "children": [
+      "I182613025908"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Thornbury, South Gloucestershire Unitary Authority, Gloucestershire, England",
+        "parts": [
+          "Thornbury",
+          "South Gloucestershire Unitary Authority",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Kent, England, United Kingdom",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "10 March 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Kent, England, United Kingdom",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Dartford Borough, Kent, England",
+        "parts": [
+          "Wilmington",
+          "Dartford Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

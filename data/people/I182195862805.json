@@ -1,0 +1,72 @@
+{
+  "id": "I182195862805",
+  "name": {
+    "given": "Henry M",
+    "surname": "Shone",
+    "suffix": null,
+    "full": "Henry M Shone"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Blacker, Camden, New Jersey",
+        "parts": [
+          "New Blacker",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862704",
+      "I182195862717"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

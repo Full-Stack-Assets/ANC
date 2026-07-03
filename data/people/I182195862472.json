@@ -1,0 +1,73 @@
+{
+  "id": "I182195862472",
+  "name": {
+    "given": "Bertha",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Bertha Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 May 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chambersburg, Mercer, New Jersey",
+        "parts": [
+          "Chambersburg",
+          "Mercer",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Jun 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Darby, PA",
+        "parts": [
+          "Darby",
+          "PA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862295",
+      "I182195862467"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

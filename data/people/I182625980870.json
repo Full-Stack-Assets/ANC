@@ -1,0 +1,62 @@
+{
+  "id": "I182625980870",
+  "name": {
+    "given": "William",
+    "surname": "Druet (Drewet)",
+    "suffix": null,
+    "full": "William Druet (Drewet)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duffield, Derbyshire, England",
+        "parts": [
+          "Duffield",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625980874"
+      }
+    ],
+    "children": [
+      "I182587606286"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

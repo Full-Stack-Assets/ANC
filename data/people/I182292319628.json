@@ -1,0 +1,70 @@
+{
+  "id": "I182292319628",
+  "name": {
+    "given": "Germund",
+    "surname": "Jonsson Hurtig",
+    "suffix": null,
+    "full": "Germund Jonsson Hurtig"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Oct 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Svaorna, Långelanda (O)",
+        "parts": [
+          "Svaorna",
+          "Långelanda (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1804",
+        "year": 1804,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nordberget, Myckleby (O)",
+        "parts": [
+          "Nordberget",
+          "Myckleby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319659",
+      "I182292319640"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319606"
+      }
+    ],
+    "children": [
+      "I182292319587"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

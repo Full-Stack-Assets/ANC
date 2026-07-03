@@ -1,0 +1,120 @@
+{
+  "id": "I182650552352",
+  "name": {
+    "given": "Amariah",
+    "surname": "Winchester",
+    "suffix": null,
+    "full": "Amariah Winchester"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Apr 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Sep 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Montville, New London, Connecticut, United States",
+        "parts": [
+          "Montville",
+          "New London",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552398",
+      "I182650552396"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552346"
+      }
+    ],
+    "children": [
+      "I182650552328"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "4 April 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, MA, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "MA",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "10 October 1766",
+        "year": 1766,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pomfret, Windham, Connecticut, USA",
+        "parts": [
+          "Pomfret",
+          "Windham",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

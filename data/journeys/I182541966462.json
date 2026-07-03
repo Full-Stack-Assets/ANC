@@ -1,0 +1,54 @@
+{
+  "id": "I182541966462",
+  "person": "Konrad Grossmann",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Marxheim, Main-Taunus-Kreis, Hessen, Germany",
+        "parts": [
+          "Marxheim",
+          "Main-Taunus-Kreis",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Unbekannt",
+        "parts": [
+          "Unbekannt"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aft. 1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

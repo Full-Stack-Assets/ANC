@@ -1,0 +1,86 @@
+{
+  "id": "I182541966193",
+  "name": {
+    "given": "Andrew Lynn",
+    "surname": "Mansfield",
+    "suffix": null,
+    "full": "Andrew Lynn Mansfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, , England",
+        "parts": [
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Nov 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex Co., Massachusetts, America",
+        "parts": [
+          "Lynn",
+          "Essex Co.",
+          "Massachusetts",
+          "America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620325010",
+      "I182584905029"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541966183"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182541960089",
+  "name": {
+    "given": "Mary Jane",
+    "surname": "Rockwell",
+    "suffix": null,
+    "full": "Mary Jane Rockwell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Bristol, Somerset, England",
+        "parts": [
+          "Bristol",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 May 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bristol, Somerset, England",
+        "parts": [
+          "Bristol",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960429"
+    ],
+    "spouses": [
+      {
+        "id": "I182541960101"
+      }
+    ],
+    "children": [
+      "I182541960048"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

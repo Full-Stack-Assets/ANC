@@ -1,0 +1,71 @@
+{
+  "id": "I182620315152",
+  "name": {
+    "given": "Lord Robert",
+    "surname": "Crosby of Holme Hall",
+    "suffix": "\"C\"",
+    "full": "Lord Robert Crosby of Holme Hall \"C\""
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Oct 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme On Spaulding Moor, Yorkshire, England",
+        "parts": [
+          "Holme On Spaulding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme on Spalding Moor, England",
+        "parts": [
+          "Holme on Spalding Moor",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315197",
+      "I182620315186"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315146"
+      }
+    ],
+    "children": [
+      "I182620315134"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "I182613115567",
+  "name": {
+    "given": "Joan",
+    "surname": "Neville",
+    "suffix": null,
+    "full": "Joan Neville"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1375",
+        "year": 1375,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beaufort-en-Vallee, Departement de Maine-et-Loire, Pays de la Loire, France",
+        "parts": [
+          "Beaufort-en-Vallee",
+          "Departement de Maine-et-Loire",
+          "Pays de la Loire",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 November 1440",
+        "year": 1440,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Howden, East Riding of Yorkshire Unitary Authority, East Riding of Yorkshire, England",
+        "parts": [
+          "Howden",
+          "East Riding of Yorkshire Unitary Authority",
+          "East Riding of Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Staindrop, Durham Unitary Authority, County Durham, England",
+        "parts": [
+          "Staindrop",
+          "Durham Unitary Authority",
+          "County Durham",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116003",
+      "I182613116329"
+    ],
+    "spouses": [
+      {
+        "id": "I182613115568"
+      }
+    ],
+    "children": [
+      "I182613114768"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516021591",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

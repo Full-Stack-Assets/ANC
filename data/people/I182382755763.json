@@ -1,0 +1,74 @@
+{
+  "id": "I182382755763",
+  "name": {
+    "given": "Samuel",
+    "surname": "Jacobsson",
+    "suffix": null,
+    "full": "Samuel Jacobsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 JUL 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Hjälmvik Nolgården farm",
+          "Stala",
+          "Göteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 APR 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Hjälmvik Nolgården farm",
+          "Stala",
+          "Göteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182391485866",
+      "I182391485891"
+    ],
+    "spouses": [
+      {
+        "id": "I182382755760"
+      }
+    ],
+    "children": [
+      "I182292318217"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

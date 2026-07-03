@@ -1,0 +1,87 @@
+{
+  "id": "I182613115034",
+  "person": "Joan Neville",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Champagne-Ardenne, France",
+        "parts": [
+          "Champagne-Ardenne",
+          "France"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1375",
+        "year": 1375,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "South Yorkshire, England",
+        "parts": [
+          "South Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 November 1440",
+        "year": 1440,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Lincoln, City of Lincoln, Lincolnshire, England",
+        "parts": [
+          "Lincoln",
+          "City of Lincoln",
+          "Lincolnshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "id": "I182534044164",
+  "name": {
+    "given": "Catharina \"Catharine\"",
+    "surname": "\\MullerMoller\\Miller",
+    "suffix": null,
+    "full": "Catharina \"Catharine\" \\MullerMoller\\Miller"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "05 Oct 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, New York, NY",
+        "parts": [
+          "New York",
+          "New York",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Jul 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sayre Bor, Bradford, Pennsylvania, USA",
+        "parts": [
+          "Sayre Bor",
+          "Bradford",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966407"
+    ],
+    "spouses": [],
+    "children": [
+      "I182534044155"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "05 Oct 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

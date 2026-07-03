@@ -1,0 +1,73 @@
+{
+  "id": "I182650551451",
+  "name": {
+    "given": "Mary",
+    "surname": "Clark Morse * P 7th GGA",
+    "suffix": null,
+    "full": "Mary Clark Morse * P 7th GGA"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipswich, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Ipswich",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middleborough, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Middleborough",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551472"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551456"
+      }
+    ],
+    "children": [
+      "I182650551431"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

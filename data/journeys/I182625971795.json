@@ -1,0 +1,90 @@
+{
+  "id": "I182625971795",
+  "person": "Sarah Booth",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hamptonburgh, Orange County, New York, United States of America",
+        "parts": [
+          "Hamptonburgh",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 September 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Orange County, New York, United States of America",
+        "parts": [
+          "Orange County",
+          "New York",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 February 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Neelytown, Orange County, New York, United States of America",
+        "parts": [
+          "Neelytown",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

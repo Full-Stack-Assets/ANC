@@ -1,0 +1,106 @@
+{
+  "id": "I182623680534",
+  "name": {
+    "given": "Ursula Bamfield",
+    "surname": "Fulford",
+    "suffix": null,
+    "full": "Ursula Bamfield Fulford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore,,Devon,England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Dec 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunsford, Devon, England",
+        "parts": [
+          "Dunsford",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508120342",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Dunsford, Devonshire, England",
+        "parts": [
+          "Dunsford",
+          "Devonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508120342",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680593",
+      "I182623680588"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680523"
+      }
+    ],
+    "children": [
+      "I182623680509"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508120342",
+      "title": "UK, Extracted Probate Records, 1269-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

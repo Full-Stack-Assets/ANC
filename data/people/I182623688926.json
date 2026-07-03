@@ -1,0 +1,75 @@
+{
+  "id": "I182623688926",
+  "name": {
+    "given": "Mary",
+    "surname": "Priest",
+    "suffix": null,
+    "full": "Mary Priest"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "leyden, Holland, Reusel-de Mierden, Noord-Brabant, Netherlands",
+        "parts": [
+          "leyden",
+          "Holland",
+          "Reusel-de Mierden",
+          "Noord-Brabant",
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 22 Jul 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689000",
+      "I182623689017"
+    ],
+    "spouses": [
+      {
+        "id": "I182623688933"
+      }
+    ],
+    "children": [
+      "I182623688906"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

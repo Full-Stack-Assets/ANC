@@ -1,0 +1,74 @@
+{
+  "id": "I182650551737",
+  "name": {
+    "given": "Abigail",
+    "surname": "Church",
+    "suffix": null,
+    "full": "Abigail Church"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Jun 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Dec 1677",
+        "year": 1677,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551777",
+      "I182650551772"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551750"
+      }
+    ],
+    "children": [
+      "I182650551663"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

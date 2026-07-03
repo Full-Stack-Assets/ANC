@@ -1,0 +1,73 @@
+{
+  "id": "I182381537740",
+  "name": {
+    "given": "Captain Frederick",
+    "surname": "Williams",
+    "suffix": null,
+    "full": "Captain Frederick Williams"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Feb 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Farms, County of Westchester, British Colony of New York",
+        "parts": [
+          "West Farms",
+          "County of Westchester",
+          "British Colony of New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 February 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Williams Homestead, Lot 22, Digby County, Nova Scotia",
+        "parts": [
+          "Williams Homestead",
+          "Lot 22",
+          "Digby County",
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537803",
+      "I182381537799"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537723"
+      }
+    ],
+    "children": [
+      "I182381537712"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182625984985",
+  "person": "Susan Pine",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hempstead, (Nassau)Jamaica, Long Island, New York, USA",
+        "parts": [
+          "Hempstead",
+          "(Nassau)Jamaica",
+          "Long Island",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "1713",
+        "parts": [
+          "1713"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 August 1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

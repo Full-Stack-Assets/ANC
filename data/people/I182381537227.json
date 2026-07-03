@@ -1,0 +1,49 @@
+{
+  "id": "I182381537227",
+  "name": {
+    "given": "Margaret",
+    "surname": "Gray",
+    "suffix": null,
+    "full": "Margaret Gray"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "May 1705",
+        "year": 1705,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537239",
+      "I182381537234"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537229"
+      }
+    ],
+    "children": [
+      "I182381537136"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

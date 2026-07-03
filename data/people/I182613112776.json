@@ -1,0 +1,69 @@
+{
+  "id": "I182613112776",
+  "name": {
+    "given": "Lady Cecily",
+    "surname": "Muscote, Lady of Earls Barton, Northamptonshire Muscote",
+    "suffix": "descendant of Charlemagne",
+    "full": "Lady Cecily Muscote, Lady of Earls Barton, Northamptonshire Muscote descendant of Charlemagne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1495",
+        "year": 1495,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, England",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 SEP 1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington, Northamptonshire, England",
+        "parts": [
+          "Abington",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112788"
+      }
+    ],
+    "children": [
+      "I182613112752"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

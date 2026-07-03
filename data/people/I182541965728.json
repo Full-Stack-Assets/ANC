@@ -1,0 +1,58 @@
+{
+  "id": "I182541965728",
+  "name": {
+    "given": "Pamela",
+    "surname": "Mulrooney",
+    "suffix": null,
+    "full": "Pamela Mulrooney"
+  },
+  "sex": null,
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534043904",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1966",
+            "year": 1966,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Brockton, Massachusetts, USA",
+            "parts": [
+              "Brockton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447150985",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447150985",
+      "title": "Massachusetts, Marriage Index, 1901-1955 and 1966-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

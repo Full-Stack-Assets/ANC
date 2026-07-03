@@ -1,0 +1,68 @@
+{
+  "id": "I182613113754",
+  "name": {
+    "given": "Thomas William",
+    "surname": "Benbow, Colonel",
+    "suffix": null,
+    "full": "Thomas William Benbow, Colonel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jan 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newport, Shropshire, England",
+        "parts": [
+          "Newport",
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113750"
+      }
+    ],
+    "children": [
+      "I182613023967"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

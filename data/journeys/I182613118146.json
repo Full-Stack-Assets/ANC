@@ -1,0 +1,57 @@
+{
+  "id": "I182613118146",
+  "person": "John Henry Bridges",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Braintree, Braintree District, Essex, England",
+        "parts": [
+          "Braintree",
+          "Braintree District",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts, Colonial America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts",
+          "Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 April 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

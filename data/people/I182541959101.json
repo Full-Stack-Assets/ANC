@@ -1,0 +1,71 @@
+{
+  "id": "I182541959101",
+  "name": {
+    "given": "William",
+    "surname": "PAULLIN",
+    "suffix": null,
+    "full": "William PAULLIN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bucks County, Pennsylvania",
+        "parts": [
+          "Bucks County",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 NOV 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964344",
+      "I182541964338"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959080"
+      }
+    ],
+    "children": [
+      "I182541958181"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

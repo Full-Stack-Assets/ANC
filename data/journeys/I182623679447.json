@@ -1,0 +1,57 @@
+{
+  "id": "I182623679447",
+  "person": "Daniel C Bedel",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Whitehall, Washington, New York, USA",
+        "parts": [
+          "Whitehall",
+          "Washington",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 Feb 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Oct 1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

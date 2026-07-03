@@ -1,0 +1,535 @@
+{
+  "id": "I182195856839",
+  "name": {
+    "given": "Howard Edwin",
+    "surname": "Albertson",
+    "suffix": "Jr",
+    "full": "Howard Edwin Albertson Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Feb 1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        },
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        },
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        },
+        {
+          "source_id": "S446914946",
+          "page": null
+        },
+        {
+          "source_id": "S525022546",
+          "page": "National Archives at St. Louis; St Louis, MO, USA; Record Group: Records of the Selective Service System, 1926–1975; Record Group Number: 147; Series: Post-WWII through Vietnam Era Selective Service Records, New Jersey; Series Number: 147-76-0260"
+        },
+        {
+          "source_id": "S447150954",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Jun 1998",
+        "year": 1998,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton MA",
+        "parts": [
+          "Brockton MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        },
+        {
+          "source_id": "S446914946",
+          "page": null
+        },
+        {
+          "source_id": "S447150954",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Canton, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Canton",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862116",
+      "I182195862117"
+    ],
+    "spouses": [
+      {
+        "id": "I182195857227",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Oct 1952",
+            "year": 1952,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Trenton, Mercer, New Jersey, USA",
+            "parts": [
+              "Trenton",
+              "Mercer",
+              "New Jersey",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447150963",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195857231",
+      "I182195857229",
+      "I182195857230",
+      "I182195857228",
+      "I182195856777"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Son",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Son",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "Before 1951",
+        "year": 1951,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1964",
+        "year": 1964,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1992",
+        "year": 1992,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1993",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "military",
+      "date": null,
+      "place": {
+        "raw": "New Jersey, USA",
+        "parts": [
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S525022546",
+          "page": "National Archives at St. Louis; St Louis, MO, USA; Record Group: Records of the Selective Service System, 1926–1975; Record Group Number: 147; Series: Post-WWII through Vietnam Era Selective Service Records, New Jersey; Series Number: 147-76-0260"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Brockton, MA",
+        "parts": [
+          "Brockton",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Dorcehster, Massachusetts",
+        "parts": [
+          "Dorcehster",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: None; Marital Status: Single",
+      "sources": [
+        {
+          "source_id": "S525022546",
+          "page": "National Archives at St. Louis; St Louis, MO, USA; Record Group: Records of the Selective Service System, 1926–1975; Record Group Number: 147; Series: Post-WWII through Vietnam Era Selective Service Records, New Jersey; Series Number: 147-76-0260"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914519",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915226",
+      "title": "1940 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914762",
+      "title": "U.S., Social Security Death Index, 1935-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914946",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S525022546",
+      "title": "U.S., Korean War Era Draft Cards, 1948-1959",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447150954",
+      "title": "Web: Obituary Daily Times Index, 1995-2016",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915197",
+      "title": "U.S. City Directories, 1822-1995",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914507",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 1",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447150963",
+      "title": "New Jersey, Marriage Index, 1901-2016",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

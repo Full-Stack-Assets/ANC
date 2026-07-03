@@ -1,0 +1,88 @@
+{
+  "id": "I182613113103",
+  "name": {
+    "given": "Sarah Ann (Beville\\Buell)",
+    "surname": "Clark\\Clarke\\Colt\\Coult Davis\\Davise\\Davies   Rist\\Rest\\ Reese\\Rice",
+    "suffix": null,
+    "full": "Sarah Ann (Beville\\Buell) Clark\\Clarke\\Colt\\Coult Davis\\Davise\\Davies   Rist\\Rest\\ Reese\\Rice"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England/Lynn, Essex Co. MA USA",
+        "parts": [
+          "England/Lynn",
+          "Essex Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "May 3, 1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Reading, Middlesex Co. MA USA",
+        "parts": [
+          "Reading",
+          "Middlesex Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113134",
+      "I182613113115"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113111"
+      }
+    ],
+    "children": [
+      "I182613113090"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

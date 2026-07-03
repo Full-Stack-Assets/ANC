@@ -1,0 +1,85 @@
+{
+  "id": "I182655903503",
+  "name": {
+    "given": "Bertha M",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Bertha M Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jun 1886",
+        "year": 1886,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "W , Middlesex, New Jersey",
+        "parts": [
+          "W",
+          "Middlesex",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Feb 1959",
+        "year": 1959,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oneida, Madison, New York, USA",
+        "parts": [
+          "Oneida",
+          "Madison",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862295",
+      "I182195862467"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

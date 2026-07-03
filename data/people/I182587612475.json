@@ -1,0 +1,72 @@
+{
+  "id": "I182587612475",
+  "name": {
+    "given": "William John James",
+    "surname": "Whitney",
+    "suffix": null,
+    "full": "William John James Whitney"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 July 1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isleworth, Middlesex, England",
+        "parts": [
+          "Isleworth",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 June 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587612563"
+    ],
+    "spouses": [
+      {
+        "id": "I182587612510"
+      }
+    ],
+    "children": [
+      "I182587612460"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

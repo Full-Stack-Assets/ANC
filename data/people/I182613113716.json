@@ -1,0 +1,71 @@
+{
+  "id": "I182613113716",
+  "name": {
+    "given": "John",
+    "surname": "Clarke Clark",
+    "suffix": null,
+    "full": "John Clarke Clark"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1485",
+        "year": 1485,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodchurch, Ashford Borough, Kent, England",
+        "parts": [
+          "Woodchurch",
+          "Ashford Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Sep 1548",
+        "year": 1548,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodchurch, Ashford Borough, Kent, England",
+        "parts": [
+          "Woodchurch",
+          "Ashford Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113713"
+      }
+    ],
+    "children": [
+      "I182613113706"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

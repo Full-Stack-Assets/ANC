@@ -1,0 +1,73 @@
+{
+  "id": "I182623694338",
+  "name": {
+    "given": "Thos Emmons",
+    "surname": "Wheeler",
+    "suffix": null,
+    "full": "Thos Emmons Wheeler"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Aug 1633",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranfield, Bedfordshire, England",
+        "parts": [
+          "Cranfield",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 December 1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Concord, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Concord",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694406",
+      "I182623694386"
+    ],
+    "spouses": [
+      {
+        "id": "I182623694330"
+      }
+    ],
+    "children": [
+      "I182623694316"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

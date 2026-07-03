@@ -1,0 +1,74 @@
+{
+  "id": "I182625972849",
+  "name": {
+    "given": "Kath.",
+    "surname": "Hunn",
+    "suffix": null,
+    "full": "Kath. Hunn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Nov 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Neulautern, Heilbronn, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Neulautern",
+          "Heilbronn",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jan 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beilstein, Cochem-Zell, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Beilstein",
+          "Cochem-Zell",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972876",
+      "I182625972871"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972863"
+      }
+    ],
+    "children": [
+      "I182625972837"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

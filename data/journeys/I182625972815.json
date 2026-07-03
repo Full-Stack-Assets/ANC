@@ -1,0 +1,57 @@
+{
+  "id": "I182625972815",
+  "person": "Anna Gertrud Massing",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Heisterberg, St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "Heisterberg",
+          "St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wormeldingen, Grevenmacher, Grevenmacher, Luxembourg",
+        "parts": [
+          "Wormeldingen",
+          "Grevenmacher",
+          "Grevenmacher",
+          "Luxembourg"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "I182623691016",
+  "name": {
+    "given": "William",
+    "surname": "Bayle",
+    "suffix": "Jr.",
+    "full": "William Bayle Jr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hackney, London Borough of Hackney, Greater London, England",
+        "parts": [
+          "Hackney",
+          "London Borough of Hackney",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Oct 1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hackney, Middlesex, England",
+        "parts": [
+          "Hackney",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623690566"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

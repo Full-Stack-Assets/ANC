@@ -1,0 +1,43 @@
+{
+  "id": "I182381537324",
+  "name": {
+    "given": "Thomas",
+    "surname": "Lyndsay",
+    "suffix": null,
+    "full": "Thomas Lyndsay"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 May 1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ceres, Fife",
+        "parts": [
+          "Ceres",
+          "Fife"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381537301"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

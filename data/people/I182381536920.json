@@ -1,0 +1,72 @@
+{
+  "id": "I182381536920",
+  "name": {
+    "given": "Robert",
+    "surname": "BURN Burne Byrne",
+    "suffix": null,
+    "full": "Robert BURN Burne Byrne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Jan 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587607735",
+      "I182381536934"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536919"
+      }
+    ],
+    "children": [
+      "I182381536900"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

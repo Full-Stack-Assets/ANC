@@ -1,0 +1,68 @@
+{
+  "id": "I182584904986",
+  "name": {
+    "given": "William",
+    "surname": "Tybott\\Tibbott",
+    "suffix": null,
+    "full": "William Tybott\\Tibbott"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1517",
+        "year": 1517,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Montgomeryshire, Wales",
+        "parts": [
+          "Montgomeryshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cameley, Somerset, England",
+        "parts": [
+          "Cameley",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182584904983"
+      }
+    ],
+    "children": [
+      "I182584904961"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I182625971912",
+  "name": {
+    "given": "John D.",
+    "surname": "Denne",
+    "suffix": null,
+    "full": "John D. Denne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "New York State, United States",
+        "parts": [
+          "New York State",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625971917"
+      }
+    ],
+    "children": [
+      "I182625971910"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

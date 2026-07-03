@@ -1,0 +1,72 @@
+{
+  "id": "I182625986356",
+  "name": {
+    "given": "Eframe Efraime Ephriam Cheesman",
+    "surname": "(PGx8GF)o",
+    "suffix": null,
+    "full": "Eframe Efraime Ephriam Cheesman (PGx8GF)o"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 January 1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986368",
+      "I182625986374"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986361"
+      }
+    ],
+    "children": [
+      "I182625986319"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

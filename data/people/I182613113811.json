@@ -1,0 +1,69 @@
+{
+  "id": "I182613113811",
+  "name": {
+    "given": "Ann",
+    "surname": "Lathom* (EOL)",
+    "suffix": null,
+    "full": "Ann Lathom* (EOL)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1488",
+        "year": 1488,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Turton Tower, Lancaster, Lancashire, England",
+        "parts": [
+          "Turton Tower",
+          "Lancaster",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, England",
+        "parts": [
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113819"
+      }
+    ],
+    "children": [
+      "I182613113803"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

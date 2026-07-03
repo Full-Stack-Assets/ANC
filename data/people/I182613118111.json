@@ -1,0 +1,113 @@
+{
+  "id": "I182613118111",
+  "name": {
+    "given": "Edmund",
+    "surname": "Bridges",
+    "suffix": null,
+    "full": "Edmund Bridges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Ipswich, Essex, Massachusetts, USA",
+        "parts": [
+          "Ipswich",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613118146"
+    ],
+    "spouses": [
+      {
+        "id": "I182613118099",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "7 September 1639",
+            "year": 1639,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Essex, Essex, Massachusetts, USA",
+            "parts": [
+              "Essex",
+              "Essex",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613117891"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

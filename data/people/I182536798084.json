@@ -1,0 +1,163 @@
+{
+  "id": "I182536798084",
+  "name": {
+    "given": "William James",
+    "surname": "Clifford",
+    "suffix": null,
+    "full": "William James Clifford"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 December 1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Lynn",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915; Volume: 604"
+        },
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Aug 1942",
+        "year": 1942,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Brockton",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Brockton, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Brockton",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182536798342",
+      "I182536798341"
+    ],
+    "spouses": [
+      {
+        "id": "I182536798069",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "29 Nov 1911",
+            "year": 1911,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Brockton, Plymouth, Massachusetts, USA",
+            "parts": [
+              "Brockton",
+              "Plymouth",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": null
+            },
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915; Volume: 604"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182536728236"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516008680",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914946",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

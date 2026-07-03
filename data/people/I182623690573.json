@@ -1,0 +1,69 @@
+{
+  "id": "I182623690573",
+  "name": {
+    "given": "Francis Lord",
+    "surname": "Thatcher Coombs",
+    "suffix": null,
+    "full": "Francis Lord Thatcher Coombs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Dec 1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hemel, Hempstead, Middlesex, England",
+        "parts": [
+          "Hemel",
+          "Hempstead",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Aug 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hemel Hempstead, Hertfordshire, England",
+        "parts": [
+          "Hemel Hempstead",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690739",
+      "I182623690721"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623690234"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

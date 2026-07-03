@@ -1,0 +1,73 @@
+{
+  "id": "I182620323052",
+  "name": {
+    "given": "John \"Soldier\"",
+    "surname": "MacLeod",
+    "suffix": null,
+    "full": "John \"Soldier\" MacLeod"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "07 Jul 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Raasay, Inverness-shire, Scotland",
+        "parts": [
+          "Raasay",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 Jul 1897",
+        "year": 1897,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Inverness County, Cape Breton Island, Nova Scotia, Canada",
+        "parts": [
+          "Inverness County",
+          "Cape Breton Island",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323429",
+      "I182620323420"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323043"
+      }
+    ],
+    "children": [
+      "I182620322947"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "I182620334338",
+  "name": {
+    "given": "Isaac",
+    "surname": "Stowell",
+    "suffix": "Jr.",
+    "full": "Isaac Stowell Jr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Mar 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650549259",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "24 May 1753",
+            "year": 1753,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446915296",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541966157"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

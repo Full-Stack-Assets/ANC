@@ -1,0 +1,68 @@
+{
+  "id": "I182381537374",
+  "name": {
+    "given": "Effie",
+    "surname": "AIKIN\\AITKIN\\AIKEN",
+    "suffix": null,
+    "full": "Effie AIKIN\\AITKIN\\AIKEN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dumfermline Fife, Scotland",
+        "parts": [
+          "Dumfermline Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dumfermline, Fife, Scotland",
+        "parts": [
+          "Dumfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537376"
+      }
+    ],
+    "children": [
+      "I182381537361"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

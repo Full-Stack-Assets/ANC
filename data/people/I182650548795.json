@@ -1,0 +1,119 @@
+{
+  "id": "I182650548795",
+  "name": {
+    "given": "Anne 12GGM",
+    "surname": "Borrodill Goode",
+    "suffix": null,
+    "full": "Anne 12GGM Borrodill Goode"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1517",
+        "year": 1517,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Thorley, Herts, England",
+        "parts": [
+          "Thorley",
+          "Herts",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hertford, Hertfordshire, England",
+        "parts": [
+          "Hertford",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726545364",
+      "I182650548801"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548792",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1527",
+            "year": 1527,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Thorly, Herts, Hertfordshire, England, United Kingdom",
+            "parts": [
+              "Thorly",
+              "Herts",
+              "Hertfordshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182726545365"
+      }
+    ],
+    "children": [
+      "I182650548777",
+      "I182726545366",
+      "I182726545367",
+      "I182726545368"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

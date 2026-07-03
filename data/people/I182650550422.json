@@ -1,0 +1,176 @@
+{
+  "id": "I182650550422",
+  "name": {
+    "given": "Susanna Brickley",
+    "surname": "Orcutt (Edson)",
+    "suffix": null,
+    "full": "Susanna Brickley Orcutt (Edson)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Feb 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fillongley, Warwick, England",
+        "parts": [
+          "Fillongley",
+          "Warwick",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Feb 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "West Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182728424248",
+      "I182728424287"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650550401"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "April 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Over Whitacre, North Warwickshire Borough, Warwickshire, England",
+        "parts": [
+          "Over Whitacre",
+          "North Warwickshire Borough",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "20 Feb 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fillongley, Warwickshire, England",
+        "parts": [
+          "Fillongley",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "20 Feb 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fillongley, Warwick (Warwickshire), England",
+        "parts": [
+          "Fillongley",
+          "Warwick (Warwickshire)",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "18 Oct 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "18 Feb 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Massachusetts",
+        "parts": [
+          "Bridgewater",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

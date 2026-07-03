@@ -1,0 +1,160 @@
+{
+  "id": "I182625291421",
+  "name": {
+    "given": "Margaret",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Margaret Larkin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Nov 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool, Lancashire, England",
+        "parts": [
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        },
+        {
+          "source_id": "S513880151",
+          "page": null
+        },
+        {
+          "source_id": "S516918987",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1921",
+        "year": 1921,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool, Lancashire, England",
+        "parts": [
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905624",
+      "I182625291737"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Alban, Liverpool, Lancashire, England",
+        "parts": [
+          "St Alban",
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S516918987",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Alban, Lancashire, England",
+        "parts": [
+          "St Alban",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516918987",
+      "title": "1861 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

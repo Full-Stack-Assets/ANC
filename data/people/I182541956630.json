@@ -1,0 +1,93 @@
+{
+  "id": "I182541956630",
+  "name": {
+    "given": "Hannah",
+    "surname": "Gray",
+    "suffix": null,
+    "full": "Hannah Gray"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Jan 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusetts, United States",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625988006"
+    ],
+    "spouses": [
+      {
+        "id": "I182541933966",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Jan 1667",
+            "year": 1667,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Dartmouth, Bristol, Massachusetts, United States",
+            "parts": [
+              "Dartmouth",
+              "Bristol",
+              "Massachusetts",
+              "United States"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

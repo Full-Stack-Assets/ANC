@@ -1,0 +1,133 @@
+{
+  "id": "I182613023943",
+  "name": {
+    "given": " Mary Katherine",
+    "surname": "Smythe",
+    "suffix": null,
+    "full": " Mary Katherine Smythe"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Feb 1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Gregory by St Paul, London, England",
+        "parts": [
+          "St Gregory by St Paul",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Jun 1611",
+        "year": 1611,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023959",
+      "I182613024028"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023944"
+      }
+    ],
+    "children": [
+      "I182613023925"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "25 Feb 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Gregory by St Paul, London, England",
+        "parts": [
+          "St Gregory by St Paul",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "25 Feb 1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

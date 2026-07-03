@@ -1,0 +1,52 @@
+{
+  "id": "I182195861768",
+  "name": {
+    "given": "Kerstin",
+    "surname": "Persdotter",
+    "suffix": null,
+    "full": "Kerstin Persdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 FEB 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W). Död",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W). Död"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861646",
+      "I182195861638"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

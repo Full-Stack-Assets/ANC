@@ -1,0 +1,72 @@
+{
+  "id": "I182728423995",
+  "name": {
+    "given": "Sven",
+    "surname": "Tollesson",
+    "suffix": null,
+    "full": "Sven Tollesson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Omkr 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kalseröd, Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Kalseröd",
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Orust, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Orust",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728423984"
+      }
+    ],
+    "children": [
+      "I182728423973"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182613112670",
+  "person": "Mary Shattuck Brown Goddard (p9GGM)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts Bay Colony, British Colonial America",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts Bay Colony",
+          "British Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Aug 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Oct 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

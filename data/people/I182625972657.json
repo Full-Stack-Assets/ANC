@@ -1,0 +1,94 @@
+{
+  "id": "I182625972657",
+  "name": {
+    "given": "Johann George",
+    "surname": "BORN",
+    "suffix": null,
+    "full": "Johann George BORN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Sep 1734",
+        "year": 1734,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Sankt Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "Sankt Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 AUG 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Sankt Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "Sankt Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972655"
+      }
+    ],
+    "children": [
+      "I182623663985"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "17 September 1734",
+        "year": 1734,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland, Deu",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland",
+          "Deu"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182625986374",
+  "name": {
+    "given": "Mary",
+    "surname": "Lilley",
+    "suffix": null,
+    "full": "Mary Lilley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1573 or 1589",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England, UK",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England",
+          "UK"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Nov 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986426",
+      "I182625986423"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986368"
+      }
+    ],
+    "children": [
+      "I182625986356"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

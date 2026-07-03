@@ -1,0 +1,67 @@
+{
+  "id": "I182381537820",
+  "name": {
+    "given": "Rachel Pain",
+    "surname": "Vermilye\\Vernelje Waldron",
+    "suffix": null,
+    "full": "Rachel Pain Vermilye\\Vernelje Waldron"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Nov 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harlem, New York, New York, America",
+        "parts": [
+          "Harlem",
+          "New York",
+          "New York",
+          "America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jun 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yonkers, Westchester, New York, USA",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381537799"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

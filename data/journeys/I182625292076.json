@@ -1,0 +1,126 @@
+{
+  "id": "I182625292076",
+  "person": "Rocco Marchegiano",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brockton, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Sep 1923",
+        "year": 1923,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 608"
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 18A; Enumeration District: 0022; FHL microfilm: 2340673"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brockton, Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Brockton, Plymouth, Massachusetts; Page: 18A; Enumeration District: 0022; FHL microfilm: 2340673"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1942",
+        "year": 1942,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 608"
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1951",
+        "year": 1951,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516813016",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

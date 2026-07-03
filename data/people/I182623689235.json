@@ -1,0 +1,69 @@
+{
+  "id": "I182623689235",
+  "name": {
+    "given": "Sir John H.",
+    "surname": "Byron\\ Byrren",
+    "suffix": null,
+    "full": "Sir John H. Byron\\ Byrren"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1501",
+        "year": 1501,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alton, Wiltshire, England",
+        "parts": [
+          "Alton",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "03 May 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rochdale, Cheshire, England",
+        "parts": [
+          "Rochdale",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689226"
+      }
+    ],
+    "children": [
+      "I182623689183"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

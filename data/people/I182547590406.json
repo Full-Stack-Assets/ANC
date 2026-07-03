@@ -1,0 +1,71 @@
+{
+  "id": "I182547590406",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Schneider",
+    "suffix": null,
+    "full": "Anna Maria Schneider"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bibersfeld, Schwäbisch Hall, Baden-Württemberg, Deutschland",
+        "parts": [
+          "Bibersfeld",
+          "Schwäbisch Hall",
+          "Baden-Württemberg",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 February 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stuttgart, Stuttgarter Stadtkreis, Baden-Württemberg, Germany",
+        "parts": [
+          "Stuttgart",
+          "Stuttgarter Stadtkreis",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182547590416"
+      }
+    ],
+    "children": [
+      "I182534044344"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

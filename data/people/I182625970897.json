@@ -1,0 +1,70 @@
+{
+  "id": "I182625970897",
+  "name": {
+    "given": "Jane",
+    "surname": "Belford",
+    "suffix": null,
+    "full": "Jane Belford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Dec 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Swithin, Worcester, Worcester, England",
+        "parts": [
+          "St. Swithin",
+          "Worcester",
+          "Worcester",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Jul 1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxby, Yorkshire, England",
+        "parts": [
+          "Roxby",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970905"
+      }
+    ],
+    "children": [
+      "I182625970882"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

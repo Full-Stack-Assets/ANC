@@ -1,0 +1,160 @@
+{
+  "id": "I182382755326",
+  "name": {
+    "given": "Mary",
+    "surname": "Bunker",
+    "suffix": null,
+    "full": "Mary Bunker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 May 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newburyport, Essex, Massachusetts, USA",
+        "parts": [
+          "Newburyport",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 May 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket County, Massachusetts, United States of America",
+        "parts": [
+          "Nantucket",
+          "Nantucket County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182382755360"
+      }
+    ],
+    "children": [
+      "I182382755270"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "5 May 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newburyport, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Newburyport",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 May 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newburyport, Essex Co., Massachusetts Bay Colony, USA",
+        "parts": [
+          "Newburyport",
+          "Essex Co.",
+          "Massachusetts Bay Colony",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "19 May 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, United States",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "19 May 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket,Nantucket,Massachusetts,USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

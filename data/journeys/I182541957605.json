@@ -1,0 +1,57 @@
+{
+  "id": "I182541957605",
+  "person": "Benjamin C Pine",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cape May, Cape May, New Jersey, USA",
+        "parts": [
+          "Cape May",
+          "Cape May",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Mar 1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Waterford, Gloucester, New Jersey, USA",
+        "parts": [
+          "Waterford",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Aug 1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

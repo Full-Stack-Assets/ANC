@@ -1,0 +1,55 @@
+{
+  "id": "I182195861878",
+  "name": {
+    "given": "Mary E",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Mary E Donahue"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1958",
+        "year": 1958,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915197",
+      "title": "U.S. City Directories, 1822-1995",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

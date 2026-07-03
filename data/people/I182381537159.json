@@ -1,0 +1,63 @@
+{
+  "id": "I182381537159",
+  "name": {
+    "given": "Margaret",
+    "surname": "McArthur",
+    "suffix": null,
+    "full": "Margaret McArthur"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Argyllshire, Scotland",
+        "parts": [
+          "Argyllshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537173"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537165"
+      }
+    ],
+    "children": [
+      "I182381537144"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

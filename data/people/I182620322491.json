@@ -1,0 +1,110 @@
+{
+  "id": "I182620322491",
+  "name": {
+    "given": "Arthur H",
+    "surname": "Boyd",
+    "suffix": null,
+    "full": "Arthur H Boyd"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Oct 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Brunswick",
+        "parts": [
+          "New Brunswick"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Sep 1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322649",
+      "I182620322638"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322484",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "19 Sep 1893",
+            "year": 1893,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Newton, Massachusetts, USA",
+            "parts": [
+              "Newton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182620322401"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

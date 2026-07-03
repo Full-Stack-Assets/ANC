@@ -1,0 +1,74 @@
+{
+  "id": "I182381534660",
+  "name": {
+    "given": "Francis Augustus",
+    "surname": "Pedrick",
+    "suffix": null,
+    "full": "Francis Augustus Pedrick"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 MAY 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Upper Penns Neck Township, Salem, New Jersey, USA",
+        "parts": [
+          "Upper Penns Neck Township",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "04 Nov 1895",
+        "year": 1895,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pedrickstown, Salem, New Jersey, USA",
+        "parts": [
+          "Pedrickstown",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381534685",
+      "I182381534679"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534646"
+      }
+    ],
+    "children": [
+      "I182381534551"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

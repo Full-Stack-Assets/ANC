@@ -1,0 +1,56 @@
+{
+  "id": "I182195859033",
+  "person": "Margaret Mackenzie",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St Peters Bay, Prince Edward Island, Canada",
+        "parts": [
+          "St Peters Bay",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Greater London, London, Surrey, United Kingdom",
+        "parts": [
+          "Greater London",
+          "London",
+          "Surrey",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

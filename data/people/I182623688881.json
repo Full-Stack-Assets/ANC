@@ -1,0 +1,162 @@
+{
+  "id": "I182623688881",
+  "name": {
+    "given": "Ephraim",
+    "surname": "Cook",
+    "suffix": null,
+    "full": "Ephraim Cook"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Jul 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Sep 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689716",
+      "I182623689712"
+    ],
+    "spouses": [
+      {
+        "id": "I182623688875"
+      }
+    ],
+    "children": [
+      "I182623679527"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 Sep 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 Sep 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

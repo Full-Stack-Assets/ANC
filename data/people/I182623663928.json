@@ -1,0 +1,69 @@
+{
+  "id": "I182623663928",
+  "name": {
+    "given": "Anna Margaretha",
+    "surname": "Hillenbrand",
+    "suffix": null,
+    "full": "Anna Margaretha Hillenbrand"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "oberrode Fulda, Hessen, Germany",
+        "parts": [
+          "oberrode Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 jan 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "oberrode Fulda, Hessen, Germany",
+        "parts": [
+          "oberrode Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623663912"
+      }
+    ],
+    "children": [
+      "I182623663855"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

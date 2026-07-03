@@ -1,0 +1,91 @@
+{
+  "id": "I182541964176",
+  "name": {
+    "given": "Eulalia Ulalia",
+    "surname": "Marche March\\Marsh",
+    "suffix": "*",
+    "full": "Eulalia Ulalia Marche March\\Marsh *"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 DEC 1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sherford or Dean Prior, Devonshire, England",
+        "parts": [
+          "Sherford or Dean Prior",
+          "Devonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 August 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Springfield, Hampden County, Massachusetts, British Colonial America",
+        "parts": [
+          "Springfield",
+          "Hampden County",
+          "Massachusetts",
+          "British Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967071",
+      "I182541967081"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964172"
+      }
+    ],
+    "children": [
+      "I182541964107"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

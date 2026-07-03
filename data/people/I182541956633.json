@@ -1,0 +1,123 @@
+{
+  "id": "I182541956633",
+  "name": {
+    "given": "Mary",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Mary Taber"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Jan 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 May 1734",
+        "year": 1734,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol, Massachusetts, USA",
+        "parts": [
+          "Dartmouth",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541933966",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1667",
+            "year": 1667,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Martha's Vineyard, Dukes, Massachusetts, USA",
+            "parts": [
+              "Martha's Vineyard",
+              "Dukes",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182625988133"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S516961293",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516961293",
+      "title": "Massachusetts, U.S., Wills and Probate Records, 1635-1991",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

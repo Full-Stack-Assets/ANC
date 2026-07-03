@@ -1,0 +1,65 @@
+{
+  "id": "I182381537085",
+  "name": {
+    "given": "James",
+    "surname": "Anderson",
+    "suffix": null,
+    "full": "James Anderson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "bef 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537072"
+      }
+    ],
+    "children": [
+      "I182381537046"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

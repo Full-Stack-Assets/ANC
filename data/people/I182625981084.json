@@ -1,0 +1,72 @@
+{
+  "id": "I182625981084",
+  "name": {
+    "given": "CATHERINE",
+    "surname": "LAMBERD",
+    "suffix": "*.",
+    "full": "CATHERINE LAMBERD *."
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Oct 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981090",
+      "I182625981095"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981083"
+      }
+    ],
+    "children": [
+      "I182625981055"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

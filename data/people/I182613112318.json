@@ -1,0 +1,69 @@
+{
+  "id": "I182613112318",
+  "name": {
+    "given": "Remember",
+    "surname": "Stowell",
+    "suffix": null,
+    "full": "Remember Stowell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Apr 1662",
+        "year": 1662,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "05 Nov 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, America, Massachusetts, United States",
+        "parts": [
+          "Hingham",
+          "America",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": "Age: 32",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112323"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613112312"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

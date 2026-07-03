@@ -1,0 +1,67 @@
+{
+  "id": "I182613112218",
+  "name": {
+    "given": "Joseph",
+    "surname": "Wales",
+    "suffix": null,
+    "full": "Joseph Wales"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Apr 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Suffolk, Bay Colony, Massachusetts, United States",
+        "parts": [
+          "Suffolk",
+          "Bay Colony",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 July 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Suffolk, Bay Colony, Massachusetts, United States",
+        "parts": [
+          "Suffolk",
+          "Bay Colony",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613112201"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

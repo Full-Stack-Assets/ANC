@@ -1,0 +1,64 @@
+{
+  "id": "I182620334079",
+  "name": {
+    "given": "Jane",
+    "surname": "Wynn",
+    "suffix": null,
+    "full": "Jane Wynn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Penllech, Carmarthenshire, Wales",
+        "parts": [
+          "Penllech",
+          "Carmarthenshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "04 Jan 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Anglesey, Wales",
+        "parts": [
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182594402074"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

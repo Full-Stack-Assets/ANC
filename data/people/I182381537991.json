@@ -1,0 +1,64 @@
+{
+  "id": "I182381537991",
+  "name": {
+    "given": "Edward",
+    "surname": "Holland",
+    "suffix": null,
+    "full": "Edward Holland"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "of, Berw, Llanfihangel Ysgeifiog, Anglesey, Wales",
+        "parts": [
+          "of",
+          "Berw",
+          "Llanfihangel Ysgeifiog",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef 1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537977"
+      }
+    ],
+    "children": [
+      "I182381537941"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

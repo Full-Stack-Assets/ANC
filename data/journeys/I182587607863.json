@@ -1,0 +1,57 @@
+{
+  "id": "I182587607863",
+  "person": "John Burn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gogar, Logie, Perthshire, Scotland",
+        "parts": [
+          "Gogar",
+          "Logie",
+          "Perthshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gogar, Logie, Perthshire, Scotland",
+        "parts": [
+          "Gogar",
+          "Logie",
+          "Perthshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Feb 1664/1665",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

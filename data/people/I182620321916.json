@@ -1,0 +1,69 @@
+{
+  "id": "I182620321916",
+  "name": {
+    "given": "JONATHAN",
+    "surname": "PINE",
+    "suffix": null,
+    "full": "JONATHAN PINE"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Queens, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Queens",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 DEC 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cape May, Cape May, New Jersey, USA",
+        "parts": [
+          "Cape May",
+          "Cape May",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984824"
+    ],
+    "spouses": [],
+    "children": [
+      "I182620314823"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182534044256",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Geiger",
+    "suffix": null,
+    "full": "Anna Maria Geiger"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Mar 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kesselbrohn, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kesselbrohn",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Apr 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kesselbrohn, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kesselbrohn",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044260"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044257"
+      }
+    ],
+    "children": [
+      "I182534044245"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

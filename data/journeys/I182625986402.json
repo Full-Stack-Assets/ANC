@@ -1,0 +1,50 @@
+{
+  "id": "I182625986402",
+  "person": "Franncis Cheesman Rason",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kingston-upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Surrey",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kingston-upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Surrey",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182541967093",
+  "person": "Robert Martyn (of Stockenham)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "of Sherford, Devon, England, Great Britain",
+        "parts": [
+          "of Sherford",
+          "Devon",
+          "England",
+          "Great Britain"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sherford, Devon, England",
+        "parts": [
+          "Sherford",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Feb 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

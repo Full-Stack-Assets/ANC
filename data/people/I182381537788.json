@@ -1,0 +1,69 @@
+{
+  "id": "I182381537788",
+  "name": {
+    "given": "Joshua",
+    "surname": "Hunt",
+    "suffix": "Sr.",
+    "full": "Joshua Hunt Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Oct 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West Farms, Westchester County, Colony of New York",
+        "parts": [
+          "West Farms",
+          "Westchester County",
+          "Colony of New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Mar 1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "White Plains, Westchester County, Colony of New York",
+        "parts": [
+          "White Plains",
+          "Westchester County",
+          "Colony of New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537779"
+      }
+    ],
+    "children": [
+      "I182381537754"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

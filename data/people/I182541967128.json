@@ -1,0 +1,69 @@
+{
+  "id": "I182541967128",
+  "name": {
+    "given": "Alice",
+    "surname": "Barnes",
+    "suffix": null,
+    "full": "Alice Barnes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Jan 1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Childrey, Berkshire, England",
+        "parts": [
+          "Childrey",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Childrey, Berkshire, England",
+        "parts": [
+          "Childrey",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541967134"
+      }
+    ],
+    "children": [
+      "I182541966053"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "I182623680593",
+  "name": {
+    "given": "Richard Warwicke",
+    "surname": "Barnfield",
+    "suffix": null,
+    "full": "Richard Warwicke Barnfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore, Devon, , England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 May 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore, Devon, , England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Poltimore, East Devon District, Devon, England",
+        "parts": [
+          "Poltimore",
+          "East Devon District",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680985",
+      "I182623680603",
+      "I182623680611"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680588"
+      }
+    ],
+    "children": [
+      "I182623680534"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "3 May 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cameley, Somerset, England",
+        "parts": [
+          "Cameley",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810902",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810902",
+      "title": "Somerset, England, Church of England Baptisms, Marriages, and Burials, 1531-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

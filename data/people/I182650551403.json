@@ -1,0 +1,76 @@
+{
+  "id": "I182650551403",
+  "name": {
+    "given": "Elisabeth Delano \"Betty\"",
+    "surname": "TURNER",
+    "suffix": null,
+    "full": "Elisabeth Delano \"Betty\" TURNER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 May 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middleborough, Plymouth, Massachusetts Colony, Colonial Amer, Massachusetts, USA",
+        "parts": [
+          "Middleborough",
+          "Plymouth",
+          "Massachusetts Colony",
+          "Colonial Amer",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Mar 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551423",
+      "I182650551419"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551408"
+      }
+    ],
+    "children": [
+      "I182650551395"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

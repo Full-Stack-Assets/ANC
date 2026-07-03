@@ -1,0 +1,49 @@
+{
+  "id": "I182625986928",
+  "name": {
+    "given": "Jennetta",
+    "surname": "Jellibrand",
+    "suffix": null,
+    "full": "Jennetta Jellibrand"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1514",
+        "year": 1514,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Standish, Lancashire, England, United Kingdom",
+        "parts": [
+          "Standish",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986934"
+      }
+    ],
+    "children": [
+      "I182625986823"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

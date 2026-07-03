@@ -1,0 +1,57 @@
+{
+  "id": "I182625972285",
+  "person": "Anna Schamper *",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nalbach, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Nalbach",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Körprich Nalbach, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Körprich Nalbach",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Okt 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

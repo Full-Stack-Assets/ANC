@@ -1,0 +1,68 @@
+{
+  "id": "I182625986844",
+  "name": {
+    "given": "Sir Thomas Roscowe",
+    "surname": "(PGx12GF)o",
+    "suffix": null,
+    "full": "Sir Thomas Roscowe (PGx12GF)o"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Lancashire, England, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, England",
+        "parts": [
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986851"
+      }
+    ],
+    "children": [
+      "I182625986829"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182613118158",
+  "name": {
+    "given": "Lord Gilbert Giles",
+    "surname": "Brydges \\ Bridges",
+    "suffix": "Baron Chandos",
+    "full": "Lord Gilbert Giles Brydges \\ Bridges Baron Chandos"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "December 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudeley Castle, Winchcombe, Gloucestershire",
+        "parts": [
+          "Sudeley Castle",
+          "Winchcombe",
+          "Gloucestershire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 February 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudeley Castle, Winchcombe, Gloucestershire",
+        "parts": [
+          "Sudeley Castle",
+          "Winchcombe",
+          "Gloucestershire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613118166"
+    ],
+    "spouses": [
+      {
+        "id": "I182613118162"
+      }
+    ],
+    "children": [
+      "I182613118146"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

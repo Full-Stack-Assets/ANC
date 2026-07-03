@@ -1,0 +1,72 @@
+{
+  "id": "I182381536934",
+  "name": {
+    "given": "Anna",
+    "surname": "Forrester",
+    "suffix": null,
+    "full": "Anna Forrester"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edinburgh, Midlothian, Scotland",
+        "parts": [
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jun 1734",
+        "year": 1734,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587607877",
+      "I182587607883"
+    ],
+    "spouses": [
+      {
+        "id": "I182587607735"
+      }
+    ],
+    "children": [
+      "I182381536920"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I182625972125",
+  "name": {
+    "given": "Peter",
+    "surname": "HOHMANN",
+    "suffix": null,
+    "full": "Peter HOHMANN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mittelkalbach, Fulda, Hessen, Germany",
+        "parts": [
+          "Mittelkalbach",
+          "Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Jan 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972118"
+      }
+    ],
+    "children": [
+      "I182625972104"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182381535709",
+  "name": {
+    "given": "Thomas",
+    "surname": "March",
+    "suffix": null,
+    "full": "Thomas March"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Before 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Claycoton, Northampton, Northamptonshire, England",
+        "parts": [
+          "Claycoton",
+          "Northampton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "March 1544",
+        "year": 1544,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clay Coton, Northamptonshire, England",
+        "parts": [
+          "Clay Coton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535704"
+      }
+    ],
+    "children": [
+      "I182381535701"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

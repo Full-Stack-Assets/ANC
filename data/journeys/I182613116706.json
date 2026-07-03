@@ -1,0 +1,91 @@
+{
+  "id": "I182613116706",
+  "person": "Lionel Plantagenet",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Antwerp, Arrondissement Antwerpen, Antwerp, Belgium",
+        "parts": [
+          "Antwerp",
+          "Arrondissement Antwerpen",
+          "Antwerp",
+          "Belgium"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 November 1338",
+        "year": 1338,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Alba, Provincia di Cuneo, Piemonte, Italy",
+        "parts": [
+          "Alba",
+          "Provincia di Cuneo",
+          "Piemonte",
+          "Italy"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 October 1368",
+        "year": 1368,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Clare, St Edmundsbury Borough, Suffolk, England",
+        "parts": [
+          "Clare",
+          "St Edmundsbury Borough",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

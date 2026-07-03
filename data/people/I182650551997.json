@@ -1,0 +1,72 @@
+{
+  "id": "I182650551997",
+  "name": {
+    "given": "* Elizabeth",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "* Elizabeth Smyth"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Jan 1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, , England",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Portsmouth, Newport, Rhode Island",
+        "parts": [
+          "Portsmouth",
+          "Newport",
+          "Rhode Island"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552016",
+      "I182650552005"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552000"
+      }
+    ],
+    "children": [
+      "I182650551983"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

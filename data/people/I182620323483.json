@@ -1,0 +1,62 @@
+{
+  "id": "I182620323483",
+  "name": {
+    "given": "Grace",
+    "surname": "Stewart of Achnacone",
+    "suffix": null,
+    "full": "Grace Stewart of Achnacone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Achnacone, Invernesshire, Scotland",
+        "parts": [
+          "Achnacone",
+          "Invernesshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323485"
+      }
+    ],
+    "children": [
+      "I182620323392"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182625292269",
+  "name": {
+    "given": "*Ann Palgrave",
+    "surname": "Youngs^",
+    "suffix": null,
+    "full": "*Ann Palgrave Youngs^"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Haven, New Haven, Connecticut, United States",
+        "parts": [
+          "New Haven",
+          "New Haven",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southampton, Suffolk, New York, United States,",
+        "parts": [
+          "Southampton",
+          "Suffolk",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970668"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292273"
+      }
+    ],
+    "children": [
+      "I182625292264"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

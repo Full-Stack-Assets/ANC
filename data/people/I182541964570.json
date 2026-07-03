@@ -1,0 +1,68 @@
+{
+  "id": "I182541964570",
+  "name": {
+    "given": "HENRY Sr.",
+    "surname": "PAULIN",
+    "suffix": "Captain, Immigrant",
+    "full": "HENRY Sr. PAULIN Captain, Immigrant"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckinghamshire, England",
+        "parts": [
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ", Pasquotank, North Carolina, USA",
+        "parts": [
+          "Pasquotank",
+          "North Carolina",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541964572"
+      }
+    ],
+    "children": [
+      "I182541964344"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

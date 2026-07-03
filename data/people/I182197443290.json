@@ -1,0 +1,89 @@
+{
+  "id": "I182197443290",
+  "name": {
+    "given": "Maria Kristina",
+    "surname": "Johansdotter",
+    "suffix": null,
+    "full": "Maria Kristina Johansdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Sverige",
+        "parts": [
+          "Hjo",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197443234"
+      }
+    ],
+    "children": [
+      "I182197443291",
+      "I182197442975",
+      "I182197443292"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relationship: Hustru",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915028",
+      "title": "Sweden, Selected Indexed Household Clerical Surveys, 1880-1893",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

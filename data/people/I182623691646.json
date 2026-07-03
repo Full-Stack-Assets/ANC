@@ -1,0 +1,71 @@
+{
+  "id": "I182623691646",
+  "name": {
+    "given": "Sylvanus White",
+    "surname": "Owen",
+    "suffix": null,
+    "full": "Sylvanus White Owen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Aug 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hebron, Tolland, Connecticut, USA",
+        "parts": [
+          "Hebron",
+          "Tolland",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 Dec 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bethel, Windsor, Vermont, USA",
+        "parts": [
+          "Bethel",
+          "Windsor",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691642"
+      }
+    ],
+    "children": [
+      "I182623691479"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

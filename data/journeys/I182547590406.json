@@ -1,0 +1,57 @@
+{
+  "id": "I182547590406",
+  "person": "Anna Maria Schneider",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bibersfeld, Schwäbisch Hall, Baden-Württemberg, Deutschland",
+        "parts": [
+          "Bibersfeld",
+          "Schwäbisch Hall",
+          "Baden-Württemberg",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Stuttgart, Stuttgarter Stadtkreis, Baden-Württemberg, Germany",
+        "parts": [
+          "Stuttgart",
+          "Stuttgarter Stadtkreis",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 February 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

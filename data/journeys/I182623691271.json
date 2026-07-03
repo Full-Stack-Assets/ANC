@@ -1,0 +1,57 @@
+{
+  "id": "I182623691271",
+  "person": "Thankful Rogers",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Harwich, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Harwich",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Jul 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Chatham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Chatham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

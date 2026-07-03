@@ -1,0 +1,87 @@
+{
+  "id": "I182789736762",
+  "name": {
+    "given": "William Henry",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "William Henry Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jul 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River, Queens, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "Queens",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Jan 1933",
+        "year": 1933,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Los Angeles, Los Angeles, California, USA",
+        "parts": [
+          "Los Angeles",
+          "Los Angeles",
+          "California",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789736731"
+    ],
+    "spouses": [],
+    "children": [
+      "I182789736782"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

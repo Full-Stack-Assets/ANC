@@ -1,0 +1,83 @@
+{
+  "id": "I182587608479",
+  "name": {
+    "given": "Mary Ann",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Mary Ann Morrow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Apr 1832",
+        "year": 1832,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Peters Bay, P.E.I., Canada",
+        "parts": [
+          "St. Peters Bay",
+          "P.E.I.",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Apr 1915",
+        "year": 1915,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Peters Bay, P.E.I., Canada",
+        "parts": [
+          "St. Peters Bay",
+          "P.E.I.",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587608458"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

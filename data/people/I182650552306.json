@@ -1,0 +1,73 @@
+{
+  "id": "I182650552306",
+  "name": {
+    "given": "William",
+    "surname": "Linfield",
+    "suffix": null,
+    "full": "William Linfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Sep 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nuthurst, Sussex, England",
+        "parts": [
+          "Nuthurst",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Feb 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552313",
+      "I182650552312"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552300"
+      }
+    ],
+    "children": [
+      "I182650552297"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182541966413",
+  "name": {
+    "given": "Thoenges (Antonius)",
+    "surname": "Christ\\Crist",
+    "suffix": null,
+    "full": "Thoenges (Antonius) Christ\\Crist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rengsdorf, Neuwied, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rengsdorf",
+          "Neuwied",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of Bonefeld, Germany; may have sailed to New York",
+        "parts": [
+          "of Bonefeld",
+          "Germany; may have sailed to New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966434",
+      "I182541966431"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966411"
+      }
+    ],
+    "children": [
+      "I182534044198"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

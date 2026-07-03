@@ -1,0 +1,73 @@
+{
+  "id": "I182623679435",
+  "name": {
+    "given": "Leon John",
+    "surname": "Owen",
+    "suffix": null,
+    "full": "Leon John Owen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Jun 1884",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolcott, Vermont, USA",
+        "parts": [
+          "Wolcott",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 NOV 1957",
+        "year": 1957,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rockland, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Rockland",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679443",
+      "I182623679439"
+    ],
+    "spouses": [
+      {
+        "id": "I182541955242"
+      }
+    ],
+    "children": [
+      "I182541967427"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

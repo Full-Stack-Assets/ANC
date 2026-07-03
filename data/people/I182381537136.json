@@ -1,0 +1,72 @@
+{
+  "id": "I182381537136",
+  "name": {
+    "given": "Robert",
+    "surname": "Banks",
+    "suffix": null,
+    "full": "Robert Banks"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Mar 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelton, Dumfries-shire, Scotland",
+        "parts": [
+          "Kelton",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Oct 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bay Fortune, , Prince Edward Island, Canada",
+        "parts": [
+          "Bay Fortune",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537229",
+      "I182381537227"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537131"
+      }
+    ],
+    "children": [
+      "I182381536974"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

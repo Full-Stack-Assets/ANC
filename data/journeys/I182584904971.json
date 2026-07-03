@@ -1,0 +1,52 @@
+{
+  "id": "I182584904971",
+  "person": "Joan \\ Jane Bride \\ Penfold",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kent, Kent, England, United Kingdom",
+        "parts": [
+          "Kent",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kent, Kent, England, United Kingdom",
+        "parts": [
+          "Kent",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

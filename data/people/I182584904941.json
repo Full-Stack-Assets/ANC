@@ -1,0 +1,70 @@
+{
+  "id": "I182584904941",
+  "name": {
+    "given": "Marye",
+    "surname": "Adams",
+    "suffix": null,
+    "full": "Marye Adams"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ", Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Aug 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Cadbury, Somerset, England",
+        "parts": [
+          "North Cadbury",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905408"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904944"
+      }
+    ],
+    "children": [
+      "I182584904936"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

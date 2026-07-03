@@ -1,0 +1,148 @@
+{
+  "id": "I182195859446",
+  "name": {
+    "given": "Harold G.",
+    "surname": "Arsenault",
+    "suffix": null,
+    "full": "Harold G. Arsenault"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1928",
+        "year": 1928,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914516",
+          "page": "Boston Globe; Publication Date: 20/ Jul/ 2010; Publication Place: Boston, Massachusetts, USA; URL: http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=harold-g-arsenault&amp;pid=144193932"
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 20 Jul 2010; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444036708/?article=87f2d046-1225-47b5-9b5a-46286d92342b&focus=0.016129494,0.3742759,0.18497601,0.57143545&xid=3355"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Jul 2010",
+        "year": 2010,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914516",
+          "page": "Boston Globe; Publication Date: 20/ Jul/ 2010; Publication Place: Boston, Massachusetts, USA; URL: http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=harold-g-arsenault&amp;pid=144193932"
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 20 Jul 2010; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444036708/?article=87f2d046-1225-47b5-9b5a-46286d92342b&focus=0.016129494,0.3742759,0.18497601,0.57143545&xid=3355"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322268",
+      "I182620322285"
+    ],
+    "spouses": [
+      {
+        "id": "I182195859447"
+      }
+    ],
+    "children": [
+      "I182195859300",
+      "I182195859448",
+      "I182195859449",
+      "I182195859450",
+      "I182195859451",
+      "I182195859452",
+      "I182195859453"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Freeport, ME, Newton, Watertown, Bradenton, FL",
+        "parts": [
+          "Freeport",
+          "ME",
+          "Newton",
+          "Watertown",
+          "Bradenton",
+          "FL"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914516",
+          "page": "Boston Globe; Publication Date: 20/ Jul/ 2010; Publication Place: Boston, Massachusetts, USA; URL: http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=harold-g-arsenault&amp;pid=144193932"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Watertown",
+        "parts": [
+          "Watertown"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 20 Jul 2010; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444036708/?article=87f2d046-1225-47b5-9b5a-46286d92342b&focus=0.016129494,0.3742759,0.18497601,0.57143545&xid=3355"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508115383",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "I182730796315",
+  "name": {
+    "given": "William",
+    "surname": "de WOODFALL",
+    "suffix": null,
+    "full": "William de WOODFALL"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1489",
+        "year": 1489,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hillmorton, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Hillmorton",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Farnworth Lancashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Farnworth Lancashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182726543619",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1514",
+            "year": 1514,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Warwickshire, Warwickshire, England, United Kingdom",
+            "parts": [
+              "Warwickshire",
+              "Warwickshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

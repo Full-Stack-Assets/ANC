@@ -1,0 +1,103 @@
+{
+  "id": "I182613115567",
+  "person": "Joan Neville",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beaufort-en-Vallee, Departement de Maine-et-Loire, Pays de la Loire, France",
+        "parts": [
+          "Beaufort-en-Vallee",
+          "Departement de Maine-et-Loire",
+          "Pays de la Loire",
+          "France"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1375",
+        "year": 1375,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Howden, East Riding of Yorkshire Unitary Authority, East Riding of Yorkshire, England",
+        "parts": [
+          "Howden",
+          "East Riding of Yorkshire Unitary Authority",
+          "East Riding of Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 November 1440",
+        "year": 1440,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Staindrop, Durham Unitary Authority, County Durham, England",
+        "parts": [
+          "Staindrop",
+          "Durham Unitary Authority",
+          "County Durham",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

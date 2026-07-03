@@ -1,0 +1,127 @@
+{
+  "id": "I182650550857",
+  "name": {
+    "given": "Mary",
+    "surname": "HOWARD",
+    "suffix": null,
+    "full": "Mary HOWARD"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Mar 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Nov 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Bristol, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650550860"
+      }
+    ],
+    "children": [
+      "I182650550776"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "23 Mar 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "9 November 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Easton",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "9 Nov 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "E",
+        "parts": [
+          "E"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

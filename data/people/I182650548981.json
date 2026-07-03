@@ -1,0 +1,129 @@
+{
+  "id": "I182650548981",
+  "name": {
+    "given": "Sir Hugh I",
+    "surname": "Childers Childress",
+    "suffix": "III",
+    "full": "Sir Hugh I Childers Childress III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Retford, Yorkshire, England, United Kingdom",
+        "parts": [
+          "East Retford",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Sep 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cantley, South Yorkshire, England, United Kingdom",
+        "parts": [
+          "Cantley",
+          "South Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650549008",
+      "I182650549016"
+    ],
+    "spouses": [
+      {
+        "id": "I182650549010",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "3 March 1535",
+            "year": 1535,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Yorkshire, England, United Kingdom",
+            "parts": [
+              "Yorkshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182650548971",
+      "I182650549017",
+      "I182650549013",
+      "I182650549014",
+      "I182650549015",
+      "I182650549011",
+      "I182650549009",
+      "I182650549012"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

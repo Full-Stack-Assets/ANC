@@ -1,0 +1,68 @@
+{
+  "id": "I182625971991",
+  "name": {
+    "given": "Martha",
+    "surname": "Naibor",
+    "suffix": null,
+    "full": "Martha Naibor"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Apr 1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bristol, Gloucestershire, , England",
+        "parts": [
+          "Bristol",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookhaven, Suffolk, New York, USA",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972055"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625292261"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182613112277",
+  "name": {
+    "given": "Leonard",
+    "surname": "Fenno",
+    "suffix": null,
+    "full": "Leonard Fenno"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112291",
+      "I182613112289"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112274"
+      }
+    ],
+    "children": [
+      "I182613112266"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "I182197772127",
+  "name": {
+    "given": "William",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "William Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Pennsylvania, USA",
+        "parts": [
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151685",
+          "page": null
+        },
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197773318",
+      "I182197773319"
+    ],
+    "spouses": [
+      {
+        "id": "I182197773320",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1767",
+            "year": 1767,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447151841",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182197773321"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447151685",
+      "title": "Pennsylvania, Wills and Probate Records, 1683-1993",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

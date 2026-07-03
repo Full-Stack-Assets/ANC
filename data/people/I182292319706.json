@@ -1,0 +1,71 @@
+{
+  "id": "I182292319706",
+  "name": {
+    "given": "Ingrid",
+    "surname": "Persdotter",
+    "suffix": null,
+    "full": "Ingrid Persdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hökhult, Fröderyd, Jönköping, Sverige",
+        "parts": [
+          "Hökhult",
+          "Fröderyd",
+          "Jönköping",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 apr 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319713"
+      }
+    ],
+    "children": [
+      "I182292319690"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

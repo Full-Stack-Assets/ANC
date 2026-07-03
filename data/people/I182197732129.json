@@ -1,0 +1,108 @@
+{
+  "id": "I182197732129",
+  "name": {
+    "given": "Eleanor",
+    "surname": "Tomlinson",
+    "suffix": null,
+    "full": "Eleanor Tomlinson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Gloucester, New Jersey, USA",
+        "parts": [
+          "Newton",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Oct 1777",
+        "year": 1777,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey, USA",
+        "parts": [
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Haddonfield, Camden County, New Jersey, United States of America",
+        "parts": [
+          "Haddonfield",
+          "Camden County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197756552",
+      "I182197756701"
+    ],
+    "spouses": [
+      {
+        "id": "I182197756280"
+      }
+    ],
+    "children": [
+      "I182587608645",
+      "I182197731994"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

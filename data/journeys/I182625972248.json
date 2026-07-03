@@ -1,0 +1,56 @@
+{
+  "id": "I182625972248",
+  "person": "Anna Germen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Körprich, Saarlouis, Saarland, Germany",
+        "parts": [
+          "Körprich",
+          "Saarlouis",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Jun 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Knorscheid, Saarland, Germany",
+        "parts": [
+          "Knorscheid",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 Aug 1784",
+        "year": 1784,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

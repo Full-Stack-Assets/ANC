@@ -1,0 +1,85 @@
+{
+  "id": "I182585307147",
+  "name": {
+    "given": "Kate",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Kate Larkin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birmingham, Warwickshire, England",
+        "parts": [
+          "Birmingham",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182585307149",
+      "I182585307148"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, Warwickshire, England",
+        "parts": [
+          "St Mark",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

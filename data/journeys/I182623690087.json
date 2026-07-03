@@ -1,0 +1,57 @@
+{
+  "id": "I182623690087",
+  "person": "Anna Hillard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Of Hingham, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Of Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 December 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

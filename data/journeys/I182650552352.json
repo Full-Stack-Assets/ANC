@@ -1,0 +1,57 @@
+{
+  "id": "I182650552352",
+  "person": "Amariah Winchester",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Apr 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Montville, New London, Connecticut, United States",
+        "parts": [
+          "Montville",
+          "New London",
+          "Connecticut",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 Sep 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

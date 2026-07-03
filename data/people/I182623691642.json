@@ -1,0 +1,74 @@
+{
+  "id": "I182623691642",
+  "name": {
+    "given": "Martha \"Patty\"",
+    "surname": "Bruce Fisher Owen",
+    "suffix": null,
+    "full": "Martha \"Patty\" Bruce Fisher Owen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartland, Windsor, Vermont, USA",
+        "parts": [
+          "Hartland",
+          "Windsor",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691662",
+      "I182623691653"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691646"
+      }
+    ],
+    "children": [
+      "I182623691479"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

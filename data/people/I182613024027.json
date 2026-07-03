@@ -1,0 +1,120 @@
+{
+  "id": "I182613024027",
+  "name": {
+    "given": "Andrew",
+    "surname": "Smyth",
+    "suffix": null,
+    "full": "Andrew Smyth"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wrentham, Suffolk, England, United Kingdom",
+        "parts": [
+          "Wrentham",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 March 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Willoughby, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Willoughby",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024434",
+      "I182613024051",
+      "I182613024436"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023976",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "3 November 1543",
+            "year": 1543,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Cratfield, Suffolk, England, United Kingdom",
+            "parts": [
+              "Cratfield",
+              "Suffolk",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613023959"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

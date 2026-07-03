@@ -1,0 +1,57 @@
+{
+  "id": "I182534044241",
+  "person": "Johann Georg Ried J10g",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Waldoboro, Lincoln, Maine, USA",
+        "parts": [
+          "Waldoboro",
+          "Lincoln",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Apr 1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

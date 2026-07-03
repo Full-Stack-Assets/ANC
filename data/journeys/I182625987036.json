@@ -1,0 +1,50 @@
+{
+  "id": "I182625987036",
+  "person": "FRANCES TRAVIS",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kingston upon Thames, Surrey, England",
+        "parts": [
+          "Kingston upon Thames",
+          "Surrey",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kingston upon Thames, Surrey, England",
+        "parts": [
+          "Kingston upon Thames",
+          "Surrey",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

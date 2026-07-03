@@ -1,0 +1,55 @@
+{
+  "id": "I182197769659",
+  "person": "John Macdonald",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Main-Ã -Dieu, Nova Scotia, Canada",
+        "parts": [
+          "Main-Ã -Dieu",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Nov 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Main-Ã -Dieu, Nova Scotia, Canada",
+        "parts": [
+          "Main-Ã -Dieu",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Nov 1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182613025540",
+  "person": "Ruth Swinnerton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Great Yarmouth, Great Yarmouth Borough, Norfolk, England",
+        "parts": [
+          "Great Yarmouth",
+          "Great Yarmouth Borough",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Salem, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salem",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 May 1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

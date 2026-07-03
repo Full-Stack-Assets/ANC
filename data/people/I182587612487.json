@@ -1,0 +1,71 @@
+{
+  "id": "I182587612487",
+  "name": {
+    "given": "Mary Flowers",
+    "surname": "Kettle Kendall Kedell",
+    "suffix": null,
+    "full": "Mary Flowers Kettle Kendall Kedell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jan 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stow, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Stow",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Sept 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587612460"
+      }
+    ],
+    "children": [
+      "I182541966281"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

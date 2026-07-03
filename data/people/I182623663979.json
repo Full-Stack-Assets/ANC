@@ -1,0 +1,65 @@
+{
+  "id": "I182623663979",
+  "name": {
+    "given": "Christina Katherina",
+    "surname": "Hans",
+    "suffix": null,
+    "full": "Christina Katherina Hans"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 März 1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirnbach, Baden (Baden-Württemberg), Preußen (Germany)",
+        "parts": [
+          "Kirnbach",
+          "Baden (Baden-Württemberg)",
+          "Preußen (Germany)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664139",
+      "I182623664034"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664015"
+      }
+    ],
+    "children": [
+      "I182623663846"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

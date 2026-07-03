@@ -1,0 +1,67 @@
+{
+  "id": "I182650552450",
+  "name": {
+    "given": "Anes",
+    "surname": "Thacker",
+    "suffix": null,
+    "full": "Anes Thacker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ashford, Kent, England",
+        "parts": [
+          "Ashford",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552469"
+      }
+    ],
+    "children": [
+      "I182650552440"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

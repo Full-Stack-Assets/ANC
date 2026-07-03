@@ -1,0 +1,72 @@
+{
+  "id": "I182522975984",
+  "name": {
+    "given": "Justina",
+    "surname": "Olofsdotter Angermannus",
+    "suffix": null,
+    "full": "Justina Olofsdotter Angermannus"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Västerfärnebo, Vastmanland, Sweden",
+        "parts": [
+          "Västerfärnebo",
+          "Vastmanland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Jan 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "1656459, Vastmanlands, Sweden",
+        "parts": [
+          "1656459",
+          "Vastmanlands",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182522976051",
+      "I182522976055"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536019"
+      }
+    ],
+    "children": [
+      "I182381536014"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

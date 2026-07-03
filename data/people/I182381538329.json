@@ -1,0 +1,73 @@
+{
+  "id": "I182381538329",
+  "name": {
+    "given": "Robert",
+    "surname": "Kennedy",
+    "suffix": null,
+    "full": "Robert Kennedy"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Quinebaug, Windham, Connecticut, United States",
+        "parts": [
+          "Quinebaug",
+          "Windham",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 December 1804",
+        "year": 1804,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norwich, New London, Connecticut, United States",
+        "parts": [
+          "Norwich",
+          "New London",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999513"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538280"
+      }
+    ],
+    "children": [
+      "I182381538262"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

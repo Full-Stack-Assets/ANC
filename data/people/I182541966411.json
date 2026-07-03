@@ -1,0 +1,71 @@
+{
+  "id": "I182541966411",
+  "name": {
+    "given": "Ottilia (Thielg)",
+    "surname": "Gisin- Crist",
+    "suffix": null,
+    "full": "Ottilia (Thielg) Gisin- Crist"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rengsdorf, Neuwied, Rheineland-Pfalz, Germany",
+        "parts": [
+          "Rengsdorf",
+          "Neuwied",
+          "Rheineland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rengsdorf, Neuwied, Rheineland-Pfalz, Germany",
+        "parts": [
+          "Rengsdorf",
+          "Neuwied",
+          "Rheineland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966413"
+      }
+    ],
+    "children": [
+      "I182534044198"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

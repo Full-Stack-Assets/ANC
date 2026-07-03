@@ -1,0 +1,227 @@
+{
+  "id": "I182541940765",
+  "name": {
+    "given": "Daniel Manter",
+    "surname": "Vecchione",
+    "suffix": null,
+    "full": "Daniel Manter Vecchione"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Oct 1949",
+        "year": 1949,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northampton, Massachusetts, USA",
+        "parts": [
+          "Northampton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S446914569",
+          "page": null
+        },
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Sep 2011",
+        "year": 2011,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195859300",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "12 Jul 1975",
+            "year": 1975,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Newton, Massachusetts, USA",
+            "parts": [
+              "Newton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508115383",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1965",
+        "year": 1965,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "Abt 1975",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Watertown",
+        "parts": [
+          "Watertown"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508115383",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1987-2020",
+        "year": 1987,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westford, Massachusetts, USA",
+        "parts": [
+          "Westford",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Watertown",
+        "parts": [
+          "Watertown"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508115383",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914762",
+      "title": "U.S., Social Security Death Index, 1935-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914569",
+      "title": "Massachusetts, Birth Index, 1860-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S458741983",
+      "title": "U.S., Index to Public Records, 1994-2019",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508115383",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

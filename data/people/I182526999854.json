@@ -1,0 +1,96 @@
+{
+  "id": "I182526999854",
+  "name": {
+    "given": "Anna Elizabetha",
+    "surname": "Kohlhepp (Cullip, etc.)",
+    "suffix": null,
+    "full": "Anna Elizabetha Kohlhepp (Cullip, etc.)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Feb 1864",
+        "year": 1864,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "USA",
+        "parts": [
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587609236"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999844"
+      }
+    ],
+    "children": [
+      "I182198561979"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prussia",
+        "parts": [
+          "Prussia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

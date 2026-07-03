@@ -1,0 +1,74 @@
+{
+  "id": "I182650551382",
+  "name": {
+    "given": "Martha \"Patty\"",
+    "surname": "Dunbar",
+    "suffix": null,
+    "full": "Martha \"Patty\" Dunbar"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Mar 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, British America",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, U.S.A.",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "U.S.A."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551398",
+      "I182650551395"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551391"
+      }
+    ],
+    "children": [
+      "I182613112479"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

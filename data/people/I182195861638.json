@@ -1,0 +1,90 @@
+{
+  "id": "I182195861638",
+  "name": {
+    "given": "Lisbet",
+    "surname": "Ersdotter",
+    "suffix": null,
+    "full": "Lisbet Ersdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Bengtsgården, By, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "By",
+          "Norrbärke(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Sverige",
+        "parts": [
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195861646",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "11 NOV 1665",
+            "year": 1665,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195861776",
+      "I182195861769",
+      "I182195861773",
+      "I182195861768",
+      "I182195861774",
+      "I182195861775",
+      "I182195861581"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "I182623663806",
+  "person": "Elizabeth Blake",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hesse Cassel, Germany",
+        "parts": [
+          "Hesse Cassel",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29/09/1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fulda, Noble, Ohio, United States",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Mar 1886",
+        "year": 1886,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, United States of America",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

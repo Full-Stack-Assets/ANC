@@ -1,0 +1,83 @@
+{
+  "id": "I182613118627",
+  "name": {
+    "given": "Curtis M",
+    "surname": "McClelland",
+    "suffix": null,
+    "full": "Curtis M McClelland"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Jun 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pennsylvania",
+        "parts": [
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 May 1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pittsburgh, Allegheny, Pennsylvania, USA",
+        "parts": [
+          "Pittsburgh",
+          "Allegheny",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613118628",
+      "I182587609594"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447147251",
+      "title": "Pennsylvania, Death Certificates, 1906-1967",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

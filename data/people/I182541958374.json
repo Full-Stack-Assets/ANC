@@ -1,0 +1,68 @@
+{
+  "id": "I182541958374",
+  "name": {
+    "given": "Amy",
+    "surname": "Stratton",
+    "suffix": null,
+    "full": "Amy Stratton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "EveshamBurlington County,New Jersey",
+        "parts": [
+          "EveshamBurlington County",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, New Jersey, USA",
+        "parts": [
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535298"
+      }
+    ],
+    "children": [
+      "I182381535051"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

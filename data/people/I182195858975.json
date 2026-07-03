@@ -1,0 +1,75 @@
+{
+  "id": "I182195858975",
+  "name": {
+    "given": "John \"The Councillor\"",
+    "surname": "Jenkins",
+    "suffix": null,
+    "full": "John \"The Councillor\" Jenkins"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River Lot 49, Queens, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River Lot 49",
+          "Queens",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Feb 1894",
+        "year": 1894,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Greek River, Lot 63, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Greek River",
+          "Lot 63",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863385",
+      "I182195863352"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858962"
+      }
+    ],
+    "children": [
+      "I182195858743"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

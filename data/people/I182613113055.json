@@ -1,0 +1,74 @@
+{
+  "id": "I182613113055",
+  "name": {
+    "given": "Edward",
+    "surname": "Knight",
+    "suffix": null,
+    "full": "Edward Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 July 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcester County, Massachusetts, USA",
+        "parts": [
+          "Worcester",
+          "Worcester County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113525",
+      "I182613113520"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113052"
+      }
+    ],
+    "children": [
+      "I182613112514"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

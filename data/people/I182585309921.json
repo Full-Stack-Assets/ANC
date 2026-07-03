@@ -1,0 +1,129 @@
+{
+  "id": "I182585309921",
+  "name": {
+    "given": "Charles J.",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Charles J. Donahue"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jan Abt 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        },
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541939915",
+      "I182585309920"
+    ],
+    "spouses": [
+      {
+        "id": "I182585311638",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "25 Aug 1909",
+            "year": 1909,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            },
+            {
+              "source_id": "S447115921",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447146440",
+      "title": "1880 United States Federal Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

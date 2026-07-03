@@ -1,0 +1,68 @@
+{
+  "id": "I182625986549",
+  "name": {
+    "given": "Robert",
+    "surname": "Cheeseman",
+    "suffix": null,
+    "full": "Robert Cheeseman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1536",
+        "year": 1536,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sutton, Bedfordshire, England",
+        "parts": [
+          "Sutton",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, England",
+        "parts": [
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986540"
+      }
+    ],
+    "children": [
+      "I182625986439"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

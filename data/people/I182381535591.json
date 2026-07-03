@@ -1,0 +1,68 @@
+{
+  "id": "I182381535591",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Southgate",
+    "suffix": null,
+    "full": "Elizabeth Southgate"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Aug 1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elton, Huntingtonshire, England",
+        "parts": [
+          "Elton",
+          "Huntingtonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Aug 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elton, Huntingtonshire, England",
+        "parts": [
+          "Elton",
+          "Huntingtonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535609",
+      "I182381535600"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381535113"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

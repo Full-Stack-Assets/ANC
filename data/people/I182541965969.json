@@ -1,0 +1,116 @@
+{
+  "id": "I182541965969",
+  "name": {
+    "given": "Mary",
+    "surname": "Stevens",
+    "suffix": null,
+    "full": "Mary Stevens"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Feb 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Jan 1789",
+        "year": 1789,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541965971"
+      }
+    ],
+    "children": [
+      "I182541965902"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "11 Feb 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glouster, Essex, Massachusetts, United States",
+        "parts": [
+          "Glouster",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "13 Jan 1789",
+        "year": 1789,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, United States",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

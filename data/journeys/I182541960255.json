@@ -1,0 +1,93 @@
+{
+  "id": "I182541960255",
+  "person": "Lady Anne of Brittany Fitzwilliam (COOKE)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gainspark Hall, Romford, Essex, England, or Uttlesford District, Essex, England",
+        "parts": [
+          "Gainspark Hall",
+          "Romford",
+          "Essex",
+          "England",
+          "or Uttlesford District",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 Jan 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Romford, Essex, England",
+        "parts": [
+          "Romford",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 Sep 1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Romford, London Borough of Havering, Greater London, England",
+        "parts": [
+          "Romford",
+          "London Borough of Havering",
+          "Greater London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

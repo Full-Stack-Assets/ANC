@@ -1,0 +1,68 @@
+{
+  "id": "I182625980931",
+  "name": {
+    "given": "James",
+    "surname": "Doughty",
+    "suffix": null,
+    "full": "James Doughty"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Aug 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halifax, Yorkshire, England",
+        "parts": [
+          "Halifax",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625980929"
+      }
+    ],
+    "children": [
+      "I182625980904"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

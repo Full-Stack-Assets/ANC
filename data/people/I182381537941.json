@@ -1,0 +1,74 @@
+{
+  "id": "I182381537941",
+  "name": {
+    "given": "Owain",
+    "surname": "Holland",
+    "suffix": null,
+    "full": "Owain Holland"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "of, Berw, Llanfihangel Ysgeifiog, Anglesey, Wales",
+        "parts": [
+          "of",
+          "Berw",
+          "Llanfihangel Ysgeifiog",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Feb 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of Llanfiahangel Ysceifiog, Anglesey, Wales",
+        "parts": [
+          "of Llanfiahangel Ysceifiog",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537991",
+      "I182381537977"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537924"
+      }
+    ],
+    "children": [
+      "I182381537896"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

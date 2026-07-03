@@ -1,0 +1,55 @@
+{
+  "id": "I182625987303",
+  "person": "Richard Tippinge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Darley Dale, Derbyshire, England",
+        "parts": [
+          "Darley Dale",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Darley Dale, Derbyshire, England",
+        "parts": [
+          "Darley Dale",
+          "Derbyshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

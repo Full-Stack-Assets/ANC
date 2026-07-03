@@ -1,0 +1,113 @@
+{
+  "id": "I182625972999",
+  "name": {
+    "given": "Mechteld Gozewijn",
+    "surname": "Van Dinther",
+    "suffix": null,
+    "full": "Mechteld Gozewijn Van Dinther"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1488",
+        "year": 1488,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "'s-Hertogenbosch, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "'s-Hertogenbosch",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 June 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "'s-Hertogenbosch, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "'s-Hertogenbosch",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625973008",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1510",
+            "year": 1510,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "'s-Hertogenbosch, Noord-Brabant, Pays-Bas",
+            "parts": [
+              "'s-Hertogenbosch",
+              "Noord-Brabant",
+              "Pays-Bas"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625972925"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

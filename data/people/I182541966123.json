@@ -1,0 +1,120 @@
+{
+  "id": "I182541966123",
+  "name": {
+    "given": "Lady Anne\\Ann",
+    "surname": "Rosewarne\\Rossewarne\\Roswarn-Thomas",
+    "suffix": null,
+    "full": "Lady Anne\\Ann Rosewarne\\Rossewarne\\Roswarn-Thomas"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jan 1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Camborne, Cornwall, England",
+        "parts": [
+          "Camborne",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cornwall, England",
+        "parts": [
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620337600",
+      "I182620337601"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966119",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "30 Nov 1544",
+            "year": 1544,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Camborne, Cornwall, England",
+            "parts": [
+              "Camborne",
+              "Cornwall",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541966112",
+      "I182620337599"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

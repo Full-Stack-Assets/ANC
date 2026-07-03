@@ -1,0 +1,114 @@
+{
+  "id": "I182545335936",
+  "name": {
+    "given": "Edward William",
+    "surname": "Dodge",
+    "suffix": "Sr.",
+    "full": "Edward William Dodge Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, USA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Feb 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wenham, Essex, Massachusetts, USA",
+        "parts": [
+          "Wenham",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182545335943"
+      }
+    ],
+    "children": [
+      "I182541966330"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, United States",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts, USA",
+        "parts": [
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

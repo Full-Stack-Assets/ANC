@@ -1,0 +1,95 @@
+{
+  "id": "I182620317328",
+  "name": {
+    "given": "Charles William",
+    "surname": "Fitzgerald",
+    "suffix": null,
+    "full": "Charles William Fitzgerald"
+  },
+  "sex": "M",
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182620317665",
+      "I182620317666"
+    ],
+    "spouses": [
+      {
+        "id": "I182541955053",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "May 1828",
+            "year": 1828,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ireland, Ireland",
+            "parts": [
+              "Ireland",
+              "Ireland"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S506435674",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "14 Sep 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cathedral St Mary, Limerick, Limerick, Ireland",
+        "parts": [
+          "Cathedral St Mary",
+          "Limerick",
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850773",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513850773",
+      "title": "Ireland, Select Births and Baptisms, 1620-1911",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

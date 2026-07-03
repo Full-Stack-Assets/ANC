@@ -1,0 +1,55 @@
+{
+  "id": "I182623679498",
+  "person": "Constance Content Coombs",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20  Nov 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

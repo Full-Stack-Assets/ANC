@@ -1,0 +1,71 @@
+{
+  "id": "I182625292261",
+  "name": {
+    "given": "George Festus",
+    "surname": "Owen",
+    "suffix": "II",
+    "full": "George Festus Owen II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cork, Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Cork",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookhaven, Suffolk, New York Colony",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "New York Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625971991"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292258"
+      }
+    ],
+    "children": [
+      "I182625292255"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

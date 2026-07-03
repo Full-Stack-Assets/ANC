@@ -1,0 +1,113 @@
+{
+  "id": "I182381536282",
+  "name": {
+    "given": "Joanna",
+    "surname": "Hale",
+    "suffix": null,
+    "full": "Joanna Hale"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Jan 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536293"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536645"
+      }
+    ],
+    "children": [
+      "I182381536270"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1 Dec 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kings Walden, Hertfordshire, England",
+        "parts": [
+          "Kings Walden",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

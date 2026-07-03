@@ -1,0 +1,72 @@
+{
+  "id": "I182623687166",
+  "name": {
+    "given": "Dorothea",
+    "surname": "Buckenham",
+    "suffix": null,
+    "full": "Dorothea Buckenham"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warnham, Sussex, England",
+        "parts": [
+          "Warnham",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 February 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warnham, Sussex, England",
+        "parts": [
+          "Warnham",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623687194",
+      "I182623687201"
+    ],
+    "spouses": [
+      {
+        "id": "I182623687155"
+      }
+    ],
+    "children": [
+      "I182623687145"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

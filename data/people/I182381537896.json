@@ -1,0 +1,62 @@
+{
+  "id": "I182381537896",
+  "name": {
+    "given": "Margred Margaret",
+    "surname": "Holland",
+    "suffix": null,
+    "full": "Margred Margaret Holland"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "of, Berw, Llanfihangel Ysgeifiog, Anglesey, Wales",
+        "parts": [
+          "of",
+          "Berw",
+          "Llanfihangel Ysgeifiog",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": null,
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537941",
+      "I182381537924"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537914"
+      }
+    ],
+    "children": [
+      "I182381537875"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

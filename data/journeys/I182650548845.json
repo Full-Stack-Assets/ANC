@@ -1,0 +1,58 @@
+{
+  "id": "I182650548845",
+  "person": "Sir Walter Langley of Knowlton II",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rochdale Parish Church, Rochdale, Lanacashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Rochdale Parish Church",
+          "Rochdale",
+          "Lanacashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sandy, Bedfordshire, England",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Unknown",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

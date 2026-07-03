@@ -1,0 +1,69 @@
+{
+  "id": "I182623689492",
+  "name": {
+    "given": " Thomas",
+    "surname": "Pratt Clarke",
+    "suffix": null,
+    "full": " Thomas Pratt Clarke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1509",
+        "year": 1509,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baldock, Hertfordshire, England",
+        "parts": [
+          "Baldock",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "05 Feb 1539",
+        "year": 1539,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baldock, Hertfordshire, England",
+        "parts": [
+          "Baldock",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689505"
+      }
+    ],
+    "children": [
+      "I182623689426"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

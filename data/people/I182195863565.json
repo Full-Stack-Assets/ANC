@@ -1,0 +1,118 @@
+{
+  "id": "I182195863565",
+  "name": {
+    "given": "Eliza",
+    "surname": "Bolton Taber",
+    "suffix": null,
+    "full": "Eliza Bolton Taber"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Aug 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington, Montgomery, Pennsylvania, United States",
+        "parts": [
+          "Abington",
+          "Montgomery",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "bef 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Gloucester County, New Jersey",
+        "parts": [
+          "Gloucester County",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195864068",
+      "I182195864069"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863560",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "bef 1723",
+            "year": 1723,
+            "year_end": null,
+            "qualifier": "BEF"
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182195864073",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "6 Sep 1738",
+            "year": 1738,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Gloucester, New Jersey, USA",
+            "parts": [
+              "Gloucester",
+              "New Jersey",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195863486"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

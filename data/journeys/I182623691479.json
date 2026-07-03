@@ -1,0 +1,57 @@
+{
+  "id": "I182623691479",
+  "person": "Luman Owen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Woodstock, Windsor, Vermont, USA",
+        "parts": [
+          "Woodstock",
+          "Windsor",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Saint Johnsbury, Caledonia, Vermont, USA",
+        "parts": [
+          "Saint Johnsbury",
+          "Caledonia",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Mar 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

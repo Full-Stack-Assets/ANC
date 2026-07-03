@@ -1,0 +1,74 @@
+{
+  "id": "I182381538192",
+  "name": {
+    "given": "Johann Hermann",
+    "surname": "Henckel (Jenkins)",
+    "suffix": null,
+    "full": "Johann Hermann Henckel (Jenkins)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Aug 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Treysa, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Treysa",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 May 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Hesse",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538540",
+      "I182381538534"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538182"
+      }
+    ],
+    "children": [
+      "I182381538164"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

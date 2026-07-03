@@ -1,0 +1,55 @@
+{
+  "id": "I182541960101",
+  "person": "William Thomas Gibbes\\Gybbes",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Worcester, Worcestershire, , England",
+        "parts": [
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1531",
+        "year": 1531,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Worcester, Worcestershire, , England",
+        "parts": [
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 May 1601",
+        "year": 1601,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

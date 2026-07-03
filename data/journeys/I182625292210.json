@@ -1,0 +1,55 @@
+{
+  "id": "I182625292210",
+  "person": "Mary A. Monahan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Feb 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Town Point, Provence, Nova Scotia, Canada.",
+        "parts": [
+          "Town Point",
+          "Provence",
+          "Nova Scotia",
+          "Canada."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1774",
+        "year": 1774,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

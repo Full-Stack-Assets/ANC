@@ -1,0 +1,74 @@
+{
+  "id": "I182541966508",
+  "name": {
+    "given": "Jost George",
+    "surname": "Christ",
+    "suffix": null,
+    "full": "Jost George Christ"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Frankfurt am Main, Stadtkreis Frankfurt, Hessen, Germany",
+        "parts": [
+          "Frankfurt am Main",
+          "Stadtkreis Frankfurt",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1633",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Frankfurt am Main, Stadtkreis Frankfurt, Hessen, Germany",
+        "parts": [
+          "Frankfurt am Main",
+          "Stadtkreis Frankfurt",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966516",
+      "I182541966514"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966509"
+      }
+    ],
+    "children": [
+      "I182541966437"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

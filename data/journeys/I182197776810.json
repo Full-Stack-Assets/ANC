@@ -1,0 +1,154 @@
+{
+  "id": "I182197776810",
+  "person": "William Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bybury, Bucks, Pennsylvania, USA",
+        "parts": [
+          "Bybury",
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Burlington, New Jersey, USA",
+        "parts": [
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1680-1709",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508339477",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "New York, New York",
+        "parts": [
+          "New York",
+          "New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "arrival",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447152586",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "New Castle, New Castle, DE",
+        "parts": [
+          "New Castle",
+          "New Castle",
+          "DE"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 Jul 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Poquesin, Bucks, Pennsylvania, USA",
+        "parts": [
+          "Poquesin",
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

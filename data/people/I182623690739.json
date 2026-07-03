@@ -1,0 +1,69 @@
+{
+  "id": "I182623690739",
+  "name": {
+    "given": "Francis Richard",
+    "surname": "Combs I *",
+    "suffix": ", Lord Coombs",
+    "full": "Francis Richard Combs I * , Lord Coombs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Combe Martin, Devonshire County, England",
+        "parts": [
+          "Combe Martin",
+          "Devonshire County",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Jan 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Herefordshire, England",
+        "parts": [
+          "Hempstead",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690721"
+      }
+    ],
+    "children": [
+      "I182623690573"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

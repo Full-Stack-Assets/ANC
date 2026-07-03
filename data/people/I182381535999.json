@@ -1,0 +1,67 @@
+{
+  "id": "I182381535999",
+  "name": {
+    "given": "Brita",
+    "surname": "Persdotter",
+    "suffix": null,
+    "full": "Brita Persdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tolsbo, Norrbärke Kopparberg",
+        "parts": [
+          "Tolsbo",
+          "Norrbärke Kopparberg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torberbo, Norrbärke Kopparberg",
+        "parts": [
+          "Torberbo",
+          "Norrbärke Kopparberg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536004"
+      }
+    ],
+    "children": [
+      "I182381535988"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

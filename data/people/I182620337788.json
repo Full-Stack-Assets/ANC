@@ -1,0 +1,69 @@
+{
+  "id": "I182620337788",
+  "name": {
+    "given": "Sir Hugh I",
+    "surname": "Childers Childress",
+    "suffix": "III",
+    "full": "Sir Hugh I Childers Childress III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Retford, Yorkshire, England, United Kingdom",
+        "parts": [
+          "East Retford",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Sep 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cantley, South Yorkshire, England, United Kingdom",
+        "parts": [
+          "Cantley",
+          "South Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548971"
+    ],
+    "spouses": [],
+    "children": [
+      "I182620332812"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

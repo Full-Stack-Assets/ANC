@@ -1,0 +1,101 @@
+{
+  "id": "I182197732094",
+  "name": {
+    "given": "Ann",
+    "surname": "Pine",
+    "suffix": null,
+    "full": "Ann Pine"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Oct 1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haddonfield, Gloucester, New Jersey, USA",
+        "parts": [
+          "Haddonfield",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 Dec 1863",
+        "year": 1863,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Camden, New Jersey",
+        "parts": [
+          "Newton",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541932596",
+      "I182541956448"
+    ],
+    "spouses": [
+      {
+        "id": "I182197731994",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1794-10-13",
+            "year": 1794,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Camden, New Jersey",
+            "parts": [
+              "Camden",
+              "New Jersey"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862458"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

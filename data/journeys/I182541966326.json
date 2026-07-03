@@ -1,0 +1,65 @@
+{
+  "id": "I182541966326",
+  "person": "Deacon Peter Woodberry III",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 December 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508670172",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 January 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508670172",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

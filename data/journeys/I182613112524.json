@@ -1,0 +1,57 @@
+{
+  "id": "I182613112524",
+  "person": "Ebenezer Wellington Jr.",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Lexington, Middlesex, Massachusetts, Colonies",
+        "parts": [
+          "Lexington",
+          "Middlesex",
+          "Massachusetts",
+          "Colonies"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Sep 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Worcester, Worcester, Massachusetts, Colonies",
+        "parts": [
+          "Worcester",
+          "Worcester",
+          "Massachusetts",
+          "Colonies"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Jan 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

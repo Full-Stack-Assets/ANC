@@ -1,0 +1,74 @@
+{
+  "id": "I182623689505",
+  "name": {
+    "given": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Joan Tabor",
+    "surname": "Pease-Pratt",
+    "suffix": null,
+    "full": "🏴󠁧󠁢󠁥󠁮󠁧󠁿Joan Tabor Pease-Pratt"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coucy, Ardennes, Champagne-Ardenne, France",
+        "parts": [
+          "Coucy",
+          "Ardennes",
+          "Champagne-Ardenne",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Apr 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baldock, North Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Baldock",
+          "North Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689531",
+      "I182623689515"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689492"
+      }
+    ],
+    "children": [
+      "I182623689426"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

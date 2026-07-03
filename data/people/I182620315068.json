@@ -1,0 +1,74 @@
+{
+  "id": "I182620315068",
+  "name": {
+    "given": "Elinor Done",
+    "surname": "Crosby",
+    "suffix": null,
+    "full": "Elinor Done Crosby"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norieg, Frodsham, Cheshire, England",
+        "parts": [
+          "Norieg",
+          "Frodsham",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 JUN 1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ridley, Chester, Pennsylvania, United States",
+        "parts": [
+          "Ridley",
+          "Chester",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315088",
+      "I182620315082"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315063"
+      }
+    ],
+    "children": [
+      "I182620314901"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182381538280",
+  "person": "Sarah Morgan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Groton Town, New London, Connecticut, United States",
+        "parts": [
+          "Groton Town",
+          "New London",
+          "Connecticut",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Feb 1702",
+        "year": 1702,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New London, New London, Connecticut, United States",
+        "parts": [
+          "New London",
+          "New London",
+          "Connecticut",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

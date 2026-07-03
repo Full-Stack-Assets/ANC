@@ -1,0 +1,143 @@
+{
+  "id": "I182541967431",
+  "name": {
+    "given": "Burton David",
+    "surname": "Owen",
+    "suffix": null,
+    "full": "Burton David Owen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Jun 1961",
+        "year": 1961,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Weymouth",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S516620590",
+          "page": "Publication Date: 25/ May/ 2011; Publication Place: City, USA; URL: http://obit.memorialobituaries.com/obitdisplay.html?id=933156&amp;listing=All"
+        },
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 May 2011",
+        "year": 2011,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falmouth, Barnstable County, Massachusetts, United States of America",
+        "parts": [
+          "Falmouth",
+          "Barnstable County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S516620590",
+          "page": "Publication Date: 25/ May/ 2011; Publication Place: City, USA; URL: http://obit.memorialobituaries.com/obitdisplay.html?id=933156&amp;listing=All"
+        },
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Hanover, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Hanover",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541967427",
+      "I182623679418"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623679414",
+      "I182623679415",
+      "I182623679416",
+      "I182623679417"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S516620590",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516008680",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

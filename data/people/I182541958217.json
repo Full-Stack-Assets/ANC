@@ -1,0 +1,73 @@
+{
+  "id": "I182541958217",
+  "name": {
+    "given": "Thomas",
+    "surname": "Elwell",
+    "suffix": "Jr",
+    "full": "Thomas Elwell Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Apr 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Aug 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541958255"
+    ],
+    "spouses": [
+      {
+        "id": "I182541958204"
+      }
+    ],
+    "children": [
+      "I182381535027"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

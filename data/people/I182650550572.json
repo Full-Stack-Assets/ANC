@@ -1,0 +1,80 @@
+{
+  "id": "I182650550572",
+  "name": {
+    "given": "Thomas Hayward",
+    "surname": "Mitchell",
+    "suffix": null,
+    "full": "Thomas Hayward Mitchell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "EN",
+        "parts": [
+          "EN"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650550487",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "of MA",
+            "parts": [
+              "of MA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516008989",
+              "page": null
+            },
+            {
+              "source_id": "S516008989",
+              "page": "Source number: 1394.130; Source type: Family group sheet, FGSE, listed as parents; Number of Pages: 1"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008989",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

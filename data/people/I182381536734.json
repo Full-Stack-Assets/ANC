@@ -1,0 +1,46 @@
+{
+  "id": "I182381536734",
+  "name": {
+    "given": "William",
+    "surname": "SWALLOW",
+    "suffix": null,
+    "full": "William SWALLOW"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Almondbury, Yorkshire, England",
+        "parts": [
+          "Almondbury",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536817"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381536724"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182526999701",
+  "person": "Leonard Loves\\Loveys\\Lovies",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ogbeare, Cornwall, England",
+        "parts": [
+          "Ogbeare",
+          "Cornwall",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Okehampton, Devon, England",
+        "parts": [
+          "Okehampton",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Apr 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

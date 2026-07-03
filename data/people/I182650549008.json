@@ -1,0 +1,89 @@
+{
+  "id": "I182650549008",
+  "name": {
+    "given": "- Sir Hugh",
+    "surname": "Childress",
+    "suffix": null,
+    "full": "- Sir Hugh Childress"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Yorkshire, North Yorkshire, England, United Kingdom",
+        "parts": [
+          "North Yorkshire",
+          "North Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 September 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Retford, Nottinghamshire, England, United Kingdom",
+        "parts": [
+          "East Retford",
+          "Nottinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650549016"
+      }
+    ],
+    "children": [
+      "I182650548981"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

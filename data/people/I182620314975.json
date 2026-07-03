@@ -1,0 +1,71 @@
+{
+  "id": "I182620314975",
+  "name": {
+    "given": "Nicholas",
+    "surname": "Farlam",
+    "suffix": "0",
+    "full": "Nicholas Farlam 0"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Bishopside, Eastalandaile(Allendale) England",
+        "parts": [
+          "Bishopside",
+          "Eastalandaile(Allendale) England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Allendale, Northumberland, England",
+        "parts": [
+          "Allendale",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315014",
+      "I182620315010"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314981"
+      }
+    ],
+    "children": [
+      "I182620314915"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "I182541967384",
+  "name": {
+    "given": "Charles Henry",
+    "surname": "Murphy",
+    "suffix": "Sr",
+    "full": "Charles Henry Murphy Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Sep 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "So Weymouth, Norfolk, Massachusetts",
+        "parts": [
+          "So Weymouth",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": "Age: 0",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Jun 1975",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lexington, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Lexington",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863067",
+      "I182195863068"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541967416"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

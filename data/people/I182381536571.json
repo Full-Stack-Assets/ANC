@@ -1,0 +1,117 @@
+{
+  "id": "I182381536571",
+  "name": {
+    "given": "John",
+    "surname": "Newell",
+    "suffix": null,
+    "full": "John Newell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "August 1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipswich, Suffolk, England",
+        "parts": [
+          "Ipswich",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Oct 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960030"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536270"
+      }
+    ],
+    "children": [
+      "I182381536263"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "15 October 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

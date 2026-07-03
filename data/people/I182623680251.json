@@ -1,0 +1,74 @@
+{
+  "id": "I182623680251",
+  "name": {
+    "given": "John",
+    "surname": "Hall",
+    "suffix": "Jr",
+    "full": "John Hall Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Sep 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Apr 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623682429",
+      "I182623682407"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680069"
+      }
+    ],
+    "children": [
+      "I182623679868"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

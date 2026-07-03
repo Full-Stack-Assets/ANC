@@ -1,0 +1,67 @@
+{
+  "id": "I182541967149",
+  "name": {
+    "given": "Thomas",
+    "surname": "Pennell",
+    "suffix": "***12th GGF***",
+    "full": "Thomas Pennell ***12th GGF***"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiltshire, England",
+        "parts": [
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiltshire, England",
+        "parts": [
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541967147"
+      }
+    ],
+    "children": [
+      "I182541967141"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

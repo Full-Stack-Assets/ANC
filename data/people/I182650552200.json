@@ -1,0 +1,70 @@
+{
+  "id": "I182650552200",
+  "name": {
+    "given": "William",
+    "surname": "Markaunt",
+    "suffix": null,
+    "full": "William Markaunt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1496",
+        "year": 1496,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wix, Essex, England",
+        "parts": [
+          "Wix",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wix Manor, Wix, Essex, England",
+        "parts": [
+          "Wix Manor",
+          "Wix",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552195"
+      }
+    ],
+    "children": [
+      "I182650552187"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182584905416",
+  "name": {
+    "given": "Alys Alice",
+    "surname": "Taylor",
+    "suffix": null,
+    "full": "Alys Alice Taylor"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shadockhurst, Kent, England",
+        "parts": [
+          "Shadockhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Oct 1569",
+        "year": 1569,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dymock, Gloucestershire, England",
+        "parts": [
+          "Dymock",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182584905417"
+      }
+    ],
+    "children": [
+      "I182584904944"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

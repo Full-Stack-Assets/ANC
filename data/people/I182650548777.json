@@ -1,0 +1,82 @@
+{
+  "id": "I182650548777",
+  "name": {
+    "given": "Deacon John",
+    "surname": "Denison",
+    "suffix": "(tailor)",
+    "full": "Deacon John Denison (tailor)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "09 Jul 1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishops Stortford, East Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Bishops Stortford",
+          "East Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Dec 1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishops Stortford, East Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Bishops Stortford",
+          "East Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548792",
+      "I182650548795"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548774"
+      }
+    ],
+    "children": [
+      "I182650548767"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

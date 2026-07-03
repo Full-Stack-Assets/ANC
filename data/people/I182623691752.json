@@ -1,0 +1,74 @@
+{
+  "id": "I182623691752",
+  "name": {
+    "given": "Noah",
+    "surname": "Howe",
+    "suffix": null,
+    "full": "Noah Howe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "06 Feb 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "03 Feb 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691804",
+      "I182623691817"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691745"
+      }
+    ],
+    "children": [
+      "I182623691579"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

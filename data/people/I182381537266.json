@@ -1,0 +1,63 @@
+{
+  "id": "I182381537266",
+  "name": {
+    "given": "Helene",
+    "surname": "Lindsay",
+    "suffix": null,
+    "full": "Helene Lindsay"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Dec 1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edinburgh",
+        "parts": [
+          "Edinburgh"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537279",
+      "I182381537276"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537274"
+      }
+    ],
+    "children": [
+      "I182381537229"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

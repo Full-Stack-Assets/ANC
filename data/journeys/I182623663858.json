@@ -1,0 +1,56 @@
+{
+  "id": "I182623663858",
+  "person": "Johann Valentine Block Bloch",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Grischow, Nordvorpommern, Mecklenburg-Vorpommern, Germany",
+        "parts": [
+          "Grischow",
+          "Nordvorpommern",
+          "Mecklenburg-Vorpommern",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Dec 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Giesel, Fulda, Germany",
+        "parts": [
+          "Giesel",
+          "Fulda",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 Nov 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

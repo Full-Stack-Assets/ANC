@@ -1,0 +1,70 @@
+{
+  "id": "I182613026009",
+  "name": {
+    "given": "William Robert\\Robart John III",
+    "surname": "Heath-Hanforth-de Cheyney\\Cheney\\Cheynye\\Cahaignes\\Cayneto\\Chesney",
+    "suffix": null,
+    "full": "William Robert\\Robart John III Heath-Hanforth-de Cheyney\\Cheney\\Cheynye\\Cahaignes\\Cayneto\\Chesney"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jun 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waltham Abbey, Essex, England",
+        "parts": [
+          "Waltham Abbey",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Nov 1569",
+        "year": 1569,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishopsgate, City of London, Greater London, England",
+        "parts": [
+          "Bishopsgate",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613025999"
+      }
+    ],
+    "children": [
+      "I182613025993"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

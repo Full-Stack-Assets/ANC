@@ -1,0 +1,161 @@
+{
+  "id": "I182585270548",
+  "name": {
+    "given": "Laurence",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Laurence Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 1142; Volume #: Roll 1142 - Certificates: 9750-10125, 06 Apr 1920-07 Apr 1920"
+        },
+        {
+          "source_id": "S506473136",
+          "page": "The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Barton, Washington, Wisconsin; Roll: M653_1438; Page: 54; Family History Library"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623698388"
+    ],
+    "spouses": [
+      {
+        "id": "I182585270547"
+      }
+    ],
+    "children": [
+      "I182584905624",
+      "I182625291750",
+      "I182585307994",
+      "I182585307995",
+      "I182585307993"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton, Barton, Washington, Wisconsin, USA",
+        "parts": [
+          "Barton",
+          "Barton",
+          "Washington",
+          "Wisconsin",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Farmer",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": "The National Archives in Washington D.C.; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M653; Residence Date: 1860; Home in 1860: Barton, Washington, Wisconsin; Roll: M653_1438; Page: 54; Family History Library"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Deceased",
+        "parts": [
+          "Deceased"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "National Archives and Records Administration (NARA); Washington D.C.; NARA Series: Passport Applications, January 2, 1906 - March 31, 1925; Roll #: 1142; Volume #: Roll 1142 - Certificates: 9750-10125, 06 Apr 1920-07 Apr 1920"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S506473136",
+      "title": "1860 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

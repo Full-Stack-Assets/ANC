@@ -1,0 +1,72 @@
+{
+  "id": "I182623691162",
+  "name": {
+    "given": "Barnabas",
+    "surname": "Young",
+    "suffix": null,
+    "full": "Barnabas Young"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable County, Province of Massachusetts",
+        "parts": [
+          "Wellfleet",
+          "Barnstable County",
+          "Province of Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Aug 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable County, Province of Massachusettsssachusetts, USA",
+        "parts": [
+          "Wellfleet",
+          "Barnstable County",
+          "Province of Massachusettsssachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691319"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691153"
+      }
+    ],
+    "children": [
+      "I182623689801"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

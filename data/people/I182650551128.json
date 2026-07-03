@@ -1,0 +1,68 @@
+{
+  "id": "I182650551128",
+  "name": {
+    "given": "Lady Alice Anne",
+    "surname": "Caunton",
+    "suffix": null,
+    "full": "Lady Alice Anne Caunton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 May 1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gidea Hall, Romford, Essex, England, United Kingdom",
+        "parts": [
+          "Gidea Hall",
+          "Romford",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Nov 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gidea Hall, Romford, Essex, England",
+        "parts": [
+          "Gidea Hall",
+          "Romford",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650551123"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182381538484",
+  "person": "Regina Barbara Ross",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Darmsheim, Böblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "Darmsheim",
+          "Böblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wiernsheim, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Wiernsheim",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

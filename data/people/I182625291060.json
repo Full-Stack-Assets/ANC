@@ -1,0 +1,307 @@
+{
+  "id": "I182625291060",
+  "name": {
+    "given": "William",
+    "surname": "Blackmore",
+    "suffix": null,
+    "full": "William Blackmore"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Middlesex, England",
+        "parts": [
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": "The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 393; Folio: 100; Page: 40; GSU roll: 824622"
+        },
+        {
+          "source_id": "S516918987",
+          "page": "Class: Rg 9; Piece: 199; Folio: 94; Page: 41; GSU roll: 542590"
+        },
+        {
+          "source_id": "S516919031",
+          "page": "Class: HO107; Piece: 701; Book: 14; Civil Parish: St Anne Limehouse; County: Middlesex; Enumeration District: 8; Folio: 25; Page: 6; Line: 1; GSU roll: 438814"
+        },
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 March 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "West Brompton, Royal Borough of Kensington and Chelsea, Greater London, England",
+        "parts": [
+          "West Brompton",
+          "Royal Borough of Kensington and Chelsea",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625291662",
+      "I182625291648"
+    ],
+    "spouses": [
+      {
+        "id": "I182625291059",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "30 Mar 1861",
+            "year": 1861,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "England",
+            "parts": [
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516919008",
+              "page": "London Metropolitan Archives; London, England, UK; London Church of England Parish Registers; Reference Number: P90/PAN1/128"
+            },
+            {
+              "source_id": "S516919008",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "",
+              "page": null
+            },
+            {
+              "source_id": "",
+              "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/17"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625288498",
+      "I182726541117",
+      "I182726541118",
+      "I182625291660"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Ann, St Anne Limehouse, Middlesex, England",
+        "parts": [
+          "St Ann",
+          "St Anne Limehouse",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516919031",
+          "page": "Class: HO107; Piece: 701; Book: 14; Civil Parish: St Anne Limehouse; County: Middlesex; Enumeration District: 8; Folio: 25; Page: 6; Line: 1; GSU roll: 438814"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, Clerkenwell, Middlesex, England",
+        "parts": [
+          "St James",
+          "Clerkenwell",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S516918987",
+          "page": "Class: Rg 9; Piece: 199; Folio: 94; Page: 41; GSU roll: 542590"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": "The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 393; Folio: 100; Page: 40; GSU roll: 824622"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516918987",
+      "title": "1861 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516919031",
+      "title": "1841 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516919008",
+      "title": "London, England, Church of England Marriages and Banns, 1754-1938",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918951",
+      "title": "London, England, Church of England Births and Baptisms, 1813-1923",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516919005",
+      "title": "Devon, England, Church of England Births and Baptisms, 1813-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

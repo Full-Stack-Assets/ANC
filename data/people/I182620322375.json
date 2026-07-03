@@ -1,0 +1,48 @@
+{
+  "id": "I182620322375",
+  "name": {
+    "given": "Thomas",
+    "surname": "DONOHOE",
+    "suffix": null,
+    "full": "Thomas DONOHOE"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1859",
+        "year": 1859,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cappamore, Co Galway, Ireland",
+        "parts": [
+          "Cappamore",
+          "Co Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322365"
+      }
+    ],
+    "children": [
+      "I182620322285"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

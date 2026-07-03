@@ -1,0 +1,70 @@
+{
+  "id": "I182620322339",
+  "name": {
+    "given": "Gédéon dit Judes",
+    "surname": "MIUS",
+    "suffix": null,
+    "full": "Gédéon dit Judes MIUS"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Feb 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheticamp , Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Cheticamp",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 May 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree Harbour, Inverness, NS Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Inverness",
+          "NS Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322320"
+      }
+    ],
+    "children": [
+      "I182620322296"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

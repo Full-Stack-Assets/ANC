@@ -1,0 +1,70 @@
+{
+  "id": "I182197729730",
+  "person": "Mary D Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gloucester, Camden, New Jersey",
+        "parts": [
+          "Gloucester",
+          "Camden",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Feb 1875",
+        "year": 1875,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447146239",
+          "page": null
+        },
+        {
+          "source_id": "S447146280",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Haddon Township Ward, Camden, New Jersey, USA",
+        "parts": [
+          "Haddon Township Ward",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447146280",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

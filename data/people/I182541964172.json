@@ -1,0 +1,71 @@
+{
+  "id": "I182541964172",
+  "name": {
+    "given": "Hugh (Henry) II",
+    "surname": "Burt (Pilgrim)",
+    "suffix": "Jr *",
+    "full": "Hugh (Henry) II Burt (Pilgrim) Jr *"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Dec 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harberton, West Devon Borough, Devon, England",
+        "parts": [
+          "Harberton",
+          "West Devon Borough",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 November 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn,Essex,Massachusetts,USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541964176"
+      }
+    ],
+    "children": [
+      "I182541964107"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

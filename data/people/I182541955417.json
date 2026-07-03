@@ -1,0 +1,85 @@
+{
+  "id": "I182541955417",
+  "name": {
+    "given": "Axel Verner",
+    "surname": "Reinholdsson",
+    "suffix": null,
+    "full": "Axel Verner Reinholdsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1896-04-11",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ucklum, Västra Götaland, Sverige",
+        "parts": [
+          "Ucklum",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1975-07-12",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjärtum, Västra Götaland, Sverige",
+        "parts": [
+          "Hjärtum",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955345"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541955435"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

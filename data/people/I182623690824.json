@@ -1,0 +1,69 @@
+{
+  "id": "I182623690824",
+  "name": {
+    "given": "Elizabeth de",
+    "surname": "Clare",
+    "suffix": null,
+    "full": "Elizabeth de Clare"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1503",
+        "year": 1503,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bardsey, Yorkshire, England",
+        "parts": [
+          "Bardsey",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bardsey, Yorkshire, England",
+        "parts": [
+          "Bardsey",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690829"
+      }
+    ],
+    "children": [
+      "I182623690721"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

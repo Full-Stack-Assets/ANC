@@ -1,0 +1,72 @@
+{
+  "id": "I182625986383",
+  "name": {
+    "given": "Thomas",
+    "surname": "Rason",
+    "suffix": null,
+    "full": "Thomas Rason"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, , England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Oct 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986417",
+      "I182625986402"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986392"
+      }
+    ],
+    "children": [
+      "I182625986361"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

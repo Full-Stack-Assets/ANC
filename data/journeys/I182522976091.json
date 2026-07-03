@@ -1,0 +1,90 @@
+{
+  "id": "I182522976091",
+  "person": "Anders Andreas OLOFSSON i LERNBO",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Norrbärke församling, Kopparberg, Dalarnas län, Sweden",
+        "parts": [
+          "Norrbärke församling",
+          "Kopparberg",
+          "Dalarnas län",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Norrmesunda, Anundsjö, Ångermanland, Sverige",
+        "parts": [
+          "Norrmesunda",
+          "Anundsjö",
+          "Ångermanland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Jäder, Södermanland, Sverige",
+        "parts": [
+          "Jäder",
+          "Södermanland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619795",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,273 @@
+{
+  "id": "I182545335943",
+  "name": {
+    "given": "Mary Elizabeth",
+    "surname": "Haskell",
+    "suffix": null,
+    "full": "Mary Elizabeth Haskell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 June 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester,Essex,Massachusetts,USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Feb 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, United States",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904926",
+      "I182584904923"
+    ],
+    "spouses": [
+      {
+        "id": "I182545335936"
+      }
+    ],
+    "children": [
+      "I182541966330"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "28 Jun 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "28 Jun 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex County, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "29 Apr 1668",
+        "year": 1668,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "05 Jun 1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "13 Feb 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, USA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "13 February 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex County, Massachusetts, USA",
+        "parts": [
+          "Beverly",
+          "Essex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "February 13, 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, Massachusetts, USA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "01 Nov 1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "13 Feb 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly,Essex,Massachusetts,USA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

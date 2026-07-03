@@ -1,0 +1,71 @@
+{
+  "id": "I182541959308",
+  "name": {
+    "given": "Joseph",
+    "surname": "Hibbard",
+    "suffix": "III",
+    "full": "Joseph Hibbard III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Nov 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Penobscot, Penobscot, Maine, USA",
+        "parts": [
+          "Penobscot",
+          "Penobscot",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Aug 1856",
+        "year": 1856,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hayti, W. I.",
+        "parts": [
+          "Hayti",
+          "W. I."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959347"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959296"
+      }
+    ],
+    "children": [
+      "I182541959707"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

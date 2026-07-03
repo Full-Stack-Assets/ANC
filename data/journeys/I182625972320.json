@@ -1,0 +1,55 @@
+{
+  "id": "I182625972320",
+  "person": "Joachim von Weyerbauer",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Burbach, Saarland, Germany",
+        "parts": [
+          "Burbach",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Burbach, Saarland, Allemagne",
+        "parts": [
+          "Burbach",
+          "Saarland",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

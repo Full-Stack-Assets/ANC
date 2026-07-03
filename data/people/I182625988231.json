@@ -1,0 +1,70 @@
+{
+  "id": "I182625988231",
+  "name": {
+    "given": "Rev. John",
+    "surname": "Tomson",
+    "suffix": ",10th. GGf",
+    "full": "Rev. John Tomson ,10th. GGf"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 January 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Daventry District, Northamptonshire, England",
+        "parts": [
+          "Preston Capes",
+          "Daventry District",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Apr 1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Northamptonshire, England",
+        "parts": [
+          "Preston Capes",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625988245"
+      }
+    ],
+    "children": [
+      "I182625987601"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

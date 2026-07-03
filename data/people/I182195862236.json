@@ -1,0 +1,110 @@
+{
+  "id": "I182195862236",
+  "name": {
+    "given": "Maregaret",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Maregaret Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1922",
+        "year": 1922,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862116",
+      "I182195862117"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head: Daughter",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915226",
+      "title": "1940 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

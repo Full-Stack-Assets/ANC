@@ -1,0 +1,65 @@
+{
+  "id": "I182620317328",
+  "person": "Charles William Fitzgerald",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cathedral St Mary, Limerick, Limerick, Ireland",
+        "parts": [
+          "Cathedral St Mary",
+          "Limerick",
+          "Limerick",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Sep 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850773",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ireland, Ireland",
+        "parts": [
+          "Ireland",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

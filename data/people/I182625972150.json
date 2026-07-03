@@ -1,0 +1,73 @@
+{
+  "id": "I182625972150",
+  "name": {
+    "given": "Bartholomäus",
+    "surname": "Seemann",
+    "suffix": null,
+    "full": "Bartholomäus Seemann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Dec 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972155"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972146"
+      }
+    ],
+    "children": [
+      "I182625972115"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

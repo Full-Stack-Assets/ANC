@@ -1,0 +1,71 @@
+{
+  "id": "I182623690702",
+  "name": {
+    "given": "William",
+    "surname": "Allerton GGF",
+    "suffix": null,
+    "full": "William Allerton GGF"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1529",
+        "year": 1529,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alton, Wiltshire, England",
+        "parts": [
+          "Alton",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartington, Devonshire, England",
+        "parts": [
+          "Dartington",
+          "Devonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690786"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690690"
+      }
+    ],
+    "children": [
+      "I182623690650"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

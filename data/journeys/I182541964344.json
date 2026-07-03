@@ -1,0 +1,80 @@
+{
+  "id": "I182541964344",
+  "person": "Henry PAULLIN (Pawlin) (Palling)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "ENGLAND",
+        "parts": [
+          "ENGLAND"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bucks, Pennsylvania, USA",
+        "parts": [
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1684-1700",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508119566",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Pilesgrove Salem County, New Jersey",
+        "parts": [
+          "Pilesgrove Salem County",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

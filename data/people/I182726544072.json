@@ -1,0 +1,113 @@
+{
+  "id": "I182726544072",
+  "name": {
+    "given": "John",
+    "surname": "Baker",
+    "suffix": "(14thGGF)",
+    "full": "John Baker (14thGGF)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1495",
+        "year": 1495,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranbrook, Kent, England",
+        "parts": [
+          "Cranbrook",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranbrook, Kent, England",
+        "parts": [
+          "Cranbrook",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182726544073",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1527",
+            "year": 1527,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Cranbrook, Kent, England",
+            "parts": [
+              "Cranbrook",
+              "Kent",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182726543961"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

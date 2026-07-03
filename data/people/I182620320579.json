@@ -1,0 +1,74 @@
+{
+  "id": "I182620320579",
+  "name": {
+    "given": "Mårten",
+    "surname": "Larsson",
+    "suffix": "(Teit)",
+    "full": "Mårten Larsson (Teit)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tetom, Pernå, Etela-Suomen Laani, Finland",
+        "parts": [
+          "Tetom",
+          "Pernå",
+          "Etela-Suomen Laani",
+          "Finland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spjutsbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Spjutsbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620320663",
+      "I182620320638"
+    ],
+    "spouses": [
+      {
+        "id": "I182620320586"
+      }
+    ],
+    "children": [
+      "I182522975980"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

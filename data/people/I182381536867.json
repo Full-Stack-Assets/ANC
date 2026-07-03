@@ -1,0 +1,57 @@
+{
+  "id": "I182381536867",
+  "name": {
+    "given": "Margaret",
+    "surname": "MacKinnon",
+    "suffix": null,
+    "full": "Margaret MacKinnon"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Cable Head, Prince Edward Island, Canada",
+        "parts": [
+          "Cable Head",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381536871"
+      }
+    ],
+    "children": [
+      "I182195859033"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

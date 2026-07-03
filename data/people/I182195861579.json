@@ -1,0 +1,105 @@
+{
+  "id": "I182195861579",
+  "name": {
+    "given": "Måns",
+    "surname": "Månsson",
+    "suffix": null,
+    "full": "Måns Månsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Daretorp, Skattegården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Daretorp",
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Jun 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195861581",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 Jun 1703",
+            "year": 1703,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Velinga, Västra Götaland, Sweden",
+            "parts": [
+              "Velinga",
+              "Västra Götaland",
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195861582",
+      "I182195861583",
+      "I182195861510"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

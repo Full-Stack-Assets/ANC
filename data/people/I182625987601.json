@@ -1,0 +1,112 @@
+{
+  "id": "I182625987601",
+  "name": {
+    "given": "John",
+    "surname": "Thompson",
+    "suffix": null,
+    "full": "John Thompson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Sep 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales, Metropolitan Borough of Rotherham, South Yorkshire, England",
+        "parts": [
+          "Wales",
+          "Metropolitan Borough of Rotherham",
+          "South Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Jun 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middleboro, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Middleboro",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625988231",
+      "I182625988245"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541933967"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales",
+        "parts": [
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "16 Jun 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middleborough, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Middleborough",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182625987148",
+  "person": "Isak\\Issac S\\Tringham 11th GG",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Woonton, Almeley, Herefordshire, England",
+        "parts": [
+          "Woonton",
+          "Almeley",
+          "Herefordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1592/99/1601",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1669",
+        "year": 1669,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

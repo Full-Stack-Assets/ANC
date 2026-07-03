@@ -1,0 +1,74 @@
+{
+  "id": "I182623689856",
+  "name": {
+    "given": "Solomon",
+    "surname": "Coombs",
+    "suffix": null,
+    "full": "Solomon Coombs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Jan 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northampton, Hampshire, Massachusetts, USA",
+        "parts": [
+          "Northampton",
+          "Hampshire",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690069",
+      "I182623690040"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689841"
+      }
+    ],
+    "children": [
+      "I182623689787"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "I182625972155",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Truchsäss",
+    "suffix": null,
+    "full": "Anna Maria Truchsäss"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen Germany",
+        "parts": [
+          "Eberdingen Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625972150"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

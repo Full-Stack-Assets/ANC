@@ -1,0 +1,73 @@
+{
+  "id": "I182620314981",
+  "name": {
+    "given": "Dorryty",
+    "surname": "Grewe",
+    "suffix": null,
+    "full": "Dorryty Grewe"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Allendale, Northumberland, England",
+        "parts": [
+          "Allendale",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 May 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Allendale, Northumberland, Pennsylvania, United States",
+        "parts": [
+          "Allendale",
+          "Northumberland",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620314998",
+      "I182620314994"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314975"
+      }
+    ],
+    "children": [
+      "I182620314915"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

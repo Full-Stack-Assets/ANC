@@ -1,0 +1,55 @@
+{
+  "id": "I182623694376",
+  "person": "Dorothy 11GGM Elizabeth Usher Harwood Arrival 1630 Salem, MA",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St Christopher Le Stocks, London, England",
+        "parts": [
+          "St Christopher Le Stocks",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bethnal Green, Middlesex, England",
+        "parts": [
+          "Bethnal Green",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Apr 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

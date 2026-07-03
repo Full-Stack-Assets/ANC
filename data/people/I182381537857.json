@@ -1,0 +1,65 @@
+{
+  "id": "I182381537857",
+  "name": {
+    "given": "Owen",
+    "surname": "Williams",
+    "suffix": null,
+    "full": "Owen Williams"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pentraeth, Anglesey, Wales",
+        "parts": [
+          "Pentraeth",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537881",
+      "I182381537875"
+    ],
+    "spouses": [
+      {
+        "id": "I182594402074"
+      }
+    ],
+    "children": [
+      "I182381537850"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

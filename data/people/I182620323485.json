@@ -1,0 +1,71 @@
+{
+  "id": "I182620323485",
+  "name": {
+    "given": "(Major) Ranald (Raonull) Morth Og",
+    "surname": "MacDonald of Aberarder",
+    "suffix": null,
+    "full": "(Major) Ranald (Raonull) Morth Og MacDonald of Aberarder"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aberarder, Inverness-shire, Scotland, United Kingdom",
+        "parts": [
+          "Aberarder",
+          "Inverness-shire",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1789",
+        "year": 1789,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torn Aingeal, Cilli-Chaorraill, Scotland, United Kingdom",
+        "parts": [
+          "Torn Aingeal",
+          "Cilli-Chaorraill",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323483"
+      }
+    ],
+    "children": [
+      "I182620323392"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

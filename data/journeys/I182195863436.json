@@ -1,0 +1,54 @@
+{
+  "id": "I182195863436",
+  "person": "Mary Ann Cheesman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Old Upton, Gloucester, New Jersey",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Sept. 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Mongomery County,Washington Twp. Ohio",
+        "parts": [
+          "Mongomery County",
+          "Washington Twp. Ohio"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1840",
+        "year": 1840,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

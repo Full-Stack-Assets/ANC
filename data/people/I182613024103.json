@@ -1,0 +1,72 @@
+{
+  "id": "I182613024103",
+  "name": {
+    "given": "George Richard",
+    "surname": "Moore",
+    "suffix": " Sir",
+    "full": "George Richard Moore  Sir"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canterbury, Kent, England",
+        "parts": [
+          "Canterbury",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Oct 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St George Martyr, Canterbury, England",
+        "parts": [
+          "St George Martyr",
+          "Canterbury",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024116",
+      "I182613024135"
+    ],
+    "spouses": [
+      {
+        "id": "I182613024081"
+      }
+    ],
+    "children": [
+      "I182613024028"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

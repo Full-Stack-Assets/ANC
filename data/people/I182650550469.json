@@ -1,0 +1,66 @@
+{
+  "id": "I182650550469",
+  "name": {
+    "given": "Experience",
+    "surname": "Mitchell",
+    "suffix": null,
+    "full": "Experience Mitchell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Btn. 2 Jun 1685 and 14 May 1689",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550562",
+      "I182650550487"
+    ],
+    "spouses": [
+      {
+        "id": "I182650550468"
+      }
+    ],
+    "children": [
+      "I182650550451"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

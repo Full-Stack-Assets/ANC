@@ -1,0 +1,74 @@
+{
+  "id": "I182613112266",
+  "name": {
+    "given": "John",
+    "surname": "Fenno",
+    "suffix": null,
+    "full": "John Fenno"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112277",
+      "I182613112274"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112269"
+      }
+    ],
+    "children": [
+      "I182613112257"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182613112514",
+  "name": {
+    "given": "Josiah",
+    "surname": "Knight",
+    "suffix": null,
+    "full": "Josiah Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Apr 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Worcester, Worcester, Massachusetts",
+        "parts": [
+          "Worcester",
+          "Worcester",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 May 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113055",
+      "I182613113052"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112513"
+      }
+    ],
+    "children": [
+      "I182613112498"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

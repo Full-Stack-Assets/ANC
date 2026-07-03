@@ -1,0 +1,62 @@
+{
+  "id": "I182381537061",
+  "name": {
+    "given": "Robert",
+    "surname": "Ramage",
+    "suffix": null,
+    "full": "Robert Ramage"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prestonkirk, East Lothian, Scotland",
+        "parts": [
+          "Prestonkirk",
+          "East Lothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft / Abt 1689 / 90",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537057"
+      }
+    ],
+    "children": [
+      "I182381537041"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

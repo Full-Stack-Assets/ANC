@@ -1,0 +1,104 @@
+{
+  "id": "I182620326715",
+  "name": {
+    "given": "Jenkin",
+    "surname": "Mansel",
+    "suffix": null,
+    "full": "Jenkin Mansel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1461",
+        "year": 1461,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales",
+        "parts": [
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Apr 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chepstow, Monmouthshire, Wales",
+        "parts": [
+          "Chepstow",
+          "Monmouthshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620335913"
+    ],
+    "spouses": [
+      {
+        "id": "I182620327319"
+      }
+    ],
+    "children": [
+      "I182620325139"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Oxwich",
+        "parts": [
+          "Oxwich"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516621428",
+          "page": "A Genealogical and Heraldic History of The Commoners of Great Britain And Ireland Enjoying Territorial Possessions or High Official Rank: But Uninvested With Heritable Honours.; Chapter: History of the Commoners of Great Britain and Ireland.; Heading: Carn"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516621428",
+      "title": "Burke's Commoners of Great Britain and Ireland",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516621247",
+      "title": "Peerage of the United Kingdom and Ireland, Volumes I-IV",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

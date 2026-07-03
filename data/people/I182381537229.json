@@ -1,0 +1,52 @@
+{
+  "id": "I182381537229",
+  "name": {
+    "given": "Robert",
+    "surname": "Banks",
+    "suffix": null,
+    "full": "Robert Banks"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Jul 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edinburgh Parish, Edinburgh, Midlothian, Scotland",
+        "parts": [
+          "Edinburgh Parish",
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537274",
+      "I182381537266"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537227"
+      }
+    ],
+    "children": [
+      "I182381537136"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

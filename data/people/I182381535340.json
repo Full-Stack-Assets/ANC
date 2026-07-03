@@ -1,0 +1,72 @@
+{
+  "id": "I182381535340",
+  "name": {
+    "given": "Garret",
+    "surname": "Groff",
+    "suffix": null,
+    "full": "Garret Groff"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, New Jersey, Colonial America",
+        "parts": [
+          "Burlington",
+          "New Jersey",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 June 1797",
+        "year": 1797,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, New Jersey, United States",
+        "parts": [
+          "Salem",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535346",
+      "I182381535353"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535311"
+      }
+    ],
+    "children": [
+      "I182381535298"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

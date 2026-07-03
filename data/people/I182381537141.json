@@ -1,0 +1,68 @@
+{
+  "id": "I182381537141",
+  "name": {
+    "given": "Jean Tilda",
+    "surname": "Erskine",
+    "suffix": null,
+    "full": "Jean Tilda Erskine"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Nov 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dumbartonshire, Scotland",
+        "parts": [
+          "Dumbartonshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Jun 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glasgow, Lanarkshire, Scotland",
+        "parts": [
+          "Glasgow",
+          "Lanarkshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537144"
+      }
+    ],
+    "children": [
+      "I182381537131"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

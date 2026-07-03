@@ -1,0 +1,69 @@
+{
+  "id": "I182613025660",
+  "name": {
+    "given": "Annie or Agnes Or Anne",
+    "surname": "Perkins",
+    "suffix": "MrsWhathorne",
+    "full": "Annie or Agnes Or Anne Perkins MrsWhathorne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bray, Berkshire, England",
+        "parts": [
+          "Bray",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Feb 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bray, Berkshire, England",
+        "parts": [
+          "Bray",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613025663"
+      }
+    ],
+    "children": [
+      "I182613025652"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

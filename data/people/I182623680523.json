@@ -1,0 +1,73 @@
+{
+  "id": "I182623680523",
+  "name": {
+    "given": "Sir Thomas",
+    "surname": " Fulford, Knight",
+    "suffix": null,
+    "full": "Sir Thomas  Fulford, Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Fulford, Dunsford, Devon, England",
+        "parts": [
+          "Great Fulford",
+          "Dunsford",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 July 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunsford, Teignbridge District, Devon, England",
+        "parts": [
+          "Dunsford",
+          "Teignbridge District",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680539"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680534"
+      }
+    ],
+    "children": [
+      "I182623680509"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

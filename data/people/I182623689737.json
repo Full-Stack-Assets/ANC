@@ -1,0 +1,68 @@
+{
+  "id": "I182623689737",
+  "name": {
+    "given": "Philip",
+    "surname": "Cooke",
+    "suffix": null,
+    "full": "Philip Cooke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Apr 1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earles Calne, Essex, England",
+        "parts": [
+          "Earles Calne",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Feb 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Cambridge",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689753"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623689716"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

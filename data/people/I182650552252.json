@@ -1,0 +1,74 @@
+{
+  "id": "I182650552252",
+  "name": {
+    "given": "John",
+    "surname": "Decoster",
+    "suffix": null,
+    "full": "John Decoster"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Dec 1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 May 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckfield, Oxford, Maine, USA",
+        "parts": [
+          "Buckfield",
+          "Oxford",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age at Death: 80",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552492",
+      "I182650552496"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552243"
+      }
+    ],
+    "children": [
+      "I182613098449"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

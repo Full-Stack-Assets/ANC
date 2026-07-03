@@ -1,0 +1,288 @@
+{
+  "id": "I182613023944",
+  "name": {
+    "given": "John Benbow",
+    "surname": "Symonds",
+    "suffix": null,
+    "full": "John Benbow Symonds"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mendham, Suffolk, England, United Kingdom",
+        "parts": [
+          "Mendham",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Aug 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023967"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023943"
+      }
+    ],
+    "children": [
+      "I182613023925"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "07 September 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, , England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weybread, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Weybread",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yeldham, Essex, England, United Kingdom",
+        "parts": [
+          "Great Yeldham",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 December 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wickhambrook, Suffolk, Eng",
+        "parts": [
+          "Wickhambrook",
+          "Suffolk",
+          "Eng"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "8 Jul 1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Walsham, Norfolk, England",
+        "parts": [
+          "North Walsham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "4 Aug 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weybread, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Weybread",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "8 Jul 1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weybread, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Weybread",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Yarmouth, Norfolk, England, United Kingdom",
+        "parts": [
+          "Great Yarmouth",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

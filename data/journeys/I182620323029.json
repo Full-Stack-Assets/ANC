@@ -1,0 +1,56 @@
+{
+  "id": "I182620323029",
+  "person": "John Beaton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Isle of Skye, Highland, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Highland",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skye Glen, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Skye Glen",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 July 1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

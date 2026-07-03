@@ -1,0 +1,74 @@
+{
+  "id": "I182534044265",
+  "name": {
+    "given": "Jerg Schneider",
+    "surname": "Acorn Eychhorn Eichorn",
+    "suffix": null,
+    "full": "Jerg Schneider Acorn Eychhorn Eichorn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sonneberg, Sonneberg, Thueringen, Germany",
+        "parts": [
+          "Sonneberg",
+          "Sonneberg",
+          "Thueringen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sonneberg, Sonneberg, Thueringen, Germany",
+        "parts": [
+          "Sonneberg",
+          "Sonneberg",
+          "Thueringen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044283",
+      "I182534044279"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044275"
+      }
+    ],
+    "children": [
+      "I182534044250"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

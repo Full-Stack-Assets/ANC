@@ -1,0 +1,56 @@
+{
+  "id": "I182625972635",
+  "person": "Maria Barbara Langendörfer",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Urweiler, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Jun 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Aug 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

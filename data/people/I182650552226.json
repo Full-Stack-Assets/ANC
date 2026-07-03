@@ -1,0 +1,64 @@
+{
+  "id": "I182650552226",
+  "name": {
+    "given": "Thomas",
+    "surname": "Brightman",
+    "suffix": null,
+    "full": "Thomas Brightman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bedfordshire, England",
+        "parts": [
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Middletown, Newport, Rhode Island, USA",
+        "parts": [
+          "Middletown",
+          "Newport",
+          "Rhode Island",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552223"
+      }
+    ],
+    "children": [
+      "I182650551991"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

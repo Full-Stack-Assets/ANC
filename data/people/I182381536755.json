@@ -1,0 +1,65 @@
+{
+  "id": "I182381536755",
+  "name": {
+    "given": "Mary",
+    "surname": "Lowson",
+    "suffix": null,
+    "full": "Mary Lowson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "May 1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Guisborough, Yorkshire, England",
+        "parts": [
+          "Guisborough",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536782",
+      "I182381536775"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536767"
+      }
+    ],
+    "children": [
+      "I182381536186"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "I182381538146",
+  "name": {
+    "given": "Sabrina Elisabetha",
+    "surname": "Pfluger",
+    "suffix": null,
+    "full": "Sabrina Elisabetha Pfluger"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Jan 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hannover, Stadt Hannover, Niedersachsen, Germany",
+        "parts": [
+          "Hannover",
+          "Stadt Hannover",
+          "Niedersachsen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 July 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birch Hill Lot 49, Prince Edward Island",
+        "parts": [
+          "Birch Hill Lot 49",
+          "Prince Edward Island"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538174"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538164"
+      }
+    ],
+    "children": [
+      "I182195863385"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hannover, Stadt Hannover, Niedersachsen, Germany",
+        "parts": [
+          "Hannover",
+          "Stadt Hannover",
+          "Niedersachsen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "30 Jul 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mount Albion, Prince Edward Island, Canada",
+        "parts": [
+          "Mount Albion",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

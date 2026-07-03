@@ -1,0 +1,84 @@
+{
+  "id": "I182197444786",
+  "name": {
+    "given": "Hilda V.",
+    "surname": "Swanstrom",
+    "suffix": null,
+    "full": "Hilda V. Swanstrom"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Sweden",
+        "parts": [
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197444726",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "27 Sep 1911",
+            "year": 1911,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Springfield, Hampden, Massachusetts, USA",
+            "parts": [
+              "Springfield",
+              "Hampden",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

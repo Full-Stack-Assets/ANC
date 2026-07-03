@@ -1,0 +1,74 @@
+{
+  "id": "I182650552328",
+  "name": {
+    "given": "Hannah",
+    "surname": "Winchester",
+    "suffix": null,
+    "full": "Hannah Winchester"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "09 Feb 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Norfolk County, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Aug 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Norfolk County, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552352",
+      "I182650552346"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552337"
+      }
+    ],
+    "children": [
+      "I182650552260"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

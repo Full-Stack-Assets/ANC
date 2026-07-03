@@ -1,0 +1,55 @@
+{
+  "id": "I182381537850",
+  "person": "JOHN WILLIAMS *",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pentraeth, Anglesey, WALES",
+        "parts": [
+          "Pentraeth",
+          "Anglesey",
+          "WALES"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Jan 1679 / 80",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "(10)  Westchester Co, N.Y, USA",
+        "parts": [
+          "(10)  Westchester Co",
+          "N.Y",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 May 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

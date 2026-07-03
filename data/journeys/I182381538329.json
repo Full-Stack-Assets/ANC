@@ -1,0 +1,57 @@
+{
+  "id": "I182381538329",
+  "person": "Robert Kennedy",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Quinebaug, Windham, Connecticut, United States",
+        "parts": [
+          "Quinebaug",
+          "Windham",
+          "Connecticut",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Norwich, New London, Connecticut, United States",
+        "parts": [
+          "Norwich",
+          "New London",
+          "Connecticut",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 December 1804",
+        "year": 1804,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182625972837",
+  "person": "Anna Barbara Hahn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Heisterberg, St. Wendel, Saarland",
+        "parts": [
+          "Heisterberg",
+          "St. Wendel",
+          "Saarland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Dec 1663",
+        "year": 1663,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Heisterberg, St Wendel, Saarland, Germany",
+        "parts": [
+          "Heisterberg",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Oct 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

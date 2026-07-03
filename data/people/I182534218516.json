@@ -1,0 +1,92 @@
+{
+  "id": "I182534218516",
+  "name": {
+    "given": "Mary Ellen",
+    "surname": "Raferty",
+    "suffix": null,
+    "full": "Mary Ellen Raferty"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182534219436",
+      "I182534219435"
+    ],
+    "spouses": [
+      {
+        "id": "I182534218517"
+      }
+    ],
+    "children": [
+      "I182534218001",
+      "I182534219117",
+      "I182534219118",
+      "I182534219119",
+      "I182534219120",
+      "I182534219121",
+      "I182534219122"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "19 Oct 1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447252836",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447252836",
+      "title": "Massachusetts, Boston Archdiocese Roman Catholic Sacramental Records, 1789-1900",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506473951",
+      "title": "Liverpool, England, Catholic Baptisms, 1741-1919",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

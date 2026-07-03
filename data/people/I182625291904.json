@@ -1,0 +1,91 @@
+{
+  "id": "I182625291904",
+  "name": {
+    "given": "Thomas",
+    "surname": "Burton",
+    "suffix": null,
+    "full": "Thomas Burton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 09149 / 02"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182626058063",
+      "I182626058064"
+    ],
+    "spouses": [
+      {
+        "id": "I182726540466"
+      }
+    ],
+    "children": [
+      "I182625291737",
+      "I182726540469"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "21 Jul 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dublin, Ireland",
+        "parts": [
+          "Dublin",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 09149 / 02"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

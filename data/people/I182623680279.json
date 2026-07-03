@@ -1,0 +1,70 @@
+{
+  "id": "I182623680279",
+  "name": {
+    "given": "\"Elder\" Hatevil",
+    "surname": "Nutter",
+    "suffix": null,
+    "full": "\"Elder\" Hatevil Nutter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Kent or Harlington, Bedfordshire, England",
+        "parts": [
+          "Dover",
+          "Kent or Harlington",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Jun 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, United States",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680514",
+      "I182623680509"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623680266"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "I182625972460",
+  "name": {
+    "given": "Johannes",
+    "surname": "Riefer",
+    "suffix": null,
+    "full": "Johannes Riefer"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roschberg",
+        "parts": [
+          "Roschberg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jun 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972457"
+      }
+    ],
+    "children": [
+      "I182625972448"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roschberg, St Wendel, Saarland, Germany",
+        "parts": [
+          "Roschberg",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haute-Marne, Champagne-Ardenne, France",
+        "parts": [
+          "Haute-Marne",
+          "Champagne-Ardenne",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

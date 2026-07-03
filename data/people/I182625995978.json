@@ -1,0 +1,117 @@
+{
+  "id": "I182625995978",
+  "name": {
+    "given": "John Clark",
+    "surname": "Dilks*",
+    "suffix": null,
+    "full": "John Clark Dilks*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Aug 1847",
+        "year": 1847,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sicklerville, Camden, New Jersey, USA",
+        "parts": [
+          "Sicklerville",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1937",
+        "year": 1937,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sicklerville, Camden, New Jersey, USA",
+        "parts": [
+          "Sicklerville",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Burial 18 Nov 1937 in Sicklerville Methodist Cemetery.  Martha Ann McCurdy wife at time of his death.  Info from his Death Certificate signed by his son Jesse Mathis Dilks.",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625995969"
+      }
+    ],
+    "children": [
+      "I182625995941"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "09 Aug 1847",
+        "year": 1847,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sicklerville, Camden County, New Jersey, USA",
+        "parts": [
+          "Sicklerville",
+          "Camden County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1937",
+        "year": 1937,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sicklerville Methodist Cemetery, Sicklerville, Camden County, New Jersey, USA",
+        "parts": [
+          "Sicklerville Methodist Cemetery",
+          "Sicklerville",
+          "Camden County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

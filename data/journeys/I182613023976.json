@@ -1,0 +1,124 @@
+{
+  "id": "I182613023976",
+  "person": "Joane Smyth",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cratfield, Suffolk, England",
+        "parts": [
+          "Cratfield",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cratfield, Suffolk, England, United Kingdom",
+        "parts": [
+          "Cratfield",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 November 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Wrentham, Suffolk, England",
+        "parts": [
+          "Wrentham",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Jan 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008788",
+          "page": "The Tyler Collection, The Institute of Heraldic and Genealogical Studies; Kent, England, Tyler Index to Parish Registers, 1538-1874"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Kent",
+        "parts": [
+          "Kent"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Jun 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008788",
+          "page": "The Tyler Collection, The Institute of Heraldic and Genealogical Studies; Kent, England, Tyler Index to Parish Registers, 1538-1874"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

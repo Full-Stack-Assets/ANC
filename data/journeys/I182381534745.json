@@ -1,0 +1,57 @@
+{
+  "id": "I182381534745",
+  "person": "Samuel Jacob Elwell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pittsgrove, Salem, New Jersey, United States",
+        "parts": [
+          "Pittsgrove",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Sep 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

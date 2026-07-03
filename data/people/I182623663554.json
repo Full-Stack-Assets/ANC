@@ -1,0 +1,157 @@
+{
+  "id": "I182623663554",
+  "name": {
+    "given": "Alice Marie",
+    "surname": "Hohman",
+    "suffix": null,
+    "full": "Alice Marie Hohman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Nov 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Braddock, Allegheny, Pennsylvania, USA",
+        "parts": [
+          "North Braddock",
+          "Allegheny",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S516810523",
+          "page": null
+        },
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 April 1985",
+        "year": 1985,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pinellas County, Florida, United States of America",
+        "parts": [
+          "Pinellas County",
+          "Florida",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Largo, Pinellas County, Florida, United States of America",
+        "parts": [
+          "Largo",
+          "Pinellas County",
+          "Florida",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955589",
+      "I182623663553"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Braddock Ward 3, Allegheny, Pennsylvania, USA",
+        "parts": [
+          "North Braddock Ward 3",
+          "Allegheny",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: None; Marital Status: Single; Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810523",
+      "title": "Pennsylvania, U.S., Birth Certificates, 1906-1914",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

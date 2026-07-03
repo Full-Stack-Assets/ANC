@@ -1,0 +1,69 @@
+{
+  "id": "I182541967097",
+  "name": {
+    "given": "Joana",
+    "surname": "Harris (Powslake) (Martin)",
+    "suffix": null,
+    "full": "Joana Harris (Powslake) (Martin)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1544",
+        "year": 1544,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sherford,,Devon,England",
+        "parts": [
+          "Sherford",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Jun 1633",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sherford, , Devons, England",
+        "parts": [
+          "Sherford",
+          "Devons",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541967093"
+      }
+    ],
+    "children": [
+      "I182541967081"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

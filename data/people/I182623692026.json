@@ -1,0 +1,69 @@
+{
+  "id": "I182623692026",
+  "name": {
+    "given": "Mary ALICE WARD",
+    "surname": "Haney",
+    "suffix": null,
+    "full": "Mary ALICE WARD Haney"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Jul 1502",
+        "year": 1502,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barnstaple, Devon, England",
+        "parts": [
+          "Barnstaple",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623692033"
+      }
+    ],
+    "children": [
+      "I182623691995"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

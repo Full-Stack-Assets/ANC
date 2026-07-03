@@ -1,0 +1,74 @@
+{
+  "id": "I182195858601",
+  "name": {
+    "given": "Estella Myrtle",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Estella Myrtle Morrow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Apr 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "N Berwick, Maine, USA",
+        "parts": [
+          "N Berwick",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Oct 1932",
+        "year": 1932,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampton, New Hampshire, USA",
+        "parts": [
+          "Hampton",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858596",
+      "I182195858597"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

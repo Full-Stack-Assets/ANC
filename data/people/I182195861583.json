@@ -1,0 +1,55 @@
+{
+  "id": "I182195861583",
+  "name": {
+    "given": "Annicka",
+    "surname": "Månsdotter",
+    "suffix": null,
+    "full": "Annicka Månsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Dec 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backgården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Backgården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861579",
+      "I182195861581"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

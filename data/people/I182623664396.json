@@ -1,0 +1,69 @@
+{
+  "id": "I182623664396",
+  "name": {
+    "given": "Sir John II Lawrence",
+    "surname": "Earl of Ashton",
+    "suffix": null,
+    "full": "Sir John II Lawrence Earl of Ashton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Apr 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664390"
+      }
+    ],
+    "children": [
+      "I182623664375"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

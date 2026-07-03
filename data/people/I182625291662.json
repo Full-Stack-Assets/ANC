@@ -1,0 +1,113 @@
+{
+  "id": "I182625291662",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Allen",
+    "suffix": null,
+    "full": "Elizabeth Allen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1804",
+        "year": 1804,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Crewkerne, Somerset, England",
+        "parts": [
+          "Crewkerne",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "The National Archives (United Kingdom); Kew, Surrey, England; Registers of Births, Marriages and Deaths surrendered to the Non-parochial Registers Commissions of 1837 and 1857; Class Number: Rg 4; Piece Number: 1565"
+        },
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625291915",
+      "I182625291914"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625291060",
+      "I182625291661"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Mother",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Religion: Baptist",
+      "sources": [
+        {
+          "source_id": "",
+          "page": "The National Archives (United Kingdom); Kew, Surrey, England; Registers of Births, Marriages and Deaths surrendered to the Non-parochial Registers Commissions of 1837 and 1857; Class Number: Rg 4; Piece Number: 1565"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

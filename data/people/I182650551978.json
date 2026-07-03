@@ -1,0 +1,70 @@
+{
+  "id": "I182650551978",
+  "name": {
+    "given": "Hezekiah",
+    "surname": "Hoar \"Hoard\"",
+    "suffix": null,
+    "full": "Hezekiah Hoar \"Hoard\""
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Nov 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Taunton, Bristol, Massachusetts, USA",
+        "parts": [
+          "Taunton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 March 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newport, Newport Co, Rode Island",
+        "parts": [
+          "Newport",
+          "Newport Co",
+          "Rode Island"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551974"
+      }
+    ],
+    "children": [
+      "I182650551968"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

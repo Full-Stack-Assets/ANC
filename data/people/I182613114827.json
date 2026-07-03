@@ -1,0 +1,74 @@
+{
+  "id": "I182613114827",
+  "name": {
+    "given": "Margaret",
+    "surname": "de Vere",
+    "suffix": null,
+    "full": "Margaret de Vere"
+  },
+  "sex": null,
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1506",
+        "year": 1506,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Earls Colne, Braintree District, Essex, England",
+        "parts": [
+          "Earls Colne",
+          "Braintree District",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613114768",
+      "I182613114791",
+      "I182613114837"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

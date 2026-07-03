@@ -1,0 +1,71 @@
+{
+  "id": "I182623691605",
+  "name": {
+    "given": "David",
+    "surname": "French",
+    "suffix": ",Rev.",
+    "full": "David French ,Rev."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Aug 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Kingston",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Oct 1792",
+        "year": 1792,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Kingston",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691598"
+      }
+    ],
+    "children": [
+      "I182623691458"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

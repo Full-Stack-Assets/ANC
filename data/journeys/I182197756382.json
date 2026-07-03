@@ -1,0 +1,88 @@
+{
+  "id": "I182197756382",
+  "person": "Hannah String",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "New Jersey, United States of America",
+        "parts": [
+          "New Jersey",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 March 1782",
+        "year": 1782,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hancock County, Indiana, United States of America",
+        "parts": [
+          "Hancock County",
+          "Indiana",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 October 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Mount Comfort, Hancock County, Indiana, United States of America",
+        "parts": [
+          "Mount Comfort",
+          "Hancock County",
+          "Indiana",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

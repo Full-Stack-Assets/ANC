@@ -1,0 +1,68 @@
+{
+  "id": "I182623689649",
+  "name": {
+    "given": "Sir Knight William",
+    "surname": "Chester, Merchant of Lombard St.,",
+    "suffix": "Mayor of London, knighted by Queen Mary for his work on 2 pariliment issues",
+    "full": "Sir Knight William Chester, Merchant of Lombard St., Mayor of London, knighted by Queen Mary for his work on 2 pariliment issues"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1509",
+        "year": 1509,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge,England",
+        "parts": [
+          "Cambridge",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689670"
+      }
+    ],
+    "children": [
+      "I182623689611"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

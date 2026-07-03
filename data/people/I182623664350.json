@@ -1,0 +1,70 @@
+{
+  "id": "I182623664350",
+  "name": {
+    "given": "John Burnett",
+    "surname": "Burns",
+    "suffix": null,
+    "full": "John Burnett Burns"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Dec 1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Scotland, United Kingdom",
+        "parts": [
+          "Falkirk",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Dec 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nether Wyersdale, Lancashire, England, United Kingdom",
+        "parts": [
+          "Nether Wyersdale",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664346"
+      }
+    ],
+    "children": [
+      "I182587607863"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

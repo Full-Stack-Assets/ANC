@@ -1,0 +1,71 @@
+{
+  "id": "I182381535298",
+  "name": {
+    "given": "Garrett",
+    "surname": "Groff",
+    "suffix": null,
+    "full": "Garrett Groff"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, New Jersey, USA",
+        "parts": [
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey, USA",
+        "parts": [
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535340",
+      "I182381535311"
+    ],
+    "spouses": [
+      {
+        "id": "I182541958374"
+      }
+    ],
+    "children": [
+      "I182381535051"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,107 @@
+{
+  "id": "I182623681253",
+  "name": {
+    "given": "John",
+    "surname": "Presberye",
+    "suffix": null,
+    "full": "John Presberye"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520-1530",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bradley, Staffordshire, England",
+        "parts": [
+          "Bradley",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bradley, Staffordshire, England",
+        "parts": [
+          "Bradley",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623681239",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "24 Nov 1586",
+            "year": 1586,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Rolleston, Staffordshire, England",
+            "parts": [
+              "Rolleston",
+              "Staffordshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516810925",
+              "page": null
+            },
+            {
+              "source_id": "S516810925",
+              "page": "Place: Rolleston, Staffordshire, England; Date Range: 1579 - 1589; Film Number: 1526108"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182623681214"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810925",
+      "title": "England & Wales Marriages, 1538-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

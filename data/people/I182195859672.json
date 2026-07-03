@@ -1,0 +1,92 @@
+{
+  "id": "I182195859672",
+  "name": {
+    "given": "Sabina",
+    "surname": "Oldsdotter",
+    "suffix": null,
+    "full": "Sabina Oldsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Jun 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Dec 1909",
+        "year": 1909,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lundby, Västra Götaland, Sweden",
+        "parts": [
+          "Lundby",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195859671",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 Dec 1855",
+            "year": 1855,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Torsby, Göteborg Och Bohus, Sweden",
+            "parts": [
+              "Torsby",
+              "Göteborg Och Bohus",
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195859552",
+      "I182195859673"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "I182534044628",
+  "name": {
+    "given": "Kathleen Cecelia \"Kathy\"",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Kathleen Cecelia \"Kathy\" Donahue"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Dec 1942",
+        "year": 1942,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cincinnati, Hamilton Co., Ohio",
+        "parts": [
+          "Cincinnati",
+          "Hamilton Co.",
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620590",
+          "page": "V Todd Ferreira; Publication Place: MacClenny, FL, USA; URL: http://www.vtoddferreira.com/obituaries/api/search.json"
+        },
+        {
+          "source_id": "S513880303",
+          "page": "Legacy; Publication Place: FL, United States; URL: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=kathleen-kathy-cecilia-higginbotham&pid=185855839&fhid=18621"
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Jun 2017",
+        "year": 2017,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Orange Park, Clay Co., Florida",
+        "parts": [
+          "Orange Park",
+          "Clay Co.",
+          "Florida"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620590",
+          "page": "V Todd Ferreira; Publication Place: MacClenny, FL, USA; URL: http://www.vtoddferreira.com/obituaries/api/search.json"
+        },
+        {
+          "source_id": "S513880303",
+          "page": "Legacy; Publication Place: FL, United States; URL: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=kathleen-kathy-cecilia-higginbotham&pid=185855839&fhid=18621"
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Bryceville, Nassau County, Florida, United States of America",
+        "parts": [
+          "Bryceville",
+          "Nassau County",
+          "Florida",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880303",
+          "page": "Legacy; Publication Place: FL, United States; URL: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=kathleen-kathy-cecilia-higginbotham&pid=185855839&fhid=18621"
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195860029",
+      "I182659715006"
+    ],
+    "spouses": [
+      {
+        "id": "I182541936556"
+      }
+    ],
+    "children": [
+      "I182623638900",
+      "I182623638901",
+      "I182585309047",
+      "I182585309048"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Bryceville, Florida",
+        "parts": [
+          "Bryceville",
+          "Florida"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880303",
+          "page": "Legacy; Publication Place: FL, United States; URL: http://www.legacy.com/obituaries/timesunion/obituary.aspx?n=kathleen-kathy-cecilia-higginbotham&pid=185855839&fhid=18621"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Jacksonville",
+        "parts": [
+          "Jacksonville"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620590",
+          "page": "V Todd Ferreira; Publication Place: MacClenny, FL, USA; URL: http://www.vtoddferreira.com/obituaries/api/search.json"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516620590",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S513880303",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

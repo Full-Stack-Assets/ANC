@@ -1,0 +1,47 @@
+{
+  "id": "I182620322429",
+  "name": {
+    "given": "Peter",
+    "surname": "Oates",
+    "suffix": null,
+    "full": "Peter Oates"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Nov 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nova Scotia, Canada",
+        "parts": [
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322418"
+      }
+    ],
+    "children": [
+      "I182620322402"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625986361",
+  "name": {
+    "given": "Anne",
+    "surname": "Rasin  (Rason\\Roison)",
+    "suffix": null,
+    "full": "Anne Rasin  (Rason\\Roison)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 OCT 1611",
+        "year": 1611,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1691",
+        "year": 1691,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Leonard Shoreditch, Middlesex, England",
+        "parts": [
+          "St Leonard Shoreditch",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986383",
+      "I182625986392"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986356"
+      }
+    ],
+    "children": [
+      "I182625986319"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

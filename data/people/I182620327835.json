@@ -1,0 +1,41 @@
+{
+  "id": "I182620327835",
+  "name": {
+    "given": "Florence",
+    "surname": "Darrell",
+    "suffix": null,
+    "full": "Florence Darrell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1442",
+        "year": 1442,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620327791"
+      }
+    ],
+    "children": [
+      "I182620327459"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182381537046",
+  "name": {
+    "given": "James",
+    "surname": "Anderson",
+    "suffix": null,
+    "full": "James Anderson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Nov 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "South Leith, Midlothian, Scotland",
+        "parts": [
+          "South Leith",
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Oct 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "South Leith, Midlothian, Scotland",
+        "parts": [
+          "South Leith",
+          "Midlothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537085",
+      "I182381537072"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537041"
+      }
+    ],
+    "children": [
+      "I182381537023"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "I182613113346",
+  "name": {
+    "given": "Sarah (Lothrup)",
+    "surname": "Locke",
+    "suffix": null,
+    "full": "Sarah (Lothrup) Locke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stepney, London, England",
+        "parts": [
+          "Stepney",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "May 24, 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex Co. MA USA",
+        "parts": [
+          "Woburn",
+          "Middlesex Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113356"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113349"
+      }
+    ],
+    "children": [
+      "I182613113111"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoke Lacy, Herefordshire, England",
+        "parts": [
+          "Stoke Lacy",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

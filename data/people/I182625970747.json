@@ -1,0 +1,78 @@
+{
+  "id": "I182625970747",
+  "name": {
+    "given": "Joan (Lady Dowdeswell)",
+    "surname": "Mauncell Rogers",
+    "suffix": null,
+    "full": "Joan (Lady Dowdeswell) Mauncell Rogers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 Jan 1492",
+        "year": 1492,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dowdeswell, Gloucestershire, England",
+        "parts": [
+          "Dowdeswell",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Jan 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lower House Manor, Dowdeswell, Gloucestershire, England",
+        "parts": [
+          "Lower House Manor",
+          "Dowdeswell",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970745"
+      }
+    ],
+    "children": [
+      "I182625970719"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516957541",
+      "title": "Wiltshire, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

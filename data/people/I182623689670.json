@@ -1,0 +1,71 @@
+{
+  "id": "I182623689670",
+  "name": {
+    "given": " Elizabeth Ann Bury",
+    "surname": "Lovett",
+    "suffix": "Lady",
+    "full": " Elizabeth Ann Bury Lovett Lady"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ashwell, Northamptonshire, England",
+        "parts": [
+          "Ashwell",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Apr 1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampton Poyle, Oxfordshire, England",
+        "parts": [
+          "Hampton Poyle",
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689690"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689649"
+      }
+    ],
+    "children": [
+      "I182623689611"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

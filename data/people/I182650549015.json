@@ -1,0 +1,87 @@
+{
+  "id": "I182650549015",
+  "name": {
+    "given": "Anne Hannah",
+    "surname": "Childress",
+    "suffix": null,
+    "full": "Anne Hannah Childress"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1544",
+        "year": 1544,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, shire, Somerset, England, United Kingdom",
+        "parts": [
+          "Wincanton",
+          "shire",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 February 1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, Somerset, England, United Kingdom",
+        "parts": [
+          "Wincanton",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548981",
+      "I182650549010"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

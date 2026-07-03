@@ -1,0 +1,109 @@
+{
+  "id": "I182541960255",
+  "name": {
+    "given": "Lady Anne of Brittany",
+    "surname": "Fitzwilliam (COOKE)",
+    "suffix": null,
+    "full": "Lady Anne of Brittany Fitzwilliam (COOKE)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 Jan 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gainspark Hall, Romford, Essex, England, or Uttlesford District, Essex, England",
+        "parts": [
+          "Gainspark Hall",
+          "Romford",
+          "Essex",
+          "England",
+          "or Uttlesford District",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Sep 1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Romford, Essex, England",
+        "parts": [
+          "Romford",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Romford, London Borough of Havering, Greater London, England",
+        "parts": [
+          "Romford",
+          "London Borough of Havering",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541960231"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

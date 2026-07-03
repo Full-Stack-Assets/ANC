@@ -1,0 +1,91 @@
+{
+  "id": "I182625292165",
+  "person": "Phyllis Lorraine Holst",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "Boston",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 August 1934",
+        "year": 1934,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bellingham, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Bellingham",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 November 2010",
+        "year": 2010,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Braintree, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Braintree",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

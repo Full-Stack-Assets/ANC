@@ -1,0 +1,106 @@
+{
+  "id": "I182195859674",
+  "name": {
+    "given": "Mina Droulet",
+    "surname": "Stone",
+    "suffix": null,
+    "full": "Mina Droulet Stone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "North Adams, Massachisetts, USA",
+        "parts": [
+          "North Adams",
+          "Massachisetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1925",
+        "year": 1925,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541932733",
+      "I182541955092"
+    ],
+    "spouses": [
+      {
+        "id": "I182195859552",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "01 Sep 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195859678",
+      "I182195859679",
+      "I182195859676",
+      "I182195859677",
+      "I182195858330",
+      "I182195859680"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

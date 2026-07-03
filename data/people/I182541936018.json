@@ -1,0 +1,231 @@
+{
+  "id": "I182541936018",
+  "name": {
+    "given": "John Joseph",
+    "surname": "Regan",
+    "suffix": null,
+    "full": "John Joseph Regan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Dec 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Peterborough, Hillsborough, New Hampshire, United States",
+        "parts": [
+          "Peterborough",
+          "Hillsborough",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        },
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Brockton Ward 2, Plymouth, Massachusetts; Roll: T625_725; Page: 2A; Enumeration District: 48"
+        },
+        {
+          "source_id": "S447116012",
+          "page": "Year: 1910; Census Place: Brockton Ward 2, Plymouth, Massachusetts; Roll: T624_611; Page: 11a; Enumeration District: 1183; FHL microfilm: 1374624"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Feb 1944",
+        "year": 1944,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton MA USA",
+        "parts": [
+          "Brockton MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858187",
+      "I182195858188"
+    ],
+    "spouses": [
+      {
+        "id": "I182584906729",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "30 Jun 1897",
+            "year": 1897,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Brockton, Massachusetts, USA",
+            "parts": [
+              "Brockton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            },
+            {
+              "source_id": "S447115921",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182587612218",
+      "I182587612217",
+      "I182587612216",
+      "I182587612221",
+      "I182587612219",
+      "I182587612220"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": "Year: 1910; Census Place: Brockton Ward 2, Plymouth, Massachusetts; Roll: T624_611; Page: 11a; Enumeration District: 1183; FHL microfilm: 1374624"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 2, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 2",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": "Year: 1910; Census Place: Brockton Ward 2, Plymouth, Massachusetts; Roll: T624_611; Page: 11a; Enumeration District: 1183; FHL microfilm: 1374624"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton Ward 2, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton Ward 2",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Edge Trimmer; Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Brockton Ward 2, Plymouth, Massachusetts; Roll: T625_725; Page: 2A; Enumeration District: 48"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

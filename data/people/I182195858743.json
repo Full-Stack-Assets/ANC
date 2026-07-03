@@ -1,0 +1,157 @@
+{
+  "id": "I182195858743",
+  "name": {
+    "given": "Abigail Jenkins",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "Abigail Jenkins Swallow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 February 1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mt. Albion, Prince Edward Island, Canada",
+        "parts": [
+          "Mt. Albion",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Jul 1912",
+        "year": 1912,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858975",
+      "I182195858962"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858742",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1868-06-20",
+            "year": 1868,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Methodist Church, Pownal, Lot 49, Prince Edward Island, Canada",
+            "parts": [
+              "Methodist Church",
+              "Pownal",
+              "Lot 49",
+              "Prince Edward Island",
+              "Canada"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195858915",
+      "I182195858744",
+      "I182195858597",
+      "I182195858746",
+      "I182195858747",
+      "I182195858748",
+      "I182195858749",
+      "I182195858750",
+      "I182195858751",
+      "I182195858752",
+      "I182197769802",
+      "I182195858754",
+      "I182195858916",
+      "I182195858756",
+      "I182195858758",
+      "I182195858757"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lot 56, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Lot 56",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Wife",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447151101",
+      "title": "1891 Census of Canada",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

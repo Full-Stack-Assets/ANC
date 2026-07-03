@@ -1,0 +1,56 @@
+{
+  "id": "I182534218517",
+  "person": "James Donahoe",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Liverpool",
+        "parts": [
+          "Liverpool"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1803",
+        "year": 1803,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "5-15 - Ninety-fourth street",
+        "parts": [
+          "5-15 - Ninety-fourth street"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

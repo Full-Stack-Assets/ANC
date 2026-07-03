@@ -1,0 +1,92 @@
+{
+  "id": "I182195859447",
+  "person": "Avis Boyd",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1928",
+        "year": 1928,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Watertown, Middlesex, Massachusetts; Roll: m-t0627-01620; Page: 8A; Enumeration District: 9-598"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brighton, Massachusetts",
+        "parts": [
+          "Brighton",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Watertown, Middlesex, Massachusetts; Roll: m-t0627-01620; Page: 8A; Enumeration District: 9-598"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Watertown Town, Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown Town",
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Watertown, Middlesex, Massachusetts; Roll: m-t0627-01620; Page: 8A; Enumeration District: 9-598"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

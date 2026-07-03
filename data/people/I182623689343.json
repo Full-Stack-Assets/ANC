@@ -1,0 +1,49 @@
+{
+  "id": "I182623689343",
+  "name": {
+    "given": "Eor Fnu",
+    "surname": "Roe",
+    "suffix": null,
+    "full": "Eor Fnu Roe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "c 1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, Gloucestershire, England, United Kingdom",
+        "parts": [
+          "Gloucestershire",
+          "Gloucestershire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689333"
+      }
+    ],
+    "children": [
+      "I182623689303"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

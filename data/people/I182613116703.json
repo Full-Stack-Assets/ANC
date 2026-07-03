@@ -1,0 +1,100 @@
+{
+  "id": "I182613116703",
+  "name": {
+    "given": "Mary",
+    "surname": "de Waltham",
+    "suffix": null,
+    "full": "Mary de Waltham"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 October 1344",
+        "year": 1344,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishops Waltham, Eastleigh Borough, Hampshire, England",
+        "parts": [
+          "Bishops Waltham",
+          "Eastleigh Borough",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1362",
+        "year": 1362,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Abingdon, Vale of White Horse District, Oxfordshire, England",
+        "parts": [
+          "Abingdon",
+          "Vale of White Horse District",
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116531",
+      "I182613116656"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

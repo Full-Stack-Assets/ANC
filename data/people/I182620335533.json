@@ -1,0 +1,57 @@
+{
+  "id": "I182620335533",
+  "name": {
+    "given": "Anne",
+    "surname": "Mansell",
+    "suffix": null,
+    "full": "Anne Mansell"
+  },
+  "sex": "F",
+  "vitals": {
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Margam, Neath Port Talbot, Wales",
+        "parts": [
+          "Margam",
+          "Neath Port Talbot",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620325139"
+      }
+    ],
+    "children": [
+      "I182620335532",
+      "I182620335534"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

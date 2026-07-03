@@ -1,0 +1,101 @@
+{
+  "id": "I182198587013",
+  "name": {
+    "given": "Thomas",
+    "surname": "Rason",
+    "suffix": null,
+    "full": "Thomas Rason"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, , England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "18 Jun 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-Upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-Upon-Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541957369",
+      "I182381535899"
+    ],
+    "spouses": [
+      {
+        "id": "I182198587020"
+      }
+    ],
+    "children": [
+      "I182198586968"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447253093",
+      "title": "England, Select Births and Christenings, 1538-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

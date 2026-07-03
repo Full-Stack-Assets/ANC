@@ -1,0 +1,68 @@
+{
+  "id": "I182623690389",
+  "name": {
+    "given": "Jone Joane",
+    "surname": "Wodman Woodman",
+    "suffix": null,
+    "full": "Jone Joane Wodman Woodman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Jun 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westminster, St. Margaret, London, England",
+        "parts": [
+          "Westminster",
+          "St. Margaret",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Wiltshire, England",
+        "parts": [
+          "Salisbury",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690468"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623690314"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

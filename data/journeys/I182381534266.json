@@ -1,0 +1,61 @@
+{
+  "id": "I182381534266",
+  "person": "Geerlof Noirlander",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "January 1, 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 January 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182292319713",
+  "person": "Per Svensson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ramkvilla, Jönköpings län, Sweden",
+        "parts": [
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ramkvilla, Jönköpings län, Sweden",
+        "parts": [
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 JUL 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

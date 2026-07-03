@@ -1,0 +1,74 @@
+{
+  "id": "I182623688894",
+  "name": {
+    "given": "Ebenezer",
+    "surname": "Swan",
+    "suffix": null,
+    "full": "Ebenezer Swan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Nov 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 May 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623688907",
+      "I182623688906"
+    ],
+    "spouses": [
+      {
+        "id": "I182623688887"
+      }
+    ],
+    "children": [
+      "I182623688875"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

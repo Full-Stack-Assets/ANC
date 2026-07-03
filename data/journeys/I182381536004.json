@@ -1,0 +1,56 @@
+{
+  "id": "I182381536004",
+  "person": "Per Olofsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bommarsbo, Norrbärke Kopparberg",
+        "parts": [
+          "Bommarsbo",
+          "Norrbärke Kopparberg"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pehr Ols, Torberbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Pehr Ols",
+          "Torberbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 FEB 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

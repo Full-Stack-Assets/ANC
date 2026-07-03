@@ -1,0 +1,74 @@
+{
+  "id": "I182534044245",
+  "name": {
+    "given": "Elizabetha",
+    "surname": "Pell \\ Fell",
+    "suffix": null,
+    "full": "Elizabetha Pell \\ Fell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kieselbronn, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kieselbronn",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Nov 1747",
+        "year": 1747,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goebrichen (Neulingen), Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Goebrichen (Neulingen)",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044257",
+      "I182534044256"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044250"
+      }
+    ],
+    "children": [
+      "I182534044238"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

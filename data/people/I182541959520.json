@@ -1,0 +1,69 @@
+{
+  "id": "I182541959520",
+  "name": {
+    "given": "Mary",
+    "surname": "Brooks",
+    "suffix": null,
+    "full": "Mary Brooks"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Jul 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, MA",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jun 1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, MA",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959513"
+      }
+    ],
+    "children": [
+      "I182541959491"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

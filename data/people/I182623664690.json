@@ -1,0 +1,82 @@
+{
+  "id": "I182623664690",
+  "name": {
+    "given": "Thomas",
+    "surname": "Throckmorton",
+    "suffix": null,
+    "full": "Thomas Throckmorton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Throckmorton, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Throckmorton",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Fladbury, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Fladbury",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664699"
+      }
+    ],
+    "children": [
+      "I182623664553"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516021591",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

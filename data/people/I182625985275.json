@@ -1,0 +1,47 @@
+{
+  "id": "I182625985275",
+  "name": {
+    "given": "Robert",
+    "surname": "Williams",
+    "suffix": null,
+    "full": "Robert Williams"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625985286"
+      }
+    ],
+    "children": [
+      "I182625985231"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

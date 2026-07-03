@@ -1,0 +1,103 @@
+{
+  "id": "I182623679854",
+  "name": {
+    "given": "Samuel",
+    "surname": "Carll",
+    "suffix": null,
+    "full": "Samuel Carll"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "05 Oct 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, USA",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 May 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine, USA",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679874",
+      "I182623679868"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679692"
+      }
+    ],
+    "children": [
+      "I182623679551"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "05 Oct 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "13 May 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

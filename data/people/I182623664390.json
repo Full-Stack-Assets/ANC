@@ -1,0 +1,69 @@
+{
+  "id": "I182623664390",
+  "name": {
+    "given": "Lady Margaret Agnes",
+    "surname": "Holmes, Countess of Ashton  (m. Lawrence)",
+    "suffix": null,
+    "full": "Lady Margaret Agnes Holmes, Countess of Ashton  (m. Lawrence)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Jan 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rumburgh, Suffolk, England",
+        "parts": [
+          "Rumburgh",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664396"
+      }
+    ],
+    "children": [
+      "I182623664375"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

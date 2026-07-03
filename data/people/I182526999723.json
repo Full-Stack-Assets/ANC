@@ -1,0 +1,71 @@
+{
+  "id": "I182526999723",
+  "name": {
+    "given": "Jane",
+    "surname": "Hatche",
+    "suffix": null,
+    "full": "Jane Hatche"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alwington, Devon, England, United Kingdom",
+        "parts": [
+          "Alwington",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alwington, Devon, England, United Kingdom",
+        "parts": [
+          "Alwington",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182526999758"
+      }
+    ],
+    "children": [
+      "I182526999701"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

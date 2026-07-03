@@ -1,0 +1,74 @@
+{
+  "id": "I182623694585",
+  "name": {
+    "given": "Ebenezer",
+    "surname": "Rogers",
+    "suffix": "3",
+    "full": "Ebenezer Rogers 3"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 February 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Harwich",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 June 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lyme, New London, Connecticut, USA",
+        "parts": [
+          "Lyme",
+          "New London",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694624",
+      "I182623694617"
+    ],
+    "spouses": [
+      {
+        "id": "I182623694579"
+      }
+    ],
+    "children": [
+      "I182623691271"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

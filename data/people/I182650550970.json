@@ -1,0 +1,91 @@
+{
+  "id": "I182650550970",
+  "name": {
+    "given": "Elizabeth",
+    "surname": null,
+    "suffix": null,
+    "full": "Elizabeth"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "04 Sep 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ludwell, Wiltshire, England",
+        "parts": [
+          "Ludwell",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650550963",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "26 Mar 1543",
+            "year": 1543,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Wiltshire, Wiltshire, England",
+            "parts": [
+              "Wiltshire",
+              "Wiltshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182650550886"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "I182381534590",
+  "name": {
+    "given": "Mary E.",
+    "surname": "Rankins",
+    "suffix": null,
+    "full": "Mary E. Rankins"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1847",
+        "year": 1847,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pedricktown, Salem, New Jersey, USA",
+        "parts": [
+          "Pedricktown",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541936381",
+      "I182541955123"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534551"
+      }
+    ],
+    "children": [
+      "I182195862467"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

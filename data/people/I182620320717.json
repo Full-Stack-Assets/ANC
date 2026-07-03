@@ -1,0 +1,65 @@
+{
+  "id": "I182620320717",
+  "name": {
+    "given": "Christina Larsdotter",
+    "surname": "Olofsson",
+    "suffix": null,
+    "full": "Christina Larsdotter Olofsson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 januari 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 januari 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ramsberg, Västmanland, Sverige",
+        "parts": [
+          "Ramsberg",
+          "Västmanland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182522976051"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

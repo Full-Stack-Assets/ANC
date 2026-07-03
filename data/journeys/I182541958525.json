@@ -1,0 +1,61 @@
+{
+  "id": "I182541958525",
+  "person": "Raymond E Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 April 1918",
+        "year": 1918,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "NJ",
+        "parts": [
+          "NJ"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 October 1971",
+        "year": 1971,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

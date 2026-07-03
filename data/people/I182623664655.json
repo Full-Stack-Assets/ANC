@@ -1,0 +1,119 @@
+{
+  "id": "I182623664655",
+  "name": {
+    "given": "Lady Anne\\Ann",
+    "surname": "Freville-Burgoyne-Bosum",
+    "suffix": null,
+    "full": "Lady Anne\\Ann Freville-Burgoyne-Bosum"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "england",
+        "parts": [
+          "england"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810631",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "20 Feb 1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Crediton, Devon, England",
+        "parts": [
+          "Crediton",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810631",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664658"
+      }
+    ],
+    "children": [
+      "I182623664640"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Religion: Anglican",
+      "sources": [
+        {
+          "source_id": "S516810631",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516810631",
+      "title": "Devon, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "I182528279217",
+  "name": {
+    "given": "William",
+    "surname": "Bunker",
+    "suffix": null,
+    "full": "William Bunker"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Jun 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tingrith, Bedfordshire, England",
+        "parts": [
+          "Tingrith",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Jul 1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182382755290"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

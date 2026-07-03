@@ -1,0 +1,73 @@
+{
+  "id": "I182650548770",
+  "name": {
+    "given": "Thomas",
+    "surname": "Langley",
+    "suffix": null,
+    "full": "Thomas Langley"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 July 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548825"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548767"
+      }
+    ],
+    "children": [
+      "I182650548761"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

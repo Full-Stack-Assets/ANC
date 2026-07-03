@@ -1,0 +1,73 @@
+{
+  "id": "I182625986581",
+  "name": {
+    "given": "Richard",
+    "surname": "Valentine",
+    "suffix": "III",
+    "full": "Richard Valentine III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Apr 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Queens, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Queens",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Feb 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elizabeth, Essex County, New Jersey, USA",
+        "parts": [
+          "Elizabeth",
+          "Essex County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986598"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986572"
+      }
+    ],
+    "children": [
+      "I182625986323"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "I182789736731",
+  "name": {
+    "given": "Edmund \"Benjamin\"",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Edmund \"Benjamin\" Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River, Queens, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "Queens",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 May 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789735735"
+    ],
+    "spouses": [],
+    "children": [
+      "I182789736762"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

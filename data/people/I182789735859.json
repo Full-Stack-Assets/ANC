@@ -1,0 +1,85 @@
+{
+  "id": "I182789735859",
+  "name": {
+    "given": "Benjamin Elisha",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Benjamin Elisha Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jan 1801",
+        "year": 1801,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lot 38, Prince Edward Island, Canada",
+        "parts": [
+          "Lot 38",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Feb 1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mount Stewart, PEI, Canada",
+        "parts": [
+          "Mount Stewart",
+          "PEI",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789735397"
+    ],
+    "spouses": [],
+    "children": [
+      "I182789736872"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

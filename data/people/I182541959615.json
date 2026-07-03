@@ -1,0 +1,72 @@
+{
+  "id": "I182541959615",
+  "name": {
+    "given": "Henry",
+    "surname": "Townsend Esquire of Blacknashe",
+    "suffix": null,
+    "full": "Henry Townsend Esquire of Blacknashe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 May 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bracon Ash, Norfolk, , England",
+        "parts": [
+          "Bracon Ash",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Aug 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norwich, Norfolk, , England",
+        "parts": [
+          "Norwich",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959636",
+      "I182541959630"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959599"
+      }
+    ],
+    "children": [
+      "I182541959577"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

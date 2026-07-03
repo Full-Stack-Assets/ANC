@@ -1,0 +1,75 @@
+{
+  "id": "I182195862459",
+  "person": "Mary Ann Shone",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Glassboro, New Jersey",
+        "parts": [
+          "Glassboro",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Oct 1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "NJ",
+        "parts": [
+          "NJ"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Center Township, Camden, New Jersey",
+        "parts": [
+          "Center Township",
+          "Camden",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Sep 1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

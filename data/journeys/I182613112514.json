@@ -1,0 +1,55 @@
+{
+  "id": "I182613112514",
+  "person": "Josiah Knight",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Worcester, Worcester, Massachusetts",
+        "parts": [
+          "Worcester",
+          "Worcester",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Apr 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 May 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182623689047",
+  "name": {
+    "given": "Edward Robert",
+    "surname": "Allerton, father of Isaac I",
+    "suffix": null,
+    "full": "Edward Robert Allerton, father of Isaac I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Oct 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Dionis Backchurch, London, England",
+        "parts": [
+          "St Dionis Backchurch",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Jan 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Dionis Backchurch, London, England",
+        "parts": [
+          "St Dionis Backchurch",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689215",
+      "I182623689183"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689031"
+      }
+    ],
+    "children": [
+      "I182623689017"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

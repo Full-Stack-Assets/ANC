@@ -1,0 +1,137 @@
+{
+  "id": "I182625986319",
+  "name": {
+    "given": "Thomas",
+    "surname": "Cheesman",
+    "suffix": null,
+    "full": "Thomas Cheesman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-Upon-Thames, Royal Borough of Kingston upon Thames, Greater London, England",
+        "parts": [
+          "Kingston-Upon-Thames",
+          "Royal Borough of Kingston upon Thames",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nassau County, New York, United States of America",
+        "parts": [
+          "Nassau County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986356",
+      "I182625986361"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986323"
+      }
+    ],
+    "children": [
+      "I182625986316"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oyster Bay, Nassau, New York, United States",
+        "parts": [
+          "Oyster Bay",
+          "Nassau",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "NY",
+        "parts": [
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Long Island City, Queens County, New York, United States of America",
+        "parts": [
+          "Long Island City",
+          "Queens County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

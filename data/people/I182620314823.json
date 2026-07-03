@@ -1,0 +1,73 @@
+{
+  "id": "I182620314823",
+  "name": {
+    "given": "Jonathan",
+    "surname": "Pine",
+    "suffix": null,
+    "full": "Jonathan Pine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cape May, Cape May, New Jersey, United States",
+        "parts": [
+          "Cape May",
+          "Cape May",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 May 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elizabethtown, Essex, New Jersey, United States",
+        "parts": [
+          "Elizabethtown",
+          "Essex",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620321916"
+    ],
+    "spouses": [
+      {
+        "id": "I182587603057"
+      }
+    ],
+    "children": [
+      "I182541957605"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

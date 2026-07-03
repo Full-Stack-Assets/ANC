@@ -1,0 +1,97 @@
+{
+  "id": "I182623679868",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Hall",
+    "suffix": null,
+    "full": "Elizabeth Hall"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Nov 1663",
+        "year": 1663,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oyster River, Strafford, New Hampshire, United States",
+        "parts": [
+          "Oyster River",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Woodbridge, Middlesex, New Jersey, United States",
+        "parts": [
+          "Woodbridge",
+          "Middlesex",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680251",
+      "I182623680069"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679874"
+      }
+    ],
+    "children": [
+      "I182623679854"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 Nov 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oyster River, Strafford, New Hampshire, United States",
+        "parts": [
+          "Oyster River",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

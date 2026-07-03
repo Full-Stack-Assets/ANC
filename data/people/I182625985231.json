@@ -1,0 +1,102 @@
+{
+  "id": "I182625985231",
+  "name": {
+    "given": "Thomas",
+    "surname": "Williams",
+    "suffix": "Sr",
+    "full": "Thomas Williams Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Nov 1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620476",
+          "page": "Extracted Church of England Parish Records; Title: Various publications of parish and probate records"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "18 Apr 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620476",
+          "page": "Extracted Church of England Parish Records; Title: Various publications of parish and probate records"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625985275",
+      "I182625985286"
+    ],
+    "spouses": [
+      {
+        "id": "I182625985253"
+      }
+    ],
+    "children": [
+      "I182625985214"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516620476",
+      "title": "Shropshire, England, Extracted Church of England Parish Records, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

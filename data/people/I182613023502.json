@@ -1,0 +1,49 @@
+{
+  "id": "I182613023502",
+  "name": {
+    "given": "Nellie F",
+    "surname": "DeCosta",
+    "suffix": null,
+    "full": "Nellie F DeCosta"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jan 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023524",
+      "I182613023530"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023513"
+      }
+    ],
+    "children": [
+      "I182536798044"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

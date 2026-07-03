@@ -1,0 +1,70 @@
+{
+  "id": "I182292318250",
+  "name": {
+    "given": "Annika",
+    "surname": "Olsdotter",
+    "suffix": null,
+    "full": "Annika Olsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 MAY 1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Önne",
+        "parts": [
+          "Myckleby",
+          "Önne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tegneby, Lunnaslätt",
+        "parts": [
+          "Tegneby",
+          "Lunnaslätt"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319587",
+      "I182292319579"
+    ],
+    "spouses": [
+      {
+        "id": "I182292318241"
+      }
+    ],
+    "children": [
+      "I182197443214"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

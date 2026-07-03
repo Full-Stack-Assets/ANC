@@ -1,0 +1,71 @@
+{
+  "id": "I182381536240",
+  "name": {
+    "given": "Eunice",
+    "surname": "Myrick",
+    "suffix": null,
+    "full": "Eunice Myrick"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 June 1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Jan 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Peters Bay, Prince Edward Island, Canada",
+        "parts": [
+          "St Peters Bay",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536245"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536354"
+      }
+    ],
+    "children": [
+      "I182197770003"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

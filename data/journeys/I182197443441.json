@@ -1,0 +1,65 @@
+{
+  "id": "I182197443441",
+  "person": "Maria Larsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1755-1852",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115812",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Karlstad, Varmland, Sweden",
+        "parts": [
+          "Karlstad",
+          "Varmland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Sep 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115848",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

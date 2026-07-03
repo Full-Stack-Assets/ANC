@@ -1,0 +1,55 @@
+{
+  "id": "I182625292261",
+  "person": "George Festus Owen II",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cork, Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Cork",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brookhaven, Suffolk, New York Colony",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "New York Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

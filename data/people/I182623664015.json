@@ -1,0 +1,103 @@
+{
+  "id": "I182623664015",
+  "name": {
+    "given": "Valentin",
+    "surname": "SCHEIG (SALING)",
+    "suffix": null,
+    "full": "Valentin SCHEIG (SALING)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse, Germany",
+        "parts": [
+          "Hesse",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810572",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "14 Oct 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stahlberg, Dielkirchen, Bayern, Germany",
+        "parts": [
+          "Stahlberg",
+          "Dielkirchen",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810572",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664160"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663979"
+      }
+    ],
+    "children": [
+      "I182623663846"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810572",
+      "title": "Germany, Select Deaths and Burials, 1582-1958",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

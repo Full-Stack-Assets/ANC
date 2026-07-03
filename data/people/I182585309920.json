@@ -1,0 +1,178 @@
+{
+  "id": "I182585309920",
+  "name": {
+    "given": "Mary",
+    "surname": "Donahue",
+    "suffix": null,
+    "full": "Mary Donahue"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1840–1911"
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S447146440",
+          "page": null
+        },
+        {
+          "source_id": "S447115751",
+          "page": "Year: 1900; Census Place: Boston Ward 12, Suffolk, Massachusetts; Roll: 681; Page: 5; Enumeration District: 1335"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182659714418",
+      "I182659714420"
+    ],
+    "spouses": [
+      {
+        "id": "I182541939915"
+      }
+    ],
+    "children": [
+      "I182585309922",
+      "I182585309921",
+      "I182659716955"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Housekeeper; Marital Status: Married; Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": "Year: 1900; Census Place: Boston Ward 12, Suffolk, Massachusetts; Roll: 681; Page: 5; Enumeration District: 1335"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 12, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 12",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Lodger",
+      "sources": [
+        {
+          "source_id": "S447115751",
+          "page": "Year: 1900; Census Place: Boston Ward 12, Suffolk, Massachusetts; Roll: 681; Page: 5; Enumeration District: 1335"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115905",
+      "title": "Massachusetts, Death Records, 1841-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447146440",
+      "title": "1880 United States Federal Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115751",
+      "title": "1900 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

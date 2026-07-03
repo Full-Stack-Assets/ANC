@@ -1,0 +1,68 @@
+{
+  "id": "I182381538515",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Glauner",
+    "suffix": null,
+    "full": "Anna Maria Glauner"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Leonberg",
+        "parts": [
+          "Leonberg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Feb 1721",
+        "year": 1721,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rutesheim, Böblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "Rutesheim",
+          "Böblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538520"
+      }
+    ],
+    "children": [
+      "I182381538486"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

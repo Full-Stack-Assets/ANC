@@ -1,0 +1,48 @@
+{
+  "id": "I182381535600",
+  "name": {
+    "given": "Elizabeth",
+    "surname": null,
+    "suffix": null,
+    "full": "Elizabeth"
+  },
+  "sex": "F",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Apr 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elton, Huntingdon, England",
+        "parts": [
+          "Elton",
+          "Huntingdon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535609"
+      }
+    ],
+    "children": [
+      "I182381535591"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

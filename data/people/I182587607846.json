@@ -1,0 +1,48 @@
+{
+  "id": "I182587607846",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Simervell",
+    "suffix": null,
+    "full": "Elizabeth Simervell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664296"
+    ],
+    "spouses": [
+      {
+        "id": "I182587607863"
+      }
+    ],
+    "children": [
+      "I182587607735"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

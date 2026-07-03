@@ -1,0 +1,184 @@
+{
+  "id": "I182197444088",
+  "person": "Maria Kristina Johansdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hjo, Sverige",
+        "parts": [
+          "Hjo",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S446915028",
+          "page": null
+        },
+        {
+          "source_id": "S447115794",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skaraborg",
+        "parts": [
+          "Skaraborg"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "departure",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Oct 1929",
+        "year": 1929,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115786",
+          "page": null
+        },
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "North Easton, Bristol, Massachusetts, USA",
+        "parts": [
+          "North Easton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Oct 1929",
+        "year": 1929,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Amerika",
+        "parts": [
+          "Amerika"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "arrival",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

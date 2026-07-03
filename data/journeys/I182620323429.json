@@ -1,0 +1,56 @@
+{
+  "id": "I182620323429",
+  "person": "Malcolm MacLeod",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Raasay, Inverness-shire, Scotland",
+        "parts": [
+          "Raasay",
+          "Inverness-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Big Intervale, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Big Intervale",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

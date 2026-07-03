@@ -1,0 +1,71 @@
+{
+  "id": "I182613112479",
+  "name": {
+    "given": "Pamela",
+    "surname": "Reynolds",
+    "suffix": null,
+    "full": "Pamela Reynolds"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Feb 1886",
+        "year": 1886,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551391",
+      "I182650551382"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112485"
+      }
+    ],
+    "children": [
+      "I182613112469"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

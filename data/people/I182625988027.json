@@ -1,0 +1,68 @@
+{
+  "id": "I182625988027",
+  "name": {
+    "given": " Baroness Anne of Sleaford (Sent to the Tower of London)",
+    "surname": "Grey",
+    "suffix": null,
+    "full": " Baroness Anne of Sleaford (Sent to the Tower of London) Grey"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ruthin, Denbighshire, Clwyd, Wales, United Kingdom",
+        "parts": [
+          "Ruthin",
+          "Denbighshire",
+          "Clwyd",
+          "Wales",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 February 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sleaford, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Sleaford",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625987786"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

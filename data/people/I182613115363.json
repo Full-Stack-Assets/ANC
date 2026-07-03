@@ -1,0 +1,112 @@
+{
+  "id": "I182613115363",
+  "name": {
+    "given": "Maude",
+    "surname": "Montague",
+    "suffix": null,
+    "full": "Maude Montague"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1360",
+        "year": 1360,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Wiltshire Unitary Authority, Wiltshire, England",
+        "parts": [
+          "Salisbury",
+          "Wiltshire Unitary Authority",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1424",
+        "year": 1424,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bisham, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Bisham",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Bisham, Windsor and Maidenhead Royal Borough, Berkshire, England",
+        "parts": [
+          "Bisham",
+          "Windsor and Maidenhead Royal Borough",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613115364"
+      }
+    ],
+    "children": [
+      "I182613115454",
+      "I182613114831"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

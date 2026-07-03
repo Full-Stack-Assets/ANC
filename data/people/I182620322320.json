@@ -1,0 +1,69 @@
+{
+  "id": "I182620322320",
+  "name": {
+    "given": "Venerande",
+    "surname": "Poirier",
+    "suffix": null,
+    "full": "Venerande Poirier"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Jul 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree Harbour, Inverness, NS Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Inverness",
+          "NS Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree Harbour, Inverness, NS Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Inverness",
+          "NS Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322339"
+      }
+    ],
+    "children": [
+      "I182620322296"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

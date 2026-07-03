@@ -1,0 +1,69 @@
+{
+  "id": "I182620322649",
+  "name": {
+    "given": "Thomas Edward",
+    "surname": "Boyd",
+    "suffix": null,
+    "full": "Thomas Edward Boyd"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Sussex, Kings, New Brunswick, Canada",
+        "parts": [
+          "Sussex",
+          "Kings",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Sussex, Kings, New Brunswick, Canada",
+        "parts": [
+          "Sussex",
+          "Kings",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322638"
+      }
+    ],
+    "children": [
+      "I182620322491"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

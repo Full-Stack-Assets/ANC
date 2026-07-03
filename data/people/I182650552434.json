@@ -1,0 +1,70 @@
+{
+  "id": "I182650552434",
+  "name": {
+    "given": "Richard",
+    "surname": "Sealis",
+    "suffix": null,
+    "full": "Richard Sealis"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 November 1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Biddenden, Kent, England",
+        "parts": [
+          "Biddenden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Mar 1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552430"
+      }
+    ],
+    "children": [
+      "I182650552425"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

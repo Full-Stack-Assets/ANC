@@ -1,0 +1,48 @@
+{
+  "id": "I182197443388",
+  "name": {
+    "given": "Maria",
+    "surname": "Ählström",
+    "suffix": null,
+    "full": "Maria Ählström"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Dec",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Borås, Älvsborg, Sweden",
+        "parts": [
+          "Borås",
+          "Älvsborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197443344"
+      }
+    ],
+    "children": [
+      "I182197443234"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

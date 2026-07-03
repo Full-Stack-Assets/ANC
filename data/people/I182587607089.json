@@ -1,0 +1,58 @@
+{
+  "id": "I182587607089",
+  "name": {
+    "given": "Lijsbet",
+    "surname": "Huberts",
+    "suffix": null,
+    "full": "Lijsbet Huberts"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607076"
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

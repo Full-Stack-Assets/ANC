@@ -1,0 +1,52 @@
+{
+  "id": "I182195863492",
+  "person": "Thomas Holt Jackson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "NJ",
+        "parts": [
+          "NJ"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "about 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New Jersey, United States",
+        "parts": [
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Jan 1796",
+        "year": 1796,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

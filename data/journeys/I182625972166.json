@@ -1,0 +1,53 @@
+{
+  "id": "I182625972166",
+  "person": "HENRY HUFFMAN",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hesse-Kassel, Germany",
+        "parts": [
+          "Hesse-Kassel",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Monroe Co., OH.",
+        "parts": [
+          "Monroe Co.",
+          "OH."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

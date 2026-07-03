@@ -1,0 +1,61 @@
+{
+  "id": "I182541959817",
+  "person": "John Thomas Larkin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Surrey, Surrey, England, United Kingdom",
+        "parts": [
+          "Surrey",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Feb 1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "On, board, ship, from, England, to, Virginia, USA",
+        "parts": [
+          "On",
+          "board",
+          "ship",
+          "from",
+          "England",
+          "to",
+          "Virginia",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

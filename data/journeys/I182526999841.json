@@ -1,0 +1,57 @@
+{
+  "id": "I182526999841",
+  "person": "David Hawkins Crist",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Montgomery, Orange County, New York, USA",
+        "parts": [
+          "Montgomery",
+          "Orange County",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lansing, Allamakee County, Iowa, United States of America",
+        "parts": [
+          "Lansing",
+          "Allamakee County",
+          "Iowa",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Dec 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

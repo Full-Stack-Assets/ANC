@@ -1,0 +1,73 @@
+{
+  "id": "I182381537723",
+  "name": {
+    "given": "Eleanor Pell",
+    "surname": "Hunt",
+    "suffix": null,
+    "full": "Eleanor Pell Hunt"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Mar 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maidenhead, Hunterdon, New Jersey, United States",
+        "parts": [
+          "Maidenhead",
+          "Hunterdon",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Jan 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Digby, Nova Scotia, Canada",
+        "parts": [
+          "Digby",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537754",
+      "I182381537747"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537740"
+      }
+    ],
+    "children": [
+      "I182381537712"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

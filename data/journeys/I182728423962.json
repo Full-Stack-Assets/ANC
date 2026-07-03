@@ -1,0 +1,56 @@
+{
+  "id": "I182728423962",
+  "person": "Olof Arfvidsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kolseröd, Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Kolseröd",
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 NOV 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

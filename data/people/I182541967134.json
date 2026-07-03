@@ -1,0 +1,67 @@
+{
+  "id": "I182541967134",
+  "name": {
+    "given": "Adam",
+    "surname": "Finmore",
+    "suffix": null,
+    "full": "Adam Finmore"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Berkshire, England",
+        "parts": [
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Feb 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Berkshire, England",
+        "parts": [
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541967128"
+      }
+    ],
+    "children": [
+      "I182541966053"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

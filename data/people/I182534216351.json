@@ -1,0 +1,183 @@
+{
+  "id": "I182534216351",
+  "name": {
+    "given": "Florence",
+    "surname": "Donahoe",
+    "suffix": null,
+    "full": "Florence Donahoe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Boston Ward 5, Suffolk, Massachusetts; Roll: M593_643; Page: 371A"
+        },
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Sep 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534218001",
+      "I182534218002"
+    ],
+    "spouses": [
+      {
+        "id": "I182534216353"
+      }
+    ],
+    "children": [
+      "I182534045110",
+      "I182534216352",
+      "I182534216354",
+      "I182534216796"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 7, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 7",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Residence Post Office: Boston",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston Ward 5, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston Ward 5",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Residence Post Office: 103 Bedford St Boston",
+      "sources": [
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Boston Ward 5, Suffolk, Massachusetts; Roll: M593_643; Page: 371A"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115905",
+      "title": "Massachusetts, Death Records, 1841-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506473118",
+      "title": "1870 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506473136",
+      "title": "1860 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

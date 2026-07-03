@@ -1,0 +1,114 @@
+{
+  "id": "I182623663946",
+  "name": {
+    "given": "Nicolas",
+    "surname": "Lerner Lermen",
+    "suffix": null,
+    "full": "Nicolas Lerner Lermen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Jun 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Apr 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Wendel, Saarland, Germany",
+        "parts": [
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972646",
+      "I182625972635"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663944"
+      }
+    ],
+    "children": [
+      "I182623663832"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baltersweiler, Saarland, Deu",
+        "parts": [
+          "Baltersweiler",
+          "Saarland",
+          "Deu"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "19 April 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

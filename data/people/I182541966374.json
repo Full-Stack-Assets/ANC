@@ -1,0 +1,71 @@
+{
+  "id": "I182541966374",
+  "name": {
+    "given": "Nathaniel",
+    "surname": "Colburn\\Colborne",
+    "suffix": null,
+    "full": "Nathaniel Colburn\\Colborne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Jan 1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, MA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 September 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk Co., MA, Massachusetts, USA",
+        "parts": [
+          "Dedham",
+          "Norfolk Co.",
+          "MA",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966376"
+      }
+    ],
+    "children": [
+      "I182541966287"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

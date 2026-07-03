@@ -1,0 +1,117 @@
+{
+  "id": "I182625971049",
+  "name": {
+    "given": "Richard Mathew Lord Cooke",
+    "surname": "Hull Hill Hylle of Crewkorne",
+    "suffix": null,
+    "full": "Richard Mathew Lord Cooke Hull Hill Hylle of Crewkorne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "December 1495",
+        "year": 1495,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kidderminster, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Kidderminster",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 May 1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kidderminster, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Kidderminster",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625971085",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1514",
+            "year": 1514,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "England, England, United Kingdom",
+            "parts": [
+              "England",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625970960"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

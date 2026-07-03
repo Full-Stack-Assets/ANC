@@ -1,0 +1,90 @@
+{
+  "id": "I182625981492",
+  "person": "Margaret Bourchier",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hambleton District, North Yorkshire, England",
+        "parts": [
+          "Hambleton District",
+          "North Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "June 1468",
+        "year": 1468,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cheddington, Aylesbury Vale District, Buckinghamshire, England",
+        "parts": [
+          "Cheddington",
+          "Aylesbury Vale District",
+          "Buckinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "June 1551",
+        "year": 1551,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Cheddington, Aylesbury Vale District, Buckinghamshire, England",
+        "parts": [
+          "Cheddington",
+          "Aylesbury Vale District",
+          "Buckinghamshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182381538520",
+  "name": {
+    "given": "Jakob",
+    "surname": "Pfluger",
+    "suffix": null,
+    "full": "Jakob Pfluger"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiernsheim, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Wiernsheim",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiernsheim, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Wiernsheim",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538515"
+      }
+    ],
+    "children": [
+      "I182381538486"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

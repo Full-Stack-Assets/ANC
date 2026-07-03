@@ -1,0 +1,66 @@
+{
+  "id": "I182381536914",
+  "name": {
+    "given": "John",
+    "surname": "Glass",
+    "suffix": null,
+    "full": "John Glass"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Nov 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Ninians, Stirlingshire, Scotland",
+        "parts": [
+          "St. Ninians",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Stirlingshire, Scotland",
+        "parts": [
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587607661",
+      "I182587607649"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536900"
+      }
+    ],
+    "children": [
+      "I182381536888"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

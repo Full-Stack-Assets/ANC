@@ -1,0 +1,71 @@
+{
+  "id": "I182197443214",
+  "name": {
+    "given": "Sven Johan",
+    "surname": "Samuelsson",
+    "suffix": null,
+    "full": "Sven Johan Samuelsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 apr 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langelanda och Torp Parish, Goteborg och Bohus County, Sweden",
+        "parts": [
+          "Langelanda och Torp Parish",
+          "Goteborg och Bohus County",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 dec 1877",
+        "year": 1877,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goteborg och Bohus County, Sweden",
+        "parts": [
+          "Goteborg och Bohus County",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292318241",
+      "I182292318250"
+    ],
+    "spouses": [
+      {
+        "id": "I182292318217"
+      }
+    ],
+    "children": [
+      "I182197442974"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

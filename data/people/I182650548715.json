@@ -1,0 +1,61 @@
+{
+  "id": "I182650548715",
+  "name": {
+    "given": "Börta",
+    "surname": "Larsdotter",
+    "suffix": null,
+    "full": "Börta Larsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Nov 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 maj 1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik N.Uppg, Stala (O)",
+        "parts": [
+          "Hjälmvik N.Uppg",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650548669"
+      }
+    ],
+    "children": [
+      "I182391485866"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

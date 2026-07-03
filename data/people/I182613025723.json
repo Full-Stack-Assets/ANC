@@ -1,0 +1,179 @@
+{
+  "id": "I182613025723",
+  "name": {
+    "given": "Elizabeth Hearne",
+    "surname": "Whipple",
+    "suffix": null,
+    "full": "Elizabeth Hearne Whipple"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dickleburgh, Norfolk, England",
+        "parts": [
+          "Dickleburgh",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tibenham, Norfolk, England",
+        "parts": [
+          "Tibenham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025793",
+      "I182613025789"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025712"
+      }
+    ],
+    "children": [
+      "I182613025680"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tibenham, Norfolk, England",
+        "parts": [
+          "Tibenham",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tibenham, Norfolk, England, United Kingdom",
+        "parts": [
+          "Tibenham",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "abt 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "St Botolph Aldgate, London, Middlesex, England",
+        "parts": [
+          "St Botolph Aldgate",
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "06 October 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chearsley, England",
+        "parts": [
+          "Chearsley",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "March 1616",
+        "year": 1616,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chearsley, England, United Kingdom",
+        "parts": [
+          "Chearsley",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

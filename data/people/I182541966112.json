@@ -1,0 +1,92 @@
+{
+  "id": "I182541966112",
+  "name": {
+    "given": "Humphrie",
+    "surname": "Thomas",
+    "suffix": null,
+    "full": "Humphrie Thomas"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jan 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Minver Lowlands, Cornwall, England, United Kingdom",
+        "parts": [
+          "St. Minver Lowlands",
+          "Cornwall",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cornwall, Cornwall, England, United Kingdom",
+        "parts": [
+          "Cornwall",
+          "Cornwall",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966119",
+      "I182541966123"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966116"
+      }
+    ],
+    "children": [
+      "I182541966108"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182587607764",
+  "name": {
+    "given": "Marion",
+    "surname": "Hunter",
+    "suffix": null,
+    "full": "Marion Hunter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Apr 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Culross, Perthshire, Scotland",
+        "parts": [
+          "Culross",
+          "Perthshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "BEF 10 Jul 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Fifeshire, Scotland",
+        "parts": [
+          "Fifeshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587607797",
+      "I182587607813"
+    ],
+    "spouses": [
+      {
+        "id": "I182587607757"
+      }
+    ],
+    "children": [
+      "I182381536919"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

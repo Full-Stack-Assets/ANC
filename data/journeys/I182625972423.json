@@ -1,0 +1,56 @@
+{
+  "id": "I182625972423",
+  "person": "Maria Schweitzer",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St.Wendel, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "St.Wendel",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "um 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St. Wendel, Saarland, Deutschland",
+        "parts": [
+          "St. Wendel",
+          "Saarland",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

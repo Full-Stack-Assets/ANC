@@ -1,0 +1,129 @@
+{
+  "id": "I182625971041",
+  "name": {
+    "given": "Sir Richard",
+    "surname": "Glover*",
+    "suffix": null,
+    "full": "Sir Richard Glover*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1511",
+        "year": 1511,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Martin Hussington, Worcester, England",
+        "parts": [
+          "Martin Hussington",
+          "Worcester",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516021591",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Martin Hussington, Worcester, England",
+        "parts": [
+          "Martin Hussington",
+          "Worcester",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625971057"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970960",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "27 Aug 1534",
+            "year": 1534,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Areley Kings, Worcestershire, England",
+            "parts": [
+              "Areley Kings",
+              "Worcestershire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625970866",
+      "I182625971082",
+      "I182625971084",
+      "I182625971083"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516021591",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

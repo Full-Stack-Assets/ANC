@@ -1,0 +1,88 @@
+{
+  "id": "I182623664555",
+  "name": {
+    "given": "Lady Eleanor",
+    "surname": "De La Spine Spinney",
+    "suffix": null,
+    "full": "Lady Eleanor De La Spine Spinney"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton, Stratford-on-Avon District, Warwickshire, England",
+        "parts": [
+          "Coughton",
+          "Stratford-on-Avon District",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fladbury, Worcestershire, England",
+        "parts": [
+          "Fladbury",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664730",
+      "I182623664723"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664553"
+      }
+    ],
+    "children": [
+      "I182623664551"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516021591",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810665",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

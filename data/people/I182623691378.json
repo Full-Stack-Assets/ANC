@@ -1,0 +1,129 @@
+{
+  "id": "I182623691378",
+  "name": {
+    "given": "Melissa",
+    "surname": "Green Owen",
+    "suffix": null,
+    "full": "Melissa Green Owen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "07 Aug 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Mar 1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodbury, Washington, Vermont, USA",
+        "parts": [
+          "Woodbury",
+          "Washington",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691429",
+      "I182623691418"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691382"
+      }
+    ],
+    "children": [
+      "I182623679443"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 Aug 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont",
+        "parts": [
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "7 Aug 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lake Elmore, Vermont, USA",
+        "parts": [
+          "Lake Elmore",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "9 Mar 1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

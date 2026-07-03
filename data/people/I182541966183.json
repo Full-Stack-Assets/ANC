@@ -1,0 +1,73 @@
+{
+  "id": "I182541966183",
+  "name": {
+    "given": "Deborah",
+    "surname": "Mansfield",
+    "suffix": null,
+    "full": "Deborah Mansfield"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 Dec 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, MA, USA; American Genealogical-Biographical Index (AGBI)",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "MA",
+          "USA; American Genealogical-Biographical Index (AGBI)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966193"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966184"
+      }
+    ],
+    "children": [
+      "I182541966176"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

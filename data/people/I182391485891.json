@@ -1,0 +1,44 @@
+{
+  "id": "I182391485891",
+  "name": {
+    "given": "Annika",
+    "surname": "Torbjörnsdotter",
+    "suffix": null,
+    "full": "Annika Torbjörnsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182391485910",
+      "I182391485906"
+    ],
+    "spouses": [
+      {
+        "id": "I182391485866"
+      }
+    ],
+    "children": [
+      "I182382755763"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

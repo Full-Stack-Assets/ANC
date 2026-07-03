@@ -1,0 +1,73 @@
+{
+  "id": "I182613025712",
+  "name": {
+    "given": "William",
+    "surname": "Hearne",
+    "suffix": null,
+    "full": "William Hearne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tibenham, Norfolk, England, United Kingdom",
+        "parts": [
+          "Tibenham",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "October 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tibenham, Norfolk, England, United Kingdom",
+        "parts": [
+          "Tibenham",
+          "Norfolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025803"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025723"
+      }
+    ],
+    "children": [
+      "I182613025680"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

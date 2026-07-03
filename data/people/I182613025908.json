@@ -1,0 +1,126 @@
+{
+  "id": "I182613025908",
+  "name": {
+    "given": "John",
+    "surname": "Johnson",
+    "suffix": null,
+    "full": "John Johnson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canterbury, Kent, England, United Kingdom",
+        "parts": [
+          "Canterbury",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 September 1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026232",
+      "I182613026220"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025909",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 September 1613",
+            "year": 1613,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ware, Hertfordshire, England, United Kingdom",
+            "parts": [
+              "Ware",
+              "Hertfordshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613025624"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

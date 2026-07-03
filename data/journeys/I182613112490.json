@@ -1,0 +1,57 @@
+{
+  "id": "I182613112490",
+  "person": "Belinda Fraser",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire, USA",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1792",
+        "year": 1792,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Westmoreland, Cheshire County, New Hampshire, United States of America",
+        "parts": [
+          "Westmoreland",
+          "Cheshire County",
+          "New Hampshire",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 June 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

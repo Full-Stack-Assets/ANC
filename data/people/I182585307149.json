@@ -1,0 +1,129 @@
+{
+  "id": "I182585307149",
+  "name": {
+    "given": "Owen",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Owen Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": "Class: RG11; Piece: 3011; Folio: 89; Page: 16; GSU roll: 1341719"
+        },
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182585312542",
+      "I182587608923"
+    ],
+    "spouses": [
+      {
+        "id": "I182585307148"
+      }
+    ],
+    "children": [
+      "I182585307146",
+      "I182195857641",
+      "I182585307147",
+      "I182585307150"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, Warwickshire, England",
+        "parts": [
+          "St Mark",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birmingham, Warwickshire, England",
+        "parts": [
+          "Birmingham",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Pauper Inmate; Occupation: Bricklayers Labourer",
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": "Class: RG11; Piece: 3011; Folio: 89; Page: 16; GSU roll: 1341719"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516021907",
+      "title": "1881 England Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

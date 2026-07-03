@@ -1,0 +1,65 @@
+{
+  "id": "I182620315134",
+  "name": {
+    "given": "John",
+    "surname": "Crosby",
+    "suffix": null,
+    "full": "John Crosby"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Jan 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Settle, Craven District, North Yorkshire, England",
+        "parts": [
+          "Settle",
+          "Craven District",
+          "North Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Settle, Craven District, North Yorkshire, England",
+        "parts": [
+          "Settle",
+          "Craven District",
+          "North Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315152",
+      "I182620315146"
+    ],
+    "spouses": [],
+    "children": [
+      "I182620315063"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

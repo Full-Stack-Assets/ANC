@@ -1,0 +1,124 @@
+{
+  "id": "I182623679053",
+  "name": {
+    "given": "John",
+    "surname": "Sullivan",
+    "suffix": null,
+    "full": "John Sullivan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1808",
+        "year": 1808,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": "The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: New Bedford, Bristol, Massachusetts; Roll: 309; Page: 301b"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Jul 1848",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fall River, Massachusetts, USA",
+        "parts": [
+          "Fall River",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "According to the Quincy death register, John Sullivan died in an accident at age 40.",
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623679034"
+      }
+    ],
+    "children": [
+      "I182623679008",
+      "I182623679114",
+      "I182623679113",
+      "I182623679111",
+      "I182623679112"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Bedford, Bristol, Massachusetts, USA",
+        "parts": [
+          "New Bedford",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Laborer",
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": "The National Archives in Washington, DC; Record Group: Records of the Bureau of the Census; Record Group Number: 29; Series Number: M432; Residence Date: 1850; Home in 1850: New Bedford, Bristol, Massachusetts; Roll: 309; Page: 301b"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146252",
+      "title": "1850 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

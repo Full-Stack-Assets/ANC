@@ -1,0 +1,127 @@
+{
+  "id": "I182625982481",
+  "name": {
+    "given": "George",
+    "surname": "Boleyn",
+    "suffix": null,
+    "full": "George Boleyn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blickling, Broadland District, Norfolk, England",
+        "parts": [
+          "Blickling",
+          "Broadland District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 May 1536",
+        "year": 1536,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tower Hamlets, London Borough of Tower Hamlets, Greater London, England",
+        "parts": [
+          "Tower Hamlets",
+          "London Borough of Tower Hamlets",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Wapping, London Borough of Tower Hamlets, Greater London, England",
+        "parts": [
+          "Wapping",
+          "London Borough of Tower Hamlets",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982482",
+      "I182625982382"
+    ],
+    "spouses": [
+      {
+        "id": "I182625982735"
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

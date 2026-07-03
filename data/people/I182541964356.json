@@ -1,0 +1,91 @@
+{
+  "id": "I182541964356",
+  "name": {
+    "given": "Anthony",
+    "surname": "Whitlock",
+    "suffix": null,
+    "full": "Anthony Whitlock"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Paulerspury, Northamptonshire, England",
+        "parts": [
+          "Paulerspury",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964389"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964361"
+      }
+    ],
+    "children": [
+      "I182541959142"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "22 Sep 1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Paulerspury, Northamptonshire, England",
+        "parts": [
+          "Paulerspury",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

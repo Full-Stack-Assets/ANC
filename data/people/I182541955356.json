@@ -1,0 +1,77 @@
+{
+  "id": "I182541955356",
+  "name": {
+    "given": "Constance Marie",
+    "surname": "Ronn",
+    "suffix": null,
+    "full": "Constance Marie Ronn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Dec 1926",
+        "year": 1926,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plainfield, New Jersey",
+        "parts": [
+          "Plainfield",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Jan 1985",
+        "year": 1985,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955338"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541955367"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

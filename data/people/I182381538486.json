@@ -1,0 +1,72 @@
+{
+  "id": "I182381538486",
+  "name": {
+    "given": "Johann Georg",
+    "surname": "Pflüger",
+    "suffix": null,
+    "full": "Johann Georg Pflüger"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Feb 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rutesheim, Böblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "Rutesheim",
+          "Böblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Sep 1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wirensheim, Germany",
+        "parts": [
+          "Wirensheim",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538520",
+      "I182381538515"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538484"
+      }
+    ],
+    "children": [
+      "I182381538174"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

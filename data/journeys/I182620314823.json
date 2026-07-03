@@ -1,0 +1,57 @@
+{
+  "id": "I182620314823",
+  "person": "Jonathan Pine",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cape May, Cape May, New Jersey, United States",
+        "parts": [
+          "Cape May",
+          "Cape May",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Elizabethtown, Essex, New Jersey, United States",
+        "parts": [
+          "Elizabethtown",
+          "Essex",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 May 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

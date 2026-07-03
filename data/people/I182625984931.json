@@ -1,0 +1,70 @@
+{
+  "id": "I182625984931",
+  "name": {
+    "given": "James",
+    "surname": "Pyne",
+    "suffix": null,
+    "full": "James Pyne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 June 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Jun 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Livingston, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Livingston",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625984928"
+      }
+    ],
+    "children": [
+      "I182625984824"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

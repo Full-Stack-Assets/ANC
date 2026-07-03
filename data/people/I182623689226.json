@@ -1,0 +1,69 @@
+{
+  "id": "I182623689226",
+  "name": {
+    "given": "Elizabeth Casterdon",
+    "surname": "Costerdine*",
+    "suffix": null,
+    "full": "Elizabeth Casterdon Costerdine*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alton, Wiltshire, England",
+        "parts": [
+          "Alton",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rochdale, Cheshire, England",
+        "parts": [
+          "Rochdale",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689235"
+      }
+    ],
+    "children": [
+      "I182623689183"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

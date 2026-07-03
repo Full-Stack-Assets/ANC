@@ -1,0 +1,69 @@
+{
+  "id": "I182613025999",
+  "name": {
+    "given": "*Joane\\Jane",
+    "surname": "HARRISON",
+    "suffix": "COUNTESS",
+    "full": "*Joane\\Jane HARRISON COUNTESS"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 December 1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waltham Abbey, Essex, England",
+        "parts": [
+          "Waltham Abbey",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 May 1597",
+        "year": 1597,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Leonard Shoreditch, Middlesex, England",
+        "parts": [
+          "St Leonard Shoreditch",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613026009"
+      }
+    ],
+    "children": [
+      "I182613025993"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182623686781",
+  "name": {
+    "given": "John",
+    "surname": "Leffingwell",
+    "suffix": null,
+    "full": "John Leffingwell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Colne, Essex, England",
+        "parts": [
+          "Earls Colne",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Colne, Essex, ENGLAND",
+        "parts": [
+          "Earls Colne",
+          "Essex",
+          "ENGLAND"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686843"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686776"
+      }
+    ],
+    "children": [
+      "I182623682553"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

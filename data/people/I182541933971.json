@@ -1,0 +1,73 @@
+{
+  "id": "I182541933971",
+  "name": {
+    "given": "Mary",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Mary Taber"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Mar 1677",
+        "year": 1677,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508112731",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541933966",
+      "I182541933967"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S516961293",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508112731",
+      "title": "Mayflower Births and Deaths, Vol. 1 and 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516961293",
+      "title": "Massachusetts, U.S., Wills and Probate Records, 1635-1991",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

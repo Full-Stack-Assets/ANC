@@ -1,0 +1,97 @@
+{
+  "id": "I182623681574",
+  "name": {
+    "given": "Lady Frances Emma",
+    "surname": "James",
+    "suffix": null,
+    "full": "Lady Frances Emma James"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassenbury, Kent, England, United Kingdom",
+        "parts": [
+          "Glassenbury",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 February 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassenbury, Kent, England, United Kingdom",
+        "parts": [
+          "Glassenbury",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681607",
+      "I182623681601"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681567"
+      }
+    ],
+    "children": [
+      "I182623681530"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Glassenbury, Kent, England, United Kingdom",
+        "parts": [
+          "Glassenbury",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

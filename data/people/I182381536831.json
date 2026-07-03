@@ -1,0 +1,50 @@
+{
+  "id": "I182381536831",
+  "name": {
+    "given": "James",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "James Swallow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Huddersfield, Yorkshire, England",
+        "parts": [
+          "Huddersfield",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536841"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536820"
+      }
+    ],
+    "children": [
+      "I182381536817"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "I182526999552",
+  "name": {
+    "given": "William",
+    "surname": "Upton or Uppeton",
+    "suffix": null,
+    "full": "William Upton or Uppeton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton Ferrers, Devon, England",
+        "parts": [
+          "Newton Ferrers",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jun 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton Ferrers, Devon, England",
+        "parts": [
+          "Newton Ferrers",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999607",
+      "I182526999619"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999578"
+      }
+    ],
+    "children": [
+      "I182526999535"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "9 July 1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton Ferrers, Devon, England",
+        "parts": [
+          "Newton Ferrers",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

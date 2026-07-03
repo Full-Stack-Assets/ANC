@@ -1,0 +1,52 @@
+{
+  "id": "I182623664253",
+  "name": {
+    "given": "Agnes",
+    "surname": "Liddell",
+    "suffix": null,
+    "full": "Agnes Liddell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "est 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": "EST"
+      },
+      "place": {
+        "raw": "of Prestonpans, East Lothianshire, Scotland, Europe",
+        "parts": [
+          "of Prestonpans",
+          "East Lothianshire",
+          "Scotland",
+          "Europe"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664266",
+      "I182623664277"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664247"
+      }
+    ],
+    "children": [
+      "I182587607883"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

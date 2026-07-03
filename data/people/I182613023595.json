@@ -1,0 +1,162 @@
+{
+  "id": "I182613023595",
+  "name": {
+    "given": "Phebe",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Phebe Smith"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Aug 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boxford, Essex, Massachusetts, British America",
+        "parts": [
+          "Boxford",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW). Source: Fam Data Col - Ind Recs (pars, date, loc).  Jesse N Smith Herit Found (pars, date, loc).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Jan 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": "Solid (TBW). Sources: Fam Data Col - Ind Recs (date, loc). NE Mars Prior to 1700 (yr). SAR App (yr). MA Town & Vit Recs, Topsfield (date, loc). Abt Towne (date cites 14 Jan 1739/40, loc). NE Hist & Gen Reg v21 (date).  Towne Fam Mem (date).",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023613"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023600"
+      }
+    ],
+    "children": [
+      "I182613023590"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 Aug 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, British America",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW). MA Town & Vit Recs, Topsfield (fath, date, loc). Am Bio Gen Ind (yr, st). NE Hist & Gen Reg v21 (fath, date).  Towne Fam Mem (fath, date).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 Aug 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rowley, Essex, Massachusetts, British America",
+        "parts": [
+          "Rowley",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW).  Source: Abt Towne (pars, date, loc).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 Aug 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, British America",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW). Source: Mil File (date, loc). US and Int Mar Recs 1 (yr). US and Intl Mar Recs 2 (yr, st). US & Int Mar Recs 3 (yr). NE Mars Prior to 1700 (yr). SAR App (yr).  Col Fams of US v3 (pars, date).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "14 Jan 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, British America",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "cont:  Jesse N Smith Herit Found (date, loc).",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

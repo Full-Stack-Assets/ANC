@@ -1,0 +1,73 @@
+{
+  "id": "I182650552256",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Linfield",
+    "suffix": null,
+    "full": "Elizabeth Linfield"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 October 1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Braintree",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Nov 1827",
+        "year": 1827,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts,",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552275",
+      "I182650552266"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552260"
+      }
+    ],
+    "children": [
+      "I182650552243"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

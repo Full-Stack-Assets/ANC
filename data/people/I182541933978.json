@@ -1,0 +1,51 @@
+{
+  "id": "I182541933978",
+  "name": {
+    "given": "Abigail",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Abigail Taber"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 May 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508112731",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541933966",
+      "I182541933967"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508112731",
+      "title": "Mayflower Births and Deaths, Vol. 1 and 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

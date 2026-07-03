@@ -1,0 +1,74 @@
+{
+  "id": "I182613112387",
+  "name": {
+    "given": "Alice",
+    "surname": "Lockey",
+    "suffix": null,
+    "full": "Alice Lockey"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilton/Newton Tony, Wiltshire, England, United Kingdom",
+        "parts": [
+          "Wilton/Newton Tony",
+          "Wiltshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton Toney, Wiltshire, England, United Kingdom",
+        "parts": [
+          "Newton Toney",
+          "Wiltshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112423",
+      "I182613112417"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112400"
+      }
+    ],
+    "children": [
+      "I182613112382"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

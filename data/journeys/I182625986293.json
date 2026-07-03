@@ -1,0 +1,56 @@
+{
+  "id": "I182625986293",
+  "person": "Peter C Cheeseman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Old Upton, Gloucester, NJ",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "NJ"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Jun 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gloucester, Gloucester, New Jersey, United States",
+        "parts": [
+          "Gloucester",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Jun 1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

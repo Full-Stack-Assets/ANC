@@ -1,0 +1,67 @@
+{
+  "id": "I182625972206",
+  "name": {
+    "given": "Leonhardt",
+    "surname": "Spring",
+    "suffix": null,
+    "full": "Leonhardt Spring"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aug 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972202"
+      }
+    ],
+    "children": [
+      "I182625972197"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

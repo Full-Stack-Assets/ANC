@@ -1,0 +1,119 @@
+{
+  "id": "I182623691579",
+  "name": {
+    "given": "Fortunatus",
+    "surname": "Howe",
+    "suffix": null,
+    "full": "Fortunatus Howe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Mar 1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, British Colonial America",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "British Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Dec 1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691752",
+      "I182623691745"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691563"
+      }
+    ],
+    "children": [
+      "I182623691447"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 Mar 1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "09 Dec 1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

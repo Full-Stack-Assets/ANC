@@ -1,0 +1,94 @@
+{
+  "id": "I182197729730",
+  "name": {
+    "given": "Mary D",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Mary D Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Feb 1875",
+        "year": 1875,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Camden, New Jersey",
+        "parts": [
+          "Gloucester",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146239",
+          "page": null
+        },
+        {
+          "source_id": "S447146280",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haddon Township Ward, Camden, New Jersey, USA",
+        "parts": [
+          "Haddon Township Ward",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146280",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146239",
+      "title": "New Jersey, Births and Christenings Index, 1660-1931",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447146280",
+      "title": "New Jersey, State Census, 1885",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operation, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

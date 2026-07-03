@@ -1,0 +1,71 @@
+{
+  "id": "I182650552372",
+  "name": {
+    "given": "Timothy",
+    "surname": "Harris",
+    "suffix": null,
+    "full": "Timothy Harris"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Jul 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxbury, Suffolk, Massachusetts",
+        "parts": [
+          "Roxbury",
+          "Suffolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Sep 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Suffolk, Massachusetts",
+        "parts": [
+          "Brookline",
+          "Suffolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552380"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552369"
+      }
+    ],
+    "children": [
+      "I182650552337"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "I182650551581",
+  "name": {
+    "given": "Japhet",
+    "surname": "Turner",
+    "suffix": null,
+    "full": "Japhet Turner"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Jan 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duxbury, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Duxbury",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 23 Jan 1710/1",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551575"
+      }
+    ],
+    "children": [
+      "I182650551423"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

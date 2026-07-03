@@ -1,0 +1,57 @@
+{
+  "id": "I182623690212",
+  "person": "Katherine Richards",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beaminster, Dorset, England, United Kingdom",
+        "parts": [
+          "Beaminster",
+          "Dorset",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Malden, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Malden",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 June 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

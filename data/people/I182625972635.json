@@ -1,0 +1,73 @@
+{
+  "id": "I182625972635",
+  "name": {
+    "given": "Maria Barbara",
+    "surname": "Langendörfer",
+    "suffix": null,
+    "full": "Maria Barbara Langendörfer"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Jun 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "Urweiler",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Aug 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972798",
+      "I182625972791"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972646"
+      }
+    ],
+    "children": [
+      "I182623663946"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

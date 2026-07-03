@@ -1,0 +1,149 @@
+{
+  "id": "I182195860718",
+  "person": "Gustaf Rånge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dimbo, Sverige",
+        "parts": [
+          "Dimbo",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": "Year: 1885; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 5; List Number: 643"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjo landsförsamling, Skaraborg, Sverige",
+        "parts": [
+          "Hjo landsförsamling",
+          "Skaraborg",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Sept 1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "New York, New York, USA",
+        "parts": [
+          "New York",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 May 1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "arrival",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": "Year: 1885; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 5; List Number: 643"
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Easton, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 February 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Liverpool, England and Queenstown, Ireland",
+        "parts": [
+          "Liverpool",
+          "England and Queenstown",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "departure",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": "Year: 1885; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 5; List Number: 643"
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Sweden",
+        "parts": [
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

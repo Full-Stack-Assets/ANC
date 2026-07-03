@@ -1,0 +1,69 @@
+{
+  "id": "I182625986500",
+  "name": {
+    "given": "Margaret Helen",
+    "surname": "Enes",
+    "suffix": null,
+    "full": "Margaret Helen Enes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Feckenham, Worcestershire, England",
+        "parts": [
+          "Feckenham",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Feckenham, Worcestershire, England",
+        "parts": [
+          "Feckenham",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986503"
+      }
+    ],
+    "children": [
+      "I182625986461"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

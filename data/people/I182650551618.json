@@ -1,0 +1,69 @@
+{
+  "id": "I182650551618",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Holbrook",
+    "suffix": null,
+    "full": "Elizabeth Holbrook"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Feb 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glastonbury, Somerset, England",
+        "parts": [
+          "Glastonbury",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Aug 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth / Scituate, Norfolk, Massachusetts",
+        "parts": [
+          "Weymouth / Scituate",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551613"
+      }
+    ],
+    "children": [
+      "I182650551590"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

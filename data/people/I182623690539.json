@@ -1,0 +1,71 @@
+{
+  "id": "I182623690539",
+  "name": {
+    "given": "Richard",
+    "surname": "Hillard 12th ggf of MD",
+    "suffix": "High Sheriff of Devon",
+    "full": "Richard Hillard 12th ggf of MD High Sheriff of Devon"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1519",
+        "year": 1519,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "City of Exeter, Devon, England",
+        "parts": [
+          "City of Exeter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "City of Exeter, Devon, England",
+        "parts": [
+          "City of Exeter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690968"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690431"
+      }
+    ],
+    "children": [
+      "I182623690357"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,237 @@
+{
+  "id": "I182620323059",
+  "name": {
+    "given": "Elizabeth Isabelle",
+    "surname": "MacDonald",
+    "suffix": "\"Isabelle\"",
+    "full": "Elizabeth Isabelle MacDonald \"Isabelle\""
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "05 Apr 1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kilmuir, Isle of Skye, Scotland",
+        "parts": [
+          "Kilmuir",
+          "Isle of Skye",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619962",
+          "page": "Year: 1871; Census Place: Margaree North East, Inverness, Nova Scotia; Roll: C-10566; Page: 1"
+        },
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Sep 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Portree, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Portree",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Margaree Valley, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Margaree Valley",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323408",
+      "I182620323392"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323070"
+      }
+    ],
+    "children": [
+      "I182620323151",
+      "I182620323043",
+      "I182620323152"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kilmuir, Inverness-shire, Scotland",
+        "parts": [
+          "Kilmuir",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "abt 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Margaree North East, Inverness, Nova Scotia",
+        "parts": [
+          "Margaree North East",
+          "Inverness",
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Widowed",
+      "sources": [
+        {
+          "source_id": "S516619962",
+          "page": "Year: 1871; Census Place: Margaree North East, Inverness, Nova Scotia; Roll: C-10566; Page: 1"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "21 Sep 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree, Nova Scotia, Canada",
+        "parts": [
+          "Margaree",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "21 Sep 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Portree, Inverness, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Portree",
+          "Inverness",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "November 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516619962",
+      "title": "1871 Census of Canada",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516619946",
+      "title": "Canada, Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

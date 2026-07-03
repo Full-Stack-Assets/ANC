@@ -1,0 +1,76 @@
+{
+  "id": "I182195863488",
+  "name": {
+    "given": "Margaret",
+    "surname": "CHEESMAN",
+    "suffix": null,
+    "full": "Margaret CHEESMAN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jan 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Old Upton, Gloucester, New Jersey, USA",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "B-4 27 Jan 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Old Upton, Gloucester, New Jersey, USA",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863485",
+      "I182195863486"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

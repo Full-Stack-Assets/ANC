@@ -1,0 +1,73 @@
+{
+  "id": "I182650551518",
+  "name": {
+    "given": "Thomas",
+    "surname": "Runham",
+    "suffix": null,
+    "full": "Thomas Runham"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, Essex, England, United Kingdom",
+        "parts": [
+          "Essex",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, Essex, England, United Kingdom",
+        "parts": [
+          "Essex",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551523"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551513"
+      }
+    ],
+    "children": [
+      "I182650551485"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

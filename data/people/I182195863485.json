@@ -1,0 +1,99 @@
+{
+  "id": "I182195863485",
+  "name": {
+    "given": "Peter C",
+    "surname": "Cheesman",
+    "suffix": null,
+    "full": "Peter C Cheesman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Jun 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Old Upton, Gloucester, New Jersey, United States",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Jun 1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Gloucester, New Jersey, United States",
+        "parts": [
+          "Gloucester",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863536"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863486",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Bet 1746 and 1748",
+            "year": 1746,
+            "year_end": 1748,
+            "qualifier": "BET"
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195863489",
+      "I182195863491",
+      "I182195863436",
+      "I182195863488",
+      "I182195863490"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

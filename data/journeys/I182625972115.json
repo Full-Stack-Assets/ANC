@@ -1,0 +1,56 @@
+{
+  "id": "I182625972115",
+  "person": "Anna Maria Saemaennin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Dec 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Jan 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "I182197770070",
+  "name": {
+    "given": "Mary",
+    "surname": null,
+    "suffix": null,
+    "full": "Mary"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Benbecula, Inverness",
+        "parts": [
+          "Benbecula",
+          "Inverness"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197770080"
+      }
+    ],
+    "children": [
+      "I182197769975"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "I182625972468",
+  "person": "Catharina Von Langen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kreyenburg, Haselünne, (auf der Kreyenburg), Niedersachsen, Allemagne",
+        "parts": [
+          "Kreyenburg",
+          "Haselünne",
+          "(auf der Kreyenburg)",
+          "Niedersachsen",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pewsum, Ostfriesland, Niedersachsen, Allemagne",
+        "parts": [
+          "Pewsum",
+          "Ostfriesland",
+          "Niedersachsen",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

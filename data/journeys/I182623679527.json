@@ -1,0 +1,55 @@
+{
+  "id": "I182623679527",
+  "person": "Ephraim Cook Jr.",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Sep 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Nov 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

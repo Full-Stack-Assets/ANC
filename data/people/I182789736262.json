@@ -1,0 +1,87 @@
+{
+  "id": "I182789736262",
+  "name": {
+    "given": "Ellen Nellie",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Ellen Nellie Coffin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Savage Harbour, Kings, PEI, Canada",
+        "parts": [
+          "Savage Harbour",
+          "Kings",
+          "PEI",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Nov 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Peter's Bay, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "St. Peter's Bay",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789735397"
+    ],
+    "spouses": [],
+    "children": [
+      "I182789736915"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

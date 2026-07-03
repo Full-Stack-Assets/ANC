@@ -1,0 +1,99 @@
+{
+  "id": "I182613023754",
+  "person": "JACOB TOWNE Ensign #11-1158",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St Nicholas Parish, Great Yarmouth, Norfolk, England",
+        "parts": [
+          "St Nicholas Parish",
+          "Great Yarmouth",
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Mar 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boxford, Topsfield, Essex, Massachusetts",
+        "parts": [
+          "Boxford",
+          "Topsfield",
+          "Essex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Nov 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Topsfield, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Topsfield",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I182623689690",
+  "name": {
+    "given": "Sir Thomas",
+    "surname": "Lovett, span class=\"tou-node\" id=\"tou-3.0-77676137-da48-4580-88f2-8585cb2749fa\" lang=\"de\"\\span of Northamptonshire, span cl",
+    "suffix": null,
+    "full": "Sir Thomas Lovett, span class=\"tou-node\" id=\"tou-3.0-77676137-da48-4580-88f2-8585cb2749fa\" lang=\"de\"\\span of Northamptonshire, span cl"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 September 1473",
+        "year": 1473,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Astwell, Wappenam, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Astwell",
+          "Wappenam",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 December 1542",
+        "year": 1542,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northampton, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Northampton",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623689670"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

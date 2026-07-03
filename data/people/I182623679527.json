@@ -1,0 +1,72 @@
+{
+  "id": "I182623679527",
+  "name": {
+    "given": "Ephraim",
+    "surname": "Cook",
+    "suffix": "Jr.",
+    "full": "Ephraim Cook Jr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Sep 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, Massachusetts",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623688881",
+      "I182623688875"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679524"
+      }
+    ],
+    "children": [
+      "I182623679489"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

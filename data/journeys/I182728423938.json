@@ -1,0 +1,56 @@
+{
+  "id": "I182728423938",
+  "person": "Jon Olsson\\Olofsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grindsby, Myckleby socken, Orust, Bohuslän. Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby socken",
+          "Orust",
+          "Bohuslän. Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 okt 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I182623664335",
+  "person": "Johne Sommervell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Canongate, Edinburgh, Midlothian, Scotland",
+        "parts": [
+          "Canongate",
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Oct 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810577",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Edinburgh, Midlothian, Scotland",
+        "parts": [
+          "Edinburgh",
+          "Midlothian",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810577",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

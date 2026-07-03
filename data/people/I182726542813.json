@@ -1,0 +1,77 @@
+{
+  "id": "I182726542813",
+  "name": {
+    "given": "David Hawkins",
+    "surname": "Horton",
+    "suffix": null,
+    "full": "David Hawkins Horton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 February 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mt. Hope, New York",
+        "parts": [
+          "Mt. Hope",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 January 1878",
+        "year": 1878,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": "Age: 60",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726542784"
+    ],
+    "spouses": [],
+    "children": [
+      "I182726542840"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

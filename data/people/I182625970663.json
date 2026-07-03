@@ -1,0 +1,70 @@
+{
+  "id": "I182625970663",
+  "name": {
+    "given": "Robert Thomas",
+    "surname": "Rogers",
+    "suffix": null,
+    "full": "Robert Thomas Rogers"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Jun 1543",
+        "year": 1543,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandywell, Gloucestershire, England",
+        "parts": [
+          "Sandywell",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970719",
+      "I182625970716"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970652"
+      }
+    ],
+    "children": [
+      "I182625970636"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

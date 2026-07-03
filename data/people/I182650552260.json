@@ -1,0 +1,74 @@
+{
+  "id": "I182650552260",
+  "name": {
+    "given": "Amariah",
+    "surname": "Harris",
+    "suffix": null,
+    "full": "Amariah Harris"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 August 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Brookline",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 September 1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoughton, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Stoughton",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552337",
+      "I182650552328"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552256"
+      }
+    ],
+    "children": [
+      "I182650552243"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

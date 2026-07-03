@@ -1,0 +1,63 @@
+{
+  "id": "I182625980883",
+  "name": {
+    "given": "Jane",
+    "surname": "Willson",
+    "suffix": null,
+    "full": "Jane Willson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warwickshire, England",
+        "parts": [
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Desford, Leicestershire, England",
+        "parts": [
+          "Desford",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625980887"
+      }
+    ],
+    "children": [
+      "I182625980874"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

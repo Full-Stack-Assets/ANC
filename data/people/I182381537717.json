@@ -1,0 +1,74 @@
+{
+  "id": "I182381537717",
+  "name": {
+    "given": "John",
+    "surname": "Eacorn (Eichorn)",
+    "suffix": null,
+    "full": "John Eacorn (Eichorn)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waldoboro, Lincoln County, Maine, United States of America",
+        "parts": [
+          "Waldoboro",
+          "Lincoln County",
+          "Maine",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Jun 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River, Queens County, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "Queens County",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044236",
+      "I182534044232"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537712"
+      }
+    ],
+    "children": [
+      "I182195863352"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

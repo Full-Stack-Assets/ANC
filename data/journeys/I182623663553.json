@@ -1,0 +1,128 @@
+{
+  "id": "I182623663553",
+  "person": "Elizabeth M Hohman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, United States of America",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: North Braddock Ward 3, Allegheny, Pennsylvania; Roll: T625_1515; Page: 3B; Enumeration District: 281"
+        },
+        {
+          "source_id": "S516810523",
+          "page": null
+        },
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "North Braddock Ward 3, Allegheny, Pennsylvania, USA",
+        "parts": [
+          "North Braddock Ward 3",
+          "Allegheny",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: North Braddock Ward 3, Allegheny, Pennsylvania; Roll: T625_1515; Page: 3B; Enumeration District: 281"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Braddock, Allegheny County, Pennsylvania, United States of America",
+        "parts": [
+          "Braddock",
+          "Allegheny County",
+          "Pennsylvania",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 November 1957",
+        "year": 1957,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Pittsburgh, Allegheny County, Pennsylvania, United States of America",
+        "parts": [
+          "Pittsburgh",
+          "Allegheny County",
+          "Pennsylvania",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

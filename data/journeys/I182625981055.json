@@ -1,0 +1,110 @@
+{
+  "id": "I182625981055",
+  "person": "Francis AUSTIN or AUSTEN Sr.   θ",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Horsmonden, Kent, England",
+        "parts": [
+          "Horsmonden",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Sep 1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Horsmonden, Kent, England",
+        "parts": [
+          "Horsmonden",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1668",
+        "year": 1668,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        },
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Horsmonden, Kent, England",
+        "parts": [
+          "Horsmonden",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Mar 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Horsemonden, Kent, England",
+        "parts": [
+          "Horsemonden",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

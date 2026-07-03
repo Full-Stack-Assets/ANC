@@ -1,0 +1,72 @@
+{
+  "id": "I182625972090",
+  "name": {
+    "given": "Anna Barbara",
+    "surname": "Heil",
+    "suffix": null,
+    "full": "Anna Barbara Heil"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Aug 1821",
+        "year": 1821,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bayern, Traunstein, Bayern, Germany",
+        "parts": [
+          "Bayern",
+          "Traunstein",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Apr 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda,  Noble, Ohio",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972096"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972093"
+      }
+    ],
+    "children": [
+      "I182623698466"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

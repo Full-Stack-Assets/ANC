@@ -1,0 +1,54 @@
+{
+  "id": "I182613112498",
+  "person": "Gardner Knight",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Worcester, Massachusetts",
+        "parts": [
+          "Worcester",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 Feb 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Westmoreland, Cheshire, NH",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "NH"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Feb 1843",
+        "year": 1843,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

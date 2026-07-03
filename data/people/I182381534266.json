@@ -1,0 +1,83 @@
+{
+  "id": "I182381534266",
+  "name": {
+    "given": "Geerlof",
+    "surname": "Noirlander",
+    "suffix": null,
+    "full": "Geerlof Noirlander"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "January 1, 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 January 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S476265398",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381534234"
+      }
+    ],
+    "children": [
+      "I182197824762"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S476265398",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

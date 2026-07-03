@@ -1,0 +1,72 @@
+{
+  "id": "I182541955630",
+  "person": "Franklin Pierce Hohmann",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bristol, Bucks, Pennsylvania, United States",
+        "parts": [
+          "Bristol",
+          "Bucks",
+          "Pennsylvania",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Apr 1895",
+        "year": 1895,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Trenton, Mercer, New Jersey; Page: 12A; Enumeration District: 0034; FHL microfilm: 2341099"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Trenton, Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Trenton, Mercer, New Jersey; Page: 12A; Enumeration District: 0034; FHL microfilm: 2341099"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

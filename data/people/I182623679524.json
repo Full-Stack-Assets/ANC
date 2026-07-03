@@ -1,0 +1,71 @@
+{
+  "id": "I182623679524",
+  "name": {
+    "given": "Mercy",
+    "surname": "Hale",
+    "suffix": null,
+    "full": "Mercy Hale"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Nov 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Menotomy, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Menotomy",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623679527"
+      }
+    ],
+    "children": [
+      "I182623679489"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

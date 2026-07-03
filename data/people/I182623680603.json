@@ -1,0 +1,87 @@
+{
+  "id": "I182623680603",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Bampfield",
+    "suffix": "15th Great-Grandmother",
+    "full": "Elizabeth Bampfield 15th Great-Grandmother"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1489 or 1501",
+        "year": 1489,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Merefield, Somerset, England",
+        "parts": [
+          "Merefield",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 May 1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore, Devon, England",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623680611"
+      },
+      {
+        "id": "I182623680985"
+      }
+    ],
+    "children": [
+      "I182623680593"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810907",
+      "title": "Burke’s Family Records (Indexed)",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810902",
+      "title": "Somerset, England, Church of England Baptisms, Marriages, and Burials, 1531-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

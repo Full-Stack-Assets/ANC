@@ -1,0 +1,74 @@
+{
+  "id": "I182292319579",
+  "name": {
+    "given": "Inger (Ingrid)",
+    "surname": "Svensdotter",
+    "suffix": null,
+    "full": "Inger (Ingrid) Svensdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Feb 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby, Goteborg och Bohus, Sweden",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Goteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Aug 1802",
+        "year": 1802,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Önne, Myckleby, Goteborg och Bohus, Sweden",
+        "parts": [
+          "Önne",
+          "Myckleby",
+          "Goteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319595",
+      "I182726546290"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319587"
+      }
+    ],
+    "children": [
+      "I182292318250"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

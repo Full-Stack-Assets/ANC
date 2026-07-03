@@ -1,0 +1,73 @@
+{
+  "id": "I182625972398",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Tholey",
+    "suffix": null,
+    "full": "Anna Maria Tholey"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 August 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 December 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Breiten, St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "Breiten",
+          "St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972417",
+      "I182625972415"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972403"
+      }
+    ],
+    "children": [
+      "I182625972378"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

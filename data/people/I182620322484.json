@@ -1,0 +1,111 @@
+{
+  "id": "I182620322484",
+  "name": {
+    "given": "Mary Josephine",
+    "surname": "MCGANN",
+    "suffix": null,
+    "full": "Mary Josephine MCGANN"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Mar 1865",
+        "year": 1865,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Galway, Ireland",
+        "parts": [
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "06 Mar 1924",
+        "year": 1924,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322519",
+      "I182620322499"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322491",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "19 Sep 1893",
+            "year": 1893,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Newton, Massachusetts, USA",
+            "parts": [
+              "Newton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182620322401"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

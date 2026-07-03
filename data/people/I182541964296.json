@@ -1,0 +1,70 @@
+{
+  "id": "I182541964296",
+  "name": {
+    "given": "Miriam",
+    "surname": "Howell",
+    "suffix": null,
+    "full": "Miriam Howell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tamworth, Warwickshire, England",
+        "parts": [
+          "Tamworth",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Solebury, Bucks, Pennsylvania, United States",
+        "parts": [
+          "Solebury",
+          "Bucks",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541964251"
+      }
+    ],
+    "children": [
+      "I182541958360"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

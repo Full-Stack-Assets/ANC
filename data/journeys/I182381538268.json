@@ -1,0 +1,56 @@
+{
+  "id": "I182381538268",
+  "person": "John Murray",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eskdale, Dumfries-shire, Scotland",
+        "parts": [
+          "Eskdale",
+          "Dumfries-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 August 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "North Bedeque, Prince, Prince Edward Island, Canada",
+        "parts": [
+          "North Bedeque",
+          "Prince",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

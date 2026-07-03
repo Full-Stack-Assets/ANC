@@ -1,0 +1,55 @@
+{
+  "id": "I182526999658",
+  "person": "Francis Rolls, Rolle, Rowles, Rollo",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Beardon, Cornwall, England",
+        "parts": [
+          "Beardon",
+          "Cornwall",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boyton, Cornwall, England",
+        "parts": [
+          "Boyton",
+          "Cornwall",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Apr 1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

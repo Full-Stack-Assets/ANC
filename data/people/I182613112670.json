@@ -1,0 +1,74 @@
+{
+  "id": "I182613112670",
+  "name": {
+    "given": "Mary",
+    "surname": "Shattuck Brown Goddard",
+    "suffix": "(p9GGM)",
+    "full": "Mary Shattuck Brown Goddard (p9GGM)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Aug 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts Bay Colony, British Colonial America",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts Bay Colony",
+          "British Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Oct 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112683",
+      "I182613112680"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112673"
+      }
+    ],
+    "children": [
+      "I182613112546"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

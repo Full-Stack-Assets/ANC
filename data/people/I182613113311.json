@@ -1,0 +1,91 @@
+{
+  "id": "I182613113311",
+  "name": {
+    "given": "Robert",
+    "surname": "Buell",
+    "suffix": null,
+    "full": "Robert Buell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 September 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, Olde, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "Olde",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 November 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113213",
+      "I182613113312",
+      "I182613113313",
+      "I182613113305"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625986309",
+  "name": {
+    "given": "Hannah",
+    "surname": "Halstead",
+    "suffix": null,
+    "full": "Hannah Halstead"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 April 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oyster Bay, Nassau, Long Island, New York",
+        "parts": [
+          "Oyster Bay",
+          "Nassau",
+          "Long Island",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 September 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, New Jersey",
+        "parts": [
+          "Gloucester",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986336",
+      "I182625986326"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986316"
+      }
+    ],
+    "children": [
+      "I182625986293"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

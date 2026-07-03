@@ -1,0 +1,74 @@
+{
+  "id": "I182623681214",
+  "name": {
+    "given": "Anne",
+    "surname": "Kellunge--Keylynge \\ Nutter",
+    "suffix": null,
+    "full": "Anne Kellunge--Keylynge \\ Nutter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Macclesfield, Cheshire, England, United Kingdom",
+        "parts": [
+          "Macclesfield",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Macclesfield, Cheshire, England, United Kingdom",
+        "parts": [
+          "Macclesfield",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681253",
+      "I182623681239"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681216"
+      }
+    ],
+    "children": [
+      "I182623680514"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

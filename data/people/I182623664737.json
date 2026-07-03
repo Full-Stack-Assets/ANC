@@ -1,0 +1,88 @@
+{
+  "id": "I182623664737",
+  "name": {
+    "given": "Lady Alice",
+    "surname": "Hickman\\Hykman-de Burley-de la Spine\\Spinney-Tracy",
+    "suffix": null,
+    "full": "Lady Alice Hickman\\Hykman-de Burley-de la Spine\\Spinney-Tracy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1502",
+        "year": 1502,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Toddington Manor, Cheltenham, Gloucestershire, England, United Kingdom",
+        "parts": [
+          "Toddington Manor",
+          "Cheltenham",
+          "Gloucestershire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Apr 1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alvechurch, Bromsgrove, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Alvechurch",
+          "Bromsgrove",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623665373",
+      "I182623665371"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664743"
+      },
+      {
+        "id": "I182623665372"
+      }
+    ],
+    "children": [
+      "I182623664730"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810665",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "I182625972122",
+  "name": {
+    "given": "Philipp Jacob",
+    "surname": "Weber*",
+    "suffix": null,
+    "full": "Philipp Jacob Weber*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Dez 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 März 1821",
+        "year": 1821,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972260",
+      "I182625972248"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972115"
+      }
+    ],
+    "children": [
+      "I182625972100"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

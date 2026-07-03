@@ -1,0 +1,63 @@
+{
+  "id": "I182195861182",
+  "person": "Ellen Sofia",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hjo",
+        "parts": [
+          "Hjo"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

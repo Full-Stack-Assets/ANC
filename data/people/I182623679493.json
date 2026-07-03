@@ -1,0 +1,74 @@
+{
+  "id": "I182623679493",
+  "name": {
+    "given": "WALTER",
+    "surname": "FOSS",
+    "suffix": "III",
+    "full": "WALTER FOSS III"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Jan 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cornish, Sullivan, New Hampshire, USA",
+        "parts": [
+          "Cornish",
+          "Sullivan",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "04 Oct 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cornish City, Sullivan, New Hampshire, United States",
+        "parts": [
+          "Cornish City",
+          "Sullivan",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679540",
+      "I182623679534"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679489"
+      }
+    ],
+    "children": [
+      "I182623679474"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

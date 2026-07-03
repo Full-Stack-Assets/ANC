@@ -1,0 +1,54 @@
+{
+  "id": "I182625972474",
+  "person": "Johann Volard Kettler",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Westfalen, Deutschland",
+        "parts": [
+          "Westfalen",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pewsum, Ostfriesland, Niedersachsen",
+        "parts": [
+          "Pewsum",
+          "Ostfriesland",
+          "Niedersachsen"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

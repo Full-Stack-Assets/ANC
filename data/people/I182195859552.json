@@ -1,0 +1,173 @@
+{
+  "id": "I182195859552",
+  "name": {
+    "given": "John Oscar",
+    "surname": "Holst",
+    "suffix": null,
+    "full": "John Oscar Holst"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Aug 1859",
+        "year": 1859,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gottenburg, Sweden",
+        "parts": [
+          "Gottenburg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Dec 1938",
+        "year": 1938,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, Massachusetts, USA",
+        "parts": [
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 79",
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Millis, Norfolk County, Massachusetts, United States of America",
+        "parts": [
+          "Millis",
+          "Norfolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008680",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195859671",
+      "I182195859672"
+    ],
+    "spouses": [
+      {
+        "id": "I182195859681",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "15 Nov 1882",
+            "year": 1882,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182195859674",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "01 Sep 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Boston, Massachusetts, USA",
+            "parts": [
+              "Boston",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195859684",
+      "I182195859685",
+      "I182195859682",
+      "I182195859686",
+      "I182195859688",
+      "I182195859678",
+      "I182195859679",
+      "I182195859676",
+      "I182195859677",
+      "I182195858330",
+      "I182195859680"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008680",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}
