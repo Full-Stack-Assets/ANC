@@ -37,6 +37,27 @@
   },
   "events": [
     {
+      "type": "marriage",
+      "date": {
+        "raw": "OCT-DEC 1894",
+        "year": 1894,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Whitehaven district, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": "Married William Larkin",
+      "note": "GRO marriages Dec Q 1894, Whitehaven 10b/1026 — the ONLY Larkin x McAlone marriage in England & Wales 1837-1999 (FreeBMD2 spouse search). Certificate (~£2.50 PDF) would name her father.",
+      "sources": [],
+      "confidence": "documented"
+    },
+    {
       "type": "other",
       "date": {
         "raw": "MAR Q 1907",
@@ -84,10 +105,11 @@
   "confidence": "documented",
   "manual": {
     "notes": [
-      "MANUALLY CREATED RECORD. Ellen M Larkin's mother — maiden name McALONE from both children's GRO birth registrations (owner's lookups); FORENAME ELLEN and survival to at least Apr 1911 from the owner's 1911 census pull (wife, 46, of household head William Larkin at 8 Peters Court, Whitehaven). Daughter Ellen was evidently named for her.",
-      "HUSBAND CORRECTED: the census head — and thus the children's father — is WILLIAM Larkin (M0003, b. ~1857), not the export's 'Thomas'. The 'Mary Ellen Larkin d. Mar Q 1906 aged 42' is therefore some other Whitehaven Larkin's wife — this Ellen was alive in 1911.",
-      "At ~46 in 1911 with a 4-year-old and five+ children spanning ~1894-1906, she was ~41 at Ellen's birth — unremarkable, and the audit's original 'age 52 mother' anomaly (built on the Blackmore chimera) is fully dissolved.",
-      "OPEN: her birthplace (census image column); marriage to William (not registered in Cumberland 1880-1911 — Ireland likely, given the community); her death (after Apr 1911; Ellen emigrated alone in 1921 — did her mother die 1911-1921, or stay behind with the older children?). Samuel's or Ellen's birth certificate (~£12.50) would confirm her forename independently."
+      "MANUALLY CREATED RECORD. Ellen M Larkin's mother: ELLEN McALONE — maiden name from both children's GRO registrations, forename from the 1911 census (wife, 46) AND independently from the Dec Q 1894 Whitehaven marriage index (10b/1026), the only Larkin x McAlone marriage ever registered in England & Wales. Daughter Ellen was named for her.",
+      "CHILDREN (the 1894 marriage's textbook sequence in Whitehaven registrations): William (Sep Q 1895), Mary Ann (Mar Q 1897, prob. d. 1924 aged 27), Albert Ernest (Mar Q 1898), Catherine (Dec Q 1899, died in infancy), Hugh (b. 4 Dec 1900, d. Whitehaven Jun Q 1972), Samuel (28 Feb 1903 - 1973, M0002), Ellen (Nov 1906, I182195857362). GRO MMN spot-checks on the older children should all read McALONE.",
+      "ORIGIN: the Whitehaven McAlones are an Irvinestown (Co. Fermanagh/Tyrone) family — the exact-spelling surname clusters there almost exclusively in Irish civil records. Her birth: either the only E&W Ellen McAlone birth (Sep Q 1874, Whitehaven 10b/615 — but that makes her 36 in 1911, vs the census's 46) or, more consistent with the census, Irish-born ~1865 (Irvinestown-area, pre-registration or as McAloon). Probable father: Patrick McAlone (d. Whitehaven Mar Q 1906, aged 52) or the 1865 Whitehaven groom. The 1894 marriage certificate names her father — the cheap decisive record.",
+      "DEATH — SHE PROBABLY SURVIVED TO 1942: no female Larkin death of the right profile anywhere in Cumberland 1907-1941; the only candidate is Ellen Larkin, died Jun Q 1942, Whitehaven 10b/1017, aged 77 (b. ~1865 — matching the census age). So she was most likely ALIVE when 14-year-old Ellen emigrated alone in 1921 — the solo crossing needs another explanation (father's death, poverty, being sent to Maine relatives), and mother and daughter apparently never lived on the same continent again.",
+      "NOT her: 'Mary Ellen Larkin d. Mar Q 1906 aged 42' is Simon Larkin's wife née DORAN (m. Sep Q 1888, 10b/795) — a different Whitehaven Larkin household, now fully accounted for."
     ]
   }
 }
