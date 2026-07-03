@@ -1,8 +1,8 @@
 {
   "id": "I182197770339",
   "person": "Josiah Albertson",
-  "status": "seeded",
-  "summary": null,
+  "status": "transcribed",
+  "summary": "A lifelong West Jersey Quaker, son of the immigrant William Albertson and Hannah Drewett. Born in Gloucester in 1692, married Ann Austin at Camden in 1727 under the care of the meeting, recorded at Burlington in 1768, and died at Haddonfield in 1784 at about 92. His whole life fits inside roughly fifteen miles of Delaware riverbank — the community his father crossed an ocean to join.",
   "waypoints": [
     {
       "seq": 1,
@@ -14,8 +14,8 @@
           "New Jersey",
           "USA"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 39.8918,
+        "lng": -75.1163
       },
       "date": {
         "raw": "1692",
@@ -24,7 +24,7 @@
         "qualifier": null
       },
       "event": "birth",
-      "narrative": null,
+      "narrative": "Born 1692 in Gloucester, West New Jersey, in the Quaker settlement belt along the Delaware, five years into his parents' marriage era at Burlington.",
       "confidence": "documented",
       "sources": [
         {
@@ -41,8 +41,8 @@
           "Camden",
           "New Jersey"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 39.9259,
+        "lng": -75.1196
       },
       "date": {
         "raw": "12 Nov 1727",
@@ -51,7 +51,7 @@
         "qualifier": null
       },
       "event": "marriage",
-      "narrative": null,
+      "narrative": "Married Ann Austin on 12 November 1727. The placeless 'residence' event of the same date in his record is the Quaker meeting-record counterpart of this marriage.",
       "confidence": "documented",
       "sources": [
         {
@@ -72,8 +72,8 @@
           "Burlington",
           "New Jersey"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 40.0712,
+        "lng": -74.8649
       },
       "date": {
         "raw": "9 Mar 1768",
@@ -82,7 +82,7 @@
         "qualifier": null
       },
       "event": "residence",
-      "narrative": null,
+      "narrative": "Recorded in the U.S. Quaker Meeting Records at Burlington on 9 March 1768 — the same meeting town where his father's West Jersey records begin ninety years earlier.",
       "confidence": "documented",
       "sources": [
         {
@@ -101,8 +101,8 @@
           "New Jersey",
           "United States"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 39.8912,
+        "lng": -75.0377
       },
       "date": {
         "raw": "16 Mar 1784",
@@ -111,7 +111,7 @@
         "qualifier": null
       },
       "event": "death",
-      "narrative": null,
+      "narrative": "Died 16 March 1784 at Haddonfield, seat of the Haddonfield Monthly Meeting, about eight miles from his birthplace — aged around 92.",
       "confidence": "documented",
       "sources": [
         {
@@ -121,5 +121,5 @@
       ]
     }
   ],
-  "notes": null
+  "notes": "Enriched from the GEDCOM events plus Quaker-meeting context; not yet cross-checked against Ancestry's Ancestral Journeys view — do that before flipping status to 'reviewed'."
 }
