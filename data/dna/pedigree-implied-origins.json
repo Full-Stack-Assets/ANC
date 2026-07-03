@@ -1,0 +1,44 @@
+{
+  "method": "Pedigree-implied origins, attributed at each line's emigration point: walking up from the home person, a line's share lands on the first ancestor born outside America (their birth region). Lines still in America at generation 14, or ending at a terminal/placeless ancestor, fall into the residual buckets. Three-parent artifacts resolved to one father + one mother; placeless ancestors with Swedish patronymics counted as Sweden.",
+  "root": "I182195856751",
+  "generated": "2026-07-03",
+  "regions": [
+    {
+      "region": "England",
+      "share_percent": 17.3
+    },
+    {
+      "region": "Colonial American (line untraced overseas)",
+      "share_percent": 13.7
+    },
+    {
+      "region": "Ireland",
+      "share_percent": 12.7
+    },
+    {
+      "region": "Sweden",
+      "share_percent": 12.5
+    },
+    {
+      "region": "French Canada / Canada",
+      "share_percent": 12.5
+    },
+    {
+      "region": "Italy",
+      "share_percent": 12.5
+    },
+    {
+      "region": "Unknown",
+      "share_percent": 11.9
+    },
+    {
+      "region": "Germany",
+      "share_percent": 6.8
+    },
+    {
+      "region": "Cornwall/Devon (England)",
+      "share_percent": 0.1
+    }
+  ],
+  "note": "Paper-trail expectation to compare against the AncestryDNA Ancestral Regions estimate once transcribed into ethnicity.json. The residual buckets reflect tree gaps, not DNA. The Italy share assumes Mary Prosper (b. 1918) was Vincenza Minochelli's daughter \u2014 the audit strongly suggests she was a second wife's child (see docs/research/direct-line-issues.md), which would shift that share to the unknown second wife's origin (plausibly still Italy, but unproven)."
+}
