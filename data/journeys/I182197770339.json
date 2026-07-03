@@ -1,125 +1,144 @@
 {
   "id": "I182197770339",
   "person": "Josiah Albertson",
-  "status": "transcribed",
-  "summary": "A lifelong West Jersey Quaker, son of the immigrant William Albertson and Hannah Drewett. Born in Gloucester in 1692, married Ann Austin at Camden in 1727 under the care of the meeting, recorded at Burlington in 1768, and died at Haddonfield in 1784 at about 92. His whole life fits inside roughly fifteen miles of Delaware riverbank — the community his father crossed an ocean to join.",
+  "status": "reviewed",
+  "summary": "Youngest child of the Irish Quaker immigrant William Albertson and Hannah Drewett, born c. 1706 (the tree's 1692 is a land deed mutated into a birthdate). Orphaned of his father at about three, he grew into the Otter Branch tract left him by the 1709 will, worked it as a shoemaker-farmer, married Ann Austin of Evesham under Newton (Haddonfield) Meeting in late 1727, built the brick Albertson homestead in 1743 that gave its name to the modern Albertson locality, raised eight daughters and a son, outlived that son, and died on his plantation in the winter of 1783/84, aged about 78, leaving the farm to his grandson John.",
   "waypoints": [
     {
       "seq": 1,
       "place": {
-        "raw": "Gloucester, Gloucester, New Jersey, USA",
+        "raw": "Gloucester County, West New Jersey (possibly Byberry, Pennsylvania)",
         "parts": [
-          "Gloucester",
-          "Gloucester",
-          "New Jersey",
-          "USA"
+          "Gloucester County",
+          "West New Jersey"
         ],
         "lat": 39.8918,
         "lng": -75.1163
       },
       "date": {
-        "raw": "1692",
-        "year": 1692,
+        "raw": "ABT 1706",
+        "year": 1706,
         "year_end": null,
-        "qualifier": null
+        "qualifier": "ABT"
       },
       "event": "birth",
-      "narrative": "Born 1692 in Gloucester, West New Jersey, in the Quaker settlement belt along the Delaware, five years into his parents' marriage era at Burlington.",
-      "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508118847",
-          "page": null
-        }
-      ]
+      "narrative": "Born around 1706, youngest of William and Hannah's three children. The '1692' of family lore is impossible — Hannah was married to William Stockdale until 1693 — and traces to his father's 1692 Gloucester land purchase. The family seat at the time was actually Byberry on the Poquessing, so his birthplace may be Pennsylvania rather than the Gloucester of the compiled trees.",
+      "confidence": "inferred",
+      "sources": []
     },
     {
       "seq": 2,
       "place": {
-        "raw": "Camden, New Jersey",
+        "raw": "Otter Branch, Gloucester Township, Gloucester County, New Jersey",
         "parts": [
-          "Camden",
+          "Otter Branch",
+          "Gloucester Township",
           "New Jersey"
         ],
-        "lat": 39.9259,
-        "lng": -75.1196
+        "lat": 39.8557,
+        "lng": -75.0388
       },
       "date": {
-        "raw": "12 Nov 1727",
-        "year": 1727,
+        "raw": "1709",
+        "year": 1709,
         "year_end": null,
         "qualifier": null
       },
-      "event": "marriage",
-      "narrative": "Married Ann Austin on 12 November 1727. The placeless 'residence' event of the same date in his record is the Quaker meeting-record counterpart of this marriage.",
+      "event": "inheritance",
+      "narrative": "His father died when Josiah was about three; the will of 7 December 1709 set aside for him the Gloucester Township tract bounded by Otter Branch of Timber Creek — the land that would anchor the rest of his life.",
       "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S447146275",
-          "page": null
-        },
-        {
-          "source_id": "S447152695",
-          "page": null
-        }
-      ]
+      "sources": []
     },
     {
       "seq": 3,
       "place": {
-        "raw": "Burlington, New Jersey",
-        "parts": [
-          "Burlington",
-          "New Jersey"
-        ],
-        "lat": 40.0712,
-        "lng": -74.8649
-      },
-      "date": {
-        "raw": "9 Mar 1768",
-        "year": 1768,
-        "year_end": null,
-        "qualifier": null
-      },
-      "event": "residence",
-      "narrative": "Recorded in the U.S. Quaker Meeting Records at Burlington on 9 March 1768 — the same meeting town where his father's West Jersey records begin ninety years earlier.",
-      "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S447146275",
-          "page": null
-        }
-      ]
-    },
-    {
-      "seq": 4,
-      "place": {
-        "raw": "Haddonfield, Camden, New Jersey, United States",
+        "raw": "Newton (later Haddonfield) Monthly Meeting, New Jersey",
         "parts": [
           "Haddonfield",
-          "Camden",
-          "New Jersey",
-          "United States"
+          "New Jersey"
         ],
         "lat": 39.8912,
         "lng": -75.0377
       },
       "date": {
-        "raw": "16 Mar 1784",
-        "year": 1784,
+        "raw": "ABT NOV 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "marriage",
+      "narrative": "Declared intentions with Ann Austin, daughter of Francis Austin of Evesham, at the meeting in September 1727; Friends custom put the marriage about two to three months later, which makes the tree's 12 November 1727 entirely credible as the wedding itself. They would raise nine children under the care of Haddonfield Meeting.",
+      "confidence": "documented",
+      "sources": []
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Otter Branch homestead (modern Magnolia/Albertson, New Jersey)",
+        "parts": [
+          "Magnolia",
+          "Camden County",
+          "New Jersey"
+        ],
+        "lat": 39.8557,
+        "lng": -75.0388
+      },
+      "date": {
+        "raw": "1743",
+        "year": 1743,
         "year_end": null,
         "qualifier": null
       },
-      "event": "death",
-      "narrative": "Died 16 March 1784 at Haddonfield, seat of the Haddonfield Monthly Meeting, about eight miles from his birthplace — aged around 92.",
+      "event": "built the homestead",
+      "narrative": "A shoemaker as well as farmer and lumberman, he doubled his acreage and in 1743 built the brick Albertson homestead, which stood into the late nineteenth century — the family name survives on the map in the Albertson locality near Magnolia.",
       "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508118847",
-          "page": null
-        }
-      ]
+      "sources": []
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Haddonfield Monthly Meeting, New Jersey",
+        "parts": [
+          "Haddonfield",
+          "New Jersey"
+        ],
+        "lat": 39.8912,
+        "lng": -75.0377
+      },
+      "date": {
+        "raw": "9 MAR 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "meeting record",
+      "narrative": "The '9 Mar 1768, Burlington' entry in the export is Ancestry's mislabeled Haddonfield MM material — plausibly the meeting's proceedings around son Josiah Jr.'s marriage to Eleanor Tomlinson. He and Ann also appear witnessing a Haddonfield marriage certificate back in 1741.",
+      "confidence": "documented",
+      "sources": []
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Otter Branch plantation, Gloucester Township, Gloucester County, New Jersey",
+        "parts": [
+          "Gloucester Township",
+          "Gloucester County",
+          "New Jersey"
+        ],
+        "lat": 39.8557,
+        "lng": -75.0388
+      },
+      "date": {
+        "raw": "BET 7 DEC 1783 AND 10 MAR 1784",
+        "year": 1783,
+        "year_end": 1784,
+        "qualifier": "BET"
+      },
+      "event": "death",
+      "narrative": "Made his will 7 December 1783 — 'Josiah Albertson, of Gloucester Township, yeoman' — leaving the plantation to grandson John, his only son Josiah Jr. having died the previous winter. The estate inventory of £130.14.3 was taken 10 March 1784 and the will proved on the 16th: the date family trees mistook for his death. He was about 78, not the 92 the false 1692 birth implied.",
+      "confidence": "documented",
+      "sources": []
     }
   ],
-  "notes": "Enriched from the GEDCOM events plus Quaker-meeting context; not yet cross-checked against Ancestry's Ancestral Journeys view — do that before flipping status to 'reviewed'."
+  "notes": "Reviewed 2026-07-03 against Calendar of NJ Wills VI pp. 11-12 (will, inventory, probate), Clement (1877), Prowell (1886), Craig's South Jersey Marriages (Haddonfield minutes), WikiTree Albertson-649. Death corrected from '16 Mar 1784 Haddonfield' to Dec 1783-Mar 1784 on the Gloucester Township plantation; probate date had been mistaken for death date."
 }

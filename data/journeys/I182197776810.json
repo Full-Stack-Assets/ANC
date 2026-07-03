@@ -1,147 +1,123 @@
 {
   "id": "I182197776810",
   "person": "William Albertson",
-  "status": "transcribed",
-  "summary": "A Quaker colonist of the Delaware Valley. Family trees place his birth in 1635 in 'Stemeyck, Hollande' (unverified); records pick him up in West New Jersey, where he appears in Burlington's Quaker court book across 1680–1709 and in a passenger index arriving at New York in 1682. He married the widow Hannah Drewett Stockdale at New Castle, Delaware in 1697, taking in her children by her first marriage, and died in 1709 at the Byberry settlement on Poquessing Creek in Bucks County, Pennsylvania.",
+  "status": "reviewed",
+  "summary": "An Irish Quaker colonist of the Delaware Valley — not the Dutchman of family lore. Documented in Irish Friends meetings in Counties Laois/Carlow/Kildare through 1681 (including a 1678 disownment for 'committing a folly with a woman', later forgiven), he emigrated with his first wife Jane (Preston) in 1681-82 to the Irish Tenth of West New Jersey, locating a Newton Township tract on 2 May 1682. Founding trustee of Newton Meeting, 250-acre landholder, grand juror, and 1685 West Jersey Assemblyman, he shifted across the Delaware to Byberry on Poquessing Creek by 1692, where his daughter had married the miller Walter Forrest. Widowed, he married Hannah (Drewett) Stockdale between 1693 and 1695, raised a second family, and died a prosperous mill owner — will dated 7 December 1709, proved 17 January 1709/10.",
   "waypoints": [
     {
       "seq": 1,
       "place": {
-        "raw": "Stemeyck, Hollande",
+        "raw": "Mountmellick / Rosenallis area, County Laois, Ireland",
         "parts": [
-          "Stemeyck",
-          "Hollande"
+          "Mountmellick",
+          "County Laois",
+          "Ireland"
         ],
-        "lat": null,
-        "lng": null
+        "lat": 53.115,
+        "lng": -7.327
       },
       "date": {
-        "raw": "1635",
-        "year": 1635,
-        "year_end": null,
-        "qualifier": null
+        "raw": "BEF 1682",
+        "year": 1670,
+        "year_end": 1681,
+        "qualifier": "BEF"
       },
-      "event": "birth (claimed origin)",
-      "narrative": "The trees give his birth as 1635 in 'Stemeyck, Hollande' — no exact modern match (possibly Steenwijk, Overijssel). The export's competing birth record, Byberry, Pennsylvania, is impossible for 1635: Pennsylvania was chartered in 1681 and Byberry settled around 1682. That record is a tree-merge artifact; the Dutch origin stands as the live but unproven claim.",
-      "confidence": "inferred",
+      "event": "Irish Quaker life (origin)",
+      "narrative": "His documented life begins in the Irish Friends communities of Counties Laois, Carlow and Kildare: named in New Garden MM (Co. Carlow) minutes 1670 marrying Jane Preston; disowned 9th month 1678 for 'committing a folly with a woman' and later readmitted; witness with Jane to a Co. Laois marriage in 1681 (Mountmellick MM). Birth c. 1630s, place unknown — the 'Steenwijk, Holland' origin of family lore is a debunked graft onto another man, and the export's '1635 Byberry, Pennsylvania' birth is impossible.",
+      "confidence": "documented",
       "sources": []
     },
     {
       "seq": 2,
       "place": {
-        "raw": "New York, New York",
+        "raw": "Newton Township, Gloucester County, West New Jersey",
         "parts": [
-          "New York",
-          "New York"
+          "Newton Township",
+          "Gloucester County",
+          "West New Jersey"
         ],
-        "lat": 40.7128,
-        "lng": -74.006
+        "lat": 39.918,
+        "lng": -75.071
       },
       "date": {
-        "raw": "1682",
+        "raw": "2 MAY 1682",
         "year": 1682,
         "year_end": null,
         "qualifier": null
       },
-      "event": "arrival",
-      "narrative": "Indexed in the U.S. and Canada Passenger and Immigration Lists as arriving at New York in 1682 — the same year Byberry was settled and a year after Pennsylvania's charter, at the height of the Quaker migration to the Delaware Valley.",
+      "event": "emigration & settlement",
+      "narrative": "Emigrated 1681-82 with Jane and their children to the 'Irish Tenth' of West New Jersey — land rights via Godfrey Cantrell of Rosenallis — locating his Newton Township tract on 2 May 1682. Founding trustee of the Newton Meeting house lot; 250 acres returned in the Third (Irish) Tenth in 1684; Burlington court grand juror 1685/6; returned to the West Jersey Assembly 1685. The tree's 'arrived New York 1682' is an artifact of the false Dutch/New York identification.",
       "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S447152586",
-          "page": null
-        }
-      ]
+      "sources": []
     },
     {
       "seq": 3,
       "place": {
-        "raw": "Burlington, New Jersey, USA",
+        "raw": "Byberry (Poquessing Creek), Philadelphia/Bucks border, Pennsylvania",
         "parts": [
-          "Burlington",
-          "New Jersey",
-          "USA"
-        ],
-        "lat": 40.0712,
-        "lng": -74.8649
-      },
-      "date": {
-        "raw": "1680-1709",
-        "year": 1680,
-        "year_end": 1709,
-        "qualifier": null
-      },
-      "event": "residence",
-      "narrative": "Appears in the Burlington court book, the record of Quaker jurisprudence in West New Jersey, across the 1680–1709 period. The range starts two years before his indexed 1682 arrival — one of the two dates is imprecise, most likely the passenger index.",
-      "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508339477",
-          "page": null
-        }
-      ]
-    },
-    {
-      "seq": 4,
-      "place": {
-        "raw": "New Castle, New Castle, DE",
-        "parts": [
-          "New Castle",
-          "New Castle",
-          "DE"
-        ],
-        "lat": 39.662,
-        "lng": -75.5666
-      },
-      "date": {
-        "raw": "01 Jul 1697",
-        "year": 1697,
-        "year_end": null,
-        "qualifier": null
-      },
-      "event": "marriage",
-      "narrative": "Married the widow Hannah Drewett Stockdale on 1 July 1697 at New Castle on the Delaware. Her children by William Stockdale — Jarves and Ruth — came into the household, and the tree lists them among William's children.",
-      "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508118847",
-          "page": null
-        },
-        {
-          "source_id": "S508118847",
-          "page": null
-        }
-      ]
-    },
-    {
-      "seq": 5,
-      "place": {
-        "raw": "Poquesin, Bucks, Pennsylvania, USA",
-        "parts": [
-          "Poquesin",
-          "Bucks",
-          "Pennsylvania",
-          "USA"
+          "Byberry",
+          "Philadelphia",
+          "Pennsylvania"
         ],
         "lat": 40.0884,
         "lng": -74.993
       },
       "date": {
-        "raw": "1709",
-        "year": 1709,
+        "raw": "ABT 1690",
+        "year": 1690,
         "year_end": null,
-        "qualifier": null
+        "qualifier": "ABT"
+      },
+      "event": "removal to Byberry",
+      "narrative": "Moved across the Delaware to Byberry on the Poquessing by 1692 (a 1692 Gloucester deed already styles him a Byberry resident). The pull was family: daughter Ann had married 'Walter Forest of Bybury Mill' at Newton Meeting in 1686, and Forrest's 1691/2 will left half his mill to 'three persons named Albertson' — the likely route to the grain and saw mills William held at death.",
+      "confidence": "documented",
+      "sources": []
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "New Castle County, Delaware (probable)",
+        "parts": [
+          "New Castle County",
+          "Delaware"
+        ],
+        "lat": 39.662,
+        "lng": -75.5666
+      },
+      "date": {
+        "raw": "BET 1693 AND 1695",
+        "year": 1693,
+        "year_end": 1695,
+        "qualifier": "BET"
+      },
+      "event": "second marriage",
+      "narrative": "Jane having died, William married Hannah (Drewett) Stockdale — London-born Quaker, 1677 Kent passenger, widow of the minister William Stockdale (buried Philadelphia 1693). Her father Morgan Druet's will of 27 Sep 1695 already calls William his son-in-law, disproving the tree's '1 July 1697' date. New Castle County is the probable setting (Druet's probate there) but the exact place and date are unrecorded. Her toddler son Jarvis Stockdale joined the household — William's stepson, and later his son-in-law too, marrying daughter Cassandra.",
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Poquessing (Byberry), Bucks County, Pennsylvania",
+        "parts": [
+          "Poquessing",
+          "Bucks County",
+          "Pennsylvania"
+        ],
+        "lat": 40.0884,
+        "lng": -74.993
+      },
+      "date": {
+        "raw": "BET DEC 1709 AND JAN 1710",
+        "year": 1709,
+        "year_end": 1710,
+        "qualifier": "BET"
       },
       "event": "death",
-      "narrative": "Died in 1709 at the Quaker settlement of Byberry on Poquessing Creek ('Poquesin'), on the Bucks County side of the Philadelphia border — directly across the Delaware from the Burlington community where his American records begin.",
+      "narrative": "Made his will 7 December 1709 — 'ALBERSON, WILLIAM. Bucks Co.', proved 17 January 1709/10 — naming wife Hannah executrix and seven children. Per Clement he died 'at Poquesin, in Bucks county' owning grain and saw mills and considerable property, survived by all his children except Ann. Presumably buried in a Friends ground in the Byberry/Abington orbit; Hannah remained an Abington Friend until transferring to Philadelphia MM in 1729.",
       "confidence": "documented",
-      "sources": [
-        {
-          "source_id": "S508118847",
-          "page": null
-        }
-      ]
+      "sources": []
     }
   ],
-  "notes": "Enriched from the GEDCOM events plus colonial-Quaker context; not yet cross-checked against Ancestry's Ancestral Journeys view — do that before flipping status to 'reviewed'."
+  "notes": "Reviewed against period sources 2026-07-03: Burlington Court Book (1944 ed., full text), Clement's Sketches of the First Emigrant Settlers in Newton Township (1877) pp. 101-108, Martindale's Byberry & Moreland, WikiTree Quakers Project (Alberson-96, Drewett-16, Albertson-649). Machine-exported events retained in the person file; corrections recorded in its manual block."
 }

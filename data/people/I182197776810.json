@@ -247,8 +247,76 @@
   "confidence": "documented",
   "manual": {
     "notes": [
-      "The preferred birth record (1635, 'Bybury, Bucks, Pennsylvania') is a tree-merge artifact: Pennsylvania was chartered in 1681 and Byberry settled c. 1682, so a 1635 Pennsylvania birth is impossible. The alternate 'Stemeyck, Hollande' origin is the live claim — unverified, possibly Steenwijk, Overijssel.",
-      "Jarves Stockdale and Ruth Stockdale listed among his children are Hannah Drewett's children by her first husband William Stockdale — step-children, not Albertsons by blood."
+      "ORIGIN CORRECTED (research 2026-07-03): William was an Irish Quaker, not Dutch. 'Stemeyck, Hollande' is a corruption of Steenwyck from a long-circulated error grafting him onto Jan Albertsz van Steenwyck of New Netherland — formally detached by the WikiTree Quakers Project (Alberson-96). He appears in Irish Friends records: disowned 9th mo. 1678 for 'committing a folly with a woman', later readmitted (Friends Historical Library Dublin, MSS Box 75A / MM II F1); he and first wife Jane witnessed a Co. Laois marriage in 1681 (Mountmellick MM); his West Jersey land in the 'Irish Tenth' came via Godfrey Cantrell of Rosenallis, Co. Laois. Birth date/place undocumented; c. 1630s plausible. The exported 'born 1635 Bybury, Bucks, Pennsylvania' record is impossible (PA chartered 1681) — tree-merge garbage.",
+      "FIRST WIFE (missing from export): Jane, maiden name Preston per New Garden MM (Co. Carlow) minutes of 21 Aug 1670. Mother of William Jr., Abraham, Rebecca, and Ann. Died before Sep 1695.",
+      "MARRIAGE DATE CORRECTED: the '01 Jul 1697 New Castle' marriage to Hannah Drewett is disproved — her father Morgan Druet's will (dated 27 Sep 1695, probated New Castle DE 1695) already calls William 'my loveing friend and Son in Law'. William Stockdale (Hannah's first husband, the Irish Quaker minister) was buried in Philadelphia 23 7mo 1693, so the marriage falls 1693-1695. New Castle County is a plausible setting (Druet probate there) but no record with the 1697 date exists.",
+      "STEP-CHILDREN CORRECTED: Jarvis (Jervis) Stockdale (c. 1690-1726) was Hannah's son and William's stepson — later ALSO his son-in-law, marrying William's daughter Cassandra ('son-in-law Jervis Stockdale' in William's will). Ruth Stockdale was Stockdale's daughter by his FIRST wife Jane Routh and died in 1687, before Stockdale even married Hannah — never William's step-child.",
+      "OPEN QUESTION — Hannah's first marriage: one research pass documents Hannah Drewett receiving clearness to marry the minister William Stockdale at Kennett/Newark MM 5 Oct 1689 (U.S. Quaker Meeting Records via WikiTree Drewett-16), making her his widow by 1693 and Jarvis her son. A second pass found no record of Hannah as a Stockdale widow BEFORE marrying Albertson, notes 'son-in-law Jervis Stockdale' in William's will is fully explained by Jervis marrying daughter Cassandra, and cites Geni for Hannah marrying a William Stockdale AFTER 1709. The 1689 clearness record, if correctly attributed, decides it in favor of widow-first; treat as probable but not settled.",
+      "DEATH: will of 'ALBERSON, WILLIAM. Bucks Co.' dated 7 Dec 1709, proved 17 Jan 1709/10 (Philadelphia Will Abstracts Book C, p. 189). Names wife Hannah (executrix); children Benjamin, Josiah, William, Abraham, Ann, Cassandra, Rebecca Satterthwaite; sons-in-law Jervis Stockdale and John Kaighn. Per Clement he owned grain and saw mills 'at Poquesin, in Bucks county' — mills likely acquired via Walter Forrest's 1691/2 will (half his Byberry mill to 'three persons named Albertson').",
+      "CIVIC RECORD: located Newton Township tract 2 May 1682 (Lib. T, 355, O.S.G.); founding trustee of Newton Meeting house lot 1681/2-1708; 250 acres returned in the Third (Irish) Tenth 1684 and grand juror 1685/6 (Burlington Court Book — 'resident of Burlington' in the export is a mis-reading, the court covered all West Jersey); West Jersey Assembly member 1685 (Leaming & Spicer).",
+      "Sources: wikitree.com/wiki/Alberson-96; wikitree.com/wiki/Drewett-16; Clement, Sketches of the First Emigrant Settlers in Newton Township (1877) pp. 101-108 (archive.org/details/sketchesoffirst00clem); Burlington Court Book (archive.org/details/burlingtoncourtb00unse); Martindale, History of Byberry and Moreland."
+    ],
+    "events": [
+      {
+        "type": "emigration",
+        "date": {
+          "raw": "BET 1681 AND 1682",
+          "year": 1681,
+          "year_end": 1682,
+          "qualifier": "BET"
+        },
+        "place": {
+          "raw": "County Laois, Ireland",
+          "parts": [
+            "County Laois",
+            "Ireland"
+          ]
+        },
+        "value": null,
+        "note": "Still witnessing a Co. Laois marriage in 1681 (Mountmellick MM); located land in Newton Township, West New Jersey 2 May 1682.",
+        "sources": [],
+        "confidence": "documented"
+      },
+      {
+        "type": "other",
+        "date": {
+          "raw": "1685",
+          "year": 1685,
+          "year_end": null,
+          "qualifier": null
+        },
+        "place": {
+          "raw": "West New Jersey",
+          "parts": [
+            "West New Jersey"
+          ]
+        },
+        "value": "Member, West Jersey Assembly",
+        "note": "Per Clement, citing Leaming & Spicer's Laws. Also Burlington court grand juror 1685/6.",
+        "sources": [],
+        "confidence": "documented"
+      },
+      {
+        "type": "other",
+        "date": {
+          "raw": "7 DEC 1709",
+          "year": 1709,
+          "year_end": null,
+          "qualifier": null
+        },
+        "place": {
+          "raw": "Poquessing (Byberry), Bucks, Pennsylvania",
+          "parts": [
+            "Poquessing (Byberry)",
+            "Bucks",
+            "Pennsylvania"
+          ]
+        },
+        "value": "Will dated; proved 17 Jan 1709/10",
+        "note": "Philadelphia Will Abstracts Book C, p. 189.",
+        "sources": [],
+        "confidence": "documented"
+      }
     ]
   }
 }
