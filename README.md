@@ -20,8 +20,9 @@ DNA raw download          ──► derived data only     ──► data/dna/  (
 | `data/people/{id}.json` | One record per ancestor: vitals, relationships, events, sources, confidence. | Parser (regenerated on re-run); hand edits go in the `manual` key only |
 | `data/journeys/{id}.json` | Migration path as ordered waypoints, transcribed from Ancestral Journeys. | Parser seeds once; yours after that — never overwritten |
 | `data/dna/` | Ethnicity breakdown and other **derived** DNA data. | Hand-edited |
-| `schema/` | JSON Schemas for the two record types. | Hand-edited |
-| `tools/` | GEDCOM parser + emitter (Python 3.9+, stdlib only). | Hand-edited |
+| `data/generated/game_bundle.json` | Privacy-reviewed, direct-ancestor-only export for game consumption. | Generator (`tools/build_game_bundle.py`); never hand-edited |
+| `schema/` | JSON Schemas for the record types. | Hand-edited |
+| `tools/` | GEDCOM parser + emitter + game bundle generator (Python 3.9+, stdlib only + `jsonschema` for validation). | Hand-edited |
 
 ## Workflow
 
@@ -44,6 +45,39 @@ Every event and record carries a `confidence` flag that must survive all the way
 - `documented` — backed by at least one source citation in the GEDCOM.
 - `inferred` — in the tree but uncited (the parser's default for unsourced facts).
 - `legend` — family story, invented texture, or embellishment. **Manual only** — the parser never emits it. Add legend material under `manual.events` in a person file or as `confidence: "legend"` waypoints in a journey file.
+
+## Game bundle (for the ancestor-journey game)
+
+`tools/build_game_bundle.py` walks the direct ancestors of a home person (default: the
+tree owner, `I182195856751`) and exports `data/generated/game_bundle.json` — a single,
+versioned, privacy-reviewed artifact the game consumes instead of loading raw
+`data/people/`/`data/journeys/` files directly. Re-run it any time; it never modifies
+source records, only regenerates its own output.
+
+```sh
+python3 tools/build_game_bundle.py
+```
+
+Per ancestor, the bundle records:
+
+- **generation / side / lineage_path** — distance from the home person, which
+  grandparent line (paternal/maternal), and the name chain connecting them.
+- **privacy_status** — `public_safe` (has a recorded death year), `possibly_living`
+  (no death year and either close-generation or recently-born — needs a human check
+  before use), or `living_confirmed` (the home person themself).
+- **content_readiness** / **readiness_score** — whether the journey is actually
+  game-ready (`reviewed` status, every waypoint narrated) vs. still a `draft` or
+  `not_ready` machine-seeded skeleton, so the game (and content-pipeline tooling) know
+  which ancestors are safe to build a chapter around.
+- **canonical_id** — resolves known duplicate records (both hand-confirmed pairs and a
+  same-name/same-birth-year heuristic scoped to just the ancestor set) so game code
+  never has to deduplicate at runtime.
+
+The bundle also includes a **source_provenance** table classifying every cited source
+as a proprietary Ancestry-hosted collection (cite the fact, don't reproduce the
+transcription), a public-domain historical record/publication, or research this project
+generated itself — licensing guidance for what the game is actually allowed to do with
+each fact.
 
 ## Testing
 
