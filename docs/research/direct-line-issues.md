@@ -38,7 +38,7 @@ These sit close enough to affect the documented family story:
 ### Interpretations
 
 - **Vincenza Minochelli (gen 4)**: ~~second-wife hypothesis~~ **RESOLVED 2026-07-03 — the 1906 death was the error.** SS-5/NUMIDENT records (NARA) prove Vincenza ('Virginia' Minichiello) mothered all the 1902-1917 children including Mary Elizabeth Prosper (b. 16 Aug 1917, corrected). The bloodline stands; the mis-attached 1906 death is flagged on her record. The three eldest children were reassigned to Angelo's first wife Delia Lawrence (m. 1889).
-- **Mary Blackmore (gen 4)**: age 52 at direct ancestor Ellen M Larkin's birth (1905). Same second-wife pattern possible for Thomas Larkin, or the birth years are wrong.
+- **Mary Blackmore (gen 4)**: **RESOLVED 2026-07-03 — the identity is a five-way merge chimera and is refuted as Ellen's mother** (no Larkin x Blackmore marriage in E&W 1885-1911; the Dec 1905 Ramsgate wedding was another bride's). Ellen's birth corrected to ~13 Nov 1906, Whitehaven (GRO Mar Q 1907, 10b/689). Her real mother is pending ONE free lookup: the GRO index mother's-maiden-name column on that registration.
 - **William Stockdale (gen 9)**: children born 1697/1705 after his 1693 death — resolved by research: these are William Albertson's children by Hannah; Stockdale is a step-structure artifact (see the Albertson manual blocks).
 - **John Albertson & Ann Pine (gen 6)**: both duplicated — the *spine* couple exists twice in the tree; merge candidates `I182197731994`/`I182197730733` and `I182197732094`/`I182197730682`.
 - **John Henry Hohman (gen 6)**: 'child' born 48 years before him — a garbled generation link in the Hohmann chain.
