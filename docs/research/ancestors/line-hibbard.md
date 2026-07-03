@@ -1,0 +1,61 @@
+# The Hibbard Line (Surname Line 6): Lineage Survey, Generations 7–12
+
+## Overview
+
+The Hibbard surname line traces back through six documented generations of Essex County, Massachusetts colonists to the immigrant ancestor **Robert Hibbard**, who arrived at Salem, Massachusetts Bay Colony from Salisbury, Wiltshire, England, between 1635 and 1639. The whole chain — Robert Hibbard (immigrant) → Joseph² → Jeremiah³ → Joseph⁴ → Joseph⁵ → Joseph⁶ (tree's "Joseph Hibbard III," gen 7) — is documented in a dedicated published genealogy, *Genealogy of the Hibbard Family Who Are Descendants of Robert Hibbard of Salem, Massachusetts* (Augustine George Hibbard, Woodstock, CT, 1901), available on Archive.org. That book's own citations (parish/church records, Essex County probate and deeds, Savage's *Genealogical Dictionary of New England*, Felt's *Annals of Salem*) let it serve as a period-adjacent primary-sourced backbone for this line, and it also explicitly flags several pieces of family lore about Robert Hibbard as unsupported tradition. The tree's data for this line has two unmerged duplicate person records and one clear parent-attribution error, both corrected below.
+
+## Generation-by-generation chain (gen 7 → gen 12)
+
+| Tree gen | Book gen | Person | Birth | Death | Link to parent above |
+|---|---|---|---|---|---|
+| 7 | 6 (entry #427) | Joseph Hibbard ("III") | 19 Nov 1787, Penobscot, Maine | 13 Aug 1856, Hayti (Haiti), W.I. | **Documented** — book entry #427 |
+| 8 | 5 (entry #163) | Joseph Hibbard | 23 Apr 1751, Manchester, Mass. | not established | **Documented** — book entry #163 |
+| 9 | 4 (entry #69) | Joseph Hibbard | 22 Dec 1723, Manchester, Mass. | not found by 1901 author (tree's 1801 date unverified) | **Documented** — book entry #69 |
+| 10 | 3 (entry #26) | Jeremiah Hibbard | 9 Aug 1683, Beverly, Mass. | May 1743, Manchester, Mass. | **Documented** — book entry #26 |
+| 11 | 2 (entry #6) | Joseph Hibbard/Hibbert (twin of Robert²) | bap. 7 Mar 1648, Salem, Mass. | 14 May 1701, Beverly, Mass. | **Documented** — church baptismal record naming him son of Robert¹, 1648 |
+| 12 | 1 | **Robert Hibbard (the Immigrant)** | bap. 13 Mar 1613, Salisbury, England | 7 May 1684, Beverly, Mass. | — immigrant ancestor |
+
+**The documented line, as reconstructed here, ends at Robert Hibbard, the immigrant (gen 12).** No further-back English ancestry (parents of Robert Hibbard, or clarification of his wife Joan/Joanna's maiden name) is established in any source found; the 1901 book explicitly says her maiden name is unknown, and various family "traditions" about the immigrant's origins are noted by the book's own author as unsupported (see Open Questions / Legend, below).
+
+## Verified facts (with sources)
+
+- **Robert Hibbard, the immigrant**, was baptized 13 March 1613 at St. Edmund's Parish, Salisbury, Wiltshire, England; married Joan/Joanna (surname not established) in England; came to Salem, Mass. between 1635 and 1639; admitted to communion at the First Church of Salem with wife Joan, 17 May 1646; died at Beverly, Essex Co., Mass., 7 May 1684. — *Genealogy of the Hibbard Family* (1901), pp. 11–16, citing Salisbury parish baptismal records, First Church of Salem communion/baptism records, and Savage's *Genealogical Dictionary of New England*, Vol. II, p. 408.
+- Robert Hibbard and Joan had children including twins **Joseph and Robert**, baptized 7 March 1648 at Salem. — *Genealogy of the Hibbard Family* (1901), entry #6/#7, citing First Church of Salem records ("1648. Joseph and Robert, s. Robt. Hibbert").
+- **Joseph Hibbard** (Robert's son, tree gen 11) married Elizabeth Graves 20 Oct 1670; was a farmer; died at Beverly 14 May 1701 (town record says 1700). A 1727 deed names "Jeremiah H. of Manchester" as an heir "of Joseph Hibbard late of Beverly, yeoman," corroborating the father–son link. — *Genealogy of the Hibbard Family* (1901), entry #6, p. 18.
+- **Jeremiah Hibbard** (tree gen 10) was born Beverly, Mass., 9 Aug 1683; married (1) Mary Derby, 2 Mar 1704, (2) Hannah Leach, 28 Sep 1719; removed from Beverly to Manchester; admitted to the Manchester church 24 Aug 1718; served as a Manchester selectman in 1737; died Manchester, May 1743; estate appraised at £289 6s. — *Genealogy of the Hibbard Family* (1901), entry #26, p. 20–21 (probate and town records).
+- **Joseph Hibbard** (tree gen 9) was born Manchester, Mass., **22 Dec 1723** (note: tree gives 27 Dec); married Lois Ingersoll (b. 27 Jun 1725) on **31 Oct 1744**; family resided at Marblehead and removed to Castine, Maine in 1771. The 1901 author states plainly: "Dates of death not found." — *Genealogy of the Hibbard Family* (1901), entry #69, p. 30.
+- **Joseph Hibbard** (tree gen 8) was born Manchester, Mass., 23 Apr 1751; married (1) 1775 Mary Lyons; married (2) 9 Jul 1780 **Mrs. Anna Dugan** of Marblehead (b. 1760, d. 19 Dec 1804 — tree spells her "Dugard"); had 8 children as listed in the book, matching the tree's list of 8 children (Jeremiah, Anna, Joseph, John, Lois, Susanna, Hannah, John) almost exactly. — *Genealogy of the Hibbard Family* (1901), entry #163, p. 45.
+- **Joseph Hibbard** (tree gen 7, "Joseph Hibbard III") was born Penobscot, Maine, 19 Nov 1787; married (1) Prudence Greely (she died 14 Nov 1815), (2) 15 Dec 1824 **Hannah Pond, of Dedham, Mass.**; resided in Boston; was "the owner of several vessels and a seafaring man"; died at **Hayti, W.I.** (Haiti, West Indies), 13 Aug 1856. This matches the tree's core facts (birth date/place, death date/place, spouse Hannah Pond) closely and confirms them as documented rather than merely "unsourced" tree entries. — *Genealogy of the Hibbard Family* (1901), entry #427, p. 88.
+- The 1901 author (a Hibbard descendant himself) explicitly investigated and rejected several pieces of oral family tradition about the immigrant Robert Hibbard — that he came over with Governor Winthrop as a salt-maker, that "three brothers" or "two brothers" came together, and that he received a royal land grant from King James II — finding "no records that justify either of these statements," while confirming only that Robert was in fact a salt-maker and brick-maker. — *Genealogy of the Hibbard Family* (1901), pp. 12–13.
+
+## Corrections to the tree
+
+1. **Joseph Hibbard III's mother is very likely misattributed.** The "sourced" tree record (I182541965880) lists his parents as "Joseph Hibbard, Mary Lyons." Per the 1901 genealogy, Joseph⁵ Hibbard's only child clearly tied to first wife Mary Lyons's marriage window is doubtful, and all children in the printed family group — Anna (1785), Joseph (1787), John (1790), Lois (1791), Susanna (1794), Hannah (1797), John (1799), and likely Jeremiah (1783) — were born after his 9 Jul 1780 marriage to **Anna Dugan**, his second wife. Mary Lyons's marriage (1775) predates all of these births. Evidence: birth-year placement in *Genealogy of the Hibbard Family* (1901), entry #163 — confidence: moderate-to-high (the book does not explicitly label each child's mother, but the dates are unambiguous).
+2. **Spelling: "Anna Dugard" → "Anna Dugan."** The tree spells the second wife's surname "Dugard" in two records; the period genealogy consistently spells it "Dugan" (Mrs. Anna Dugan of Marblehead, b. 1760, d. 19 Dec 1804). Evidence: *Genealogy of the Hibbard Family* (1901), entry #163.
+3. **Birth day discrepancy for Joseph Hibbard (tree gen 9):** tree gives 27 Dec 1723; the book gives 22 Dec 1723. Minor conflict, source of tree's variant not identified — flagged, not resolved.
+4. **The tree lists Jeremiah Hibbard's parent only as "JOSEPH Hibbert"** (unusual capitalization/spelling, no separate person record). This is not an error so much as an unlinked placeholder — it correctly refers to Joseph Hibbard (Robert Hibbard's son, b. 1648, d. 1701), i.e., generation 11 of this line, which the tree simply never built out as its own record. Confirmed via *Genealogy of the Hibbard Family* (1901), entry #26 ("Jeremiah³, s. Joseph², Robert¹").
+5. **Duplicate/malformed events on the Jeremiah Hibbard record** (I182541965985): the record carries both a normal "birth: 9 Aug 1683 @ Beverly..." event and a second, malformed "birth: 9 Aug 1683 @ Beverly val=None" event (likewise for death). These are data artifacts, not evidence of a second Jeremiah — same person, same facts, duplicated/garbled during import.
+
+## New findings (facts not in the tree)
+
+- Joseph Hibbard III (gen 7) had a **first wife, Prudence Greely**, whom he married before 1815; she died 14 Nov 1815. He remarried Hannah Pond in 1824. The tree records only the Hannah Pond marriage.
+- Joseph Hibbard III and Hannah Pond had (at least) **six children**, not the single child ("Hannah Pond Hibbard") in the tree: Prudence J. (b. 14 Oct 1826), Joseph A. (b. 12 Jul 1828, d. 20 Jan 1830), Hannah P. (b. 20 Jun 1831), Joseph (b. 22 Jun 1835), Charles Henry (b. 8 Mar 1838), and John Brown (b. 7 Apr 1841). The tree's single child entry, "Hannah Pond Hibbard," appears to be a garbled merge of daughter "Hannah P." (b. 1831) with her mother's maiden surname "Pond."
+- Joseph Hibbard III was "the owner of several vessels and a seafaring man" who resided in Boston — consistent with his death occurring at Hayti (Haiti), West Indies, presumably in the course of maritime trade.
+- Joseph Hibbard (gen 8)'s marriage to Lois Ingersoll (tree gen 9's wife) took place 31 Oct 1744, and Lois Ingersoll was born 27 Jun 1725 — neither date is in the tree, which lists the marriage as "m. None @ None."
+- The Joseph Hibbard/Joseph Hibbard IV (gen 9) family removed from Manchester to Marblehead and then, in 1771, to **Castine, Maine** — explaining why later generations (gen 7 and gen 8's children) were born in the Penobscot Bay area of Maine rather than in Massachusetts.
+- The 1901 book author personally investigated and rejected the family traditions that the immigrant Robert Hibbard came to New England "with Governor Winthrop" as a salt-maker under royal patronage, that "two" or "three brothers" emigrated together, or that he received a King James II land grant — none of these appear in any record he could find. These should be treated as **legend**, not fact, if they recur elsewhere in this family's lore.
+
+## Open questions
+
+- **Joseph Hibbard (tree gen 9)'s death date of 13 Feb 1801 at Marblehead** is cited in the tree to "Geneanet Community Trees Index" (a compiled/secondary source) but is explicitly *not* found by the 1901 book author ("Dates of death not found"). This may reflect a later-discovered vital record unavailable to the 1901 compiler, or it may be an unverified compiled-tree guess. Needs a primary Marblehead/Essex Co. vital record or probate file to confirm.
+- Robert Hibbard's wife's maiden name is unestablished; one secondary blog source turned up in this research suggested "Joan (Luff)," but this was not verified against a primary record and should be treated as unconfirmed.
+- No FamilySearch, Find A Grave, or probate record specific to Joseph Hibbard's 1856 death at "Hayti, W.I." was located in this research; a death this far outside New England is unlikely to have a conventional headstone. Ship/consular death records or Massachusetts probate for his estate (settled in Boston) might exist and would be worth a targeted search.
+- The two duplicate "Joseph Hibbard III" (gen 7) and two duplicate "Joseph Hibbard" (gen 8) person records in the tree should be merged; this dossier treats them as one person each.
+
+## Sources
+
+- Augustine George Hibbard, *Genealogy of the Hibbard Family Who Are Descendants of Robert Hibbard of Salem, Massachusetts* (Woodstock, CT, 1901) — full text: https://archive.org/stream/genealogyofhibba00hibb/genealogyofhibba00hibb_djvu.txt — item page: https://archive.org/details/genealogyofhibba00hibb
+- FamilySearch compiled profile, Robert Hibbard Sr. (1613–1684): https://ancestors.familysearch.org/en/KNC1-R4M/robert-hibbard-sr-1613-1684 (compiled/secondary, not independently verified in this session)
+- WikiTree, Robert Hibbard Sr (bef.1613–1684): https://www.wikitree.com/wiki/Hibbard-313 (compiled/secondary)
+- Geni.com, Robert Hibbard, I (1613–1684): https://www.geni.com/people/Robert-Hibbard-I/4795072 (compiled/secondary)
+- WikiTree, Hibbard surname index: https://www.wikitree.com/genealogy/HIBBARD (compiled/secondary)
