@@ -39,7 +39,8 @@ Frederick Lewis Reagan (also recorded as Regan/Reagan — his father appears in 
 6. **What Ellen was doing in Belmont, MA in 1930** (1930 census, sourced in tree) — very likely a live-in domestic servant; the census image would confirm occupation and employer household.
 7. **Frederick Sr.'s occupation and WWII draft card details** (card sourced in tree, 1942 Brockton) — the card image (Ancestry/Fold3) would give employer, physical description, and exact address.
 8. **Dennis Francis Regan Sr & Emeline Jane Murphy (Frederick's parents)**: no open-web traces found in this pass; Brockton city directories and the 1910–1930 censuses under Regan/Reagan are the next step (separate gen-4 dossier).
-
+9. **Thomas Larkin was reportedly educated at Oxford and was a physician. Thomas Larkin is said to have owned property in Presque Isle, ME. Verify an additional question of the property being willed/left to "Nanny Red", likely a Domestic. ** Unverified. 
+10.**Ellen's Mother died reportedly died in childbirth in England." 
 ## Sources
 
 - https://www.findagrave.com/memorial/161562791/ellen-m-reagan — Ellen M Larkin Reagan (1905–1995), Saint Michaels Cemetery, Avon, MA
