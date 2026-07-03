@@ -37,7 +37,7 @@ These sit close enough to affect the documented family story:
 
 ### Interpretations
 
-- **Vincenza Minochelli (gen 4)**: died 1906, yet six children of Angelo Prospero run 1908-1918 — including direct ancestor Mary Prosper (b. 1918). Angelo almost certainly remarried; Mary's mother is probably the second wife. If confirmed, the Minochelli branch is not ancestral to the home person and the real gen-4 mother is missing from the tree. **Bloodline-changing if true.**
+- **Vincenza Minochelli (gen 4)**: ~~second-wife hypothesis~~ **RESOLVED 2026-07-03 — the 1906 death was the error.** SS-5/NUMIDENT records (NARA) prove Vincenza ('Virginia' Minichiello) mothered all the 1902-1917 children including Mary Elizabeth Prosper (b. 16 Aug 1917, corrected). The bloodline stands; the mis-attached 1906 death is flagged on her record. The three eldest children were reassigned to Angelo's first wife Delia Lawrence (m. 1889).
 - **Mary Blackmore (gen 4)**: age 52 at direct ancestor Ellen M Larkin's birth (1905). Same second-wife pattern possible for Thomas Larkin, or the birth years are wrong.
 - **William Stockdale (gen 9)**: children born 1697/1705 after his 1693 death — resolved by research: these are William Albertson's children by Hannah; Stockdale is a step-structure artifact (see the Albertson manual blocks).
 - **John Albertson & Ann Pine (gen 6)**: both duplicated — the *spine* couple exists twice in the tree; merge candidates `I182197731994`/`I182197730733` and `I182197732094`/`I182197730682`.

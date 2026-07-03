@@ -284,5 +284,35 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MOTHER CONFIRMED (research 2026-07-03): Vincenza 'Virginia' Minichiello — settled by her own SS-5 chain on SSN 017-12-5027: Apr 1939 original as MARY ELIZABETH PROSPER (father Angelo Prosper, mother Va Minnicheillo); 1953 name-change to MARY ELIZABETH DONAHUE (same parents); 1982 entry (mother 'Vincenzo [=Vincenza] Minnichello'); NUMIDENT death file: d. March 1993, ZIP 02402 Brockton. The audit's second-wife hypothesis is disproven — the 1906 death on her mother's record was the error.",
+      "BIRTH CORRECTED: 16 Aug 1917, Brockton (SS-5 original; the 1953 entry's '16 Aug 1918' is the likely source of the export's 'abt 1918'). Full name Mary Elizabeth."
+    ],
+    "events": [
+      {
+        "type": "birth",
+        "date": {
+          "raw": "16 AUG 1917",
+          "year": 1917,
+          "year_end": null,
+          "qualifier": null
+        },
+        "place": {
+          "raw": "Brockton, Plymouth, Massachusetts, USA",
+          "parts": [
+            "Brockton",
+            "Plymouth",
+            "Massachusetts",
+            "USA"
+          ]
+        },
+        "value": null,
+        "note": "Corrected from 'abt 1918' per original SS-5, SSN 017-12-5027 (NARA NUMIDENT).",
+        "sources": [],
+        "confidence": "documented"
+      }
+    ]
+  }
 }
