@@ -1,0 +1,73 @@
+{
+  "id": "I182587612460",
+  "name": {
+    "given": "Richard",
+    "surname": "Whetny",
+    "suffix": null,
+    "full": "Richard Whetny"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Jan 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesworth, London, England",
+        "parts": [
+          "Hesworth",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Sep 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Concord, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Concord",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587612475",
+      "I182587612510"
+    ],
+    "spouses": [
+      {
+        "id": "I182587612487"
+      }
+    ],
+    "children": [
+      "I182541966281"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

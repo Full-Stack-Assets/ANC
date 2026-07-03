@@ -1,0 +1,60 @@
+{
+  "id": "I182292318241",
+  "name": {
+    "given": "Samuel",
+    "surname": "Olsson",
+    "suffix": null,
+    "full": "Samuel Olsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Feb. 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Apr 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tegneby Orust Sweden",
+        "parts": [
+          "Tegneby Orust Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292318250"
+      }
+    ],
+    "children": [
+      "I182197443214"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

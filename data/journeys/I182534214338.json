@@ -1,0 +1,158 @@
+{
+  "id": "I182534214338",
+  "person": "Patrick Fallon",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Roxbury, Massachusetts",
+        "parts": [
+          "Roxbury",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1840???1911"
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston",
+        "parts": [
+          "Boston"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Jul 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "military",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Roxbury, Massachusetts, USA",
+        "parts": [
+          "Roxbury",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Nov 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1840???1911"
+        },
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "West Roxbury, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "West Roxbury",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

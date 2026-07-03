@@ -1,0 +1,72 @@
+{
+  "id": "I182534044128",
+  "name": {
+    "given": "Matilda",
+    "surname": "Hawkins-Crist",
+    "suffix": null,
+    "full": "Matilda Hawkins-Crist"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 June 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blooming Grove, Orange, NY",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 December 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middletown, Orange, NY",
+        "parts": [
+          "Middletown",
+          "Orange",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044148",
+      "I182534044137"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044131"
+      }
+    ],
+    "children": [
+      "I182526999841"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

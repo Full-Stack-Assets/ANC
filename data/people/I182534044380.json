@@ -1,0 +1,63 @@
+{
+  "id": "I182534044380",
+  "name": {
+    "given": "Charles R.",
+    "surname": "Gilligan",
+    "suffix": null,
+    "full": "Charles R. Gilligan"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1795",
+        "year": 1795,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmeath, Ireland",
+        "parts": [
+          "Westmeath",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "October 1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182195863099"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

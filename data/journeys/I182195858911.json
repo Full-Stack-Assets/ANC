@@ -1,0 +1,53 @@
+{
+  "id": "I182195858911",
+  "person": "Benjamin Swallow",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bath, Sagadahoc Co. ME USA",
+        "parts": [
+          "Bath",
+          "Sagadahoc Co. ME USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1848-10-01",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bath, Sagadahoc Co. ME USA",
+        "parts": [
+          "Bath",
+          "Sagadahoc Co. ME USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1849-10-12",
+        "year": 1849,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

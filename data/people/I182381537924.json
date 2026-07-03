@@ -1,0 +1,71 @@
+{
+  "id": "I182381537924",
+  "name": {
+    "given": "Elizabeth Elsbeth",
+    "surname": "Bulkeley",
+    "suffix": null,
+    "full": "Elizabeth Elsbeth Bulkeley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beaumaris, Anglesey, Wales",
+        "parts": [
+          "Beaumaris",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Feb 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northbourne, Kent, England",
+        "parts": [
+          "Northbourne",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537944"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537941"
+      }
+    ],
+    "children": [
+      "I182381537896"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

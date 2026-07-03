@@ -1,0 +1,53 @@
+{
+  "id": "I182625972206",
+  "person": "Leonhardt Spring",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Eberdingen Vaihingen Enz Wuerttemberg, Germany",
+        "parts": [
+          "Eberdingen Vaihingen Enz Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aug 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182623665557",
+  "person": "Alice Tracy",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Oxfordshire, England",
+        "parts": [
+          "Oxfordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1445",
+        "year": 1445,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Toddington, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Toddington",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 May 1506",
+        "year": 1506,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

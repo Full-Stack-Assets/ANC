@@ -1,0 +1,72 @@
+{
+  "id": "I182623694237",
+  "name": {
+    "given": "Margaret Alice Lady",
+    "surname": "Asey Whittaker",
+    "suffix": null,
+    "full": "Margaret Alice Lady Asey Whittaker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Thomas, Dudley, Worcester, Worcestershire, England",
+        "parts": [
+          "St Thomas",
+          "Dudley",
+          "Worcester",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Thomas, Dudley, Worcestershire, England",
+        "parts": [
+          "St Thomas",
+          "Dudley",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694232"
+      }
+    ],
+    "children": [
+      "I182623692049"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

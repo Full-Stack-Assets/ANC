@@ -1,0 +1,67 @@
+{
+  "id": "I182625981787",
+  "name": {
+    "given": "Phyllis Ripple",
+    "surname": "Bradford",
+    "suffix": null,
+    "full": "Phyllis Ripple Bradford"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 August 1460",
+        "year": 1460,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arksey, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Arksey",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 October 1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arksey, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Arksey",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182620315260"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

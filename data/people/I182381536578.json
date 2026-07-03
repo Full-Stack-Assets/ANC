@@ -1,0 +1,70 @@
+{
+  "id": "I182381536578",
+  "name": {
+    "given": "Margaret",
+    "surname": null,
+    "suffix": null,
+    "full": "Margaret"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newbury, Essex, Massachusetts, United States",
+        "parts": [
+          "Newbury",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Apr 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newbury, Essex, Massachusetts, United States",
+        "parts": [
+          "Newbury",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960298",
+      "I182541960291"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381536258"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

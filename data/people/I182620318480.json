@@ -1,0 +1,183 @@
+{
+  "id": "I182620318480",
+  "name": {
+    "given": "Patrick",
+    "surname": "Brady",
+    "suffix": null,
+    "full": "Patrick Brady"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Sep 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Nov 1874",
+        "year": 1874,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milwaukee, Wisconsin, USA",
+        "parts": [
+          "Milwaukee",
+          "Wisconsin",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620318474"
+      }
+    ],
+    "children": [
+      "I182620318631",
+      "I182620318450",
+      "I182620318630",
+      "I182620318632"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York Ward 22 District 2, New York, New York, New York, USA",
+        "parts": [
+          "New York Ward 22 District 2",
+          "New York",
+          "New York",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Laborer",
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "New York, USA",
+        "parts": [
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Soldier",
+      "sources": [
+        {
+          "source_id": "S506473082",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Occupation: Baker",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506473136",
+      "title": "1860 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S506473082",
+      "title": "U.S., Civil War Pension Index: General Index to Pension Files, 1861-1934",
+      "author": "National Archives and Records Administration",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

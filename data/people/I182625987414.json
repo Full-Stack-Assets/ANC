@@ -1,0 +1,74 @@
+{
+  "id": "I182625987414",
+  "name": {
+    "given": "John",
+    "surname": "Tringham",
+    "suffix": "II",
+    "full": "John Tringham II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woonton, Almeley, Herefordshire, England",
+        "parts": [
+          "Woonton",
+          "Almeley",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Aug 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woonton, Almeley, Herefordshire, England",
+        "parts": [
+          "Woonton",
+          "Almeley",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987451",
+      "I182625987444"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987411"
+      }
+    ],
+    "children": [
+      "I182625987148"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

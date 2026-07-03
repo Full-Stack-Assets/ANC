@@ -1,0 +1,56 @@
+{
+  "id": "I182625981455",
+  "person": "Thomas Brigham",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "of Sowerby, Halifax, Yorks, Eng.",
+        "parts": [
+          "of Sowerby",
+          "Halifax",
+          "Yorks",
+          "Eng."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1537",
+        "year": 1537,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Nov 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

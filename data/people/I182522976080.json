@@ -1,0 +1,71 @@
+{
+  "id": "I182522976080",
+  "name": {
+    "given": "Catharina",
+    "surname": "Nilsdotter",
+    "suffix": null,
+    "full": "Catharina Nilsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 January 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Anundsjö, Örnsköldsvik, Västernorrland, Suède",
+        "parts": [
+          "Anundsjö",
+          "Örnsköldsvik",
+          "Västernorrland",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Anundsjö, Örnsköldsvik, Västernorrland, Suède",
+        "parts": [
+          "Anundsjö",
+          "Örnsköldsvik",
+          "Västernorrland",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182522976091"
+      }
+    ],
+    "children": [
+      "I182522976072"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

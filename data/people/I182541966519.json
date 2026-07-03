@@ -1,0 +1,71 @@
+{
+  "id": "I182541966519",
+  "name": {
+    "given": "Hercules David",
+    "surname": "Hennz",
+    "suffix": null,
+    "full": "Hercules David Hennz"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfort am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfort am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfort am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfort am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966527"
+      }
+    ],
+    "children": [
+      "I182541966514"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

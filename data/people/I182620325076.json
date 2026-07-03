@@ -1,0 +1,71 @@
+{
+  "id": "I182620325076",
+  "name": {
+    "given": "Sir John Winton \"Earl of Minorites\"",
+    "surname": "Mansfield",
+    "suffix": null,
+    "full": "Sir John Winton \"Earl of Minorites\" Mansfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jul 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Berkhamsted, Hertfordshire, England",
+        "parts": [
+          "Berkhamsted",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620325097"
+    ],
+    "spouses": [
+      {
+        "id": "I182620325068"
+      }
+    ],
+    "children": [
+      "I182620325010"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

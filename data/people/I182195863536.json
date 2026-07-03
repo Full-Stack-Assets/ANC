@@ -1,0 +1,70 @@
+{
+  "id": "I182195863536",
+  "name": {
+    "given": "Richard",
+    "surname": "Cheesman",
+    "suffix": null,
+    "full": "Richard Cheesman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "09 Nov 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Nassau, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Nassau",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Hempstead, Nassau, Long Island, New York, USA",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 Sep 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheesman Plantation, Gloucester, New Jersey, USA",
+        "parts": [
+          "Cheesman Plantation",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197729555",
+      "I182197729576"
+    ],
+    "spouses": [],
+    "children": [
+      "I182195863485"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

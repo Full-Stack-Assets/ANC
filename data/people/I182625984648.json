@@ -1,0 +1,90 @@
+{
+  "id": "I182625984648",
+  "name": {
+    "given": "Anne",
+    "surname": "Whistler",
+    "suffix": null,
+    "full": "Anne Whistler"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625984678",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "7 Nov 1673",
+            "year": 1673,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "East Ilsley, Berkshire, England",
+            "parts": [
+              "East Ilsley",
+              "Berkshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182587603018"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "East Ilsley, Berkshire, England",
+        "parts": [
+          "East Ilsley",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

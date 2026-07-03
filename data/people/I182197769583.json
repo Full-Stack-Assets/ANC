@@ -1,0 +1,73 @@
+{
+  "id": "I182197769583",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Elizabeth Morrow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vernon River, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1901",
+        "year": 1901,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mattapan, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Mattapan",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197769931",
+      "I182381539993"
+    ],
+    "spouses": [
+      {
+        "id": "I182197769659"
+      }
+    ],
+    "children": [
+      "I182195858596"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

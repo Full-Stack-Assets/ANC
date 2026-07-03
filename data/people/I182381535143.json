@@ -1,0 +1,64 @@
+{
+  "id": "I182381535143",
+  "name": {
+    "given": "Sarah",
+    "surname": "Simmons",
+    "suffix": null,
+    "full": "Sarah Simmons"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ribbesford, Worcestershire, England?",
+        "parts": [
+          "Ribbesford",
+          "Worcestershire",
+          "England?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Ribbesford, Worcestershire, England?",
+        "parts": [
+          "Ribbesford",
+          "Worcestershire",
+          "England?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535139"
+      }
+    ],
+    "children": [
+      "I182381535131"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

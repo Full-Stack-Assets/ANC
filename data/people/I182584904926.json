@@ -1,0 +1,73 @@
+{
+  "id": "I182584904926",
+  "name": {
+    "given": "Captain William Osborn",
+    "surname": "Haskell",
+    "suffix": null,
+    "full": "Captain William Osborn Haskell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Nov 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlton Musgrove, Somerset, England, United Kingdom",
+        "parts": [
+          "Charlton Musgrove",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": "1620 from \"History of the town of Glouscester\" by John Babson",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Aug 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905046"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904923"
+      }
+    ],
+    "children": [
+      "I182545335943"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625986344",
+  "name": {
+    "given": "Joanna \"Ann\"",
+    "surname": "Barker",
+    "suffix": "10th GG",
+    "full": "Joanna \"Ann\" Barker 10th GG"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Nov 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987065",
+      "I182625987073"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986341"
+      }
+    ],
+    "children": [
+      "I182625986336"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

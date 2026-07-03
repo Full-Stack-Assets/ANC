@@ -1,0 +1,221 @@
+{
+  "id": "I182197443234",
+  "person": "Gustaf Rånge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dimbo, Sverige",
+        "parts": [
+          "Dimbo",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S446914991",
+          "page": null
+        },
+        {
+          "source_id": "S446915028",
+          "page": null
+        },
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Skaraborg",
+        "parts": [
+          "Skaraborg"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 May 1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "departure",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "New York, New York, USA",
+        "parts": [
+          "New York",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 May 1885",
+        "year": 1885,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "arrival",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Easton, Massachusetts, USA",
+        "parts": [
+          "Easton",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "17 February 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115786",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "place": {
+        "raw": "Amerika",
+        "parts": [
+          "Amerika"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "arrival",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115794",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "place": {
+        "raw": "Liverpool, England and Queenstown, Ireland",
+        "parts": [
+          "Liverpool",
+          "England and Queenstown",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "departure",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914991",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "place": {
+        "raw": "Easton, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Easton",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

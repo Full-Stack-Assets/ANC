@@ -1,0 +1,54 @@
+{
+  "id": "I182623664802",
+  "person": "John Burgoyne Burgoyne-Bosum",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "possibly Cambridgeshire, England",
+        "parts": [
+          "possibly Cambridgeshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1475",
+        "year": 1475,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sutton, Bedfordshire or London, England",
+        "parts": [
+          "Sutton",
+          "Bedfordshire or London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aug 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

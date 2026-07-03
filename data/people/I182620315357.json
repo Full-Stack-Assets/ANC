@@ -1,0 +1,69 @@
+{
+  "id": "I182620315357",
+  "name": {
+    "given": "Ric'us",
+    "surname": "Crosbie",
+    "suffix": null,
+    "full": "Ric'us Crosbie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1532",
+        "year": 1532,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Jul 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme Upon Spalding Moor, Yorkshire, England",
+        "parts": [
+          "Holme Upon Spalding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620315349"
+      }
+    ],
+    "children": [
+      "I182620315197"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

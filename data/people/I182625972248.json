@@ -1,0 +1,73 @@
+{
+  "id": "I182625972248",
+  "name": {
+    "given": "Anna",
+    "surname": "Germen",
+    "suffix": null,
+    "full": "Anna Germen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Jun 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Körprich, Saarlouis, Saarland, Germany",
+        "parts": [
+          "Körprich",
+          "Saarlouis",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Aug 1784",
+        "year": 1784,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Knorscheid, Saarland, Germany",
+        "parts": [
+          "Knorscheid",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972288",
+      "I182625972285"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972260"
+      }
+    ],
+    "children": [
+      "I182625972122"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

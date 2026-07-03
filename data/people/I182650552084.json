@@ -1,0 +1,76 @@
+{
+  "id": "I182650552084",
+  "name": {
+    "given": "Robert",
+    "surname": "Gage",
+    "suffix": null,
+    "full": "Robert Gage"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boxford, Babergh District, Suffolk, England, United Kingdom",
+        "parts": [
+          "Boxford",
+          "Babergh District",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1569",
+        "year": 1569,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kersey, Babergh District, Suffolk, England, United Kingdom",
+        "parts": [
+          "Kersey",
+          "Babergh District",
+          "Suffolk",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552115",
+      "I182650552104"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552082"
+      }
+    ],
+    "children": [
+      "I182650552065"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "I182391485910",
+  "name": {
+    "given": "Torbjörn",
+    "surname": "Torgersson",
+    "suffix": null,
+    "full": "Torbjörn Torgersson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Härlycke, Stala (O)",
+        "parts": [
+          "Härlycke",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182391485919",
+      "I182650548681"
+    ],
+    "spouses": [
+      {
+        "id": "I182391485906"
+      }
+    ],
+    "children": [
+      "I182391485891"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

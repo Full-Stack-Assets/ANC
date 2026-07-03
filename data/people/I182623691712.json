@@ -1,0 +1,72 @@
+{
+  "id": "I182623691712",
+  "name": {
+    "given": "Mary",
+    "surname": "Wheeler",
+    "suffix": null,
+    "full": "Mary Wheeler"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Nov 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Dec 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691837",
+      "I182623691827"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691720"
+      }
+    ],
+    "children": [
+      "I182623691684"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

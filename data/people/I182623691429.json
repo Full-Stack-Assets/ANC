@@ -1,0 +1,74 @@
+{
+  "id": "I182623691429",
+  "name": {
+    "given": "James M. (4th GGF)",
+    "surname": "Greene",
+    "suffix": "Sr.",
+    "full": "James M. (4th GGF) Greene Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Mar 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterbury, Washington, Vermont, USA",
+        "parts": [
+          "Waterbury",
+          "Washington",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Feb 1866",
+        "year": 1866,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterbury, Washington, Vermont, USA",
+        "parts": [
+          "Waterbury",
+          "Washington",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691616",
+      "I182623691535"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691418"
+      }
+    ],
+    "children": [
+      "I182623691378"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

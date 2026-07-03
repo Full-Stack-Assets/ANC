@@ -1,0 +1,72 @@
+{
+  "id": "I182623664362",
+  "name": {
+    "given": "Hugh (Hew) Lancelot",
+    "surname": "Hall",
+    "suffix": null,
+    "full": "Hugh (Hew) Lancelot Hall"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 Dec 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clackmannan, Clackmannanshire, , Scotland",
+        "parts": [
+          "Clackmannan",
+          "Clackmannanshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Scotland",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664445",
+      "I182623664442"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664358"
+      }
+    ],
+    "children": [
+      "I182623664346"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

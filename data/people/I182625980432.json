@@ -1,0 +1,87 @@
+{
+  "id": "I182625980432",
+  "name": {
+    "given": "Jarves",
+    "surname": "Stockdale",
+    "suffix": null,
+    "full": "Jarves Stockdale"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1691",
+        "year": 1691,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, Burlington, New Jersey, USA",
+        "parts": [
+          "Burlington",
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "October 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, Burlington, New Jersey, USA",
+        "parts": [
+          "Burlington",
+          "Burlington",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197776810",
+      "I182541935662",
+      "I182625980429"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

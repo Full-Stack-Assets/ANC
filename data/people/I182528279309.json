@@ -1,0 +1,87 @@
+{
+  "id": "I182528279309",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Coffin",
+    "suffix": "Sen",
+    "full": "Benjamin Coffin Sen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Nov 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Dec 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435167",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955760",
+      "I182541960338"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536384"
+      }
+    ],
+    "children": [
+      "I182381536354"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S506435167",
+      "title": "U.S., Newspaper Extractions from the Northeast, 1704-1930",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

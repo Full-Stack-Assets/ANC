@@ -1,0 +1,161 @@
+{
+  "id": "I182613113213",
+  "name": {
+    "given": "Robert Roberti",
+    "surname": "Bevill Buell",
+    "suffix": "Sir Knight",
+    "full": "Robert Roberti Bevill Buell Sir Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Sept 1537",
+        "year": 1537,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, England",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Nov 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, England",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113224",
+      "I182613113217"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113313",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "15 May 1547",
+            "year": 1547,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Halifax, St John the Baptist, Yorkshire, West Yorkshire, England, United Kingdom",
+            "parts": [
+              "Halifax",
+              "St John the Baptist",
+              "Yorkshire",
+              "West Yorkshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182613113305",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "Huntington, Herefordshire, Herefordshire and Worcester, England, United Kingdom",
+            "parts": [
+              "Huntington",
+              "Herefordshire",
+              "Herefordshire and Worcester",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182613113312"
+      }
+    ],
+    "children": [
+      "I182613113308",
+      "I182613113307",
+      "I182613113306",
+      "I182613113304",
+      "I182613113309",
+      "I182613113310",
+      "I182613113314",
+      "I182613113311",
+      "I182613113315",
+      "I182613113135"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

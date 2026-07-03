@@ -1,0 +1,57 @@
+{
+  "id": "I182625292265",
+  "person": "Capt. Zachariah Hawkins",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Charlestown, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "Charlestown",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 October 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Long Island City, Queens, New York, USA",
+        "parts": [
+          "Long Island City",
+          "Queens",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "November 1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

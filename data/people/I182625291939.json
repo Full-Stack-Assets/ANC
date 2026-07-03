@@ -1,0 +1,85 @@
+{
+  "id": "I182625291939",
+  "name": {
+    "given": "Clemon",
+    "surname": "Lankin",
+    "suffix": null,
+    "full": "Clemon Lankin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Liverpool, Lancashire, England",
+        "parts": [
+          "Liverpool",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905624",
+      "I182625291737"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Alban, Lancashire, England",
+        "parts": [
+          "St Alban",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

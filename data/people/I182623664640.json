@@ -1,0 +1,77 @@
+{
+  "id": "I182623664640",
+  "name": {
+    "given": "Sir William",
+    "surname": "Bosum",
+    "suffix": null,
+    "full": "Sir William Bosum"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxton, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Roxton",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxtun, Countybedford, England, United Kingdom",
+        "parts": [
+          "Roxtun",
+          "Countybedford",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664658",
+      "I182623664655",
+      "I182623664625",
+      "I182623664602"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664580"
+      }
+    ],
+    "children": [
+      "I182623664565",
+      "I182623664573"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

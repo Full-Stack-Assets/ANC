@@ -1,0 +1,42 @@
+{
+  "id": "I182625972234",
+  "name": {
+    "given": "Endriß",
+    "surname": "Schwartz",
+    "suffix": null,
+    "full": "Endriß Schwartz"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Eberdingen Germany",
+        "parts": [
+          "Eberdingen Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625972220"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

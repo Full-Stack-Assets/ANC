@@ -1,0 +1,67 @@
+{
+  "id": "I182613026294",
+  "name": {
+    "given": "Rev. Maurice Morris",
+    "surname": "Johnson,  English Parliament member, Mayor Stamford, Esquire; Lascelles-Lassels) LACEY, Lacy)",
+    "suffix": null,
+    "full": "Rev. Maurice Morris Johnson,  English Parliament member, Mayor Stamford, Esquire; Lascelles-Lassels) LACEY, Lacy)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Feb 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Township of Stamford, Rutland County, England",
+        "parts": [
+          "Township of Stamford",
+          "Rutland County",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Dec 1557",
+        "year": 1557,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Luffenham, Rutland, England",
+        "parts": [
+          "North Luffenham",
+          "Rutland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026301"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613026244"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

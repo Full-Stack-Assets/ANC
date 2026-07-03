@@ -1,0 +1,70 @@
+{
+  "id": "I182541959080",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Whitlock",
+    "suffix": "(7th GGM)",
+    "full": "Elizabeth Whitlock (7th GGM)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bucks Co, Pennsylvania",
+        "parts": [
+          "Bucks Co",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem Co., New Jersey",
+        "parts": [
+          "Salem Co.",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959142",
+      "I182541959128"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959101"
+      }
+    ],
+    "children": [
+      "I182541958181"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

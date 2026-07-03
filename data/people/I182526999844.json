@@ -1,0 +1,108 @@
+{
+  "id": "I182526999844",
+  "name": {
+    "given": "John Heinrich",
+    "surname": "Hohmann",
+    "suffix": null,
+    "full": "John Heinrich Hohmann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Aug 1832",
+        "year": 1832,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse-Kassel / Hessen-Kassel / Electorate of Hesse / Kurhessen",
+        "parts": [
+          "Hesse-Kassel / Hessen-Kassel / Electorate of Hesse / Kurhessen"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810494",
+          "page": "Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Death Certificates, 1906-1968; Certificate Number Range: 033831-037340"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Apr 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falls, Bucks, Pennsylvania, USA",
+        "parts": [
+          "Falls",
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810494",
+          "page": "Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Death Certificates, 1906-1968; Certificate Number Range: 033831-037340"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955589"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999854"
+      }
+    ],
+    "children": [
+      "I182198561979"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810494",
+          "page": "Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Death Certificates, 1906-1968; Certificate Number Range: 033831-037340"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516810494",
+      "title": "Pennsylvania, U.S., Death Certificates, 1906-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

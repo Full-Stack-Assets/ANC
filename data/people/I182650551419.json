@@ -1,0 +1,52 @@
+{
+  "id": "I182650551419",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Morse",
+    "suffix": null,
+    "full": "Elizabeth Morse"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Oct 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551431",
+      "I182650551427"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551423"
+      }
+    ],
+    "children": [
+      "I182650551403"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

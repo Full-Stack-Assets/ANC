@@ -1,0 +1,57 @@
+{
+  "id": "I182623680514",
+  "person": "Edmund Nutter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Macclesfield, Cheshire, England, United Kingdom",
+        "parts": [
+          "Macclesfield",
+          "Cheshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woodkirke Clerke, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Woodkirke Clerke",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

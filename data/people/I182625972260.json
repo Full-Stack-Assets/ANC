@@ -1,0 +1,74 @@
+{
+  "id": "I182625972260",
+  "name": {
+    "given": "Johann Hanss Philipp",
+    "surname": "Weber",
+    "suffix": null,
+    "full": "Johann Hanss Philipp Weber"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Nov 1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Feb 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Ludwigsburg, Baden-Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Ludwigsburg",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972266",
+      "I182625972264"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972248"
+      }
+    ],
+    "children": [
+      "I182625972122"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

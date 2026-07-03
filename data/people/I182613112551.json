@@ -1,0 +1,73 @@
+{
+  "id": "I182613112551",
+  "name": {
+    "given": "John Eddye",
+    "surname": "Benjamin, II",
+    "suffix": "(p9GGF)**",
+    "full": "John Eddye Benjamin, II (p9GGF)**"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Sep 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranbrook, Tunbridge Wells, Kent, England",
+        "parts": [
+          "Cranbrook",
+          "Tunbridge Wells",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Dec 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112559"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112555"
+      }
+    ],
+    "children": [
+      "I182613112544"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

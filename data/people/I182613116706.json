@@ -1,0 +1,108 @@
+{
+  "id": "I182613116706",
+  "name": {
+    "given": "Lionel",
+    "surname": "Plantagenet",
+    "suffix": null,
+    "full": "Lionel Plantagenet"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 November 1338",
+        "year": 1338,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Antwerp, Arrondissement Antwerpen, Antwerp, Belgium",
+        "parts": [
+          "Antwerp",
+          "Arrondissement Antwerpen",
+          "Antwerp",
+          "Belgium"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 October 1368",
+        "year": 1368,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alba, Provincia di Cuneo, Piemonte, Italy",
+        "parts": [
+          "Alba",
+          "Provincia di Cuneo",
+          "Piemonte",
+          "Italy"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Clare, St Edmundsbury Borough, Suffolk, England",
+        "parts": [
+          "Clare",
+          "St Edmundsbury Borough",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116531",
+      "I182613116656"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

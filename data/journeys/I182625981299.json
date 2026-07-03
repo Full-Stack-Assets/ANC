@@ -1,0 +1,55 @@
+{
+  "id": "I182625981299",
+  "person": " Sir James Barker",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Harwich, Essex, England or Southwold",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England or Southwold"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

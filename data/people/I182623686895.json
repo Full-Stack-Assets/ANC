@@ -1,0 +1,73 @@
+{
+  "id": "I182623686895",
+  "name": {
+    "given": "Johanna",
+    "surname": "Cooper",
+    "suffix": null,
+    "full": "Johanna Cooper"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Reigate, Surrey, England, United Kingdom",
+        "parts": [
+          "Reigate",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Reigate, Surrey, England, United Kingdom",
+        "parts": [
+          "Reigate",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686967"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686887"
+      }
+    ],
+    "children": [
+      "I182623686810"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

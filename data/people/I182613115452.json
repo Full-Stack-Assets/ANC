@@ -1,0 +1,107 @@
+{
+  "id": "I182613115452",
+  "name": {
+    "given": "Margaret",
+    "surname": "de Montacute",
+    "suffix": null,
+    "full": "Margaret de Montacute"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 October 1329",
+        "year": 1329,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Devon, England",
+        "parts": [
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 March 1394",
+        "year": 1394,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiltshire, England",
+        "parts": [
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Salisbury, Wiltshire Unitary Authority, Wiltshire, England",
+        "parts": [
+          "Salisbury",
+          "Wiltshire Unitary Authority",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613115453"
+      }
+    ],
+    "children": [
+      "I182613115364"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "I182650549010",
+  "name": {
+    "given": "Lady Margaret Maude",
+    "surname": "Hardy",
+    "suffix": null,
+    "full": "Lady Margaret Maude Hardy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1516",
+        "year": 1516,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England, England, United Kingdom",
+        "parts": [
+          "England",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England, England, United Kingdom",
+        "parts": [
+          "England",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650549105",
+      "I182650549062"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548981",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "3 March 1535",
+            "year": 1535,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Yorkshire, England, United Kingdom",
+            "parts": [
+              "Yorkshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182650548971",
+      "I182650549017",
+      "I182650549013",
+      "I182650549014",
+      "I182650549015",
+      "I182650549011",
+      "I182650549009",
+      "I182650549012"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

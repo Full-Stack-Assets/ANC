@@ -1,0 +1,73 @@
+{
+  "id": "I182623689183",
+  "name": {
+    "given": "Lady Ales (Alice)",
+    "surname": "Byron (Byrren)",
+    "suffix": null,
+    "full": "Lady Ales (Alice) Byron (Byrren)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alton, Wiltshire, England",
+        "parts": [
+          "Alton",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "St. Dionis, Backchurch Parish, London, England",
+        "parts": [
+          "St. Dionis",
+          "Backchurch Parish",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689235",
+      "I182623689226"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689215"
+      }
+    ],
+    "children": [
+      "I182623689047"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

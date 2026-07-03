@@ -1,0 +1,68 @@
+{
+  "id": "I182381537850",
+  "name": {
+    "given": "JOHN",
+    "surname": "WILLIAMS",
+    "suffix": "*",
+    "full": "JOHN WILLIAMS *"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Jan 1679 / 80",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pentraeth, Anglesey, WALES",
+        "parts": [
+          "Pentraeth",
+          "Anglesey",
+          "WALES"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 May 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "(10)  Westchester Co, N.Y, USA",
+        "parts": [
+          "(10)  Westchester Co",
+          "N.Y",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537857",
+      "I182594402074"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381537803"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182381538203",
+  "name": {
+    "given": "Anna Martha",
+    "surname": "Sohl",
+    "suffix": null,
+    "full": "Anna Martha Sohl"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 May 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Treysa, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Treysa",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Feb 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Treysa, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Treysa",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538214"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538207"
+      }
+    ],
+    "children": [
+      "I182381538182"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

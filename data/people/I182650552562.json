@@ -1,0 +1,46 @@
+{
+  "id": "I182650552562",
+  "name": {
+    "given": "Isaac B",
+    "surname": "Chubbuck",
+    "suffix": null,
+    "full": "Isaac B Chubbuck"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Aug 1866",
+        "year": 1866,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552556"
+      }
+    ],
+    "children": [
+      "I182536798052"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

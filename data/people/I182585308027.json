@@ -1,0 +1,96 @@
+{
+  "id": "I182585308027",
+  "name": {
+    "given": "Lady Mary Margaret",
+    "surname": "Stanley",
+    "suffix": null,
+    "full": "Lady Mary Margaret Stanley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hooton, Cheshire, England",
+        "parts": [
+          "Hooton",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 March 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bobbingworth, Essex, England",
+        "parts": [
+          "Bobbingworth",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620332863",
+      "I182620332864"
+    ],
+    "spouses": [
+      {
+        "id": "I182585308101"
+      },
+      {
+        "id": "I182620332859"
+      }
+    ],
+    "children": [
+      "I182584905061",
+      "I182620332862",
+      "I182620332860",
+      "I182620332861"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

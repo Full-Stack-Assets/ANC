@@ -1,0 +1,144 @@
+{
+  "id": "I182625984903",
+  "name": {
+    "given": "Susan",
+    "surname": "Armitage",
+    "suffix": null,
+    "full": "Susan Armitage"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bradford, Yorkshire, West Yorkshire, England, United Kingdom",
+        "parts": [
+          "Bradford",
+          "Yorkshire",
+          "West Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 January 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, New York, USA",
+        "parts": [
+          "Hempstead",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984977",
+      "I182625984980"
+    ],
+    "spouses": [
+      {
+        "id": "I182625984824",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1652",
+            "year": 1652,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hempstead, Livingston, New York, Colonial America",
+            "parts": [
+              "Hempstead",
+              "Livingston",
+              "New York",
+              "Colonial America"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516008989",
+              "page": "Source number: 542.000; Source type: Electronic Database; Number of Pages: 1; Submitter Code: DG1"
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625984985",
+      "I182625984976",
+      "I182625984987",
+      "I182625984988",
+      "I182625984979",
+      "I182625984986",
+      "I182625984981",
+      "I182625984983",
+      "I182625984982",
+      "I182625984978",
+      "I182625984984"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008989",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

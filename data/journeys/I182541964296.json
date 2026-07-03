@@ -1,0 +1,56 @@
+{
+  "id": "I182541964296",
+  "person": "Miriam Howell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Tamworth, Warwickshire, England",
+        "parts": [
+          "Tamworth",
+          "Warwickshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Solebury, Bucks, Pennsylvania, United States",
+        "parts": [
+          "Solebury",
+          "Bucks",
+          "Pennsylvania",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

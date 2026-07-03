@@ -1,0 +1,72 @@
+{
+  "id": "I182625981095",
+  "name": {
+    "given": "Johanna",
+    "surname": "Barker",
+    "suffix": null,
+    "full": "Johanna Barker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 07 Feb 1639/40",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981299",
+      "I182625981301"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981090"
+      }
+    ],
+    "children": [
+      "I182625981084"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182625970644",
+  "name": {
+    "given": "John",
+    "surname": "Ireland",
+    "suffix": null,
+    "full": "John Ireland"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1531",
+        "year": 1531,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northampton, Northamptonshire, England",
+        "parts": [
+          "Northampton",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Jun 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mildred, Bread Street, London, England",
+        "parts": [
+          "St Mildred",
+          "Bread Street",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970642"
+      }
+    ],
+    "children": [
+      "I182625970617"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

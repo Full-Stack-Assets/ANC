@@ -1,0 +1,69 @@
+{
+  "id": "I182625980887",
+  "name": {
+    "given": "Thomas",
+    "surname": "Muxloe (Mucklowe)",
+    "suffix": null,
+    "full": "Thomas Muxloe (Mucklowe)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Feb 1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Desford, Leicestershire, England",
+        "parts": [
+          "Desford",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Desford, Leicestershire, England",
+        "parts": [
+          "Desford",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625980883"
+      }
+    ],
+    "children": [
+      "I182625980874"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

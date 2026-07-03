@@ -1,0 +1,57 @@
+{
+  "id": "I182623690829",
+  "person": "William H Mapplebeck",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pickering, Yorkshire, England",
+        "parts": [
+          "Pickering",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 December 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kirkburn, Yorkshire. Buried: Hunslet Moor, St Cuthbert, Yorkshire, England",
+        "parts": [
+          "Kirkburn",
+          "Yorkshire. Buried: Hunslet Moor",
+          "St Cuthbert",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,118 @@
+{
+  "id": "I182625980429",
+  "name": {
+    "given": "William",
+    "surname": "Stockdale",
+    "suffix": null,
+    "full": "William Stockdale"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 November 1669",
+        "year": 1669,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charelmont, MM, Ireland",
+        "parts": [
+          "Charelmont",
+          "MM",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "July 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bucks, Pennsylvania, USA",
+        "parts": [
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541935662",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1690",
+            "year": 1690,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Kennett, Chester, Pennsylvania, USA",
+            "parts": [
+              "Kennett",
+              "Chester",
+              "Pennsylvania",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625980432",
+      "I182197770339",
+      "I182625980433",
+      "I182625980430",
+      "I182625980431"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

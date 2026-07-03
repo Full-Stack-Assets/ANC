@@ -1,0 +1,72 @@
+{
+  "id": "I182623682443",
+  "name": {
+    "given": "DA William Cresswell",
+    "surname": "Learned",
+    "suffix": ", Arrived 1630 from England",
+    "full": "DA William Cresswell Learned , Arrived 1630 from England"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey,  Surrey,  ,  England",
+        "parts": [
+          "Bermondsey",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 March 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623682515"
+    ],
+    "spouses": [
+      {
+        "id": "I182623682437"
+      }
+    ],
+    "children": [
+      "I182623682407"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

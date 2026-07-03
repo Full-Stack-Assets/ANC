@@ -1,0 +1,63 @@
+{
+  "id": "I182381537246",
+  "name": {
+    "given": "Rachell",
+    "surname": "Brock",
+    "suffix": null,
+    "full": "Rachell Brock"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torphichen, Bathgate, West Lothian, Scotland",
+        "parts": [
+          "Torphichen",
+          "Bathgate",
+          "West Lothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537251"
+      }
+    ],
+    "children": [
+      "I182381537234"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182541959560",
+  "person": "Andrew Lynn Mansfield",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Norfolk, , England",
+        "parts": [
+          "Norfolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lynn, Essex Co., Massachusetts, America",
+        "parts": [
+          "Lynn",
+          "Essex Co.",
+          "Massachusetts",
+          "America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Nov 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

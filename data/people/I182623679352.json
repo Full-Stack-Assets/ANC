@@ -1,0 +1,61 @@
+{
+  "id": "I182623679352",
+  "name": {
+    "given": "Anna",
+    "surname": "M'cartie",
+    "suffix": null,
+    "full": "Anna M'cartie"
+  },
+  "sex": null,
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623679295",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "15 Jul 1813",
+            "year": 1813,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Cork, Ireland",
+            "parts": [
+              "Cork",
+              "Ireland"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516810778",
+              "page": "Casey Collection, published 1952-71; Author:: Albert E. Casey: O'Kief, Coshe Mang, Slieve Lougher, and Upper Blackwater in Ireland"
+            },
+            {
+              "source_id": "S516810778",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810778",
+      "title": "Ireland, Casey Collection Indexes, 1545-1960",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

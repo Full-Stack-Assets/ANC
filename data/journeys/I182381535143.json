@@ -1,0 +1,50 @@
+{
+  "id": "I182381535143",
+  "person": "Sarah Simmons",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ribbesford, Worcestershire, England?",
+        "parts": [
+          "Ribbesford",
+          "Worcestershire",
+          "England?"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ribbesford, Worcestershire, England?",
+        "parts": [
+          "Ribbesford",
+          "Worcestershire",
+          "England?"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

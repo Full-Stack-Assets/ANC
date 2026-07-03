@@ -1,0 +1,57 @@
+{
+  "id": "I182526384872",
+  "person": "Mäster Måns Andersson Rånge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Storegården, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Storegården",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Norrgård, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Norrgård",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Jan 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

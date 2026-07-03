@@ -1,0 +1,71 @@
+{
+  "id": "I182623686763",
+  "name": {
+    "given": "Leonard",
+    "surname": "Farwell Gillman",
+    "suffix": null,
+    "full": "Leonard Farwell Gillman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Surrey, England",
+        "parts": [
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Surrey, Surrey, England, United Kingdom",
+        "parts": [
+          "Surrey",
+          "Surrey",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686821"
+    ],
+    "spouses": [
+      {
+        "id": "I182623682553"
+      }
+    ],
+    "children": [
+      "I182623682482"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

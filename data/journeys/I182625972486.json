@@ -1,0 +1,67 @@
+{
+  "id": "I182625972486",
+  "person": "Engelbert III von Langen Herr zu Westkreyenburg",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Meppen, Emsland, Lower Saxony, Germany",
+        "parts": [
+          "Meppen",
+          "Emsland",
+          "Lower Saxony",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Haselünne, Emsland, Niedersachsen, Deutschland",
+        "parts": [
+          "Haselünne",
+          "Emsland",
+          "Niedersachsen",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aug 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182613023613",
+  "person": "Robert Smith Jr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boxford, Essex, Massachusetts, British America",
+        "parts": [
+          "Boxford",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Aug 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

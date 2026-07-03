@@ -1,0 +1,47 @@
+{
+  "id": "I182541966465",
+  "name": {
+    "given": "Christina",
+    "surname": "(Grossmann)",
+    "suffix": null,
+    "full": "Christina (Grossmann)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany, Allemagne",
+        "parts": [
+          "Germany",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966462"
+      }
+    ],
+    "children": [
+      "I182541966431"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

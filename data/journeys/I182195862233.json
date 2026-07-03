@@ -1,0 +1,92 @@
+{
+  "id": "I182195862233",
+  "person": "Michael Albertson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1919",
+        "year": 1919,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Trenton, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": "Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll: m-t0627-02436; Page: 2A; Enumeration District: 27-103"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,89 @@
+{
+  "id": "I182620314998",
+  "name": {
+    "given": "Cuthbert",
+    "surname": "Growe",
+    "suffix": null,
+    "full": "Cuthbert Growe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 June 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newcastle Upon Tyne, 624, Northumberland, England, United Kingdom",
+        "parts": [
+          "Newcastle Upon Tyne",
+          "624",
+          "Northumberland",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984536",
+      "I182625984544"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314994"
+      }
+    ],
+    "children": [
+      "I182620314981"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "5 Jun 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Nicholas Parish Rec and Nonconf ,Newcastle Upon Tyne,Northumberland,England",
+        "parts": [
+          "St Nicholas Parish Rec and Nonconf",
+          "Newcastle Upon Tyne",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447253093",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447253093",
+      "title": "England, Select Births and Christenings, 1538-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

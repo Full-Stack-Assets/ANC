@@ -1,0 +1,90 @@
+{
+  "id": "I182625981329",
+  "name": {
+    "given": "Lady Anne",
+    "surname": "Coleman",
+    "suffix": null,
+    "full": "Lady Anne Coleman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1521",
+        "year": 1521,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Braxted, Essex, England",
+        "parts": [
+          "Great Braxted",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 June 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Braxted, Essex, England",
+        "parts": [
+          "Great Braxted",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981349",
+      "I182625981333"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981317"
+      }
+    ],
+    "children": [
+      "I182625981301"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

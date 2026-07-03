@@ -1,0 +1,62 @@
+{
+  "id": "I182625972224",
+  "name": {
+    "given": "Hanss",
+    "surname": "Boellinger",
+    "suffix": null,
+    "full": "Hanss Boellinger"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": "based on son's birth info",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Okt 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972220"
+      }
+    ],
+    "children": [
+      "I182625972199"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

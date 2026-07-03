@@ -1,0 +1,42 @@
+{
+  "id": "I182650548669",
+  "name": {
+    "given": "Kristoffer",
+    "surname": "Torbjörnsson",
+    "suffix": null,
+    "full": "Kristoffer Torbjörnsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Hjälmvik Ng, Stala (O)",
+        "parts": [
+          "Hjälmvik Ng",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650548715"
+      }
+    ],
+    "children": [
+      "I182391485866"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

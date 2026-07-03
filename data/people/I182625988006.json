@@ -1,0 +1,67 @@
+{
+  "id": "I182625988006",
+  "name": {
+    "given": "Robert",
+    "surname": "Graye",
+    "suffix": "I",
+    "full": "Robert Graye I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marblehead, Essex, Massachusetts, British Colonial America",
+        "parts": [
+          "Marblehead",
+          "Essex",
+          "Massachusetts",
+          "British Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "05 Sep 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Andover, Essex, Massachusetts, United States",
+        "parts": [
+          "Andover",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541956630"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

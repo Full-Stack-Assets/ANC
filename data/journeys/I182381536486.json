@@ -1,0 +1,55 @@
+{
+  "id": "I182381536486",
+  "person": "Mary Thetherly Guard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Northam, Devon, England",
+        "parts": [
+          "Northam",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Feb 1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Newport, Newport, Rhode Island",
+        "parts": [
+          "Newport",
+          "Newport",
+          "Rhode Island"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

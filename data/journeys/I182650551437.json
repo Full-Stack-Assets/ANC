@@ -1,0 +1,56 @@
+{
+  "id": "I182650551437",
+  "person": "John Edward Doty",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 May 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Plymouth,massachusetts,america",
+        "parts": [
+          "Plymouth",
+          "massachusetts",
+          "america"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 May 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

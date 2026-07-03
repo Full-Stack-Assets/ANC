@@ -1,0 +1,67 @@
+{
+  "id": "I182650551634",
+  "name": {
+    "given": "Jemima",
+    "surname": "Perkins",
+    "suffix": null,
+    "full": "Jemima Perkins"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 APR 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sidney, Kennebec, Maine, USA",
+        "parts": [
+          "Sidney",
+          "Kennebec",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 NOV 1846",
+        "year": 1846,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Auburn, Maine",
+        "parts": [
+          "Auburn",
+          "Maine"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551872"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650551391"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

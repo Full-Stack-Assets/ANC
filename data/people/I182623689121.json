@@ -1,0 +1,119 @@
+{
+  "id": "I182623689121",
+  "name": {
+    "given": "Richard",
+    "surname": "Wood",
+    "suffix": null,
+    "full": "Richard Wood"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, shire, Devon, England, United Kingdom",
+        "parts": [
+          "Exeter",
+          "shire",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 April 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Andrew, Enfield, Middlesex, England. Buried: Great Baddow, Essex, England, United Kingdom",
+        "parts": [
+          "St Andrew",
+          "Enfield",
+          "Middlesex",
+          "England. Buried: Great Baddow",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689094"
+      }
+    ],
+    "children": [
+      "I182623689076"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, Devonshire, England",
+        "parts": [
+          "Exeter",
+          "Devonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "14 Apr 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Andrew, Enfield, Middlesex, England",
+        "parts": [
+          "St Andrew",
+          "Enfield",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "I182726541454",
+  "name": {
+    "given": "Maria",
+    "surname": "Johansdotter",
+    "suffix": null,
+    "full": "Maria Johansdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Sweden",
+        "parts": [
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195860718"
+      }
+    ],
+    "children": [
+      "I182195860779"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

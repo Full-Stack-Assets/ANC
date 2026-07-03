@@ -1,0 +1,73 @@
+{
+  "id": "I182623694579",
+  "name": {
+    "given": "Hannah",
+    "surname": "Cooke",
+    "suffix": null,
+    "full": "Hannah Cooke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 January 1699 -1700",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, United States",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 July 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lyme, New London, Connecticut, United States",
+        "parts": [
+          "Lyme",
+          "New London",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694613"
+    ],
+    "spouses": [
+      {
+        "id": "I182623694585"
+      }
+    ],
+    "children": [
+      "I182623691271"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

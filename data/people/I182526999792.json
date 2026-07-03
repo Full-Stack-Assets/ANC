@@ -1,0 +1,115 @@
+{
+  "id": "I182526999792",
+  "name": {
+    "given": "Humphrey",
+    "surname": "Loveys",
+    "suffix": null,
+    "full": "Humphrey Loveys"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Black Torrington, Devon, England, United Kingdom",
+        "parts": [
+          "Black Torrington",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alwington, Devon, England, United Kingdom",
+        "parts": [
+          "Alwington",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541961843",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1518",
+            "year": 1518,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Devon, Devon, England, United Kingdom",
+            "parts": [
+              "Devon",
+              "Devon",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541961842",
+      "I182541961841",
+      "I182541961839",
+      "I182541961840",
+      "I182526999758"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

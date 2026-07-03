@@ -1,0 +1,122 @@
+{
+  "id": "I182625288944",
+  "name": {
+    "given": "Lucy J.",
+    "surname": "Blackmore",
+    "suffix": null,
+    "full": "Lucy J. Blackmore"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1875",
+        "year": 1875,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Manchester, Lancashire, England",
+        "parts": [
+          "Manchester",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516918825",
+          "page": null
+        },
+        {
+          "source_id": "S516021907",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625288896"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Manchester, Lancashire, England",
+        "parts": [
+          "Manchester",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter; Occupation: Scholar",
+      "sources": [
+        {
+          "source_id": "S516021907",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, Manchester, Lancashire, England",
+        "parts": [
+          "St James",
+          "Manchester",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S516918825",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516918825",
+      "title": "1891 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516021907",
+      "title": "1881 England Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

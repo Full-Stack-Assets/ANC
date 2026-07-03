@@ -1,0 +1,69 @@
+{
+  "id": "I182613026088",
+  "person": "George Heath",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Essex, Essex, England, United Kingdom",
+        "parts": [
+          "Essex",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 August 1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Mary Virgin, Ware, Hertford, Hertfordshire, England, United Kingdom",
+        "parts": [
+          "St Mary Virgin",
+          "Ware",
+          "Hertford",
+          "Hertfordshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

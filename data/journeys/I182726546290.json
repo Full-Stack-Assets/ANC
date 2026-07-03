@@ -1,0 +1,57 @@
+{
+  "id": "I182726546290",
+  "person": "JOHANNA ANDERSSON",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Of Gard,MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "Of Gard",
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Sep 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "GRINSBY,MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "GRINSBY",
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Nov 1802",
+        "year": 1802,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

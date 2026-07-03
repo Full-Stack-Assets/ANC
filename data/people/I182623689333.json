@@ -1,0 +1,63 @@
+{
+  "id": "I182623689333",
+  "name": {
+    "given": "Eor Fnu",
+    "surname": "(Mnu)",
+    "suffix": null,
+    "full": "Eor Fnu (Mnu)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1527",
+        "year": 1527,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, Gloucestershire, England, United Kingdom",
+        "parts": [
+          "Gloucestershire",
+          "Gloucestershire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689343"
+      }
+    ],
+    "children": [
+      "I182623689303"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

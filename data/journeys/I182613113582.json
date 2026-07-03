@@ -1,0 +1,57 @@
+{
+  "id": "I182613113582",
+  "person": "William Whitinge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Barton, Cambridge, Cambridgeshire, England",
+        "parts": [
+          "Barton",
+          "Cambridge",
+          "Cambridgeshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dedham, Land, Essex, England",
+        "parts": [
+          "Dedham",
+          "Land",
+          "Essex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Aug 1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

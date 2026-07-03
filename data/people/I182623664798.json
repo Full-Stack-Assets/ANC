@@ -1,0 +1,107 @@
+{
+  "id": "I182623664798",
+  "name": {
+    "given": "John",
+    "surname": "Burgoyne",
+    "suffix": null,
+    "full": "John Burgoyne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1475",
+        "year": 1475,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "possibly Cambridgeshire, England",
+        "parts": [
+          "possibly Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Sutton, Bedfordshire or London, England",
+        "parts": [
+          "Sutton",
+          "Bedfordshire or London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620244",
+          "page": "The National Archives; Kew, Surrey, England; Records of the Prerogative Court of Canterbury, Series PROB 11; Class: PROB 11; Piece: 28"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623664658"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1475",
+        "year": 1475,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Cambridgeshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Cambridgeshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516620244",
+      "title": "England & Wales, Prerogative Court of Canterbury Wills, 1384-1858",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

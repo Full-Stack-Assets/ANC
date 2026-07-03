@@ -1,0 +1,87 @@
+{
+  "id": "I182195861020",
+  "name": {
+    "given": "Magnus",
+    "surname": "Månsson Rånge",
+    "suffix": null,
+    "full": "Magnus Månsson Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Mar 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinga, Västergötaland, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinga",
+          "Västergötaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 November 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backgården, Hädäng, Velinga, Västragötaland, Sverige",
+        "parts": [
+          "Backgården",
+          "Hädäng",
+          "Velinga",
+          "Västragötaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861510",
+      "I182195861488"
+    ],
+    "spouses": [
+      {
+        "id": "I182195861021"
+      }
+    ],
+    "children": [
+      "I182195861464",
+      "I182195860775",
+      "I182195861023",
+      "I182195861463"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

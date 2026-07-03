@@ -1,0 +1,54 @@
+{
+  "id": "I182620320586",
+  "person": "Märit Mattsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Spjutsbo, Norrbärke kyrka, Kopparberg (Dalarna), Sverige",
+        "parts": [
+          "Spjutsbo",
+          "Norrbärke kyrka",
+          "Kopparberg (Dalarna)",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skellefteå Norrbotten Sverige",
+        "parts": [
+          "Skellefteå Norrbotten Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

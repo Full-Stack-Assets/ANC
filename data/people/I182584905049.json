@@ -1,0 +1,92 @@
+{
+  "id": "I182584905049",
+  "name": {
+    "given": "Ann Hannah",
+    "surname": "Childress",
+    "suffix": null,
+    "full": "Ann Hannah Childress"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1544",
+        "year": 1544,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, South Somerset District, Somerset, England",
+        "parts": [
+          "Wincanton",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, South Somerset District, Somerset, England",
+        "parts": [
+          "Wincanton",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620332812",
+      "I182584905061"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905053"
+      }
+    ],
+    "children": [
+      "I182584905046"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

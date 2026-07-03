@@ -1,0 +1,74 @@
+{
+  "id": "I182613112546",
+  "name": {
+    "given": "Elizabeth (Shattuck)",
+    "surname": "Brown",
+    "suffix": "(p8GGM)",
+    "full": "Elizabeth (Shattuck) Brown (p8GGM)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 September 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Aug 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112673",
+      "I182613112670"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112544"
+      }
+    ],
+    "children": [
+      "I182613112531"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

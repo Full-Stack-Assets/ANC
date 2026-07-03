@@ -1,0 +1,95 @@
+{
+  "id": "I182620322951",
+  "name": {
+    "given": "Annie",
+    "surname": "Macleod",
+    "suffix": null,
+    "full": "Annie Macleod"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Nova Scotia",
+        "parts": [
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323029",
+      "I182620323023"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322947"
+      }
+    ],
+    "children": [
+      "I182620322950",
+      "I182620322418",
+      "I182620322945",
+      "I182620322949",
+      "I182620322946",
+      "I182620322948"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Strathlorn, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Strathlorn",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Farmer; Marital Status: Married; Relation to Head of House: Wife; Religion: Free Church",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447151101",
+      "title": "1891 Census of Canada",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

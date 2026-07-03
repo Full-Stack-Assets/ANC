@@ -1,0 +1,57 @@
+{
+  "id": "I182526999619",
+  "person": "Philippa Wrey",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Mawnan, Cornwall, England, United Kingdom",
+        "parts": [
+          "Mawnan",
+          "Cornwall",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Exeter, Devon, England, United Kingdom",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 January 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182623689303",
+  "name": {
+    "given": "Roxanna",
+    "surname": "Roe",
+    "suffix": null,
+    "full": "Roxanna Roe"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, England",
+        "parts": [
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 August 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Finchingfield, Essex, England",
+        "parts": [
+          "Finchingfield",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689343",
+      "I182623689333"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689320"
+      }
+    ],
+    "children": [
+      "I182623689269"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

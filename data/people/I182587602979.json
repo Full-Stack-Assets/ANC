@@ -1,0 +1,69 @@
+{
+  "id": "I182587602979",
+  "name": {
+    "given": "Esther",
+    "surname": "Gillett",
+    "suffix": "Gray",
+    "full": "Esther Gillett Gray"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Connecticut, USA",
+        "parts": [
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 May 1756",
+        "year": 1756,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, USA",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587603018"
+      }
+    ],
+    "children": [
+      "I182541957577"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

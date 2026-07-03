@@ -1,0 +1,48 @@
+{
+  "id": "I182620327791",
+  "name": {
+    "given": "Thomas",
+    "surname": "Bruges",
+    "suffix": null,
+    "full": "Thomas Bruges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1440",
+        "year": 1440,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coberley, Gloucestershire, England",
+        "parts": [
+          "Coberley",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620327835"
+      }
+    ],
+    "children": [
+      "I182620327459"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

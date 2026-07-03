@@ -1,0 +1,78 @@
+{
+  "id": "I182195863070",
+  "name": {
+    "given": "Alice Camilla",
+    "surname": "Reagan",
+    "suffix": null,
+    "full": "Alice Camilla Reagan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 July 1905",
+        "year": 1905,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 November 1987",
+        "year": 1987,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Simsbury, Hartford, Connecticut, United States of America",
+        "parts": [
+          "Simsbury",
+          "Hartford",
+          "Connecticut",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195857866",
+      "I182195857849"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541936195",
+      "I182541932062"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

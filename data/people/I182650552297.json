@@ -1,0 +1,74 @@
+{
+  "id": "I182650552297",
+  "name": {
+    "given": "William",
+    "surname": "Linfield",
+    "suffix": null,
+    "full": "William Linfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Sep 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoughton, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Stoughton",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552306",
+      "I182650552300"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552293"
+      }
+    ],
+    "children": [
+      "I182650552275"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

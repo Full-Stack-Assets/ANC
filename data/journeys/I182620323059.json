@@ -1,0 +1,122 @@
+{
+  "id": "I182620323059",
+  "person": "Elizabeth Isabelle MacDonald \"Isabelle\"",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kilmuir, Isle of Skye, Scotland",
+        "parts": [
+          "Kilmuir",
+          "Isle of Skye",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "05 Apr 1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619962",
+          "page": "Year: 1871; Census Place: Margaree North East, Inverness, Nova Scotia; Roll: C-10566; Page: 1"
+        },
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Margaree North East, Inverness, Nova Scotia",
+        "parts": [
+          "Margaree North East",
+          "Inverness",
+          "Nova Scotia"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619962",
+          "page": "Year: 1871; Census Place: Margaree North East, Inverness, Nova Scotia; Roll: C-10566; Page: 1"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Portree, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Portree",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Sep 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Margaree Valley, Inverness County, Nova Scotia, Canada",
+        "parts": [
+          "Margaree Valley",
+          "Inverness County",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619946",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

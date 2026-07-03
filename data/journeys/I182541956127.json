@@ -1,0 +1,57 @@
+{
+  "id": "I182541956127",
+  "person": "John Severence",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Abbey Ashrewsbury, England, United Kingdom",
+        "parts": [
+          "Abbey Ashrewsbury",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Powick, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Powick",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 April 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

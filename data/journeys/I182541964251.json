@@ -1,0 +1,57 @@
+{
+  "id": "I182541964251",
+  "person": "Henry JOHNSON",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Philadelphia, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Bet. 1645–1673",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Philadelphia, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Bet. 1698–1758",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

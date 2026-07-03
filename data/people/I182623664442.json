@@ -1,0 +1,70 @@
+{
+  "id": "I182623664442",
+  "name": {
+    "given": "Alice A",
+    "surname": "Lygh\\Lea Leigh",
+    "suffix": null,
+    "full": "Alice A Lygh\\Lea Leigh"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Manchester, Lancashire, England",
+        "parts": [
+          "Manchester",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664450"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664445"
+      }
+    ],
+    "children": [
+      "I182623664362"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

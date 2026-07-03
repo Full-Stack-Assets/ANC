@@ -1,0 +1,73 @@
+{
+  "id": "I182623689712",
+  "name": {
+    "given": "Sarah",
+    "surname": "Read * Overton",
+    "suffix": "M . 1698",
+    "full": "Sarah Read * Overton M . 1698"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 August 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex, British Colonies, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex",
+          "British Colonies",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1742",
+        "year": 1742,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Middlesex, British Colonies, Massachusetts, USA",
+        "parts": [
+          "Cambridge",
+          "Middlesex",
+          "British Colonies",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689716"
+      }
+    ],
+    "children": [
+      "I182623688881"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

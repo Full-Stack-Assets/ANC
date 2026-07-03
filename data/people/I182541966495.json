@@ -1,0 +1,71 @@
+{
+  "id": "I182541966495",
+  "name": {
+    "given": "Katharina",
+    "surname": "Flörsheimer",
+    "suffix": null,
+    "full": "Katharina Flörsheimer"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Astheim, Gross-Gerau, Hessen, Germany",
+        "parts": [
+          "Astheim",
+          "Gross-Gerau",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Aug 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Höchst, Breisgau-Hochschwarzwald, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Höchst",
+          "Breisgau-Hochschwarzwald",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966502"
+      }
+    ],
+    "children": [
+      "I182541966447"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182623679443",
+  "name": {
+    "given": "JOHN F",
+    "surname": "OWEN",
+    "suffix": null,
+    "full": "JOHN F OWEN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Jul 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterford, Caledonia, Vermont, USA",
+        "parts": [
+          "Waterford",
+          "Caledonia",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 NOV 1932",
+        "year": 1932,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Taunton, Bristol, Massachusetts, USA",
+        "parts": [
+          "Taunton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691382",
+      "I182623691378"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679439"
+      }
+    ],
+    "children": [
+      "I182623679435"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

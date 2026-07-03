@@ -1,0 +1,49 @@
+{
+  "id": "I182381536914",
+  "person": "John Glass",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St. Ninians, Stirlingshire, Scotland",
+        "parts": [
+          "St. Ninians",
+          "Stirlingshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Nov 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Stirlingshire, Scotland",
+        "parts": [
+          "Stirlingshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

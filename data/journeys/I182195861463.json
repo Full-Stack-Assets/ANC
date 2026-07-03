@@ -1,0 +1,57 @@
+{
+  "id": "I182195861463",
+  "person": "Gabriel Magnusson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hadäng, Velinga, Västra Götaland, Sverige",
+        "parts": [
+          "Hadäng",
+          "Velinga",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Augusti 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Håven, Agnetorp, Västragötaland, Sverige",
+        "parts": [
+          "Håven",
+          "Agnetorp",
+          "Västragötaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Maj 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

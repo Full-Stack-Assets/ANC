@@ -1,0 +1,72 @@
+{
+  "id": "I182613113706",
+  "name": {
+    "given": "Margaret Helena",
+    "surname": "Clarke",
+    "suffix": "Lady",
+    "full": "Margaret Helena Clarke Lady"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Welbourne, Lincolnshire, England",
+        "parts": [
+          "Welbourne",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Welbourne, Lincolnshire, England",
+        "parts": [
+          "Welbourne",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113716",
+      "I182613113713"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113703"
+      }
+    ],
+    "children": [
+      "I182613113682"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

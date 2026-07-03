@@ -1,0 +1,68 @@
+{
+  "id": "I182381538618",
+  "name": {
+    "given": "Uriah",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Uriah Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "02 Jan 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantucket, Nantucket, Massachusetts, USA",
+        "parts": [
+          "Nantucket",
+          "Nantucket",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Point, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "East Point",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538638",
+      "I182381538939"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

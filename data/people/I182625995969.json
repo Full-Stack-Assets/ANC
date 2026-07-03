@@ -1,0 +1,70 @@
+{
+  "id": "I182625995969",
+  "name": {
+    "given": "Anna",
+    "surname": "Cheeseman*",
+    "suffix": null,
+    "full": "Anna Cheeseman*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Aug 1847",
+        "year": 1847,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Turnersville, Camden,New Jersey",
+        "parts": [
+          "Turnersville",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sicklerville, Camden, New Jersey, USA",
+        "parts": [
+          "Sicklerville",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Tombstone in Sicklerville Methodist Church cemetery reads \"Anna Dilks, b.1852, d.1906\". This the same cemetery where John Clark Dilks wife #2 (Margaretta)is buried and Clark S. Dilks 1st wife Rebecca E Dilks is buried.",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625995978"
+      }
+    ],
+    "children": [
+      "I182625995941"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

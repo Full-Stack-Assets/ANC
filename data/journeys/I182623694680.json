@@ -1,0 +1,57 @@
+{
+  "id": "I182623694680",
+  "person": "Judith Preston",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Chester, Rockingham, New Hampshire, United States",
+        "parts": [
+          "Chester",
+          "Rockingham",
+          "New Hampshire",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 May 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Waterford, Caledonia, Vermont, United States",
+        "parts": [
+          "Waterford",
+          "Caledonia",
+          "Vermont",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 May 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182620315177",
+  "person": "Thomas Brigham",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Holme in Spalding Moore, Yorkshire, England",
+        "parts": [
+          "Holme in Spalding Moore",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 MAY 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Holme upon Spalding Moor, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Holme upon Spalding Moor",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 MAR 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

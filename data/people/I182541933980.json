@@ -1,0 +1,51 @@
+{
+  "id": "I182541933980",
+  "name": {
+    "given": "Ebenezer",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Ebenezer Taber"
+  },
+  "sex": null,
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Aug 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508112731",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541933966",
+      "I182541933967"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508112731",
+      "title": "Mayflower Births and Deaths, Vol. 1 and 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

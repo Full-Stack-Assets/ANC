@@ -1,0 +1,116 @@
+{
+  "id": "I182613023586",
+  "name": {
+    "given": "LUCY",
+    "surname": "Page Towne",
+    "suffix": null,
+    "full": "LUCY Page Towne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1705 Jan 6",
+        "year": 1705,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, MA, Colonies",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "MA",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1764-04-15",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield,Essex,MA,Colonies",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "MA",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613023590"
+      }
+    ],
+    "children": [
+      "I182613023565"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "06 Jan 1705",
+        "year": 1705,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "15 Apr 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

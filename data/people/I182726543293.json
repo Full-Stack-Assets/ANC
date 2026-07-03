@@ -1,0 +1,52 @@
+{
+  "id": "I182726543293",
+  "name": {
+    "given": "Johan",
+    "surname": "_i_Huggarbo",
+    "suffix": null,
+    "full": "Johan _i_Huggarbo"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Huggarbo, Norrbärke (W)",
+        "parts": [
+          "Huggarbo",
+          "Norrbärke (W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381536023"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

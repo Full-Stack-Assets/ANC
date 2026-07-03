@@ -1,0 +1,41 @@
+{
+  "id": "I182728423984",
+  "name": {
+    "given": "Åsa",
+    "surname": "Torstensdotter",
+    "suffix": null,
+    "full": "Åsa Torstensdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Röra (O)",
+        "parts": [
+          "Röra (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728423995"
+      }
+    ],
+    "children": [
+      "I182728423973"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

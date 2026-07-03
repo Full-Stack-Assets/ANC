@@ -1,0 +1,64 @@
+{
+  "id": "I182541960429",
+  "name": {
+    "given": "Mary Katherine FItzRobert",
+    "surname": "Hyde",
+    "suffix": "Norbury",
+    "full": "Mary Katherine FItzRobert Hyde Norbury"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ", Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Dec 1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bristol, Somerset, England",
+        "parts": [
+          "Bristol",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541960089"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

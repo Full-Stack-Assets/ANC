@@ -1,0 +1,41 @@
+{
+  "id": "I182623664266",
+  "name": {
+    "given": "James",
+    "surname": "Liddaill",
+    "suffix": null,
+    "full": "James Liddaill"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664277"
+      }
+    ],
+    "children": [
+      "I182623664253"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

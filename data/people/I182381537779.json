@@ -1,0 +1,68 @@
+{
+  "id": "I182381537779",
+  "name": {
+    "given": "Mercy",
+    "surname": "Oakley - Fowler",
+    "suffix": null,
+    "full": "Mercy Oakley - Fowler"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westchester, New York",
+        "parts": [
+          "Westchester",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 MAY 1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "White Plains, New York, USA",
+        "parts": [
+          "White Plains",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537788"
+      }
+    ],
+    "children": [
+      "I182381537754"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182623690494",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Neville (Whatly)",
+    "suffix": null,
+    "full": "Elizabeth Neville (Whatly)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Corsham, Wiltshire Unitary Authority, Wiltshire, England",
+        "parts": [
+          "Corsham",
+          "Wiltshire Unitary Authority",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Oct 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Corsham, Wiltshire Unitary Authority, Wiltshire, England",
+        "parts": [
+          "Corsham",
+          "Wiltshire Unitary Authority",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690486"
+      }
+    ],
+    "children": [
+      "I182623690468"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

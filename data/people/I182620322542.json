@@ -1,0 +1,42 @@
+{
+  "id": "I182620322542",
+  "name": {
+    "given": "William",
+    "surname": "Gilmore",
+    "suffix": null,
+    "full": "William Gilmore"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Galway, Ireland",
+        "parts": [
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322532"
+      }
+    ],
+    "children": [
+      "I182620322499"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

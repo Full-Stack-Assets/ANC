@@ -1,0 +1,55 @@
+{
+  "id": "I182197731851",
+  "name": {
+    "given": "William H",
+    "surname": "Gregory",
+    "suffix": null,
+    "full": "William H Gregory"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197730735"
+      }
+    ],
+    "children": [
+      "I182197731852"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447147251",
+      "title": "Pennsylvania, Death Certificates, 1906-1967",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

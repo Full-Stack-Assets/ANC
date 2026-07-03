@@ -1,0 +1,135 @@
+{
+  "id": "I182522976091",
+  "name": {
+    "given": "Anders Andreas",
+    "surname": "OLOFSSON i LERNBO",
+    "suffix": null,
+    "full": "Anders Andreas OLOFSSON i LERNBO"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrbärke församling, Kopparberg, Dalarnas län, Sweden",
+        "parts": [
+          "Norrbärke församling",
+          "Kopparberg",
+          "Dalarnas län",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrmesunda, Anundsjö, Ångermanland, Sverige",
+        "parts": [
+          "Norrmesunda",
+          "Anundsjö",
+          "Ångermanland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620321199",
+      "I182620321206"
+    ],
+    "spouses": [
+      {
+        "id": "I182522976080"
+      },
+      {
+        "id": "I182620321201"
+      }
+    ],
+    "children": [
+      "I182522976072",
+      "I182620321196",
+      "I182620321204",
+      "I182620321198",
+      "I182620321200",
+      "I182620321202",
+      "I182620321197",
+      "I182620321205",
+      "I182620321207",
+      "I182620321396",
+      "I182620321397",
+      "I182620321398"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Jäder, Södermanland, Sverige",
+        "parts": [
+          "Jäder",
+          "Södermanland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619795",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516619795",
+      "title": "Sweden, Household Clerical Surveys, 1880-1896",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

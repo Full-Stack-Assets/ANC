@@ -1,0 +1,73 @@
+{
+  "id": "I182541966437",
+  "name": {
+    "given": "Johann Matthäus Christopher",
+    "surname": "Christ",
+    "suffix": null,
+    "full": "Johann Matthäus Christopher Christ"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim jetzt OT von Frankfurt am Main, Hessen, Deutschland",
+        "parts": [
+          "Zeilsheim jetzt OT von Frankfurt am Main",
+          "Hessen",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 JAN 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfurt am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfurt am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966508",
+      "I182541966509"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966447"
+      }
+    ],
+    "children": [
+      "I182541966434"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

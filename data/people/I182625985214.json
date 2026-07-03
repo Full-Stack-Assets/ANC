@@ -1,0 +1,50 @@
+{
+  "id": "I182625985214",
+  "name": {
+    "given": "Thomas",
+    "surname": "WILLIAMS",
+    "suffix": "Jr",
+    "full": "Thomas WILLIAMS Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Nov 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shrewsbury, Shropshire, England",
+        "parts": [
+          "Shrewsbury",
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625985231"
+    ],
+    "spouses": [
+      {
+        "id": "I182625985218"
+      }
+    ],
+    "children": [
+      "I182625985189"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

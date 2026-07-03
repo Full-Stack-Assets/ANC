@@ -1,0 +1,56 @@
+{
+  "id": "I182567600353",
+  "person": "Martha Ann Dutton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Montgomeryshire, Powys, Wales, United Kingdom",
+        "parts": [
+          "Montgomeryshire",
+          "Powys",
+          "Wales",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wilmslow, Cheshire, England",
+        "parts": [
+          "Wilmslow",
+          "Cheshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

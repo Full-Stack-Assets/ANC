@@ -1,0 +1,69 @@
+{
+  "id": "I182381536534",
+  "name": {
+    "given": "Mary",
+    "surname": "Twaddle",
+    "suffix": null,
+    "full": "Mary Twaddle"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Sep 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Armagh, Ireland",
+        "parts": [
+          "Armagh",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Jan 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536664"
+    ],
+    "spouses": [
+      {
+        "id": "I182197770035"
+      }
+    ],
+    "children": [
+      "I182197770013"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

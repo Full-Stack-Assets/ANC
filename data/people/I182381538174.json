@@ -1,0 +1,70 @@
+{
+  "id": "I182381538174",
+  "name": {
+    "given": "Johann Georg",
+    "surname": "Pfluger",
+    "suffix": null,
+    "full": "Johann Georg Pfluger"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Feb 1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sternenfels, Enzkreis, Baden-Württemberg, Germany",
+        "parts": [
+          "Sternenfels",
+          "Enzkreis",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Mar 1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sternenfels, Enzkreis, Baden-Württemberg, Germany",
+        "parts": [
+          "Sternenfels",
+          "Enzkreis",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538486",
+      "I182381538484"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381538146"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

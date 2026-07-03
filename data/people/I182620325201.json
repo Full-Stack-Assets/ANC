@@ -1,0 +1,110 @@
+{
+  "id": "I182620325201",
+  "name": {
+    "given": "Elizabetha",
+    "surname": "Botheroyd",
+    "suffix": null,
+    "full": "Elizabetha Botheroyd"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1530-1534",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halifax, Yorkshire, England",
+        "parts": [
+          "Halifax",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Elland, Yorkshire, England",
+        "parts": [
+          "Elland",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620325605",
+      "I182620325590"
+    ],
+    "spouses": [
+      {
+        "id": "I182620325248",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "8 Jun 1550",
+            "year": 1550,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Halifax, York, England",
+            "parts": [
+              "Halifax",
+              "York",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182620325166"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

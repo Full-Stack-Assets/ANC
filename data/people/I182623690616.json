@@ -1,0 +1,71 @@
+{
+  "id": "I182623690616",
+  "name": {
+    "given": "Dawna Rose",
+    "surname": "Davis",
+    "suffix": null,
+    "full": "Dawna Rose Davis"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10/13/1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Dionis Backchurch, London, England",
+        "parts": [
+          "St. Dionis Backchurch",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 June 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Dunstan in the West, London, England",
+        "parts": [
+          "St Dunstan in the West",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690664"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690650"
+      }
+    ],
+    "children": [
+      "I182623690251"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

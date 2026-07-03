@@ -1,0 +1,72 @@
+{
+  "id": "I182381537010",
+  "name": {
+    "given": "William",
+    "surname": "McKie",
+    "suffix": null,
+    "full": "William McKie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelton, Kirkudbrightshire, Scotland",
+        "parts": [
+          "Kelton",
+          "Kirkudbrightshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Oct 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bay Fortune, Prince Edward Island, Canada",
+        "parts": [
+          "Bay Fortune",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537029",
+      "I182381537023"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536994"
+      }
+    ],
+    "children": [
+      "I182381536967"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

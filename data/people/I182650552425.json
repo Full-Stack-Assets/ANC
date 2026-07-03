@@ -1,0 +1,73 @@
+{
+  "id": "I182650552425",
+  "name": {
+    "given": "Hannah Johanna",
+    "surname": "Sealis",
+    "suffix": null,
+    "full": "Hannah Johanna Sealis"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "08 JAN 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Biddenden, Kent, England",
+        "parts": [
+          "Biddenden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Sep 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Muddy River, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Muddy River",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552434",
+      "I182650552430"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552414"
+      }
+    ],
+    "children": [
+      "I182650552398"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

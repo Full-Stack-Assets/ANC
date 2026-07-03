@@ -1,0 +1,110 @@
+{
+  "id": "I182195859300",
+  "name": {
+    "given": "Terry Ann",
+    "surname": "Arsenault",
+    "suffix": null,
+    "full": "Terry Ann Arsenault"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182195859446",
+      "I182195859447"
+    ],
+    "spouses": [
+      {
+        "id": "I182541940765",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "12 Jul 1975",
+            "year": 1975,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Newton, Massachusetts, USA",
+            "parts": [
+              "Newton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508115383",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182195856959"
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "Abt 1975",
+        "year": 1975,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Newton",
+        "parts": [
+          "Newton"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508115383",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508115383",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

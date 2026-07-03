@@ -1,0 +1,72 @@
+{
+  "id": "I182613025652",
+  "name": {
+    "given": "William",
+    "surname": "Hathorne II. English.",
+    "suffix": "12th GGF",
+    "full": "William Hathorne II. English. 12th GGF"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bray, Berkshire, England",
+        "parts": [
+          "Bray",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Oct 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Binfield, Berkshire, England",
+        "parts": [
+          "Binfield",
+          "Berkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025663",
+      "I182613025660"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025644"
+      }
+    ],
+    "children": [
+      "I182613025638"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

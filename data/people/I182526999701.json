@@ -1,0 +1,72 @@
+{
+  "id": "I182526999701",
+  "name": {
+    "given": "Leonard",
+    "surname": "Loves\\Loveys\\Lovies",
+    "suffix": null,
+    "full": "Leonard Loves\\Loveys\\Lovies"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ogbeare, Cornwall, England",
+        "parts": [
+          "Ogbeare",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Apr 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Okehampton, Devon, England",
+        "parts": [
+          "Okehampton",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999758",
+      "I182526999723"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999710"
+      }
+    ],
+    "children": [
+      "I182526999637"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

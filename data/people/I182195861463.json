@@ -1,0 +1,76 @@
+{
+  "id": "I182195861463",
+  "name": {
+    "given": "Gabriel",
+    "surname": "Magnusson",
+    "suffix": null,
+    "full": "Gabriel Magnusson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Augusti 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hadäng, Velinga, Västra Götaland, Sverige",
+        "parts": [
+          "Hadäng",
+          "Velinga",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Maj 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Håven, Agnetorp, Västragötaland, Sverige",
+        "parts": [
+          "Håven",
+          "Agnetorp",
+          "Västragötaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861020",
+      "I182195861021"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

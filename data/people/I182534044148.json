@@ -1,0 +1,75 @@
+{
+  "id": "I182534044148",
+  "name": {
+    "given": "David",
+    "surname": "Hawkins",
+    "suffix": "Junior",
+    "full": "David Hawkins Junior"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 May 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookhaven, Suffolk, Province of New York, British America",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "Province of New York",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Aug 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blooming Grove, Orange, New York, USA",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292247",
+      "I182625292245"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044137"
+      }
+    ],
+    "children": [
+      "I182726542784",
+      "I182534044128"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182650552313",
+  "name": {
+    "given": "Peter",
+    "surname": "Linfield",
+    "suffix": null,
+    "full": "Peter Linfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Aug 1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nuthurst, Sussex, England",
+        "parts": [
+          "Nuthurst",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nuthurst, Sussex, England",
+        "parts": [
+          "Nuthurst",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552312"
+      }
+    ],
+    "children": [
+      "I182650552306"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

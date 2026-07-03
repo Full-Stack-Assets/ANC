@@ -1,0 +1,55 @@
+{
+  "id": "I182381538146",
+  "person": "Sabrina Elisabetha Pfluger",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hannover, Stadt Hannover, Niedersachsen, Germany",
+        "parts": [
+          "Hannover",
+          "Stadt Hannover",
+          "Niedersachsen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Jan 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Birch Hill Lot 49, Prince Edward Island",
+        "parts": [
+          "Birch Hill Lot 49",
+          "Prince Edward Island"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 July 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

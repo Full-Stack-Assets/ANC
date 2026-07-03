@@ -1,0 +1,57 @@
+{
+  "id": "I182620315260",
+  "person": "Richard, I Bradford of Bentley",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bentley, Arksey, Yorkshire, England, Europe.",
+        "parts": [
+          "Bentley",
+          "Arksey",
+          "Yorkshire",
+          "England",
+          "Europe."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Arksey, Yorkshire, England",
+        "parts": [
+          "Arksey",
+          "Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 July 1597",
+        "year": 1597,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

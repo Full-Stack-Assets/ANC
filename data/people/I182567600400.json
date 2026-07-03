@@ -1,0 +1,71 @@
+{
+  "id": "I182567600400",
+  "name": {
+    "given": "William (Knight)",
+    "surname": "Bull. Ball.1538 (13th GGF) (Warwickshire)",
+    "suffix": null,
+    "full": "William (Knight) Bull. Ball.1538 (13th GGF) (Warwickshire)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Jul 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Apr 1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, , England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600414"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600380"
+      }
+    ],
+    "children": [
+      "I182567600333"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

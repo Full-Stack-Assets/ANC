@@ -1,0 +1,94 @@
+{
+  "id": "I182613023530",
+  "name": {
+    "given": "Louisa Jane",
+    "surname": "Knight",
+    "suffix": null,
+    "full": "Louisa Jane Knight"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Jul 1836",
+        "year": 1836,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Jan 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk County, Massachusetts, USA",
+        "parts": [
+          "Randolph",
+          "Norfolk County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 54",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023540",
+      "I182613023535"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023524"
+      }
+    ],
+    "children": [
+      "I182613023502"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1840",
+        "year": 1840,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts, USA",
+        "parts": [
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182587607784",
+  "person": "Janet Turnbull",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Grange, Dunfermline, Fife, Scotland",
+        "parts": [
+          "Grange",
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 May 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Tunygask, Dunfermline, Fife, Scotland",
+        "parts": [
+          "Tunygask",
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Jan 1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

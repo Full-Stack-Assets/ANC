@@ -1,0 +1,116 @@
+{
+  "id": "I182613115698",
+  "name": {
+    "given": "William",
+    "surname": "Vaux",
+    "suffix": null,
+    "full": "William Vaux"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1435",
+        "year": 1435,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oxfordshire, England",
+        "parts": [
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1471",
+        "year": 1471,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tewkesbury, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Tewkesbury",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Tewkesbury, Tewkesbury Borough, Gloucestershire, England",
+        "parts": [
+          "Tewkesbury",
+          "Tewkesbury Borough",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613115697"
+      }
+    ],
+    "children": [
+      "I182613114397"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516021591",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

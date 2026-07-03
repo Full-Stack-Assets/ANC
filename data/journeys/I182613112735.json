@@ -1,0 +1,57 @@
+{
+  "id": "I182613112735",
+  "person": "Richard 'of Great Doddington' Bernard",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Abington, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Abington",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Turvey, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Turvey",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "16 Jun 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

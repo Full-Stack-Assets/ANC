@@ -1,0 +1,58 @@
+{
+  "id": "I182650551431",
+  "name": {
+    "given": "Joshua",
+    "surname": "Morse",
+    "suffix": null,
+    "full": "Joshua Morse"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551456",
+      "I182650551451"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551427"
+      }
+    ],
+    "children": [
+      "I182650551419"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

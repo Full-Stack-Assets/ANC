@@ -1,0 +1,88 @@
+{
+  "id": "I182726542784",
+  "name": {
+    "given": "Sarah",
+    "surname": "Hawkins",
+    "suffix": null,
+    "full": "Sarah Hawkins"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Sep 1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blooming Grove, Orange, New York, United States",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jan 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Deer Park, Orange, New York, United States",
+        "parts": [
+          "Deer Park",
+          "Orange",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044148",
+      "I182534044137"
+    ],
+    "spouses": [],
+    "children": [
+      "I182726542813"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

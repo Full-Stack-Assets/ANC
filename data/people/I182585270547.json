@@ -1,0 +1,140 @@
+{
+  "id": "I182585270547",
+  "name": {
+    "given": "Winifreda",
+    "surname": "Mulken",
+    "suffix": null,
+    "full": "Winifreda Mulken"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1808",
+        "year": 1808,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 January 1874",
+        "year": 1874,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton, Washington, Wisconsin, USA",
+        "parts": [
+          "Barton",
+          "Washington",
+          "Wisconsin",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587609016",
+      "I182587609594"
+    ],
+    "spouses": [
+      {
+        "id": "I182585270548"
+      }
+    ],
+    "children": [
+      "I182584905624",
+      "I182625291750",
+      "I182585307994",
+      "I182585307995",
+      "I182585307993"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton, Barton, Washington, Wisconsin, USA",
+        "parts": [
+          "Barton",
+          "Barton",
+          "Washington",
+          "Wisconsin",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506473136",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506473136",
+      "title": "1860 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

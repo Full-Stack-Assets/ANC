@@ -1,0 +1,73 @@
+{
+  "id": "I182381536004",
+  "name": {
+    "given": "Per",
+    "surname": "Olofsson",
+    "suffix": null,
+    "full": "Per Olofsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bommarsbo, Norrbärke Kopparberg",
+        "parts": [
+          "Bommarsbo",
+          "Norrbärke Kopparberg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 FEB 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pehr Ols, Torberbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Pehr Ols",
+          "Torberbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536014",
+      "I182522975980"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535999"
+      }
+    ],
+    "children": [
+      "I182381535988"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

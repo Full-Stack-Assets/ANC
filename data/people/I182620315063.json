@@ -1,0 +1,71 @@
+{
+  "id": "I182620315063",
+  "name": {
+    "given": "Richard",
+    "surname": "Crosby",
+    "suffix": null,
+    "full": "Richard Crosby"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Runcorn, Cheshire, England",
+        "parts": [
+          "Runcorn",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 May 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Pennsylvania, United States",
+        "parts": [
+          "Chester",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315134"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315068"
+      }
+    ],
+    "children": [
+      "I182620314901"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

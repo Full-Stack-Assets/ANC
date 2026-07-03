@@ -1,0 +1,69 @@
+{
+  "id": "I182541959599",
+  "name": {
+    "given": "Lady Margaret Alice Mary (Susanna)",
+    "surname": "Forth (Forthe)  (Headland)  (Townshend)",
+    "suffix": null,
+    "full": "Lady Margaret Alice Mary (Susanna) Forth (Forthe)  (Headland)  (Townshend)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "May 1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brecon Ash, Norfolk, England",
+        "parts": [
+          "Brecon Ash",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Jun 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bracon Ash, Norfolk, England",
+        "parts": [
+          "Bracon Ash",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959615"
+      }
+    ],
+    "children": [
+      "I182541959577"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

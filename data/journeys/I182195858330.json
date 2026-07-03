@@ -1,0 +1,119 @@
+{
+  "id": "I182195858330",
+  "person": "Douglas Leon Holst BIL",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Suffolk, MA, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "MA",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Jul 1908",
+        "year": 1908,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 449"
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 449"
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Boston",
+        "parts": [
+          "Boston"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

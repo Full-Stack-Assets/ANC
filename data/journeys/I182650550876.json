@@ -1,0 +1,55 @@
+{
+  "id": "I182650550876",
+  "person": "William Abasolum Ames",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bruton, Somerset, England",
+        "parts": [
+          "Bruton",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Oct 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Braintree, Norfolk, Massachusetts Colony",
+        "parts": [
+          "Braintree",
+          "Norfolk",
+          "Massachusetts Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Jan 1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

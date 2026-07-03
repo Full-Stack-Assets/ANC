@@ -1,0 +1,73 @@
+{
+  "id": "I182620314885",
+  "name": {
+    "given": "Nicholas",
+    "surname": "Fairlamb",
+    "suffix": null,
+    "full": "Nicholas Fairlamb"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Nov 1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stockton-on-Tees, Durham County, England",
+        "parts": [
+          "Stockton-on-Tees",
+          "Durham County",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 October 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middletown, Chester, Pennsylvania, United States",
+        "parts": [
+          "Middletown",
+          "Chester",
+          "Pennsylvania",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620314915",
+      "I182620314922"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314901"
+      }
+    ],
+    "children": [
+      "I182197756701"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

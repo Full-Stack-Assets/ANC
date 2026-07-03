@@ -1,0 +1,69 @@
+{
+  "id": "I182728424287",
+  "name": {
+    "given": "Martha Susannah",
+    "surname": "Edson",
+    "suffix": null,
+    "full": "Martha Susannah Edson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fillongley, Warwickshire, England",
+        "parts": [
+          "Fillongley",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Sep 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fillongley, Warwickshire, England",
+        "parts": [
+          "Fillongley",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728424248"
+      }
+    ],
+    "children": [
+      "I182650550422"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

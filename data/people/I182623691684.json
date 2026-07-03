@@ -1,0 +1,72 @@
+{
+  "id": "I182623691684",
+  "name": {
+    "given": "Susannah",
+    "surname": "Joslin",
+    "suffix": null,
+    "full": "Susannah Joslin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Oct 1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Nov 1832",
+        "year": 1832,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691720",
+      "I182623691712"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691696"
+      }
+    ],
+    "children": [
+      "I182623691563"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

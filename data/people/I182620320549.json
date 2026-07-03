@@ -1,0 +1,67 @@
+{
+  "id": "I182620320549",
+  "name": {
+    "given": "Johannes",
+    "surname": "Jönsson",
+    "suffix": null,
+    "full": "Johannes Jönsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "06-Mar-1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brandstorp",
+        "parts": [
+          "Brandstorp"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Jul 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brandstorp, Skaraborg, Sverige",
+        "parts": [
+          "Brandstorp",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197444920"
+      }
+    ],
+    "children": [
+      "I182197444088"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

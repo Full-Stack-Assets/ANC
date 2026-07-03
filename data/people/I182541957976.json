@@ -1,0 +1,64 @@
+{
+  "id": "I182541957976",
+  "name": {
+    "given": "Sir Nicholas",
+    "surname": "Taber \\ Tabor",
+    "suffix": null,
+    "full": "Sir Nicholas Taber \\ Tabor"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margereting, Essex, England",
+        "parts": [
+          "Margereting",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Y, Somme, Picardie, France",
+        "parts": [
+          "Y",
+          "Somme",
+          "Picardie",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

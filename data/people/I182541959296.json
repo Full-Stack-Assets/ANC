@@ -1,0 +1,58 @@
+{
+  "id": "I182541959296",
+  "name": {
+    "given": "Hannah",
+    "surname": "Pond",
+    "suffix": null,
+    "full": "Hannah Pond"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Mar 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Sep 1865",
+        "year": 1865,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959337",
+      "I182541959332"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959308"
+      }
+    ],
+    "children": [
+      "I182541959707"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

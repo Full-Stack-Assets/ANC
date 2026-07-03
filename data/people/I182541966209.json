@@ -1,0 +1,74 @@
+{
+  "id": "I182541966209",
+  "name": {
+    "given": "Mary",
+    "surname": "Phillips",
+    "suffix": null,
+    "full": "Mary Phillips"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shalford, Colchester, Essex, England",
+        "parts": [
+          "Shalford",
+          "Colchester",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1662",
+        "year": 1662,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norfolk, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Norfolk",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966306",
+      "I182541966309"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966203"
+      }
+    ],
+    "children": [
+      "I182541966184"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

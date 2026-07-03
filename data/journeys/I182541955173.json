@@ -1,0 +1,62 @@
+{
+  "id": "I182541955173",
+  "person": "Bridget Ganning",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wolverhampton, Staffordshire",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "April 1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

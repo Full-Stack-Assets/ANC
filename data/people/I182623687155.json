@@ -1,0 +1,69 @@
+{
+  "id": "I182623687155",
+  "name": {
+    "given": "Thomas",
+    "surname": "Caryll",
+    "suffix": null,
+    "full": "Thomas Caryll"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warnham, Sussex, England",
+        "parts": [
+          "Warnham",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 November 1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Warnham, Sussex, England",
+        "parts": [
+          "Warnham",
+          "Sussex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623687166"
+      }
+    ],
+    "children": [
+      "I182623687145"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

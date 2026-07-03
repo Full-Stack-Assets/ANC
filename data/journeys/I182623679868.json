@@ -1,0 +1,57 @@
+{
+  "id": "I182623679868",
+  "person": "Elizabeth Hall",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Oyster River, Strafford, New Hampshire, United States",
+        "parts": [
+          "Oyster River",
+          "Strafford",
+          "New Hampshire",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Nov 1663",
+        "year": 1663,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woodbridge, Middlesex, New Jersey, United States",
+        "parts": [
+          "Woodbridge",
+          "Middlesex",
+          "New Jersey",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

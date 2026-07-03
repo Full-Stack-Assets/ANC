@@ -1,0 +1,59 @@
+{
+  "id": "I182613113228",
+  "person": "Elizabeth Ann (Russell) Bowerman",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brook, Isle Wight, Hampshire, England, United Kingdom",
+        "parts": [
+          "Brook",
+          "Isle Wight",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1492",
+        "year": 1492,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brook Manor Church, Isle Wight, Hampshire, England, United Kingdom",
+        "parts": [
+          "Brook Manor Church",
+          "Isle Wight",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

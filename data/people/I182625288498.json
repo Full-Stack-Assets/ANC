@@ -1,0 +1,420 @@
+{
+  "id": "I182625288498",
+  "name": {
+    "given": "Mary",
+    "surname": "Blackmore",
+    "suffix": null,
+    "full": "Mary Blackmore"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        },
+        {
+          "source_id": "S513850707",
+          "page": null
+        },
+        {
+          "source_id": "S516918839",
+          "page": null
+        },
+        {
+          "source_id": "S516918958",
+          "page": "Liverpool Record Office; Liverpool, England, UK; Liverpool Cemetery Registers; Reference: 352 Cem 6/3/9"
+        },
+        {
+          "source_id": "",
+          "page": "Wigan Archives Services; Wigan, England; Film Number: 11; Reference Numbers: D/P24/1/19"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "About 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancashire, United Kingdom",
+        "parts": [
+          "Lancashire",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516918839",
+          "page": null
+        },
+        {
+          "source_id": "S516918958",
+          "page": "Liverpool Record Office; Liverpool, England, UK; Liverpool Cemetery Registers; Reference: 352 Cem 6/3/9"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "10 Aug 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Merseyside, England",
+        "parts": [
+          "Merseyside",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516918958",
+          "page": "Liverpool Record Office; Liverpool, England, UK; Liverpool Cemetery Registers; Reference: 352 Cem 6/3/9"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625291060",
+      "I182625291059"
+    ],
+    "spouses": [
+      {
+        "id": "I182195857640",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "25 Dec 1905",
+            "year": 1905,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "St Lukes Ramsgate",
+            "parts": [
+              "St Lukes Ramsgate"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "",
+              "page": "The National Archives; London, England, UK; War Office: Soldiers' Documents, First World War Wo363"
+            },
+            {
+              "source_id": "",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195857362"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "26 Sep 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynton, Devon, England",
+        "parts": [
+          "Lynton",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516919005",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "12 Jun 1864",
+        "year": 1864,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Broadclyst, Devon, England",
+        "parts": [
+          "Broadclyst",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "27 May 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wigan, All Saints, Lancashire, England",
+        "parts": [
+          "Wigan",
+          "All Saints",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "Wigan Archives Services; Wigan, England; Film Number: 11; Reference Numbers: D/P24/1/19"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "5 Feb 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516918951",
+          "page": "London Metropolitan Archives; \"London, England, UK\" ; London Church of England Parish Registers; Reference Number: P76/Js1/020"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "11 Apr 1886",
+        "year": 1886,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516918951",
+          "page": "London Metropolitan Archives; \"London, England, UK\" ; London Church of England Parish Registers; Reference Number: P84/Jud/001"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Manchester, Lancashire, England",
+        "parts": [
+          "Manchester",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter; Occupation: Scholar",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, Manchester, Lancashire, England",
+        "parts": [
+          "St James",
+          "Manchester",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Religion: Anglican",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S516919005",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S513850707",
+      "title": "England & Wales, Civil Registration Birth Index, 1837-1915",
+      "author": "FreeBMD",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918839",
+      "title": "England & Wales, Civil Registration Death Index, 1837-1915",
+      "author": "FreeBMD",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918958",
+      "title": "England & Scotland, Select Cemetery Registers, 1800-2024",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S516919005",
+      "title": "Devon, England, Church of England Births and Baptisms, 1813-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918951",
+      "title": "London, England, Church of England Births and Baptisms, 1813-1923",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516918970",
+      "title": "New York, New York, U.S., Extracted Marriage Index, 1866-1937",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "I182650552532",
+  "name": {
+    "given": "Moses",
+    "surname": "Decoster",
+    "suffix": null,
+    "full": "Moses Decoster"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "France",
+        "parts": [
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650552524"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

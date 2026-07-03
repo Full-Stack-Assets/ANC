@@ -1,0 +1,61 @@
+{
+  "id": "I182197441846",
+  "person": "Shamus M Clifford",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Oct 1994",
+        "year": 1994,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 May 2012",
+        "year": 2012,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516620013",
+          "page": "The Boston Globe; Publication Date: 12 May 2012; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444167005/?article=7a64980a-4ef5-11ed-bc55-462ae31e2a67&xid=4635 &terms=Shamus_Clifford"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

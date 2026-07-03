@@ -1,0 +1,62 @@
+{
+  "id": "I182567600302",
+  "name": {
+    "given": "Joan\\9th GGM",
+    "surname": "Partridge",
+    "suffix": null,
+    "full": "Joan\\9th GGM Partridge"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Nov 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Staffordshire, England, United Kingdom",
+        "parts": [
+          "Staffordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1668",
+        "year": 1668,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182567600311"
+      }
+    ],
+    "children": [
+      "I182567600271"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

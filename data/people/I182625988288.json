@@ -1,0 +1,89 @@
+{
+  "id": "I182625988288",
+  "name": {
+    "given": "Jane",
+    "surname": "Taber",
+    "suffix": null,
+    "full": "Jane Taber"
+  },
+  "sex": null,
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hertfordshire, England",
+        "parts": [
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 April 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rhode Island, United States of America",
+        "parts": [
+          "Rhode Island",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625988340"
+    ],
+    "spouses": [
+      {
+        "id": "I182541956554"
+      }
+    ],
+    "children": [
+      "I182541933966",
+      "I182625987880",
+      "I182625988287"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

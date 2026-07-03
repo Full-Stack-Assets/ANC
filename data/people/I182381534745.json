@@ -1,0 +1,116 @@
+{
+  "id": "I182381534745",
+  "name": {
+    "given": "Samuel Jacob",
+    "surname": "Elwell",
+    "suffix": null,
+    "full": "Samuel Jacob Elwell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Sep 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pittsgrove, Salem, New Jersey, United States",
+        "parts": [
+          "Pittsgrove",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381534759",
+      "I182541958337"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535027"
+      }
+    ],
+    "children": [
+      "I182381534715"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove Twp. Salem Co NJ",
+        "parts": [
+          "Pilesgrove Twp. Salem Co NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "May 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, United States",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

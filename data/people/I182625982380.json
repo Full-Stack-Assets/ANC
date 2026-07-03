@@ -1,0 +1,112 @@
+{
+  "id": "I182625982380",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Say",
+    "suffix": null,
+    "full": "Elizabeth Say"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1424",
+        "year": 1424,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fen Ditton, South Cambridgeshire District, Cambridgeshire, England",
+        "parts": [
+          "Fen Ditton",
+          "South Cambridgeshire District",
+          "Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 September 1473",
+        "year": 1473,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Broxbourne, Broxbourne Borough, Hertfordshire, England",
+        "parts": [
+          "Broxbourne",
+          "Broxbourne Borough",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Broxbourne, Broxbourne Borough, Hertfordshire, England",
+        "parts": [
+          "Broxbourne",
+          "Broxbourne Borough",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625982381"
+      }
+    ],
+    "children": [
+      "I182625982210",
+      "I182625983634"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

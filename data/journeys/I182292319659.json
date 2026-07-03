@@ -1,0 +1,54 @@
+{
+  "id": "I182292319659",
+  "person": "Jon Germundsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ö. Kollungröd, Västra Götaland, Sverige",
+        "parts": [
+          "Ö. Kollungröd",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Snussten u. Ö. Kollungeröd, Göteborg o Bohuslän,",
+        "parts": [
+          "Snussten u. Ö. Kollungeröd",
+          "Göteborg o Bohuslän"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

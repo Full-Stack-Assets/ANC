@@ -1,0 +1,54 @@
+{
+  "id": "I182625980893",
+  "person": "Maria Rozzi",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Italy",
+        "parts": [
+          "Italy"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dinazzano, Casalgrande, Reggio Emilia, Italia",
+        "parts": [
+          "Dinazzano",
+          "Casalgrande",
+          "Reggio Emilia",
+          "Italia"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Oct 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

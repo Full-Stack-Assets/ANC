@@ -1,0 +1,72 @@
+{
+  "id": "I182381536460",
+  "name": {
+    "given": "Mary Mariah",
+    "surname": "Jameson",
+    "suffix": null,
+    "full": "Mary Mariah Jameson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Nov 1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, MA, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Maria was baptized at the First Church of Boston on 28 Nov. 1647, daughter of James and Sarah Jameson.  parents is proven by the deed recording the sale by her mother of a house lot in Boston to her husband in 1677 [SD Vol. 11, p. 216].",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182539814439"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536470"
+      }
+    ],
+    "children": [
+      "I182381536421"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182625972085",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Huffman",
+    "suffix": null,
+    "full": "Elizabeth Huffman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 MAY 1849",
+        "year": 1849,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Monroe County, Ohio, USA",
+        "parts": [
+          "Monroe County",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 JUN 1936",
+        "year": 1936,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harriettsville, Noble County, Ohio, USA",
+        "parts": [
+          "Harriettsville",
+          "Noble County",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972166",
+      "I182625972162"
+    ],
+    "spouses": [
+      {
+        "id": "I182623698466"
+      }
+    ],
+    "children": [
+      "I182541955589"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

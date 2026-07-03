@@ -1,0 +1,69 @@
+{
+  "id": "I182381537509",
+  "name": {
+    "given": "Johne",
+    "surname": "Aickin",
+    "suffix": null,
+    "full": "Johne Aickin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "? Falkirk, Stirling, Scotland",
+        "parts": [
+          "? Falkirk",
+          "Stirling",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "? Falkirk, Stirlingshire, Scotland",
+        "parts": [
+          "? Falkirk",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537504"
+      }
+    ],
+    "children": [
+      "I182381537490"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

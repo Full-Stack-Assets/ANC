@@ -1,0 +1,61 @@
+{
+  "id": "I182728424079",
+  "person": "Börta Persdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Västra Röra, Långelanda, Myckleby, Orust Östra, Västra Götaland, Sverige",
+        "parts": [
+          "Västra Röra",
+          "Långelanda",
+          "Myckleby",
+          "Orust Östra",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Backa, Myckleby, Orusts Östra, Göteborgs- och Bohus län, Bohuslän, Sweden",
+        "parts": [
+          "Backa",
+          "Myckleby",
+          "Orusts Östra",
+          "Göteborgs- och Bohus län",
+          "Bohuslän",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

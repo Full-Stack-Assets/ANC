@@ -1,0 +1,106 @@
+{
+  "id": "I182659714093",
+  "person": "Helen Donahue",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Apr 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S506435245",
+          "page": null
+        },
+        {
+          "source_id": "S519432392",
+          "page": "The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger and Crew Lists of Vessels and Airplanes Departing from New York, New York, 07/01/1948-12/31/1956; NAI Number: 3335533; Record Group Title: Records of the Immigration and N"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Sep 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115905",
+          "page": null
+        },
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "New York, New York, USA",
+        "parts": [
+          "New York",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Jul 1951",
+        "year": 1951,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "departure",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S519432392",
+          "page": "The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger and Crew Lists of Vessels and Airplanes Departing from New York, New York, 07/01/1948-12/31/1956; NAI Number: 3335533; Record Group Title: Records of the Immigration and N"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

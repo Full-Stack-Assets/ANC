@@ -1,0 +1,67 @@
+{
+  "id": "I182623689366",
+  "name": {
+    "given": "Sir John\\Johan\\Johanes",
+    "surname": "Adams",
+    "suffix": null,
+    "full": "Sir John\\Johan\\Johanes Adams"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mucklestone, Staffordshire, England",
+        "parts": [
+          "Mucklestone",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Mar 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mucklestone, Staffordshire, England",
+        "parts": [
+          "Mucklestone",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689386"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623689320"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

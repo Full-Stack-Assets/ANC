@@ -1,0 +1,75 @@
+{
+  "id": "I182195864073",
+  "name": {
+    "given": "David",
+    "surname": "Row",
+    "suffix": null,
+    "full": "David Row"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Deptford Twp, Gloucester, NJ",
+        "parts": [
+          "Deptford Twp",
+          "Gloucester",
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195863565",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "6 Sep 1738",
+            "year": 1738,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Gloucester, New Jersey, USA",
+            "parts": [
+              "Gloucester",
+              "New Jersey",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "I182650551423",
+  "name": {
+    "given": "Japhet",
+    "surname": "Turner",
+    "suffix": null,
+    "full": "Japhet Turner"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Sep 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 14 Sep 1748",
+        "year": 1748,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551581",
+      "I182650551575"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551419"
+      }
+    ],
+    "children": [
+      "I182650551403"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "I182625987608",
+  "name": {
+    "given": "William Arthur",
+    "surname": "Grey Gery",
+    "suffix": "Baron Grey De Wilton",
+    "full": "William Arthur Grey Gery Baron Grey De Wilton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chicksands, Bedfordshire, England",
+        "parts": [
+          "Chicksands",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "May 1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Cambridgeshire, England",
+        "parts": [
+          "Cambridge",
+          "Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987633",
+      "I182625987631"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987632"
+      },
+      {
+        "id": "I182625987637"
+      }
+    ],
+    "children": [
+      "I182625987635",
+      "I182625987638",
+      "I182625987634",
+      "I182625987636",
+      "I182541957758"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

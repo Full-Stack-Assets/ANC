@@ -1,0 +1,65 @@
+{
+  "id": "I182381538407",
+  "name": {
+    "given": "Isobel",
+    "surname": "Grant",
+    "suffix": null,
+    "full": "Isobel Grant"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canonbie, Dumfries-Shire, Scotland",
+        "parts": [
+          "Canonbie",
+          "Dumfries-Shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538448",
+      "I182381538445"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538417"
+      }
+    ],
+    "children": [
+      "I182381538347"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

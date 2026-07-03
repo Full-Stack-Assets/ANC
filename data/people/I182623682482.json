@@ -1,0 +1,72 @@
+{
+  "id": "I182623682482",
+  "name": {
+    "given": "Hannah Mary",
+    "surname": "Farwell Gillman",
+    "suffix": null,
+    "full": "Hannah Mary Farwell Gillman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey, Surrey, England",
+        "parts": [
+          "Bermondsey",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "October 20,  1646",
+        "year": 1646,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey, Surrey, England",
+        "parts": [
+          "Bermondsey",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686763",
+      "I182623682553"
+    ],
+    "spouses": [
+      {
+        "id": "I182623682507"
+      }
+    ],
+    "children": [
+      "I182623682437"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

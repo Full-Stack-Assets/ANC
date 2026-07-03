@@ -1,0 +1,70 @@
+{
+  "id": "I182650552671",
+  "name": {
+    "given": "Sir Henry",
+    "surname": "Freeman",
+    "suffix": null,
+    "full": "Sir Henry Freeman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 January 1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northants, Cranford, Northamptonshire, England",
+        "parts": [
+          "Northants",
+          "Cranford",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 June 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranford, Northamptonshire, England",
+        "parts": [
+          "Cranford",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552679"
+      }
+    ],
+    "children": [
+      "I182625988245"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

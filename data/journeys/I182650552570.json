@@ -1,0 +1,57 @@
+{
+  "id": "I182650552570",
+  "person": "Peter Schurman Strang",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Chelton, Prince County, Prince Edward Island, Canada",
+        "parts": [
+          "Chelton",
+          "Prince County",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Mar 1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pembroke, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Pembroke",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "03 Jan 1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

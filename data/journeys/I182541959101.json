@@ -1,0 +1,54 @@
+{
+  "id": "I182541959101",
+  "person": "William PAULLIN",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bucks County, Pennsylvania",
+        "parts": [
+          "Bucks County",
+          "Pennsylvania"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 NOV 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

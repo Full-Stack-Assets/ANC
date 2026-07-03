@@ -1,0 +1,57 @@
+{
+  "id": "I182623679551",
+  "person": "SAMUEL CARLL JR",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, America",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 Feb 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine, USA",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 May 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,107 @@
+{
+  "id": "I182534215140",
+  "name": {
+    "given": "Ida",
+    "surname": "Fitzpatrick",
+    "suffix": null,
+    "full": "Ida Fitzpatrick"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 May 1878",
+        "year": 1878,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pittsford, Vermont, USA",
+        "parts": [
+          "Pittsford",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Jan 1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rutland, Rutland, Vermont, USA",
+        "parts": [
+          "Rutland",
+          "Rutland",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534214351",
+      "I182534214353"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Rutland, Vermont, USA",
+        "parts": [
+          "Rutland",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506472660",
+      "title": "Vermont, U.S., Death Records, 1909-2008",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182391485866",
+  "name": {
+    "given": "Jakob",
+    "surname": "Kristoffersson",
+    "suffix": null,
+    "full": "Jakob Kristoffersson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stala, Holm, Tegneby (O)",
+        "parts": [
+          "Stala",
+          "Holm",
+          "Tegneby (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "AUG 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Nedergård, Stala",
+        "parts": [
+          "Hjälmvik Nedergård",
+          "Stala"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548669",
+      "I182650548715"
+    ],
+    "spouses": [
+      {
+        "id": "I182391485891"
+      }
+    ],
+    "children": [
+      "I182382755763"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

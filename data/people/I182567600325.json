@@ -1,0 +1,69 @@
+{
+  "id": "I182567600325",
+  "name": {
+    "given": "Elisabeth",
+    "surname": "BULL",
+    "suffix": null,
+    "full": "Elisabeth BULL"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alcester Warwickshire England",
+        "parts": [
+          "Alcester Warwickshire England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 August 1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600353"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600333"
+      }
+    ],
+    "children": [
+      "I182567600278"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

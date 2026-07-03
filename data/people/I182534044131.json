@@ -1,0 +1,71 @@
+{
+  "id": "I182534044131",
+  "name": {
+    "given": "Philip",
+    "surname": "Crist",
+    "suffix": null,
+    "full": "Philip Crist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "March 10, 1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, New York",
+        "parts": [
+          "Goshen",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "May 29, 1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, New York, USA",
+        "parts": [
+          "Goshen",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044158",
+      "I182534044155"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044128"
+      }
+    ],
+    "children": [
+      "I182526999841"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

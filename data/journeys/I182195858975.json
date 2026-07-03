@@ -1,0 +1,58 @@
+{
+  "id": "I182195858975",
+  "person": "John \"The Councillor\" Jenkins",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Vernon River Lot 49, Queens, Prince Edward Island, Canada",
+        "parts": [
+          "Vernon River Lot 49",
+          "Queens",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Greek River, Lot 63, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Greek River",
+          "Lot 63",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Feb 1894",
+        "year": 1894,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,145 @@
+{
+  "id": "I182195862458",
+  "name": {
+    "given": "Isaac J",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Isaac J Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Center Township, Camden, New Jersey",
+        "parts": [
+          "Center Township",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Sep 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Centre, Camden, New Jersey",
+        "parts": [
+          "Centre",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197731994",
+      "I182197732094"
+    ],
+    "spouses": [
+      {
+        "id": "I182195862459",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1850",
+            "year": 1850,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "NJ",
+            "parts": [
+              "NJ"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862466",
+      "I182195862464",
+      "I182195862463",
+      "I182195862295",
+      "I182195862462",
+      "I182195862460",
+      "I182195862461"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Snow Hill, Camden, New Jersey, USA",
+        "parts": [
+          "Snow Hill",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Self",
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146440",
+      "title": "1880 United States Federal Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

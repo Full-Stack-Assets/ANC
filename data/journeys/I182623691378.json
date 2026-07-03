@@ -1,0 +1,57 @@
+{
+  "id": "I182623691378",
+  "person": "Melissa Green Owen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "07 Aug 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woodbury, Washington, Vermont, USA",
+        "parts": [
+          "Woodbury",
+          "Washington",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "09 Mar 1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

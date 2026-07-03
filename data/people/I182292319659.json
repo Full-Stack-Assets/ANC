@@ -1,0 +1,71 @@
+{
+  "id": "I182292319659",
+  "name": {
+    "given": "Jon",
+    "surname": "Germundsson",
+    "suffix": null,
+    "full": "Jon Germundsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ö. Kollungröd, Västra Götaland, Sverige",
+        "parts": [
+          "Ö. Kollungröd",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Snussten u. Ö. Kollungeröd, Göteborg o Bohuslän,",
+        "parts": [
+          "Snussten u. Ö. Kollungeröd",
+          "Göteborg o Bohuslän"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536104",
+      "I182381536094"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319640"
+      }
+    ],
+    "children": [
+      "I182292319628"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "I182195862882",
+  "name": {
+    "given": "Julia Gillian",
+    "surname": "Reagan",
+    "suffix": null,
+    "full": "Julia Gillian Reagan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        },
+        {
+          "source_id": "S516619414",
+          "page": "Class: HO107; Piece: 1589; Folio: 48; Page: 40; GSU roll: 174826"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195862893"
+      }
+    ],
+    "children": [
+      "I182620318271",
+      "I182195858187",
+      "I182620318272",
+      "I182620318270",
+      "I182587612301",
+      "I182587612302"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1851",
+        "year": 1851,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woolwich, Woolwich, Kent, England",
+        "parts": [
+          "Woolwich",
+          "Woolwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S516619414",
+          "page": "Class: HO107; Piece: 1589; Folio: 48; Page: 40; GSU roll: 174826"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Keeps house; Marital Status: Married; Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S447146440",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146440",
+      "title": "1880 United States Federal Census",
+      "author": "Ancestry.com and The Church of Jesus Christ of Latter-day Saints",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516619414",
+      "title": "1851 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

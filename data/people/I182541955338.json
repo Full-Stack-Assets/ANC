@@ -1,0 +1,83 @@
+{
+  "id": "I182541955338",
+  "name": {
+    "given": "David Emanuel",
+    "surname": "Johannesson Rönn",
+    "suffix": null,
+    "full": "David Emanuel Johannesson Rönn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Oct 1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torsby, Göteborgs Och Bohus, Sweden",
+        "parts": [
+          "Torsby",
+          "Göteborgs Och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "bef 1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Illinois",
+        "parts": [
+          "Illinois"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541955327"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541955356"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

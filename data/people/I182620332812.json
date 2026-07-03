@@ -1,0 +1,109 @@
+{
+  "id": "I182620332812",
+  "name": {
+    "given": "Hugh III",
+    "surname": "Sir Childers",
+    "suffix": null,
+    "full": "Hugh III Sir Childers"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nottinghamshire, Nottinghamshire, England, United Kingdom",
+        "parts": [
+          "Nottinghamshire",
+          "Nottinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 August 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620337788"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905061",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "March 1535",
+            "year": 1535,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Yorkshire, England, United Kingdom",
+            "parts": [
+              "Yorkshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182584905049"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

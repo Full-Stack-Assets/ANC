@@ -1,0 +1,58 @@
+{
+  "id": "I182625972605",
+  "name": {
+    "given": "Hermann III",
+    "surname": "(Zu Alt-Assen und Sythen) Von Kettler",
+    "suffix": null,
+    "full": "Hermann III (Zu Alt-Assen und Sythen) Von Kettler"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "vor 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972618",
+      "I182625972612"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972603"
+      }
+    ],
+    "children": [
+      "I182625972474"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

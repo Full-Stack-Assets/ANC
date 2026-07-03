@@ -1,0 +1,55 @@
+{
+  "id": "I182625971057",
+  "person": "Thomas Penrice Als Glover",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wilmington, Kent, England.",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1489",
+        "year": 1489,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wilmington, Kent, England.",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 July 1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

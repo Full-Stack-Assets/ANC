@@ -1,0 +1,74 @@
+{
+  "id": "I182381536014",
+  "name": {
+    "given": "*Olof",
+    "surname": "Hansson",
+    "suffix": null,
+    "full": "*Olof Hansson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bommarsbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Bommarsbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bommersbo, Norrbärke, Dalarna, Sverige",
+        "parts": [
+          "Bommersbo",
+          "Norrbärke",
+          "Dalarna",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536019",
+      "I182522975984"
+    ],
+    "spouses": [
+      {
+        "id": "I182522975980"
+      }
+    ],
+    "children": [
+      "I182381536004"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

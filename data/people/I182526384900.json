@@ -1,0 +1,63 @@
+{
+  "id": "I182526384900",
+  "name": {
+    "given": "Marit Margareta",
+    "surname": "Larsdotter",
+    "suffix": null,
+    "full": "Marit Margareta Larsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Ca 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Mar 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrgård, Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Norrgård",
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182526384872"
+      }
+    ],
+    "children": [
+      "I182197444991"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

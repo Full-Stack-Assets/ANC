@@ -1,0 +1,74 @@
+{
+  "id": "I182613023565",
+  "name": {
+    "given": "Ruth",
+    "surname": "Towne",
+    "suffix": null,
+    "full": "Ruth Towne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Sept. 6, 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Apr 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023590",
+      "I182613023586"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023567"
+      }
+    ],
+    "children": [
+      "I182613023561"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

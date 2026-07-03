@@ -1,0 +1,63 @@
+{
+  "id": "I182381535624",
+  "name": {
+    "given": "MARY (MARGARET?)",
+    "surname": "LOGALDEN",
+    "suffix": "(1)",
+    "full": "MARY (MARGARET?) LOGALDEN (1)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huntingdonshire, England",
+        "parts": [
+          "Huntingdonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535635"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535671"
+      }
+    ],
+    "children": [
+      "I182381535609"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "I182541955276",
+  "person": "Charles FitzGerald",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Limerick, St John, Limerick, Ireland",
+        "parts": [
+          "Limerick",
+          "St John",
+          "Limerick",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cathedral St Mary, Limerick, Limerick, Ireland",
+        "parts": [
+          "Cathedral St Mary",
+          "Limerick",
+          "Limerick",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Sep 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850773",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Ireland, Ireland",
+        "parts": [
+          "Ireland",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 1828",
+        "year": 1828,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506435674",
+          "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 02413 / 01"
+        },
+        {
+          "source_id": "S506435674",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

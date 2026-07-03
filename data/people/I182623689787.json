@@ -1,0 +1,74 @@
+{
+  "id": "I182623689787",
+  "name": {
+    "given": "Samuel",
+    "surname": "Coombs",
+    "suffix": null,
+    "full": "Samuel Coombs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 December 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham,Barnstable,Massachusetts,USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "03 Jan 1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, United States",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689856",
+      "I182623689841"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689782"
+      }
+    ],
+    "children": [
+      "I182623679498"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

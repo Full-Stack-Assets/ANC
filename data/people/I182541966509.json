@@ -1,0 +1,70 @@
+{
+  "id": "I182541966509",
+  "name": {
+    "given": "Ursula",
+    "surname": "Geuder\\ Gruders",
+    "suffix": null,
+    "full": "Ursula Geuder\\ Gruders"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 December 1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nürnberg, Mittelfranken, Bavaria",
+        "parts": [
+          "Nürnberg",
+          "Mittelfranken",
+          "Bavaria"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Nov 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Zeilsheim, Frankfort am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfort am Main",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966508"
+      }
+    ],
+    "children": [
+      "I182541966437"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

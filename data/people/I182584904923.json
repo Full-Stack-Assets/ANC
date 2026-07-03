@@ -1,0 +1,74 @@
+{
+  "id": "I182584904923",
+  "name": {
+    "given": "C25. Mary",
+    "surname": "Tybott",
+    "suffix": null,
+    "full": "C25. Mary Tybott"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Nov 1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chepstow, Monmouthshire, Wales, Great Britain",
+        "parts": [
+          "Chepstow",
+          "Monmouthshire",
+          "Wales",
+          "Great Britain"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Aug 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, United States",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904932",
+      "I182584904930"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904926"
+      }
+    ],
+    "children": [
+      "I182545335943"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

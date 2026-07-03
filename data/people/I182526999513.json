@@ -1,0 +1,68 @@
+{
+  "id": "I182526999513",
+  "name": {
+    "given": "William Upton",
+    "surname": "Kennedy",
+    "suffix": null,
+    "full": "William Upton Kennedy"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Dec 1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Templemoyle, Londonderry, Ireland",
+        "parts": [
+          "Templemoyle",
+          "Londonderry",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Sep 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Voluntown, New London, Connecticut, USA",
+        "parts": [
+          "Voluntown",
+          "New London",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999535"
+    ],
+    "spouses": [],
+    "children": [
+      "I182381538329"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

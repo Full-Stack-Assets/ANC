@@ -1,0 +1,93 @@
+{
+  "id": "I182623663842",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Spiegl",
+    "suffix": null,
+    "full": "Anna Maria Spiegl"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Sep 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Metelsdorff, Germany",
+        "parts": [
+          "Metelsdorff",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 March 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mittonsburg, Monroe County, Ohio, USA",
+        "parts": [
+          "Mittonsburg",
+          "Monroe County",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663970",
+      "I182623663967"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663846"
+      }
+    ],
+    "children": [
+      "I182623663782"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "19 August 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Metelsdorff, Germany",
+        "parts": [
+          "Metelsdorff",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

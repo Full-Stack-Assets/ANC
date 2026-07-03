@@ -1,0 +1,71 @@
+{
+  "id": "I182625972323",
+  "name": {
+    "given": "Barbara",
+    "surname": "Wöhlers",
+    "suffix": null,
+    "full": "Barbara Wöhlers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Puttlingen, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "Puttlingen",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Puttlingen, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "Puttlingen",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972327"
+      }
+    ],
+    "children": [
+      "I182625972312"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

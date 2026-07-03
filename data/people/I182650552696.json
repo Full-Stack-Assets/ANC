@@ -1,0 +1,68 @@
+{
+  "id": "I182650552696",
+  "name": {
+    "given": "Sir John Anthony",
+    "surname": "Covell",
+    "suffix": null,
+    "full": "Sir John Anthony Covell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birchington, Kent, England",
+        "parts": [
+          "Birchington",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birchington, Kent, England",
+        "parts": [
+          "Birchington",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182655904249",
+      "I182650552707"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625987948"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

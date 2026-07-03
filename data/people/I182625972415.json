@@ -1,0 +1,74 @@
+{
+  "id": "I182625972415",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "SCHLICK",
+    "suffix": null,
+    "full": "Anna Maria SCHLICK"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St.Wendel, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "St.Wendel",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1711",
+        "year": 1711,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St.Wendel, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "St.Wendel",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972428",
+      "I182625972423"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972417"
+      }
+    ],
+    "children": [
+      "I182625972398"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182381537769",
+  "name": {
+    "given": "Ithamar \"Tamar\"",
+    "surname": "Pell",
+    "suffix": null,
+    "full": "Ithamar \"Tamar\" Pell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pelham, Westchester, New York, United States",
+        "parts": [
+          "Pelham",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Feb 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastchester, Westchester, New York, United States",
+        "parts": [
+          "Eastchester",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381537747"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

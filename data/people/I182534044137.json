@@ -1,0 +1,75 @@
+{
+  "id": "I182534044137",
+  "name": {
+    "given": "Sarah",
+    "surname": "Horton",
+    "suffix": null,
+    "full": "Sarah Horton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Nov 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blooming Grove, Orange, New York, USA",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Feb 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange County, New York, United States of America",
+        "parts": [
+          "Hamptonburgh",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600222",
+      "I182567600211"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044148"
+      }
+    ],
+    "children": [
+      "I182726542784",
+      "I182534044128"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

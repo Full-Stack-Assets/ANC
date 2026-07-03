@@ -1,0 +1,70 @@
+{
+  "id": "I182613118146",
+  "name": {
+    "given": "John Henry",
+    "surname": "Bridges",
+    "suffix": null,
+    "full": "John Henry Bridges"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Braintree District, Essex, England",
+        "parts": [
+          "Braintree",
+          "Braintree District",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 April 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts, Colonial America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613118158",
+      "I182613118162"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613118111"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I182623689121",
+  "person": "Richard Wood",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Exeter, shire, Devon, England, United Kingdom",
+        "parts": [
+          "Exeter",
+          "shire",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Andrew, Enfield, Middlesex, England. Buried: Great Baddow, Essex, England, United Kingdom",
+        "parts": [
+          "St Andrew",
+          "Enfield",
+          "Middlesex",
+          "England. Buried: Great Baddow",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 April 1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182381535083",
+  "name": {
+    "given": "Jacob",
+    "surname": "Pedrick",
+    "suffix": null,
+    "full": "Jacob Pedrick"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pedricks Neck, Salem, New Jersey, United States",
+        "parts": [
+          "Pedricks Neck",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 March 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pedricks Neck, Salem, New Jersey, United States",
+        "parts": [
+          "Pedricks Neck",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535070"
+      }
+    ],
+    "children": [
+      "I182381535055"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

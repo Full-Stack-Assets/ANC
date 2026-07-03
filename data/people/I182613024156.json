@@ -1,0 +1,116 @@
+{
+  "id": "I182613024156",
+  "name": {
+    "given": "Mildred",
+    "surname": "de BOURNE",
+    "suffix": null,
+    "full": "Mildred de BOURNE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1455",
+        "year": 1455,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bobbing, Kent, England, United Kingdom",
+        "parts": [
+          "Bobbing",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bobbing, Kent, England, United Kingdom",
+        "parts": [
+          "Bobbing",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613024158",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1472",
+            "year": 1472,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Allcombe, Kent, England, United Kingdom",
+            "parts": [
+              "Allcombe",
+              "Kent",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613024135"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

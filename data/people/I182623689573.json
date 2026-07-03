@@ -1,0 +1,71 @@
+{
+  "id": "I182623689573",
+  "name": {
+    "given": "Ellen Anne",
+    "surname": "Chester",
+    "suffix": null,
+    "full": "Ellen Anne Chester"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Nov 1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Freckenham, Mildenhall, Soham Parish, Suffolk, East Anglia, England",
+        "parts": [
+          "Freckenham",
+          "Mildenhall",
+          "Soham Parish",
+          "Suffolk",
+          "East Anglia",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Sep 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Freckenham Parish, Meldenhall, Suffolk, England",
+        "parts": [
+          "Freckenham Parish",
+          "Meldenhall",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689611"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623689564"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

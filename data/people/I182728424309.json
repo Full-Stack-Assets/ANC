@@ -1,0 +1,69 @@
+{
+  "id": "I182728424309",
+  "name": {
+    "given": "Urquharts Urchard",
+    "surname": "ORCUTT",
+    "suffix": null,
+    "full": "Urquharts Urchard ORCUTT"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cromarty, Ross & Cromarty, Scotland",
+        "parts": [
+          "Cromarty",
+          "Ross & Cromarty",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of St Marys Parish, Warwickshire, England",
+        "parts": [
+          "of St Marys Parish",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728424318"
+      }
+    ],
+    "children": [
+      "I182728424248"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

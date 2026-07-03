@@ -1,0 +1,68 @@
+{
+  "id": "I182623689076",
+  "name": {
+    "given": "Agnes",
+    "surname": "Wood*",
+    "suffix": null,
+    "full": "Agnes Wood*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1541",
+        "year": 1541,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartland, Devon, , England",
+        "parts": [
+          "Hartland",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Jan 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartland, Devon, , England",
+        "parts": [
+          "Hartland",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689121",
+      "I182623689094"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623689000"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

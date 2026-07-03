@@ -1,0 +1,70 @@
+{
+  "id": "I182625970642",
+  "name": {
+    "given": "Anne Elizabeth",
+    "surname": "Hill",
+    "suffix": null,
+    "full": "Anne Elizabeth Hill"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mabyn, Cornwall, England",
+        "parts": [
+          "St Mabyn",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 May 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mildred, Bread Street, London, England",
+        "parts": [
+          "St Mildred",
+          "Bread Street",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970644"
+      }
+    ],
+    "children": [
+      "I182625970617"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "I182613118644",
+  "name": {
+    "given": "Thomas",
+    "surname": "McKee",
+    "suffix": null,
+    "full": "Thomas McKee"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Jun 1836",
+        "year": 1836,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pennsylvania",
+        "parts": [
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 May 1909",
+        "year": 1909,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Delaware, Pennsylvania, USA",
+        "parts": [
+          "Chester",
+          "Delaware",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613118628",
+      "I182587609594"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447147251",
+      "title": "Pennsylvania, Death Certificates, 1906-1967",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

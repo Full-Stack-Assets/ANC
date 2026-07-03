@@ -1,0 +1,63 @@
+{
+  "id": "I182536798181",
+  "name": {
+    "given": "Torbjörn",
+    "surname": "Östensson",
+    "suffix": null,
+    "full": "Torbjörn Östensson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Härlycke, Stala",
+        "parts": [
+          "Härlycke",
+          "Stala"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Härlycke,Stala (O) Sverige",
+        "parts": [
+          "Härlycke",
+          "Stala (O) Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182391485919"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

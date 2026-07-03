@@ -1,0 +1,73 @@
+{
+  "id": "I182623691127",
+  "name": {
+    "given": "Eleazer",
+    "surname": "Atwood",
+    "suffix": null,
+    "full": "Eleazer Atwood"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "September 15, 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable County, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "March 19, 1796",
+        "year": 1796,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691202"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689801"
+      }
+    ],
+    "children": [
+      "I182623679502"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

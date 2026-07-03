@@ -1,0 +1,74 @@
+{
+  "id": "I182292319690",
+  "name": {
+    "given": "Elin",
+    "surname": "Pehrsdotter",
+    "suffix": null,
+    "full": "Elin Pehrsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urås, Ramkvilla (F), Småland, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla (F)",
+          "Småland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 JUL 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urås, Ramkvilla (F), Småland, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla (F)",
+          "Småland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319713",
+      "I182292319706"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319695"
+      }
+    ],
+    "children": [
+      "I182292319640"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

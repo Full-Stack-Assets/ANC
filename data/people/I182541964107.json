@@ -1,0 +1,84 @@
+{
+  "id": "I182541964107",
+  "name": {
+    "given": "Sarah",
+    "surname": "Burt",
+    "suffix": null,
+    "full": "Sarah Burt"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964172",
+      "I182541964176"
+    ],
+    "spouses": [
+      {
+        "id": "I182541958293",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1647",
+            "year": 1647,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Lynn, Essex, Massachusetts, USA",
+            "parts": [
+              "Lynn",
+              "Essex",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541964105"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

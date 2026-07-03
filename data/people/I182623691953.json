@@ -1,0 +1,71 @@
+{
+  "id": "I182623691953",
+  "name": {
+    "given": "Thomas",
+    "surname": "Josselyn Joslin",
+    "suffix": "Sir",
+    "full": "Thomas Josselyn Joslin Sir"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxwell, Bollinghatch, Essex, England",
+        "parts": [
+          "Roxwell",
+          "Bollinghatch",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Jan 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancaster, Worcester, Massachusetts, USA",
+        "parts": [
+          "Lancaster",
+          "Worcester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691947"
+      }
+    ],
+    "children": [
+      "I182623691905"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

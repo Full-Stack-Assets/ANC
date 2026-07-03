@@ -1,0 +1,58 @@
+{
+  "id": "I182623688926",
+  "person": "Mary Priest",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "leyden, Holland, Reusel-de Mierden, Noord-Brabant, Netherlands",
+        "parts": [
+          "leyden",
+          "Holland",
+          "Reusel-de Mierden",
+          "Noord-Brabant",
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Bef. 22 Jul 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,101 @@
+{
+  "id": "I182613114829",
+  "name": {
+    "given": "George",
+    "surname": "Neville",
+    "suffix": null,
+    "full": "George Neville"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1432",
+        "year": 1432,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 June 1476",
+        "year": 1476,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blyth, Northumberland Unitary Authority, Northumberland, England",
+        "parts": [
+          "Blyth",
+          "Northumberland Unitary Authority",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Birling, Tonbridge and Malling Borough, Kent, England",
+        "parts": [
+          "Birling",
+          "Tonbridge and Malling Borough",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613114768",
+      "I182613114791",
+      "I182613114837"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

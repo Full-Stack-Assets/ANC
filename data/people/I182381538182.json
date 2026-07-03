@@ -1,0 +1,74 @@
+{
+  "id": "I182381538182",
+  "name": {
+    "given": "Anna Elizabeth",
+    "surname": "Otto",
+    "suffix": null,
+    "full": "Anna Elizabeth Otto"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Dec 1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rhineland-Palatinate, Ahrweiler, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rhineland-Palatinate",
+          "Ahrweiler",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rhineland-Palatinate, Ahrweiler, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rhineland-Palatinate",
+          "Ahrweiler",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538207",
+      "I182381538203"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538192"
+      }
+    ],
+    "children": [
+      "I182381538164"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

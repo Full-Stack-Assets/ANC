@@ -1,0 +1,39 @@
+{
+  "id": "I182382755444",
+  "name": {
+    "given": "Tristram",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Tristram Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Mar 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541961022"
+    ],
+    "spouses": [],
+    "children": [
+      "I182382755360"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

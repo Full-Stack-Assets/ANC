@@ -1,0 +1,72 @@
+{
+  "id": "I182541959431",
+  "name": {
+    "given": "Dorothy",
+    "surname": "Whitney",
+    "suffix": null,
+    "full": "Dorothy Whitney"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 April 1700",
+        "year": 1700,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Jul 1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham,Norfolk,Massachusetts",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959480"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959437"
+      }
+    ],
+    "children": [
+      "I182541959422"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

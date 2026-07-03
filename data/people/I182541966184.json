@@ -1,0 +1,74 @@
+{
+  "id": "I182541966184",
+  "name": {
+    "given": "Phillip",
+    "surname": "(Wyeth) White",
+    "suffix": null,
+    "full": "Phillip (Wyeth) White"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1662",
+        "year": 1662,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "03 Nov 1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Dedham",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966203",
+      "I182541966209"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966183"
+      }
+    ],
+    "children": [
+      "I182541966176"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

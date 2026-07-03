@@ -1,0 +1,59 @@
+{
+  "id": "I182620323439",
+  "person": "Flora Matheson MacPherson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "West, head, Isle, of, Skye, Scotland",
+        "parts": [
+          "West",
+          "head",
+          "Isle",
+          "of",
+          "Skye",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "North East Lake Ainslie, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "North East Lake Ainslie",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Nov 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

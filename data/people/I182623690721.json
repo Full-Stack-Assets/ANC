@@ -1,0 +1,74 @@
+{
+  "id": "I182623690721",
+  "name": {
+    "given": "Ann Elizabeth",
+    "surname": "Marshell",
+    "suffix": null,
+    "full": "Ann Elizabeth Marshell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 July 1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampstead, Herefordshire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Hampstead",
+          "Herefordshire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hertford, Hertfordshire, England",
+        "parts": [
+          "Hertford",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690829",
+      "I182623690824"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690739"
+      }
+    ],
+    "children": [
+      "I182623690573"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182625972162",
+  "name": {
+    "given": "ANNA BARBARA",
+    "surname": "SCHUETZ",
+    "suffix": null,
+    "full": "ANNA BARBARA SCHUETZ"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "05 May 1809",
+        "year": 1809,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Evangelisch, Wertheim, Mosbach, Baden, Germany",
+        "parts": [
+          "Evangelisch",
+          "Wertheim",
+          "Mosbach",
+          "Baden",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1897",
+        "year": 1897,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Noble Co., Ohio",
+        "parts": [
+          "Noble Co.",
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972166"
+      }
+    ],
+    "children": [
+      "I182625972085"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

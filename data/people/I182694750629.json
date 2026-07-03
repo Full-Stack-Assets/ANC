@@ -1,0 +1,47 @@
+{
+  "id": "I182694750629",
+  "name": {
+    "given": "Ellen",
+    "surname": "Willett",
+    "suffix": null,
+    "full": "Ellen Willett"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195856777",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "2002",
+            "year": 2002,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Massachusetts, USA",
+            "parts": [
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182694750716",
+      "I182694751441"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

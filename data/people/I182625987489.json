@@ -1,0 +1,70 @@
+{
+  "id": "I182625987489",
+  "name": {
+    "given": "Catrin ferch Jenkin",
+    "surname": "Ap Havard",
+    "suffix": null,
+    "full": "Catrin ferch Jenkin Ap Havard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ynysmaengwyn, Towyn, Merionethshire, Gwynedd, Wales, United Kingdom",
+        "parts": [
+          "Ynysmaengwyn",
+          "Towyn",
+          "Merionethshire",
+          "Gwynedd",
+          "Wales",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Jun 1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Talgarth, Breconshire, Powys, Wales, United Kingdom",
+        "parts": [
+          "Talgarth",
+          "Breconshire",
+          "Powys",
+          "Wales",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625987420"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

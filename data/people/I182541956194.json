@@ -1,0 +1,95 @@
+{
+  "id": "I182541956194",
+  "name": {
+    "given": "Suzanne",
+    "surname": "Ambrose",
+    "suffix": null,
+    "full": "Suzanne Ambrose"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Devon, England",
+        "parts": [
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Apr 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Essex, Massachusetts, America",
+        "parts": [
+          "Salisbury",
+          "Essex",
+          "Massachusetts",
+          "America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541956067",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "2 Oct 1663",
+            "year": 1663,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Massachusetts, USA",
+            "parts": [
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

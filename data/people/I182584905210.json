@@ -1,0 +1,149 @@
+{
+  "id": "I182584905210",
+  "name": {
+    "given": "Alice Eklizabeth",
+    "surname": "Froude",
+    "suffix": null,
+    "full": "Alice Eklizabeth Froude"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fontmell Magna, Dorset, England, United Kingdom",
+        "parts": [
+          "Fontmell Magna",
+          "Dorset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 August 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cann, Dorset, England, United Kingdom",
+        "parts": [
+          "Cann",
+          "Dorset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182584905072",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "20 Jun 1570",
+            "year": 1570,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Cann, Dorset, England",
+            "parts": [
+              "Cann",
+              "Dorset",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850648",
+              "page": "Dorset History Centre; Dorchester, England; Dorset Parish Registers; Reference: PE/CAN: RE1/1"
+            },
+            {
+              "source_id": "S513850648",
+              "page": null
+            },
+            {
+              "source_id": "S513850651",
+              "page": null
+            },
+            {
+              "source_id": "S513850651",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182584905238"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513850648",
+      "title": "Dorset, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513850651",
+      "title": "England, Select Dorset Church of England Parish Registers, 1538-1999",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

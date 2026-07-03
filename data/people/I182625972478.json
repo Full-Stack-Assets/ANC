@@ -1,0 +1,51 @@
+{
+  "id": "I182625972478",
+  "name": {
+    "given": "Aleyd",
+    "surname": "Von Voß Zu Dick",
+    "suffix": null,
+    "full": "Aleyd Von Voß Zu Dick"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norden, Niedersachsen, Allemagne",
+        "parts": [
+          "Norden",
+          "Niedersachsen",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972499",
+      "I182625972495"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972480"
+      }
+    ],
+    "children": [
+      "I182625972468"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

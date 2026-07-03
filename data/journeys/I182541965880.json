@@ -1,0 +1,65 @@
+{
+  "id": "I182541965880",
+  "person": "Joseph Hibbard III",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Penobscot, Penobscot, Maine, USA",
+        "parts": [
+          "Penobscot",
+          "Penobscot",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Nov 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hayti, W. I.",
+        "parts": [
+          "Hayti",
+          "W. I."
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Aug 1856",
+        "year": 1856,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447151841",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

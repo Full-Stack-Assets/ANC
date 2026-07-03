@@ -1,0 +1,72 @@
+{
+  "id": "I182623686802",
+  "name": {
+    "given": "Hannah Anne  (Langton)",
+    "surname": "Farwell? Egerton Gillman",
+    "suffix": null,
+    "full": "Hannah Anne  (Langton) Farwell? Egerton Gillman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 February 1548",
+        "year": 1548,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey, Surrey, , England",
+        "parts": [
+          "Bermondsey",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey, Surrey, England",
+        "parts": [
+          "Bermondsey",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686858",
+      "I182623686830"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686810"
+      }
+    ],
+    "children": [
+      "I182623682507"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

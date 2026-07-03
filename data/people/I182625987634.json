@@ -1,0 +1,87 @@
+{
+  "id": "I182625987634",
+  "name": {
+    "given": "Bridgett",
+    "surname": "Grey",
+    "suffix": null,
+    "full": "Bridgett Grey"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilton, Wiltshire, England, United Kingdom",
+        "parts": [
+          "Wilton",
+          "Wiltshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 July 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Farthingho, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Farthingho",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987608",
+      "I182625987632",
+      "I182625987637"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

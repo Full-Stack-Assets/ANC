@@ -1,0 +1,117 @@
+{
+  "id": "I182381536270",
+  "name": {
+    "given": "Hannah  (Penticost)",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Hannah  (Penticost) Larkin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Jan 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Dec 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Charlestown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536645",
+      "I182381536282"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536571"
+      }
+    ],
+    "children": [
+      "I182381536263"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "16 Jan 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, USA",
+        "parts": [
+          "Boston",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "16 January 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

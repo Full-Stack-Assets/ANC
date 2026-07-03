@@ -1,0 +1,56 @@
+{
+  "id": "I182541966437",
+  "person": "Johann Matthäus Christopher Christ",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Zeilsheim jetzt OT von Frankfurt am Main, Hessen, Deutschland",
+        "parts": [
+          "Zeilsheim jetzt OT von Frankfurt am Main",
+          "Hessen",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Zeilsheim, Frankfurt am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfurt am Main",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 JAN 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

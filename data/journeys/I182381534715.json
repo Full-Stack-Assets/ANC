@@ -1,0 +1,54 @@
+{
+  "id": "I182381534715",
+  "person": "Isaac Elwell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pilesgrove Township, Salem Co, NJ",
+        "parts": [
+          "Pilesgrove Township",
+          "Salem Co",
+          "NJ"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Philadelphia, PA",
+        "parts": [
+          "Philadelphia",
+          "PA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "AFT 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,58 @@
+{
+  "id": "I182625988027",
+  "person": " Baroness Anne of Sleaford (Sent to the Tower of London) Grey",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ruthin, Denbighshire, Clwyd, Wales, United Kingdom",
+        "parts": [
+          "Ruthin",
+          "Denbighshire",
+          "Clwyd",
+          "Wales",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sleaford, Lincolnshire, England, United Kingdom",
+        "parts": [
+          "Sleaford",
+          "Lincolnshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 February 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

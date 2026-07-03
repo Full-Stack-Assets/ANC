@@ -1,0 +1,75 @@
+{
+  "id": "I182625972446",
+  "name": {
+    "given": "Martina",
+    "surname": "Beier\\Beres",
+    "suffix": null,
+    "full": "Martina Beier\\Beres"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Sep 1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urach, Württemberg, Deutschland oder Luxemburg?",
+        "parts": [
+          "Urach",
+          "Württemberg",
+          "Deutschland oder Luxemburg?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08.Juli 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alsfassen, St. Wendel, Saarland, Germany, Saarland, Germany",
+        "parts": [
+          "Alsfassen",
+          "St. Wendel",
+          "Saarland",
+          "Germany",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972628",
+      "I182625972627"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972448"
+      }
+    ],
+    "children": [
+      "I182625972403"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

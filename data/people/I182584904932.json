@@ -1,0 +1,73 @@
+{
+  "id": "I182584904932",
+  "name": {
+    "given": "Walter",
+    "surname": "Tybott",
+    "suffix": null,
+    "full": "Walter Tybott"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Gloucestershire, England",
+        "parts": [
+          "Gloucester",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14-August-1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Gloucester",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904961",
+      "I182584904948"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904930"
+      }
+    ],
+    "children": [
+      "I182584904923"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

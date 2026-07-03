@@ -1,0 +1,71 @@
+{
+  "id": "I182381537881",
+  "name": {
+    "given": "John",
+    "surname": "Williams*",
+    "suffix": null,
+    "full": "John Williams*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Llantrisant, Anglesey, Wales",
+        "parts": [
+          "Llantrisant",
+          "Anglesey",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Monaghan, Ireland",
+        "parts": [
+          "Monaghan",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537889",
+      "I182613147897"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537875"
+      }
+    ],
+    "children": [
+      "I182381537857"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

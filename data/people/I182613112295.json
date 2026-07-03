@@ -1,0 +1,41 @@
+{
+  "id": "I182613112295",
+  "name": {
+    "given": "Thomas",
+    "surname": "Thurston",
+    "suffix": null,
+    "full": "Thomas Thurston"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112292"
+      }
+    ],
+    "children": [
+      "I182613112289"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

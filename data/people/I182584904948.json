@@ -1,0 +1,72 @@
+{
+  "id": "I182584904948",
+  "name": {
+    "given": "Elinor",
+    "surname": "Matthews",
+    "suffix": null,
+    "full": "Elinor Matthews"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Llanbrynmair, Montgomeryshire, Wales",
+        "parts": [
+          "Llanbrynmair",
+          "Montgomeryshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jan 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Caerseddfan, Montgomeryshire, Wales",
+        "parts": [
+          "Caerseddfan",
+          "Montgomeryshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904964",
+      "I182584904963"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904961"
+      }
+    ],
+    "children": [
+      "I182584904932"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

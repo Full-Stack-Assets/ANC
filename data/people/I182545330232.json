@@ -1,0 +1,67 @@
+{
+  "id": "I182545330232",
+  "name": {
+    "given": "Ann",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "Ann Murray"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "N Bedeque, Prince Edward Island, Canada",
+        "parts": [
+          "N Bedeque",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Nov 1865",
+        "year": 1865,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538103",
+      "I182381538084"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

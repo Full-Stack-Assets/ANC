@@ -1,0 +1,63 @@
+{
+  "id": "I182620314998",
+  "person": "Cuthbert Growe",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Newcastle Upon Tyne, 624, Northumberland, England, United Kingdom",
+        "parts": [
+          "Newcastle Upon Tyne",
+          "624",
+          "Northumberland",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 June 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Nicholas Parish Rec and Nonconf ,Newcastle Upon Tyne,Northumberland,England",
+        "parts": [
+          "St Nicholas Parish Rec and Nonconf",
+          "Newcastle Upon Tyne",
+          "Northumberland",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 Jun 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447253093",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

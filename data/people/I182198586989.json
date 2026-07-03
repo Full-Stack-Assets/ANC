@@ -1,0 +1,71 @@
+{
+  "id": "I182198586989",
+  "name": {
+    "given": "*Deborah",
+    "surname": "Mott",
+    "suffix": null,
+    "full": "*Deborah Mott"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saffron Walden, Uttlesford District, Essex, England",
+        "parts": [
+          "Saffron Walden",
+          "Uttlesford District",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elizabeth, Union County, New Jersey, USA",
+        "parts": [
+          "Elizabeth",
+          "Union County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541956481"
+      }
+    ],
+    "children": [
+      "I182197729576"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

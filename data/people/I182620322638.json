@@ -1,0 +1,57 @@
+{
+  "id": "I182620322638",
+  "name": {
+    "given": "Mary Catherine",
+    "surname": "Dyer",
+    "suffix": null,
+    "full": "Mary Catherine Dyer"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1847",
+        "year": 1847,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sussex, Kings, New Brunswick, Canada",
+        "parts": [
+          "Sussex",
+          "Kings",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322649"
+      }
+    ],
+    "children": [
+      "I182620322491"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

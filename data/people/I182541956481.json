@@ -1,0 +1,73 @@
+{
+  "id": "I182541956481",
+  "name": {
+    "given": "Richard (Richardus)",
+    "surname": "Valentine (Valentyne)",
+    "suffix": null,
+    "full": "Richard (Richardus) Valentine (Valentyne)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eccles, Metropolitan Borough of Salford, Greater Manchester, England",
+        "parts": [
+          "Eccles",
+          "Metropolitan Borough of Salford",
+          "Greater Manchester",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, Nassau, New York, USA",
+        "parts": [
+          "Hempstead",
+          "Nassau",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625995820"
+    ],
+    "spouses": [
+      {
+        "id": "I182198586989"
+      }
+    ],
+    "children": [
+      "I182197729576"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

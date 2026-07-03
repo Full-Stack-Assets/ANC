@@ -1,0 +1,71 @@
+{
+  "id": "I182541959630",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Peryente,    Styles,   Townsend,",
+    "suffix": null,
+    "full": "Elizabeth Peryente,    Styles,   Townsend,"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Jun 1536",
+        "year": 1536,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lavenham, Essex, England",
+        "parts": [
+          "Lavenham",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Jun 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bracon Ash, Norfolk, England",
+        "parts": [
+          "Bracon Ash",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959698"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959636"
+      }
+    ],
+    "children": [
+      "I182541959615"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

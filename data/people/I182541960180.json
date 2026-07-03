@@ -1,0 +1,73 @@
+{
+  "id": "I182541960180",
+  "name": {
+    "given": "Sir Christopher",
+    "surname": "Searle",
+    "suffix": null,
+    "full": "Sir Christopher Searle"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ottery St Mary, Devon, England, United Kingdom",
+        "parts": [
+          "Ottery St Mary",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 April 1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Honiton, Devon, England, United Kingdom",
+        "parts": [
+          "Honiton",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960235"
+    ],
+    "spouses": [
+      {
+        "id": "I182541960160"
+      }
+    ],
+    "children": [
+      "I182541960116"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

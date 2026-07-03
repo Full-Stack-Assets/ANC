@@ -1,0 +1,72 @@
+{
+  "id": "I182613115696",
+  "name": {
+    "given": "Maud",
+    "surname": "Fermor",
+    "suffix": null,
+    "full": "Maud Fermor"
+  },
+  "sex": null,
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1569",
+        "year": 1569,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Easton Neston, South Northamptonshire Borough, Northamptonshire, England",
+        "parts": [
+          "Easton Neston",
+          "South Northamptonshire Borough",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613114397"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

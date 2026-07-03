@@ -1,0 +1,71 @@
+{
+  "id": "I182541957592",
+  "name": {
+    "given": "Hannah Stockdale",
+    "surname": "Stokes",
+    "suffix": null,
+    "full": "Hannah Stockdale Stokes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Apr 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterford, Camden, New Jersey, USA",
+        "parts": [
+          "Waterford",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Apr 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, Burlington, New Jersey, United States",
+        "parts": [
+          "Burlington",
+          "Burlington",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541957605"
+      }
+    ],
+    "children": [
+      "I182541932596"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

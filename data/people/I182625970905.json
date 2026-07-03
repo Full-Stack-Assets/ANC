@@ -1,0 +1,70 @@
+{
+  "id": "I182625970905",
+  "name": {
+    "given": "John James",
+    "surname": "Grant",
+    "suffix": null,
+    "full": "John James Grant"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Sep 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eyworth, Bedford, Bedfordshire, England",
+        "parts": [
+          "Eyworth",
+          "Bedford",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Jul 1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxby, Yorkshire, England",
+        "parts": [
+          "Roxby",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970897"
+      }
+    ],
+    "children": [
+      "I182625970882"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

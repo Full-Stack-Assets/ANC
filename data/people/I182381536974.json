@@ -1,0 +1,69 @@
+{
+  "id": "I182381536974",
+  "name": {
+    "given": "Robert",
+    "surname": "Banks",
+    "suffix": null,
+    "full": "Robert Banks"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelton Parish Galloway Scotland",
+        "parts": [
+          "Kelton Parish Galloway Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prince Edward Island, Canada",
+        "parts": [
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537136",
+      "I182381537131"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536967"
+      }
+    ],
+    "children": [
+      "I182195859175"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

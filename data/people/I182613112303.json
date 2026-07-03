@@ -1,0 +1,73 @@
+{
+  "id": "I182613112303",
+  "name": {
+    "given": "Eunice",
+    "surname": "Flagg",
+    "suffix": null,
+    "full": "Eunice Flagg"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Oct 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112307"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112304"
+      }
+    ],
+    "children": [
+      "I182613112194"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

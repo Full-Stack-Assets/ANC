@@ -1,0 +1,69 @@
+{
+  "id": "I182587607661",
+  "name": {
+    "given": "John McKimmin",
+    "surname": "Glass",
+    "suffix": null,
+    "full": "John McKimmin Glass"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Aug 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Ninians, Stirlingshire, Scotland",
+        "parts": [
+          "St Ninians",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Nov 1737",
+        "year": 1737,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607649"
+      }
+    ],
+    "children": [
+      "I182381536914"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

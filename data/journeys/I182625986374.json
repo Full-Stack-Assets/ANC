@@ -1,0 +1,56 @@
+{
+  "id": "I182625986374",
+  "person": "Mary Lilley",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England, UK",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England",
+          "UK"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1573 or 1589",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Nov 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

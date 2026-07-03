@@ -1,0 +1,72 @@
+{
+  "id": "I182381537747",
+  "name": {
+    "given": "Sarah",
+    "surname": "Pinckney",
+    "suffix": null,
+    "full": "Sarah Pinckney"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastchester, Westchester, New York, United States",
+        "parts": [
+          "Eastchester",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westchester, New York, United States",
+        "parts": [
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537769"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537754"
+      }
+    ],
+    "children": [
+      "I182381537723"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

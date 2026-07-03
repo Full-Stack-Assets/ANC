@@ -1,0 +1,53 @@
+{
+  "id": "I182623664034",
+  "person": "Maria Maja PERSDOTTER",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Bergsjö, Gävleborg, Sverige SWEDEN",
+        "parts": [
+          "Bergsjö",
+          "Gävleborg",
+          "Sverige SWEDEN"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bjuråker Ahlsjö Gävleborgs Län",
+        "parts": [
+          "Bjuråker Ahlsjö Gävleborgs Län"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Nov 1818",
+        "year": 1818,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

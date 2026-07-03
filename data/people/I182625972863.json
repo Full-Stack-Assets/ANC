@@ -1,0 +1,74 @@
+{
+  "id": "I182625972863",
+  "name": {
+    "given": "Ludwig (Wendel)",
+    "surname": "Hunn",
+    "suffix": null,
+    "full": "Ludwig (Wendel) Hunn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Juli 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beilstein, Cochem-Zell, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Beilstein",
+          "Cochem-Zell",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Nov 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beilstein, Cochem-Zell, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Beilstein",
+          "Cochem-Zell",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972886",
+      "I182625972888"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972849"
+      }
+    ],
+    "children": [
+      "I182625972837"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

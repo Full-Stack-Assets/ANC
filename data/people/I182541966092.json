@@ -1,0 +1,70 @@
+{
+  "id": "I182541966092",
+  "name": {
+    "given": "William",
+    "surname": "Edwards",
+    "suffix": null,
+    "full": "William Edwards"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "St. Uny Lelant, Cornwall, ENG",
+        "parts": [
+          "St. Uny Lelant",
+          "Cornwall",
+          "ENG"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "AFT 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541966108"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966103"
+      }
+    ],
+    "children": [
+      "I182541966032"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

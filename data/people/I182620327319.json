@@ -1,0 +1,64 @@
+{
+  "id": "I182620327319",
+  "name": {
+    "given": "Edith Maria",
+    "surname": "Kyme",
+    "suffix": null,
+    "full": "Edith Maria Kyme"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1430",
+        "year": 1430,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Well, Hall, Eltham, Kent, England",
+        "parts": [
+          "Well",
+          "Hall",
+          "Eltham",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1473",
+        "year": 1473,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620326715"
+      }
+    ],
+    "children": [
+      "I182620325139"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

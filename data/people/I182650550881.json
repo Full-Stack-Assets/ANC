@@ -1,0 +1,68 @@
+{
+  "id": "I182650550881",
+  "name": {
+    "given": "John Richard",
+    "surname": "Eames",
+    "suffix": null,
+    "full": "John Richard Eames"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 May 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burton, Somersetshire, England",
+        "parts": [
+          "Burton",
+          "Somersetshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Feb 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bruton, Somerset, England",
+        "parts": [
+          "Bruton",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550906",
+      "I182650550886"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650550876"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

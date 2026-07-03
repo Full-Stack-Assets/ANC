@@ -1,0 +1,74 @@
+{
+  "id": "I182623691900",
+  "name": {
+    "given": "Sarah Ann",
+    "surname": "King",
+    "suffix": null,
+    "full": "Sarah Ann King"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Feb 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lancaster, Worcester, Massachusetts, USA",
+        "parts": [
+          "Lancaster",
+          "Worcester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Jul 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691937",
+      "I182623691926"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691905"
+      }
+    ],
+    "children": [
+      "I182623691861"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

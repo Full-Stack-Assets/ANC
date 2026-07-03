@@ -1,0 +1,102 @@
+{
+  "id": "I182625984170",
+  "name": {
+    "given": "Isabel",
+    "surname": "Worsley",
+    "suffix": null,
+    "full": "Isabel Worsley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1460",
+        "year": 1460,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southwark, London Borough of Southwark, Greater London, England",
+        "parts": [
+          "Southwark",
+          "London Borough of Southwark",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1527",
+        "year": 1527,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southwark, London Borough of Southwark, Greater London, England",
+        "parts": [
+          "Southwark",
+          "London Borough of Southwark",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625984066"
+      },
+      {
+        "id": "I182625984259"
+      }
+    ],
+    "children": [
+      "I182625983720",
+      "I182625984169",
+      "I182625984171"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182613113311",
+  "person": "Robert Buell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, Olde, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "Olde",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 September 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 November 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182650552492",
+  "name": {
+    "given": "Jacob",
+    "surname": "Decoster",
+    "suffix": null,
+    "full": "Jacob Decoster"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater,Plymouth,Massachusetts,USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1830-08-04",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hebron,Oxford,Maine,USA",
+        "parts": [
+          "Hebron",
+          "Oxford",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552498",
+      "I182650552503"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552496"
+      }
+    ],
+    "children": [
+      "I182650552252"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

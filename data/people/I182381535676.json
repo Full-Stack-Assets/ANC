@@ -1,0 +1,64 @@
+{
+  "id": "I182381535676",
+  "name": {
+    "given": "ANNA (ANNE)",
+    "surname": "WESTE",
+    "suffix": null,
+    "full": "ANNA (ANNE) WESTE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burton Latimer, Northamptonshire, England",
+        "parts": [
+          "Burton Latimer",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1668",
+        "year": 1668,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600134"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535694"
+      }
+    ],
+    "children": [
+      "I182381535671"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,235 @@
+{
+  "id": "I182195857231",
+  "name": {
+    "given": "David",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "David Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Sep 1953",
+        "year": 1953,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, MA",
+        "parts": [
+          "Boston",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115584",
+          "page": null
+        },
+        {
+          "source_id": "S446914519",
+          "page": null
+        },
+        {
+          "source_id": "S446914499",
+          "page": null
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 29 Oct 2021; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/776736286/?article=e13f63bf-6d99-429a-9c37-ca361dbb1dd0&focus=0.00552474,0.42376563,0.17125659,0.83069575&xid=3355"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Oct 2021",
+        "year": 2021,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, MA",
+        "parts": [
+          "Boston",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": null
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 29 Oct 2021; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/776736286/?article=e13f63bf-6d99-429a-9c37-ca361dbb1dd0&focus=0.00552474,0.42376563,0.17125659,0.83069575&xid=3355"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195856839",
+      "I182195857227"
+    ],
+    "spouses": [
+      {
+        "id": "I182537777016"
+      }
+    ],
+    "children": [
+      "I182537777017",
+      "I182537777015",
+      "I182537777018",
+      "I182537777019"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1971",
+        "year": 1971,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115584",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1974",
+        "year": 1974,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915197",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914519",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Marshfield",
+        "parts": [
+          "Marshfield"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 29 Oct 2021; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/776736286/?article=e13f63bf-6d99-429a-9c37-ca361dbb1dd0&focus=0.00552474,0.42376563,0.17125659,0.83069575&xid=3355"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115584",
+      "title": "U.S., School Yearbooks, 1900-1999",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914519",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 2",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915197",
+      "title": "U.S. City Directories, 1822-1995",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

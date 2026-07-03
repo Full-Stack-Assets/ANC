@@ -1,0 +1,73 @@
+{
+  "id": "I182613026337",
+  "name": {
+    "given": "George Thomas of Coughton",
+    "surname": "Throckmorton, Knight",
+    "suffix": null,
+    "full": "George Thomas of Coughton Throckmorton, Knight"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton, Stratford-on-Avon District, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Coughton",
+          "Stratford-on-Avon District",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 August 1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton, Stratford-on-Avon District, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Coughton",
+          "Stratford-on-Avon District",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613026331"
+      }
+    ],
+    "children": [
+      "I182613026278"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

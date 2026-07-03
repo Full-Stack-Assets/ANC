@@ -1,0 +1,71 @@
+{
+  "id": "I182623686858",
+  "name": {
+    "given": "Thomas",
+    "surname": "Egerton Master of the Mint",
+    "suffix": null,
+    "full": "Thomas Egerton Master of the Mint"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1516",
+        "year": 1516,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wallegrange, Suffolk, England",
+        "parts": [
+          "Wallegrange",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Jun 1596",
+        "year": 1596,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686872"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686830"
+      }
+    ],
+    "children": [
+      "I182623686802"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

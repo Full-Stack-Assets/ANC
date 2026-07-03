@@ -1,0 +1,52 @@
+{
+  "id": "I182623689017",
+  "name": {
+    "given": "Sarah",
+    "surname": "Allerton",
+    "suffix": null,
+    "full": "Sarah Allerton"
+  },
+  "sex": "F",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef. 24 Oct 1633",
+        "year": 1633,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689047",
+      "I182623689031"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689000"
+      }
+    ],
+    "children": [
+      "I182623688926"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

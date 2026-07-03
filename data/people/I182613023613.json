@@ -1,0 +1,169 @@
+{
+  "id": "I182613023613",
+  "name": {
+    "given": "Robert",
+    "surname": "Smith",
+    "suffix": "Jr",
+    "full": "Robert Smith Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirton, Lincolnshire, England",
+        "parts": [
+          "Kirton",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Solid (TBW). Source: Find a Grave (fath, yr, loc). NE Mars Prior 1700 (circa yr). US & Int Mar Recs 1 (yr, Eng).  US & Int Mar Recs 2 (yr).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Aug 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boxford, Essex, Massachusetts, British America",
+        "parts": [
+          "Boxford",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Solid (TBW): Source: Find a Grave (date, loc). Fam Data Col - Deaths (date, loc cites \"B, MA, USA\"). US NE Mars Prior 1700 (yr).  SAR App, 1947 (date).",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023685",
+      "I182613023657"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613023595"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": "Possible (TBW).  Source: NE Mars Prior to 1700 (abt 1623).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "6 Jun 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Groten, Boxford, Colchester, Essex, England",
+        "parts": [
+          "Groten",
+          "Boxford",
+          "Colchester",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW). Source: Jesse N Smith Herit Found (pars, date, loc). SAR App, 1947 (yr abt).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Unlikely (TBW). Source: Mil File (yr, loc cites \"Powell Fee, C, England\").",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Lincolnshire, England",
+        "parts": [
+          "Boston",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW).  Source: Fam Data Col - Births (pars, yr, loc)",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "4 Dec 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipswich, Essex, Massachusetts, British America",
+        "parts": [
+          "Ipswich",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW).  Source: Jesse N Smith Herit Found (date, loc).",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

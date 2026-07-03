@@ -1,0 +1,49 @@
+{
+  "id": "I182623666139",
+  "name": {
+    "given": "Johanna",
+    "surname": "De Cocton",
+    "suffix": null,
+    "full": "Johanna De Cocton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623666140"
+      }
+    ],
+    "children": [
+      "I182623664743"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810665",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

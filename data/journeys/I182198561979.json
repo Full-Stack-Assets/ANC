@@ -1,0 +1,54 @@
+{
+  "id": "I182198561979",
+  "person": "Franklin P. S. Hohmann",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1855",
+        "year": 1855,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St. Francis Hospital, Trenton NJ",
+        "parts": [
+          "St. Francis Hospital",
+          "Trenton NJ"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 June 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

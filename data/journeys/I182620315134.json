@@ -1,0 +1,52 @@
+{
+  "id": "I182620315134",
+  "person": "John Crosby",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Settle, Craven District, North Yorkshire, England",
+        "parts": [
+          "Settle",
+          "Craven District",
+          "North Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Jan 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Settle, Craven District, North Yorkshire, England",
+        "parts": [
+          "Settle",
+          "Craven District",
+          "North Yorkshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

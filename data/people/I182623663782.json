@@ -1,0 +1,74 @@
+{
+  "id": "I182623663782",
+  "name": {
+    "given": "Caroline",
+    "surname": "Saling",
+    "suffix": null,
+    "full": "Caroline Saling"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 May 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bayern, Traunstein, Bayern, Germany",
+        "parts": [
+          "Bayern",
+          "Traunstein",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Jul 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, USA",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663846",
+      "I182623663842"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663790"
+      }
+    ],
+    "children": [
+      "I182623663676"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

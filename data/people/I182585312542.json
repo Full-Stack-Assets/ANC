@@ -1,0 +1,65 @@
+{
+  "id": "I182585312542",
+  "name": {
+    "given": "Cath",
+    "surname": "Leeson",
+    "suffix": null,
+    "full": "Cath Leeson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1875",
+        "year": 1875,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aston, Warwickshire",
+        "parts": [
+          "Aston",
+          "Warwickshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587608970",
+      "I182587609152"
+    ],
+    "spouses": [],
+    "children": [
+      "I182585307149"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

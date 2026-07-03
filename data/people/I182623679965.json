@@ -1,0 +1,66 @@
+{
+  "id": "I182623679965",
+  "name": {
+    "given": "Robert",
+    "surname": "Evans",
+    "suffix": "Sr",
+    "full": "Robert Evans Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Apr 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales",
+        "parts": [
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Feb 1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford County, New Hampshire, United States of America",
+        "parts": [
+          "Dover",
+          "Strafford County",
+          "New Hampshire",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623680059"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623679861"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

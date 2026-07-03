@@ -1,0 +1,76 @@
+{
+  "id": "I182625972448",
+  "name": {
+    "given": "Sebastian",
+    "surname": "Riefer (Riffer)",
+    "suffix": null,
+    "full": "Sebastian Riefer (Riffer)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roschberg, Landkreis St. Wendel, Saarland, Germany",
+        "parts": [
+          "Roschberg",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Feb 1728",
+        "year": 1728,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Wendel-Alsfassen, Landkreis St. Wendel, Saarland, Germany, Saarland, Germany",
+        "parts": [
+          "St. Wendel-Alsfassen",
+          "Landkreis St. Wendel",
+          "Saarland",
+          "Germany",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972460",
+      "I182625972457"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972446"
+      }
+    ],
+    "children": [
+      "I182625972403"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "I182620314938",
+  "person": "Jane Hutton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kirkdale, Metropolitan Borough of Liverpool, Merseyside, England",
+        "parts": [
+          "Kirkdale",
+          "Metropolitan Borough of Liverpool",
+          "Merseyside",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kirkdale, Metropolitan Borough of Liverpool, Merseyside, England",
+        "parts": [
+          "Kirkdale",
+          "Metropolitan Borough of Liverpool",
+          "Merseyside",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

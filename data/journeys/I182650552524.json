@@ -1,0 +1,57 @@
+{
+  "id": "I182650552524",
+  "person": "Isaac DeCoster Sr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rouen, Seine-Maritime, Haute-Normandie, France",
+        "parts": [
+          "Rouen",
+          "Seine-Maritime",
+          "Haute-Normandie",
+          "France"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Dunstan, Stepney, Middlesex, England",
+        "parts": [
+          "St Dunstan",
+          "Stepney",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Jul  1709",
+        "year": 1709,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

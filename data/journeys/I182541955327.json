@@ -1,0 +1,66 @@
+{
+  "id": "I182541955327",
+  "person": "Johannes Rönn fd. (Olsson ) Soldat",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gloshed, Torsby, Västra Götaland, Sverige",
+        "parts": [
+          "Gloshed",
+          "Torsby",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 SEP 1831",
+        "year": 1831,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Torsby, Västra Götaland, Sverige",
+        "parts": [
+          "Torsby",
+          "Västra Götaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Mar 1896",
+        "year": 1896,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

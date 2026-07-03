@@ -1,0 +1,57 @@
+{
+  "id": "I182623679854",
+  "person": "Samuel Carll",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire, USA",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "05 Oct 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine, USA",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 May 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

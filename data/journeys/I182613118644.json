@@ -1,0 +1,64 @@
+{
+  "id": "I182613118644",
+  "person": "Thomas McKee",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pennsylvania",
+        "parts": [
+          "Pennsylvania"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Jun 1836",
+        "year": 1836,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Chester, Delaware, Pennsylvania, USA",
+        "parts": [
+          "Chester",
+          "Delaware",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 May 1909",
+        "year": 1909,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

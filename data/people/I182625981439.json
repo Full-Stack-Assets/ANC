@@ -1,0 +1,69 @@
+{
+  "id": "I182625981439",
+  "name": {
+    "given": "Gillian",
+    "surname": "Thomas (Twelison\\Trevlinson)",
+    "suffix": null,
+    "full": "Gillian Thomas (Twelison\\Trevlinson)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Aug 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme Upon Spaulding Moor, Yorkshire, England",
+        "parts": [
+          "Holme Upon Spaulding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 May 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme-on-Spalding-Moor, Yorkshire, England",
+        "parts": [
+          "Holme-on-Spalding-Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625981455"
+      }
+    ],
+    "children": [
+      "I182620315177"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

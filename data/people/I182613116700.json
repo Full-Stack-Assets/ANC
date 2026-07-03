@@ -1,0 +1,108 @@
+{
+  "id": "I182613116700",
+  "name": {
+    "given": "Edward",
+    "surname": "Plantagenet",
+    "suffix": null,
+    "full": "Edward Plantagenet"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 June 1330",
+        "year": 1330,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodstock, West Oxfordshire District, Oxfordshire, England",
+        "parts": [
+          "Woodstock",
+          "West Oxfordshire District",
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 June 1376",
+        "year": 1376,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westminster, City of Westminster, Greater London, England",
+        "parts": [
+          "Westminster",
+          "City of Westminster",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Canterbury, City of Canterbury, Kent, England",
+        "parts": [
+          "Canterbury",
+          "City of Canterbury",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116531",
+      "I182613116656"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

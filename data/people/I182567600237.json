@@ -1,0 +1,165 @@
+{
+  "id": "I182567600237",
+  "name": {
+    "given": "William",
+    "surname": "Bull",
+    "suffix": null,
+    "full": "William Bull"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Feb 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Feb 1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange, New York, USA",
+        "parts": [
+          "Hamptonburgh",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Campbell Hall, Orange County, New York, United States of America",
+        "parts": [
+          "Campbell Hall",
+          "Orange County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600250"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600231"
+      }
+    ],
+    "children": [
+      "I182625971798",
+      "I182625971796",
+      "I182625971795",
+      "I182625971801",
+      "I182625971799",
+      "I182625971800",
+      "I182567600211",
+      "I182625971802",
+      "I182625971794",
+      "I182625971797"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "17 Feb 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, , England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "17 Feb 1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hamptonburgh, Orange, New York, United States",
+        "parts": [
+          "Hamptonburgh",
+          "Orange",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

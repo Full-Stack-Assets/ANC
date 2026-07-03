@@ -1,0 +1,72 @@
+{
+  "id": "I182623687138",
+  "name": {
+    "given": "Richard",
+    "surname": "CARLE,",
+    "suffix": "I",
+    "full": "Richard CARLE, I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Devon, England",
+        "parts": [
+          "Dartmouth",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kittery, York, Maine, British America",
+        "parts": [
+          "Kittery",
+          "York",
+          "Maine",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623687145"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680117"
+      }
+    ],
+    "children": [
+      "I182623680090"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

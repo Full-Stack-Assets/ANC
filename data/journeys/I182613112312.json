@@ -1,0 +1,56 @@
+{
+  "id": "I182613112312",
+  "person": "Jael Remington",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hingham, Norfolk co., Massachusetts",
+        "parts": [
+          "Hingham",
+          "Norfolk co.",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Apr 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hingham, Plymouth, MA, USA",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "MA",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "14 Apr 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

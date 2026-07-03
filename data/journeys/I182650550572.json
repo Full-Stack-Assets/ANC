@@ -1,0 +1,60 @@
+{
+  "id": "I182650550572",
+  "person": "Thomas Hayward Mitchell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "EN",
+        "parts": [
+          "EN"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "of MA",
+        "parts": [
+          "of MA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": null
+        },
+        {
+          "source_id": "S516008989",
+          "page": "Source number: 1394.130; Source type: Family group sheet, FGSE, listed as parents; Number of Pages: 1"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

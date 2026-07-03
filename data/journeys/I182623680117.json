@@ -1,0 +1,51 @@
+{
+  "id": "I182623680117",
+  "person": "Agnes BABB Blackner Blockler",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wolborough, Newton Abbot, Devon, England",
+        "parts": [
+          "Wolborough",
+          "Newton Abbot",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Feb 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wolborough and Newton Abbot, Devon, England",
+        "parts": [
+          "Wolborough and Newton Abbot",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I182541959684",
+  "person": "Sir Thomas Phillips",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Lincoln, Lincolnshire, England",
+        "parts": [
+          "Lincoln",
+          "Lincolnshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Aug 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "DEATH1640 VERIFIED- Bath Abbey, Bath, Somerset, England -The Abbey Church of Saint Peter and Saint Paul, Bath, commonly known as Bath Abbey, is an Anglican parish church and a former Benedictine monastery and a proto Co-cathedral in Bath, Somerset, England",
+        "parts": [
+          "DEATH1640 VERIFIED- Bath Abbey",
+          "Bath",
+          "Somerset",
+          "England -The Abbey Church of Saint Peter and Saint Paul",
+          "Bath",
+          "commonly known as Bath Abbey",
+          "is an Anglican parish church and a former Benedictine monastery and a proto Co-cathedral in Bath",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "I182195861181",
+  "person": "Maria Wilhelmina",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hjo",
+        "parts": [
+          "Hjo"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Edwardsville, Illinois, USA",
+        "parts": [
+          "Edwardsville",
+          "Illinois",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Sep 1928",
+        "year": 1928,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S525022190",
+          "page": "The Edwardsville Intelligencer; Publication Date: 24 Sep 1928; Publication Place: Edwardsville, Illinois, USA; URL: https://www.newspapers.com/image/26445266/?article=2af72f98-e4a2-4911-8fb9-cc8a926ae0b9&xid=5503&terms=Wilhelmina_Rang"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

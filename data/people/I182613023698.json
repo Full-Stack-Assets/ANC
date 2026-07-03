@@ -1,0 +1,72 @@
+{
+  "id": "I182613023698",
+  "name": {
+    "given": "John (Sir) of Wilmslow",
+    "surname": "Deane",
+    "suffix": null,
+    "full": "John (Sir) of Wilmslow Deane"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmslow, Cheshire, England",
+        "parts": [
+          "Wilmslow",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Apr 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmslow, Cheshire, England",
+        "parts": [
+          "Wilmslow",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023768",
+      "I182613023818"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023690"
+      }
+    ],
+    "children": [
+      "I182613023657"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

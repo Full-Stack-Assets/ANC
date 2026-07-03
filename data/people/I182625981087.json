@@ -1,0 +1,73 @@
+{
+  "id": "I182625981087",
+  "name": {
+    "given": "John",
+    "surname": "Austin",
+    "suffix": null,
+    "full": "John Austin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Feb 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marden, Kent, England",
+        "parts": [
+          "Marden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Aug 1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stamford, Fairfield, Connecticut, United States",
+        "parts": [
+          "Stamford",
+          "Fairfield",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981105",
+      "I182625981118"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981099"
+      }
+    ],
+    "children": [
+      "I182625981083"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

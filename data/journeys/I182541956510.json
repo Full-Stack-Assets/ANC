@@ -1,0 +1,54 @@
+{
+  "id": "I182541956510",
+  "person": "Elizabeth Greenhope",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Devonshire, England",
+        "parts": [
+          "Devonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Plymouth Twp, Philadelphia, PA",
+        "parts": [
+          "Plymouth Twp",
+          "Philadelphia",
+          "PA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Bef. 1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

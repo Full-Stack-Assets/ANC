@@ -1,0 +1,73 @@
+{
+  "id": "I182625972378",
+  "name": {
+    "given": "Wendelin",
+    "surname": "Riefer Riffer",
+    "suffix": null,
+    "full": "Wendelin Riefer Riffer"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Jan 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alsfassen, St Wendel, Saarland, Germany",
+        "parts": [
+          "Alsfassen",
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Jun 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Wendel, Saarland, Germany",
+        "parts": [
+          "St Wendel",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972403",
+      "I182625972398"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972370"
+      }
+    ],
+    "children": [
+      "I182623663944"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

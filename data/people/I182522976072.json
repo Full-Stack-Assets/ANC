@@ -1,0 +1,113 @@
+{
+  "id": "I182522976072",
+  "name": {
+    "given": "Jöns (Jonas)",
+    "surname": "Persson",
+    "suffix": null,
+    "full": "Jöns (Jonas) Persson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 jan 1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gagnef, Dalarna, Sweden",
+        "parts": [
+          "Gagnef",
+          "Dalarna",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 jan 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bommersbo, Norrbarke W, Sweden",
+        "parts": [
+          "Bommersbo",
+          "Norrbarke W",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182522976091",
+      "I182620321201",
+      "I182522976080"
+    ],
+    "spouses": [
+      {
+        "id": "I182522976064"
+      }
+    ],
+    "children": [
+      "I182620321001",
+      "I182381536019"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "ca 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dalarna, Sweden",
+        "parts": [
+          "Dalarna",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

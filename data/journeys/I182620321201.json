@@ -1,0 +1,90 @@
+{
+  "id": "I182620321201",
+  "person": "Brita Danielsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gagnef, Gagnef, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Gagnef",
+          "Gagnef",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1485",
+        "year": 1485,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gagnef, Gagnef, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Gagnef",
+          "Gagnef",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Jäder, Södermanland, Sverige",
+        "parts": [
+          "Jäder",
+          "Södermanland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619795",
+          "page": "Genline AB; Johanneshov, Stockholm, Sweden; Swedish Church Records Archive; Volume Number: AI:1"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

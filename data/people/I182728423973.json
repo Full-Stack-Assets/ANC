@@ -1,0 +1,74 @@
+{
+  "id": "I182728423973",
+  "name": {
+    "given": "Maret",
+    "surname": "Svensdotter",
+    "suffix": null,
+    "full": "Maret Svensdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Myckleby",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Myckleby",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182728423995",
+      "I182728423984"
+    ],
+    "spouses": [
+      {
+        "id": "I182728423962"
+      }
+    ],
+    "children": [
+      "I182726546473"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

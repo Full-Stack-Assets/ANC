@@ -1,0 +1,92 @@
+{
+  "id": "I182613026144",
+  "name": {
+    "given": "EN Sir John, Knight Yorkshire,",
+    "surname": "Acklome",
+    "suffix": "14 ggf",
+    "full": "EN Sir John, Knight Yorkshire, Acklome 14 ggf"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1482",
+        "year": 1482,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Morley, Leeds, Yorkshire, West Yorkshire, England, United Kingdom",
+        "parts": [
+          "Morley",
+          "Leeds",
+          "Yorkshire",
+          "West Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bosworths Field, Near Leicester, Leicestershire, England (NOT Battle of Bosworth Field - 1485)",
+        "parts": [
+          "Bosworths Field",
+          "Near Leicester",
+          "Leicestershire",
+          "England (NOT Battle of Bosworth Field - 1485)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182613026125"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bosworth Field, Leicestershire, England, United Kingdom",
+        "parts": [
+          "Bosworth Field",
+          "Leicestershire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

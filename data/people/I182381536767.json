@@ -1,0 +1,70 @@
+{
+  "id": "I182381536767",
+  "name": {
+    "given": "John",
+    "surname": "Blackett",
+    "suffix": null,
+    "full": "John Blackett"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Jun 1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ravensworth, Yorkshire, England",
+        "parts": [
+          "Ravensworth",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Before 5 August 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536807",
+      "I182381536799"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536755"
+      }
+    ],
+    "children": [
+      "I182381536186"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

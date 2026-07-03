@@ -1,0 +1,73 @@
+{
+  "id": "I182381537803",
+  "name": {
+    "given": "Stephen",
+    "surname": "Williams *",
+    "suffix": "Sr.",
+    "full": "Stephen Williams * Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yonkers, Westchester, New York, United States",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Jul 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yonkers, Westchester, New York, United States",
+        "parts": [
+          "Yonkers",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537850"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537799"
+      }
+    ],
+    "children": [
+      "I182381537740"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "I182620315310",
+  "name": {
+    "given": "Jarvis",
+    "surname": "WEBSTER",
+    "suffix": null,
+    "full": "Jarvis WEBSTER"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Riding, Yorkshire, , England",
+        "parts": [
+          "East Riding",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Jun 1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cossington, Charnwood Borough, Leicestershire, England",
+        "parts": [
+          "Cossington",
+          "Charnwood Borough",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981724"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315292",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "19 May 1549",
+            "year": 1549,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Yorkshire, England",
+            "parts": [
+              "Yorkshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182620315246",
+      "I182625981770"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

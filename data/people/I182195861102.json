@@ -1,0 +1,109 @@
+{
+  "id": "I182195861102",
+  "name": {
+    "given": "Maria",
+    "surname": "Johansdotter",
+    "suffix": null,
+    "full": "Maria Johansdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo",
+        "parts": [
+          "Hjo"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195860718",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "Sweden",
+            "parts": [
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195860382",
+      "I182195861181",
+      "I182195861182"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relationship: Head",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915028",
+      "title": "Sweden, Selected Indexed Household Clerical Surveys, 1880-1893",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

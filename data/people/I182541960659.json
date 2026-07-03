@@ -1,0 +1,90 @@
+{
+  "id": "I182541960659",
+  "name": {
+    "given": "John J",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "John J Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Jan 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hope, Warren, New Jersey, USA",
+        "parts": [
+          "Hope",
+          "Warren",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Calculated from his headstone",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Apr 1855",
+        "year": 1855,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hope, Warren, New Jersey, USA",
+        "parts": [
+          "Hope",
+          "Warren",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182197729749"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hope, Warren, New Jersey, USA",
+        "parts": [
+          "Hope",
+          "Warren",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Self-reported in the 1840 and 1850 censuses, also on his father's 1830 census",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

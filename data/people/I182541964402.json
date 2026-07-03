@@ -1,0 +1,67 @@
+{
+  "id": "I182541964402",
+  "name": {
+    "given": "Robert Zachariah",
+    "surname": "Sanford",
+    "suffix": null,
+    "full": "Robert Zachariah Sanford"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, British Colony",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "British Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Jan 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, British Colony",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "British Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541964338"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

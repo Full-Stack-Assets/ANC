@@ -1,0 +1,74 @@
+{
+  "id": "I182623680090",
+  "name": {
+    "given": "Richard",
+    "surname": "Carle",
+    "suffix": "Jr",
+    "full": "Richard Carle Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kittery, York, Maine, USA",
+        "parts": [
+          "Kittery",
+          "York",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kittery Point, York, Maine, USA",
+        "parts": [
+          "Kittery Point",
+          "York",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623687138",
+      "I182623680117"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680081"
+      }
+    ],
+    "children": [
+      "I182623679874"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

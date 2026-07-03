@@ -1,0 +1,57 @@
+{
+  "id": "I182650552293",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Littlefield",
+    "suffix": null,
+    "full": "Elizabeth Littlefield"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 APR 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braintree, Norfolk Cty, MA",
+        "parts": [
+          "Braintree",
+          "Norfolk Cty",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": null,
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552297"
+      }
+    ],
+    "children": [
+      "I182650552275"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

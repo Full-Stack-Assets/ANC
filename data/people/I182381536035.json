@@ -1,0 +1,69 @@
+{
+  "id": "I182381536035",
+  "name": {
+    "given": "Söfring",
+    "surname": "Söfringsson Krabbe",
+    "suffix": null,
+    "full": "Söfring Söfringsson Krabbe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrbärke (W)",
+        "parts": [
+          "Norrbärke (W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 maj 1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Huggarbo, Norrbärke",
+        "parts": [
+          "Huggarbo",
+          "Norrbärke"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536055",
+      "I182381536046"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536023"
+      }
+    ],
+    "children": [
+      "I182197445060"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

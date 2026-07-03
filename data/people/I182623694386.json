@@ -1,0 +1,70 @@
+{
+  "id": "I182623694386",
+  "name": {
+    "given": "Catherine",
+    "surname": "Pin",
+    "suffix": null,
+    "full": "Catherine Pin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Feb 1611",
+        "year": 1611,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranfield, Bedfordshire, England",
+        "parts": [
+          "Cranfield",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 January 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Concord, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Concord",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694406"
+      }
+    ],
+    "children": [
+      "I182623694338"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

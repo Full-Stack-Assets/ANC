@@ -1,0 +1,41 @@
+{
+  "id": "I182650549348",
+  "name": {
+    "given": "Mary",
+    "surname": "Gilchrist",
+    "suffix": null,
+    "full": "Mary Gilchrist"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650549347"
+      }
+    ],
+    "children": [
+      "I182541939915"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

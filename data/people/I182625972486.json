@@ -1,0 +1,137 @@
+{
+  "id": "I182625972486",
+  "name": {
+    "given": "Engelbert III",
+    "surname": "von Langen",
+    "suffix": "Herr zu Westkreyenburg",
+    "full": "Engelbert III von Langen Herr zu Westkreyenburg"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Meppen, Emsland, Lower Saxony, Germany",
+        "parts": [
+          "Meppen",
+          "Emsland",
+          "Lower Saxony",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aug 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haselünne, Emsland, Niedersachsen, Deutschland",
+        "parts": [
+          "Haselünne",
+          "Emsland",
+          "Niedersachsen",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972507",
+      "I182625972563"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972559"
+      },
+      {
+        "id": "I182625972569"
+      }
+    ],
+    "children": [
+      "I182625972558",
+      "I182625972562",
+      "I182625972561",
+      "I182625972565",
+      "I182625972566",
+      "I182625972480",
+      "I182625972564",
+      "I182625972560",
+      "I182625972567"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

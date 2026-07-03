@@ -1,0 +1,116 @@
+{
+  "id": "I182623681469",
+  "name": {
+    "given": "Rebecca M",
+    "surname": "Hilton Roberts",
+    "suffix": null,
+    "full": "Rebecca M Hilton Roberts"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Feb 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Monkwearmouth, Metropolitan Borough of Sunderland, Tyne and Wear, England",
+        "parts": [
+          "Monkwearmouth",
+          "Metropolitan Borough of Sunderland",
+          "Tyne and Wear",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Sep 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford County, New Hampshire, United States of America",
+        "parts": [
+          "Dover",
+          "Strafford County",
+          "New Hampshire",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Boston, Suffolk County, Massachusetts, United States of America",
+        "parts": [
+          "Boston",
+          "Suffolk County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681487"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681530"
+      }
+    ],
+    "children": [
+      "I182623681529",
+      "I182623681532",
+      "I182623681531",
+      "I182623680269"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

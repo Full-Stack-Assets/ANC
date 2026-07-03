@@ -1,0 +1,50 @@
+{
+  "id": "I182197821577",
+  "name": {
+    "given": "Griet",
+    "surname": "IJSBRANTS",
+    "suffix": null,
+    "full": "Griet IJSBRANTS"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Amsterdam, Noord-Holland",
+        "parts": [
+          "Amsterdam",
+          "Noord-Holland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197824862",
+      "I182197824893"
+    ],
+    "spouses": [
+      {
+        "id": "I182197821609"
+      }
+    ],
+    "children": [
+      "I182197821557"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

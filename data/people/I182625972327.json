@@ -1,0 +1,69 @@
+{
+  "id": "I182625972327",
+  "name": {
+    "given": "Hans Hiort",
+    "surname": "Heimann",
+    "suffix": null,
+    "full": "Hans Hiort Heimann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bietschied, Saarland, Germany",
+        "parts": [
+          "Bietschied",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1551",
+        "year": 1551,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bietschied, Saarland, Germany",
+        "parts": [
+          "Bietschied",
+          "Saarland",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972323"
+      }
+    ],
+    "children": [
+      "I182625972312"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

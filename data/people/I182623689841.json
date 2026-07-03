@@ -1,0 +1,74 @@
+{
+  "id": "I182623689841",
+  "name": {
+    "given": "Content",
+    "surname": "Mayo",
+    "suffix": null,
+    "full": "Content Mayo"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1704",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, United States",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Feb 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, United States",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690021",
+      "I182623690002"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689856"
+      }
+    ],
+    "children": [
+      "I182623689787"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

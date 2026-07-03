@@ -1,0 +1,74 @@
+{
+  "id": "I182613112735",
+  "name": {
+    "given": "Richard 'of Great Doddington'",
+    "surname": "Bernard",
+    "suffix": null,
+    "full": "Richard 'of Great Doddington' Bernard"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Abington",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Jun 1613",
+        "year": 1613,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Turvey, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Turvey",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112752",
+      "I182613112756"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112739"
+      }
+    ],
+    "children": [
+      "I182613112710"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

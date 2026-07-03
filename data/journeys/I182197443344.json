@@ -1,0 +1,151 @@
+{
+  "id": "I182197443344",
+  "person": "Johannes Magnusson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1755-1852",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115812",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Backgården Hadäng farm, Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Backgården Hadäng farm",
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Sep 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115802",
+          "page": null
+        },
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Alseda församling, Jönköping, Sverige",
+        "parts": [
+          "Alseda församling",
+          "Jönköping",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Sep 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Nya Varv, Skaraborg, Sweden",
+        "parts": [
+          "Nya Varv",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Jan 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115802",
+          "page": null
+        },
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "place": {
+        "raw": "Kibbe",
+        "parts": [
+          "Kibbe"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115837",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

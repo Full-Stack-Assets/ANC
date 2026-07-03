@@ -1,0 +1,104 @@
+{
+  "id": "I182195861581",
+  "name": {
+    "given": "Brita",
+    "surname": "Pehrsdotter",
+    "suffix": null,
+    "full": "Brita Pehrsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bengtsgården, Norrbärke(W)",
+        "parts": [
+          "Bengtsgården",
+          "Norrbärke(W)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backgården, Hadäng, Velinga, Västra Götaland, Sweden",
+        "parts": [
+          "Backgården",
+          "Hadäng",
+          "Velinga",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861646",
+      "I182195861638"
+    ],
+    "spouses": [
+      {
+        "id": "I182195861579",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "21 Jun 1703",
+            "year": 1703,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Velinga, Västra Götaland, Sweden",
+            "parts": [
+              "Velinga",
+              "Västra Götaland",
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195861582",
+      "I182195861583",
+      "I182195861510"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

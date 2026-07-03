@@ -1,0 +1,65 @@
+{
+  "id": "I182650548784",
+  "name": {
+    "given": null,
+    "surname": "Wytt",
+    "suffix": null,
+    "full": "Wytt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1519",
+        "year": 1519,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishops Stortford, Hertfordshire, England",
+        "parts": [
+          "Bishops Stortford",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bps. Stortford, Herts, England",
+        "parts": [
+          "Bps. Stortford",
+          "Herts",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650548774"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

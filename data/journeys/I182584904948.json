@@ -1,0 +1,55 @@
+{
+  "id": "I182584904948",
+  "person": "Elinor Matthews",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Llanbrynmair, Montgomeryshire, Wales",
+        "parts": [
+          "Llanbrynmair",
+          "Montgomeryshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Caerseddfan, Montgomeryshire, Wales",
+        "parts": [
+          "Caerseddfan",
+          "Montgomeryshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Jan 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

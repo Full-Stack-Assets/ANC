@@ -1,0 +1,76 @@
+{
+  "id": "I182195861021",
+  "name": {
+    "given": "Britta",
+    "surname": "Gabrielsdotter",
+    "suffix": null,
+    "full": "Britta Gabrielsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1756",
+        "year": 1756,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hadäng, Velinge, Västra Götaland, Sverige",
+        "parts": [
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Jan 1834",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861462"
+    ],
+    "spouses": [
+      {
+        "id": "I182195861020"
+      }
+    ],
+    "children": [
+      "I182195861464",
+      "I182195860775",
+      "I182195861023",
+      "I182195861463"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

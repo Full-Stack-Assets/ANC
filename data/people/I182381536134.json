@@ -1,0 +1,57 @@
+{
+  "id": "I182381536134",
+  "name": {
+    "given": "Ragnela Ragnell",
+    "surname": "Månsdotter",
+    "suffix": null,
+    "full": "Ragnela Ragnell Månsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tolg, Kronobergs Län (G)",
+        "parts": [
+          "Tolg",
+          "Kronobergs Län (G)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1654",
+        "year": 1654,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381536114"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

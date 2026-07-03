@@ -1,0 +1,111 @@
+{
+  "id": "I182620322418",
+  "name": {
+    "given": "Mary Cassie \"Minnie\"",
+    "surname": "MacLeod",
+    "suffix": null,
+    "full": "Mary Cassie \"Minnie\" MacLeod"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Mar 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nova Scotia",
+        "parts": [
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": "Year: 1891; Census Place: Strathlorn, Inverness, Nova Scotia, Canada; Roll: T-6317; Family No: 34"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Feb 1939",
+        "year": 1939,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Inverness, Cape Breton, Nova Scotia",
+        "parts": [
+          "Inverness",
+          "Cape Breton",
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": "Mal nutrition due to mental condition?",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322947",
+      "I182620322951"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322429"
+      }
+    ],
+    "children": [
+      "I182620322402"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Strathlorn, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Strathlorn",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head of House: Daughter; Religion: Free Church",
+      "sources": [
+        {
+          "source_id": "S447151101",
+          "page": "Year: 1891; Census Place: Strathlorn, Inverness, Nova Scotia, Canada; Roll: T-6317; Family No: 34"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447151101",
+      "title": "1891 Census of Canada",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

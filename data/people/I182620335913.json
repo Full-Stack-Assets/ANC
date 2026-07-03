@@ -1,0 +1,46 @@
+{
+  "id": "I182620335913",
+  "name": {
+    "given": "Philip",
+    "surname": "Mansel",
+    "suffix": null,
+    "full": "Philip Mansel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1430",
+        "year": 1430,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182620326715",
+      "I182620335966"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516621441",
+      "title": "Gloucestershire, England, Church of England Baptisms, Marriages and Burials, 1538-1813",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "I182625980849",
+  "name": {
+    "given": "Richardi\\Richarde",
+    "surname": "Thompson\\Thomson",
+    "suffix": null,
+    "full": "Richardi\\Richarde Thompson\\Thomson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bolton Percy, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Bolton Percy",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980902",
+      "I182625980904"
+    ],
+    "spouses": [
+      {
+        "id": "I182625980191"
+      }
+    ],
+    "children": [
+      "I182587606722"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182728424028",
+  "name": {
+    "given": "Arfvid",
+    "surname": "Persson",
+    "suffix": null,
+    "full": "Arfvid Persson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Jul 1725",
+        "year": 1725,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby församling, Wassö, Göteborgs och Bohus län",
+        "parts": [
+          "Myckleby församling",
+          "Wassö",
+          "Göteborgs och Bohus län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728424014"
+      }
+    ],
+    "children": [
+      "I182728423962"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

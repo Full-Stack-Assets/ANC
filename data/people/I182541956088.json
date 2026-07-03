@@ -1,0 +1,101 @@
+{
+  "id": "I182541956088",
+  "name": {
+    "given": "Abigail Ursula",
+    "surname": "Kimball",
+    "suffix": null,
+    "full": "Abigail Ursula Kimball"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Nov 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rattlesden, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Rattlesden",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Jun 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Essex, Massachusetts, USA",
+        "parts": [
+          "Salisbury",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541956067",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "abt 1633",
+            "year": 1633,
+            "year_end": null,
+            "qualifier": "ABT"
+          },
+          "place": {
+            "raw": "poss England or Ipswich, Essex, Massachusetts, America",
+            "parts": [
+              "poss England or Ipswich",
+              "Essex",
+              "Massachusetts",
+              "America"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182541955827"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

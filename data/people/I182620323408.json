@@ -1,0 +1,69 @@
+{
+  "id": "I182620323408",
+  "name": {
+    "given": "Captain Angus",
+    "surname": "MacDonald \\ MacDonell of Keppoch",
+    "suffix": "VII .\\7. of Tulloch",
+    "full": "Captain Angus MacDonald \\ MacDonell of Keppoch VII .\\7. of Tulloch"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 OCT 1759",
+        "year": 1759,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tulloch, Invernesshire, Scotland",
+        "parts": [
+          "Tulloch",
+          "Invernesshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 May 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fort William, Inverness-shire, Scotland",
+        "parts": [
+          "Fort William",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323392"
+      }
+    ],
+    "children": [
+      "I182620323059"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

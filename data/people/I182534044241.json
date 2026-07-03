@@ -1,0 +1,97 @@
+{
+  "id": "I182534044241",
+  "name": {
+    "given": "Johann Georg",
+    "surname": "Ried",
+    "suffix": "J10g",
+    "full": "Johann Georg Ried J10g"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Apr 1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waldoboro, Lincoln, Maine, USA",
+        "parts": [
+          "Waldoboro",
+          "Lincoln",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044344",
+      "I182534044343"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044238"
+      }
+    ],
+    "children": [
+      "I182534044232"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Durach, Oberallgau, Bayern, Allemagne",
+        "parts": [
+          "Durach",
+          "Oberallgau",
+          "Bayern",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

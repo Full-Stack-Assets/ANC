@@ -1,0 +1,73 @@
+{
+  "id": "I182584904930",
+  "name": {
+    "given": "Mary",
+    "surname": "Yelling",
+    "suffix": null,
+    "full": "Mary Yelling"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "+/- 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Gloucestershire, England",
+        "parts": [
+          "Gloucester",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21-February-1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Gloucester",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904937",
+      "I182584904936"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904932"
+      }
+    ],
+    "children": [
+      "I182584904923"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "I182625982381",
+  "name": {
+    "given": "Frederick",
+    "surname": "Tylney",
+    "suffix": null,
+    "full": "Frederick Tylney"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1420",
+        "year": 1420,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ashwellthorpe, South Norfolk District, Norfolk, England",
+        "parts": [
+          "Ashwellthorpe",
+          "South Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1447",
+        "year": 1447,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ashwellthorpe, South Norfolk District, Norfolk, England",
+        "parts": [
+          "Ashwellthorpe",
+          "South Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Ashwellthorpe, South Norfolk District, Norfolk, England",
+        "parts": [
+          "Ashwellthorpe",
+          "South Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982889",
+      "I182625982890"
+    ],
+    "spouses": [
+      {
+        "id": "I182625982380"
+      }
+    ],
+    "children": [
+      "I182625982210",
+      "I182625983634"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

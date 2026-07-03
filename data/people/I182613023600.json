@@ -1,0 +1,119 @@
+{
+  "id": "I182613023600",
+  "name": {
+    "given": "Jacob",
+    "surname": "Towne",
+    "suffix": "Jr",
+    "full": "Jacob Towne Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Feb 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, British America",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW). Sources: Fam Data Col - Births (pars, date, loc). Bio Rev Essex MA (pars, yr). SAR App (yr). NE Mars Prior to 1700 (yr). Mil File 1 (date, loc). Mil File 2 (moth, date, loc). US & Int Mar Recs, 1 & 4 (yr).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Oct 1741",
+        "year": 1741,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, British America",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Solid (TBW). Sources: X (date, loc). Bio Rev Essex MA (yr, loc). SAR App (yr). NE Mars Prior to 1700 (yr). Mil File 1 & 2 (date). Fam Data Col - Ind Recs (date, loc). Abt Towne (date, loc). NE Hist & Gen Reg v21 (date).  Towne Fam Mem (date).",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023754",
+      "I182613023753"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023595"
+      }
+    ],
+    "children": [
+      "I182613023590"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "13 Feb 1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, British America",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": "Possible (TBW).  Source: MA Town & Vital Recs, Topsfield (fath, date, loc).",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts, United States",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

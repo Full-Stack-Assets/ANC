@@ -1,0 +1,72 @@
+{
+  "id": "I182625986829",
+  "name": {
+    "given": "Sir Hughonis",
+    "surname": "Roscowe",
+    "suffix": null,
+    "full": "Sir Hughonis Roscowe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Standish, Lancashire, England",
+        "parts": [
+          "Standish",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Jan 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coppull, Lancashire, England",
+        "parts": [
+          "Coppull",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986844",
+      "I182625986851"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986823"
+      }
+    ],
+    "children": [
+      "I182625986807"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

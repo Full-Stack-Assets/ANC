@@ -1,0 +1,70 @@
+{
+  "id": "I182526999607",
+  "name": {
+    "given": "George William",
+    "surname": "Upton",
+    "suffix": "Esq",
+    "full": "George William Upton Esq"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Isle Wight, Hampshire, England",
+        "parts": [
+          "Yarmouth",
+          "Isle Wight",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Dec 1611",
+        "year": 1611,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton Ferrers, Devon, England",
+        "parts": [
+          "Newton Ferrers",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182526999619"
+      }
+    ],
+    "children": [
+      "I182526999552"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

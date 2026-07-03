@@ -1,0 +1,132 @@
+{
+  "id": "I182620325010",
+  "name": {
+    "given": "Robert",
+    "surname": "Mansfield",
+    "suffix": null,
+    "full": "Robert Mansfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 November 1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Exeter, Devon, England, United Kingdom",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 December 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620325076",
+      "I182620325068"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905029",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1620",
+            "year": 1620,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Rougemont Castle, Exeter, shire, Devon, England, United Kingdom",
+            "parts": [
+              "Rougemont Castle",
+              "Exeter",
+              "shire",
+              "Devon",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182620325011",
+      "I182620325007",
+      "I182620325003",
+      "I182541966193",
+      "I182620325004",
+      "I182620325008",
+      "I182620325012",
+      "I182620325009"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

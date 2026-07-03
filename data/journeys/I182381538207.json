@@ -1,0 +1,57 @@
+{
+  "id": "I182381538207",
+  "person": "Andreas Otto",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rhineland-Palatinate, Ahrweiler, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rhineland-Palatinate",
+          "Ahrweiler",
+          "Rheinland-Pfalz",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hesse, Schwalm-Eder-Kreis, Hessen, Germany",
+        "parts": [
+          "Hesse",
+          "Schwalm-Eder-Kreis",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "09 Nov 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

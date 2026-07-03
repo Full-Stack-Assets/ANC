@@ -1,0 +1,72 @@
+{
+  "id": "I182650552005",
+  "name": {
+    "given": "Katherine",
+    "surname": "Brabrooke",
+    "suffix": null,
+    "full": "Katherine Brabrooke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burton Latimer, Northamptonshire, England",
+        "parts": [
+          "Burton Latimer",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Burton Latimer, Northamptonshire, England",
+        "parts": [
+          "Burton Latimer",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552033",
+      "I182650552024"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552016"
+      }
+    ],
+    "children": [
+      "I182650551997"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

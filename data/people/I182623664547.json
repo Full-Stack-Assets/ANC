@@ -1,0 +1,72 @@
+{
+  "id": "I182623664547",
+  "name": {
+    "given": "Lady Margaret",
+    "surname": "Olney-Throckmorton",
+    "suffix": null,
+    "full": "Lady Margaret Olney-Throckmorton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weston Underwood, Buckinghamshire, England",
+        "parts": [
+          "Weston Underwood",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Elmham, Suffolk, England",
+        "parts": [
+          "St Elmham",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664573",
+      "I182623664565"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664551"
+      }
+    ],
+    "children": [
+      "I182623664495"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

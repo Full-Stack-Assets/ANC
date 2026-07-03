@@ -1,0 +1,68 @@
+{
+  "id": "I182650552187",
+  "name": {
+    "given": "Margaret",
+    "surname": " Sutton Alabaster",
+    "suffix": null,
+    "full": "Margaret  Sutton Alabaster"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wix, Essex, England",
+        "parts": [
+          "Wix",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wix, Essex, England",
+        "parts": [
+          "Wix",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552200",
+      "I182650552195"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650552168"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

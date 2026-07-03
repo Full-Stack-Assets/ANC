@@ -1,0 +1,54 @@
+{
+  "id": "I182541966092",
+  "person": "William Edwards",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St. Uny Lelant, Cornwall, ENG",
+        "parts": [
+          "St. Uny Lelant",
+          "Cornwall",
+          "ENG"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brinkworth, Wiltshire",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "AFT 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

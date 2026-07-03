@@ -1,0 +1,57 @@
+{
+  "id": "I182625292247",
+  "person": "David Hawkins 2R",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Long Island City, Queens, New York, United States",
+        "parts": [
+          "Long Island City",
+          "Queens",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Sep 1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hamptonburgh, Orange, New York, United States",
+        "parts": [
+          "Hamptonburgh",
+          "Orange",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Feb 1796",
+        "year": 1796,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

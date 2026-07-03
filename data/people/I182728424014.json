@@ -1,0 +1,70 @@
+{
+  "id": "I182728424014",
+  "name": {
+    "given": "BENGTA",
+    "surname": "PÄRSSON",
+    "suffix": null,
+    "full": "BENGTA PÄRSSON"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "WASSÖ,MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "WASSÖ",
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Apr 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728424028"
+      }
+    ],
+    "children": [
+      "I182728423962"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

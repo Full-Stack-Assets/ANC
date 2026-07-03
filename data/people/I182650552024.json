@@ -1,0 +1,66 @@
+{
+  "id": "I182650552024",
+  "name": {
+    "given": "Felice Brabrooke",
+    "surname": "Everard",
+    "suffix": null,
+    "full": "Felice Brabrooke Everard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Dec 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burton Latimer, EnglandNEW, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Burton Latimer",
+          "EnglandNEW",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552038"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552033"
+      }
+    ],
+    "children": [
+      "I182650552005"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

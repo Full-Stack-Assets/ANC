@@ -1,0 +1,72 @@
+{
+  "id": "I182623681607",
+  "name": {
+    "given": "Sir Richard Martin",
+    "surname": "James",
+    "suffix": "(Esquire, Baron of Smarden)",
+    "full": "Sir Richard Martin James (Esquire, Baron of Smarden)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hanley Castle, Worcestershire, England",
+        "parts": [
+          "Hanley Castle",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Dec 1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Smarden, Kent, England",
+        "parts": [
+          "Smarden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681825",
+      "I182623681817"
+    ],
+    "spouses": [
+      {
+        "id": "I182623681601"
+      }
+    ],
+    "children": [
+      "I182623681574"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

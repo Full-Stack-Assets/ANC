@@ -1,0 +1,66 @@
+{
+  "id": "I182613116196",
+  "name": {
+    "given": "Catherine",
+    "surname": "Plantagenet",
+    "suffix": null,
+    "full": "Catherine Plantagenet"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 Mar 1373",
+        "year": 1373,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hertfordshire, England",
+        "parts": [
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Jun 1418",
+        "year": 1418,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Valladolid, Valladolid, Castilla-Leon, Spain",
+        "parts": [
+          "Valladolid",
+          "Valladolid",
+          "Castilla-Leon",
+          "Spain"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613116003",
+      "I182613116157"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

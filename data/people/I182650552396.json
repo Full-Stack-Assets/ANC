@@ -1,0 +1,73 @@
+{
+  "id": "I182650552396",
+  "name": {
+    "given": "Mary",
+    "surname": "Lyon Winchester",
+    "suffix": null,
+    "full": "Mary Lyon Winchester"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 November 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorchester, MA, Massachusetts, USA",
+        "parts": [
+          "Dorchester",
+          "MA",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 JUL 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookline, Suffolk, Massachusetts, British America",
+        "parts": [
+          "Brookline",
+          "Suffolk",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552411"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552398"
+      }
+    ],
+    "children": [
+      "I182650552352"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

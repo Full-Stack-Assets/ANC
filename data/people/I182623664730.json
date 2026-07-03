@@ -1,0 +1,89 @@
+{
+  "id": "I182623664730",
+  "name": {
+    "given": "Sir Guy",
+    "surname": "DE LA Spine",
+    "suffix": null,
+    "full": "Sir Guy DE LA Spine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Coughton",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Toddington, Gloucestershire, England",
+        "parts": [
+          "Toddington",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664743",
+      "I182623664737"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664723"
+      }
+    ],
+    "children": [
+      "I182623664555",
+      "I182623665329"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810663",
+      "title": "The Royal Descents of 600 Immigrants",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810665",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

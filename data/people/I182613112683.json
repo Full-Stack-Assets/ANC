@@ -1,0 +1,72 @@
+{
+  "id": "I182613112683",
+  "name": {
+    "given": "William (m\\Susanna, only wife)",
+    "surname": "Shattuck",
+    "suffix": "(p10GGF)",
+    "full": "William (m\\Susanna, only wife) Shattuck (p10GGF)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorset, England",
+        "parts": [
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 August 1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112908",
+      "I182613112899"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112680"
+      }
+    ],
+    "children": [
+      "I182613112670"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

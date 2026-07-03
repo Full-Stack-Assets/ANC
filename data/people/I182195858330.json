@@ -1,0 +1,191 @@
+{
+  "id": "I182195858330",
+  "name": {
+    "given": "Douglas Leon",
+    "surname": "Holst",
+    "suffix": "BIL",
+    "full": "Douglas Leon Holst BIL"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Jul 1908",
+        "year": 1908,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, MA, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 449"
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Boston",
+        "parts": [
+          "Boston"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195859552",
+      "I182195859674"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858327",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1930",
+            "year": 1930,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195857227",
+      "I182195858602"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 449"
+        },
+        {
+          "source_id": "S446915226",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "military",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Occupation: Walter Baker Co",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 449"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880317",
+      "title": "U.S., World War II Draft Cards Young Men, 1940-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915226",
+      "title": "1940 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

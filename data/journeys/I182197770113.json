@@ -1,0 +1,56 @@
+{
+  "id": "I182197770113",
+  "person": "Catherine Martell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Main-a-Dieu, Cape Breton, Nova Scotia Canada",
+        "parts": [
+          "Main-a-Dieu",
+          "Cape Breton",
+          "Nova Scotia Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1803",
+        "year": 1803,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Danvers, Essex, Massachusetts, USA",
+        "parts": [
+          "Danvers",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 November 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

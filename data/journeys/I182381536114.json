@@ -1,0 +1,48 @@
+{
+  "id": "I182381536114",
+  "person": "Eke Persson Tång",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nöbbele, Tolg (G)",
+        "parts": [
+          "Nöbbele",
+          "Tolg (G)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skärsbäck, Ramkvilla (F)",
+        "parts": [
+          "Skärsbäck",
+          "Ramkvilla (F)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182623679478",
+  "name": {
+    "given": "Thankful",
+    "surname": "Atwood",
+    "suffix": null,
+    "full": "Thankful Atwood"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Sep 1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Jun 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679502",
+      "I182623679498"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679484"
+      }
+    ],
+    "children": [
+      "I182623679457"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

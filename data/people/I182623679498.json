@@ -1,0 +1,72 @@
+{
+  "id": "I182623679498",
+  "name": {
+    "given": "Constance Content",
+    "surname": "Coombs",
+    "suffix": null,
+    "full": "Constance Content Coombs"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20  Nov 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689787",
+      "I182623689782"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679502"
+      }
+    ],
+    "children": [
+      "I182623679478"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

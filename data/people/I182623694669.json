@@ -1,0 +1,70 @@
+{
+  "id": "I182623694669",
+  "name": {
+    "given": "Daniel",
+    "surname": "Carr",
+    "suffix": null,
+    "full": "Daniel Carr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Jan 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rockingham, Cumberland, Vermont, USA",
+        "parts": [
+          "Rockingham",
+          "Cumberland",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Apr 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterford, Caledonia, Vermont, United States",
+        "parts": [
+          "Waterford",
+          "Caledonia",
+          "Vermont",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694683",
+      "I182623694680"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623691492"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

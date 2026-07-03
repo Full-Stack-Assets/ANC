@@ -1,0 +1,71 @@
+{
+  "id": "I182625972285",
+  "name": {
+    "given": "Anna",
+    "surname": "Schamper",
+    "suffix": "*",
+    "full": "Anna Schamper *"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nalbach, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Nalbach",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Okt 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Körprich Nalbach, Saarlouis, Saarland, Deutschland",
+        "parts": [
+          "Körprich Nalbach",
+          "Saarlouis",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972288"
+      }
+    ],
+    "children": [
+      "I182625972248"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

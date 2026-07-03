@@ -1,0 +1,47 @@
+{
+  "id": "I182726544913",
+  "name": {
+    "given": "Thomas",
+    "surname": "Reily",
+    "suffix": null,
+    "full": "Thomas Reily"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "County Monaghan, Ireland",
+        "parts": [
+          "County Monaghan",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182726544896"
+      }
+    ],
+    "children": [
+      "I182726543033"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

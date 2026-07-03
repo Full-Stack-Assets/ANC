@@ -1,0 +1,137 @@
+{
+  "id": "I182620324559",
+  "name": {
+    "given": "Josephine",
+    "surname": "Minichelli",
+    "suffix": null,
+    "full": "Josephine Minichelli"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Italy",
+        "parts": [
+          "Italy"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 29; Assembly District: 01; City: New York; County: New York; Page: 24"
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1925",
+        "year": 1925,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, New York",
+        "parts": [
+          "New York",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "",
+          "page": "New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 29; Assembly District: 01; City: New York; County: New York; Page: 24"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Manhattan (Districts 1-250), Manhattan, New York, New York, USA",
+        "parts": [
+          "Manhattan (Districts 1-250)",
+          "Manhattan",
+          "New York",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Single; Relation to Head of House: Daughter; Occupation: File clerk",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182625972220",
+  "name": {
+    "given": "Maria",
+    "surname": "Schwartz",
+    "suffix": null,
+    "full": "Maria Schwartz"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Aug 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Sep 1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972234"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972224"
+      }
+    ],
+    "children": [
+      "I182625972199"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

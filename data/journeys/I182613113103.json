@@ -1,0 +1,63 @@
+{
+  "id": "I182613113103",
+  "person": "Sarah Ann (Beville\\Buell) Clark\\Clarke\\Colt\\Coult Davis\\Davise\\Davies   Rist\\Rest\\ Reese\\Rice",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "England/Lynn, Essex Co. MA USA",
+        "parts": [
+          "England/Lynn",
+          "Essex Co. MA USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Reading, Middlesex Co. MA USA",
+        "parts": [
+          "Reading",
+          "Middlesex Co. MA USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "May 3, 1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

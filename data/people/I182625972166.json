@@ -1,0 +1,67 @@
+{
+  "id": "I182625972166",
+  "name": {
+    "given": "HENRY",
+    "surname": "HUFFMAN",
+    "suffix": null,
+    "full": "HENRY HUFFMAN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1807",
+        "year": 1807,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hesse-Kassel, Germany",
+        "parts": [
+          "Hesse-Kassel",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Monroe Co., OH.",
+        "parts": [
+          "Monroe Co.",
+          "OH."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972162"
+      }
+    ],
+    "children": [
+      "I182625972085"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

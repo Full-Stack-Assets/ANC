@@ -1,0 +1,94 @@
+{
+  "id": "I182613023561",
+  "name": {
+    "given": "Joseph (Lieutenant)",
+    "surname": "Porter",
+    "suffix": null,
+    "full": "Joseph (Lieutenant) Porter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Jun 1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Nov 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Randolph, Norfolk, Massachusetts",
+        "parts": [
+          "East Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023567",
+      "I182613023565"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023559"
+      }
+    ],
+    "children": [
+      "I182613023543"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "18 Nov 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randolph, Norfolk, Massachusetts",
+        "parts": [
+          "Randolph",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

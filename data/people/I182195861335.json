@@ -1,0 +1,66 @@
+{
+  "id": "I182195861335",
+  "name": {
+    "given": "Greta",
+    "surname": "Nilsdotter",
+    "suffix": null,
+    "full": "Greta Nilsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1776",
+        "year": 1776,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sverige",
+        "parts": [
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 April 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haga, västra götaland",
+        "parts": [
+          "Haga",
+          "västra götaland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195861313"
+      }
+    ],
+    "children": [
+      "I182195861230"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625986461",
+  "name": {
+    "given": "Joyce Jane",
+    "surname": "Hemmings",
+    "suffix": null,
+    "full": "Joyce Jane Hemmings"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stoke Prior, Worcestershire, England",
+        "parts": [
+          "Stoke Prior",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Sep 1591",
+        "year": 1591,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Botolph Aldgate, London, England",
+        "parts": [
+          "St Botolph Aldgate",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986503",
+      "I182625986500"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986455"
+      }
+    ],
+    "children": [
+      "I182625986426"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

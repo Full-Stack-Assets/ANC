@@ -1,0 +1,57 @@
+{
+  "id": "I182197729749",
+  "name": {
+    "given": "Sarah Elizabeth",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Sarah Elizabeth Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Jul 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hope, Warren, New Jersey",
+        "parts": [
+          "Hope",
+          "Warren",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146239",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960659"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447146239",
+      "title": "New Jersey, Births and Christenings Index, 1660-1931",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

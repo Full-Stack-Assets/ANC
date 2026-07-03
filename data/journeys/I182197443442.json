@@ -1,0 +1,65 @@
+{
+  "id": "I182197443442",
+  "person": "Anders Christian Magnusson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Lycke, Göteborg Och Bohus, Sweden",
+        "parts": [
+          "Lycke",
+          "Göteborg Och Bohus",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 Jun 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Lycke, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Lycke",
+          "Göteborg och Bohus",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Jan 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

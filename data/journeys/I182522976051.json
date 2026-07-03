@@ -1,0 +1,55 @@
+{
+  "id": "I182522976051",
+  "person": "Olaus Olof Andersson Angermannus Stierna",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Prästgården Sidensjö, Västernorrlands län",
+        "parts": [
+          "Prästgården Sidensjö",
+          "Västernorrlands län"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Mora, Mora, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Mora",
+          "Mora",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 April 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

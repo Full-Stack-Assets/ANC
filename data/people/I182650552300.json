@@ -1,0 +1,47 @@
+{
+  "id": "I182650552300",
+  "name": {
+    "given": "Abigail",
+    "surname": "Martin",
+    "suffix": null,
+    "full": "Abigail Martin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts",
+        "parts": [
+          "Boston",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552306"
+      }
+    ],
+    "children": [
+      "I182650552297"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

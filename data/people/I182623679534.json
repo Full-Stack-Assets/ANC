@@ -1,0 +1,65 @@
+{
+  "id": "I182623679534",
+  "name": {
+    "given": "Hannah",
+    "surname": "Carll",
+    "suffix": null,
+    "full": "Hannah Carll"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scarboro, Cumberland, Maine, USA",
+        "parts": [
+          "Scarboro",
+          "Cumberland",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "about 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679551"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679540"
+      }
+    ],
+    "children": [
+      "I182623679493"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,227 @@
+{
+  "id": "I182541955589",
+  "name": {
+    "given": "John Henry",
+    "surname": "Hohman",
+    "suffix": null,
+    "full": "John Henry Hohman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 July 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S516810494",
+          "page": "Pennsylvania Historical and Museum Commission; Harrisburg, PA, USA; Pennsylvania (State). Death Certificates, 1906-1968; Certificate Number Range: 033831-037340"
+        },
+        {
+          "source_id": "S447147190",
+          "page": null
+        },
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 June 1935",
+        "year": 1935,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braddock, Allegheny County, Pennsylvania, United States of America",
+        "parts": [
+          "Braddock",
+          "Allegheny County",
+          "Pennsylvania",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Pittsburgh, Allegheny County, Pennsylvania, United States of America",
+        "parts": [
+          "Pittsburgh",
+          "Allegheny County",
+          "Pennsylvania",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623698466",
+      "I182625972085"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663553"
+      }
+    ],
+    "children": [
+      "I182623663675",
+      "I182623663680",
+      "I182623663763",
+      "I182623663554",
+      "I182623663679",
+      "I182623663762",
+      "I182623663764",
+      "I182623663678",
+      "I182526999844"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Ohio",
+        "parts": [
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Braddock Ward 3, Allegheny, Pennsylvania, USA",
+        "parts": [
+          "North Braddock Ward 3",
+          "Allegheny",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Carpenter; Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": null,
+      "value": null,
+      "note": "Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S516810532",
+          "page": "Will Packets Or Files, 1789-1917; Author: Allegheny County (Pennsylvania). Register of Wills"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S516810494",
+      "title": "Pennsylvania, U.S., Death Certificates, 1906-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516810532",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810523",
+      "title": "Pennsylvania, U.S., Birth Certificates, 1906-1914",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

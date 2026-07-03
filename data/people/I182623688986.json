@@ -1,0 +1,75 @@
+{
+  "id": "I182623688986",
+  "name": {
+    "given": "Joanne",
+    "surname": "Warren",
+    "suffix": null,
+    "full": "Joanne Warren"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chetwode, Buckingham, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Chetwode",
+          "Buckingham",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gnosall, Stafford, Staffordshire, England",
+        "parts": [
+          "Gnosall",
+          "Stafford",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689599",
+      "I182623689590"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689564"
+      }
+    ],
+    "children": [
+      "I182623688907"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

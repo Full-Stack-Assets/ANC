@@ -1,0 +1,76 @@
+{
+  "id": "I182726546489",
+  "name": {
+    "given": "Per",
+    "surname": "Jonsson",
+    "suffix": null,
+    "full": "Per Jonsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby, Orust, Bohuslän, Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Orust",
+          "Bohuslän",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Mar 1747",
+        "year": 1747,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby, Orust, Bohuslän, Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Orust",
+          "Bohuslän",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182728423938",
+      "I182728423952"
+    ],
+    "spouses": [
+      {
+        "id": "I182726546473"
+      }
+    ],
+    "children": [
+      "I182292319595"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

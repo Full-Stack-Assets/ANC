@@ -1,0 +1,53 @@
+{
+  "id": "I182381536120",
+  "person": "Ingeborg Germundsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Asaryd, Asa (G)",
+        "parts": [
+          "Asaryd",
+          "Asa (G)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skärsbäck, Ramkvilla (F)",
+        "parts": [
+          "Skärsbäck",
+          "Ramkvilla (F)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Okt 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

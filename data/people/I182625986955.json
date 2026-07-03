@@ -1,0 +1,73 @@
+{
+  "id": "I182625986955",
+  "name": {
+    "given": "Thomas",
+    "surname": "Valentine",
+    "suffix": null,
+    "full": "Thomas Valentine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bencliffe Hall, Eccles, Lancashire, England, United Kingdom",
+        "parts": [
+          "Bencliffe Hall",
+          "Eccles",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "March 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bencliffe Hall, Eccles, Lancashire, England, United Kingdom",
+        "parts": [
+          "Bencliffe Hall",
+          "Eccles",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986971"
+      }
+    ],
+    "children": [
+      "I182625986870"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

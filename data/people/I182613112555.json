@@ -1,0 +1,73 @@
+{
+  "id": "I182613112555",
+  "name": {
+    "given": "Lydia de",
+    "surname": "Allen",
+    "suffix": null,
+    "full": "Lydia de Allen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts Bay Colony, United States of America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts Bay Colony",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 January 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts Bay Colony, United States of America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts Bay Colony",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113530"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112551"
+      }
+    ],
+    "children": [
+      "I182613112544"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

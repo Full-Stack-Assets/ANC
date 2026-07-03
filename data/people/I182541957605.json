@@ -1,0 +1,74 @@
+{
+  "id": "I182541957605",
+  "name": {
+    "given": "Benjamin C",
+    "surname": "Pine",
+    "suffix": null,
+    "full": "Benjamin C Pine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Mar 1716",
+        "year": 1716,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cape May, Cape May, New Jersey, USA",
+        "parts": [
+          "Cape May",
+          "Cape May",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Aug 1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterford, Gloucester, New Jersey, USA",
+        "parts": [
+          "Waterford",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620314823",
+      "I182587603057"
+    ],
+    "spouses": [
+      {
+        "id": "I182541957592"
+      }
+    ],
+    "children": [
+      "I182541932596"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

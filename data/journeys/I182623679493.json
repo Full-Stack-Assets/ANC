@@ -1,0 +1,57 @@
+{
+  "id": "I182623679493",
+  "person": "WALTER FOSS III",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cornish, Sullivan, New Hampshire, USA",
+        "parts": [
+          "Cornish",
+          "Sullivan",
+          "New Hampshire",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Jan 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cornish City, Sullivan, New Hampshire, United States",
+        "parts": [
+          "Cornish City",
+          "Sullivan",
+          "New Hampshire",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "04 Oct 1852",
+        "year": 1852,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

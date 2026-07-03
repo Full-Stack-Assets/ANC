@@ -1,0 +1,56 @@
+{
+  "id": "I182381536645",
+  "person": "Edward Larkin",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Berkhampsted, Suffolk, England (Kent, England)",
+        "parts": [
+          "Berkhampsted",
+          "Suffolk",
+          "England (Kent",
+          "England)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Oct 1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "02 Jun 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

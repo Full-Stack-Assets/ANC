@@ -1,0 +1,66 @@
+{
+  "id": "I182541964207",
+  "name": {
+    "given": "Cecilia, Cicill, Cecil,",
+    "surname": "(Lecht, Light, Leight)",
+    "suffix": null,
+    "full": "Cecilia, Cicill, Cecil, (Lecht, Light, Leight)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandwich, Kent, England",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 June 1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandwich, Kent, England, United Kingdom",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541964106"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

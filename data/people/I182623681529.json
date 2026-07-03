@@ -1,0 +1,108 @@
+{
+  "id": "I182623681529",
+  "name": {
+    "given": "Esther",
+    "surname": "Martin",
+    "suffix": null,
+    "full": "Esther Martin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1628",
+        "year": 1628,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford County, New Hampshire, United States of America",
+        "parts": [
+          "Dover",
+          "Strafford County",
+          "New Hampshire",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 December 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Piscataway, Middlesex County, New Jersey, United States of America",
+        "parts": [
+          "Piscataway",
+          "Middlesex County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Edison, Middlesex County, New Jersey, United States of America",
+        "parts": [
+          "Edison",
+          "Middlesex County",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681530",
+      "I182623681469"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

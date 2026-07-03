@@ -1,0 +1,70 @@
+{
+  "id": "I182625987420",
+  "name": {
+    "given": "Thomas",
+    "surname": "Vaughan",
+    "suffix": "Esq",
+    "full": "Thomas Vaughan Esq"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Breconshire, Wales",
+        "parts": [
+          "Breconshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "(will) 7 Jan 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales, Somerset, England",
+        "parts": [
+          "Wales",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987489"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987434"
+      }
+    ],
+    "children": [
+      "I182625987411"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

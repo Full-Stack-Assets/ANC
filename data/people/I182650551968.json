@@ -1,0 +1,74 @@
+{
+  "id": "I182650551968",
+  "name": {
+    "given": "Edward Brightman",
+    "surname": "Hoard Hoar",
+    "suffix": "Dr.",
+    "full": "Edward Brightman Hoard Hoar Dr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1714",
+        "year": 1714,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dighton, Bristol, Massachusetts, United States",
+        "parts": [
+          "Dighton",
+          "Bristol",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Dec 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stephen Town, Albany, New York, United States",
+        "parts": [
+          "Stephen Town",
+          "Albany",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551978",
+      "I182650551974"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551962"
+      }
+    ],
+    "children": [
+      "I182650551944"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

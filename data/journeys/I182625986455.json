@@ -1,0 +1,55 @@
+{
+  "id": "I182625986455",
+  "person": "Thomas Lilley\\ Lyllie",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stoke Prior, Worcestershire, EnglandNEW",
+        "parts": [
+          "Stoke Prior",
+          "Worcestershire",
+          "EnglandNEW"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Tanworth, Worcestershire, England",
+        "parts": [
+          "Tanworth",
+          "Worcestershire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

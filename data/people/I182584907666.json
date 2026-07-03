@@ -1,0 +1,61 @@
+{
+  "id": "I182584907666",
+  "name": {
+    "given": "Bridget",
+    "surname": "Butler",
+    "suffix": null,
+    "full": "Bridget Butler"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541955276",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "May 1828",
+            "year": 1828,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ireland, Ireland",
+            "parts": [
+              "Ireland",
+              "Ireland"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S506435674",
+              "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 02413 / 01"
+            },
+            {
+              "source_id": "S506435674",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

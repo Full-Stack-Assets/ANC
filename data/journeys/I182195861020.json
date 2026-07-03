@@ -1,0 +1,59 @@
+{
+  "id": "I182195861020",
+  "person": "Magnus Månsson Rånge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinga, Västergötaland, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinga",
+          "Västergötaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Mar 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Backgården, Hädäng, Velinga, Västragötaland, Sverige",
+        "parts": [
+          "Backgården",
+          "Hädäng",
+          "Velinga",
+          "Västragötaland",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "18 November 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

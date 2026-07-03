@@ -1,0 +1,101 @@
+{
+  "id": "I182620325590",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Anthony Botheroyd",
+    "suffix": null,
+    "full": "Elizabeth Anthony Botheroyd"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elland, St Mary, Yorkshire, England",
+        "parts": [
+          "Elland",
+          "St Mary",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elland, St Mary, Yorkshire, England",
+        "parts": [
+          "Elland",
+          "St Mary",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Kingston upon Hull, Kingston upon Hull Unitary Authority, East Riding of Yorkshire, England",
+        "parts": [
+          "Kingston upon Hull",
+          "Kingston upon Hull Unitary Authority",
+          "East Riding of Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620325605"
+      }
+    ],
+    "children": [
+      "I182620325201"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

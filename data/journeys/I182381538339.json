@@ -1,0 +1,55 @@
+{
+  "id": "I182381538339",
+  "person": "Christian Brown",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Canobie , Dumfries-shire, Scotland",
+        "parts": [
+          "Canobie",
+          "Dumfries-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1708",
+        "year": 1708,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Gleingierhead, Eskdale, Scotland",
+        "parts": [
+          "Gleingierhead",
+          "Eskdale",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Bef. 1745",
+        "year": 1745,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

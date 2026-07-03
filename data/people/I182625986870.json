@@ -1,0 +1,68 @@
+{
+  "id": "I182625986870",
+  "name": {
+    "given": "Richard",
+    "surname": "Valentine",
+    "suffix": null,
+    "full": "Richard Valentine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1528",
+        "year": 1528,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton Upon Irwell, Lancashire, England",
+        "parts": [
+          "Barton Upon Irwell",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jul 1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Barton Upon Irwell, Lancashire, England",
+        "parts": [
+          "Barton Upon Irwell",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986955",
+      "I182625986971"
+    ],
+    "spouses": [],
+    "children": [
+      "I182625986801"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

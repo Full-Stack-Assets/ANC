@@ -1,0 +1,56 @@
+{
+  "id": "I182623690573",
+  "person": "Francis Lord Thatcher Coombs",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hemel, Hempstead, Middlesex, England",
+        "parts": [
+          "Hemel",
+          "Hempstead",
+          "Middlesex",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Dec 1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hemel Hempstead, Hertfordshire, England",
+        "parts": [
+          "Hemel Hempstead",
+          "Hertfordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Aug 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

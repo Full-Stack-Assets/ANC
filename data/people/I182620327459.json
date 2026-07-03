@@ -1,0 +1,86 @@
+{
+  "id": "I182620327459",
+  "name": {
+    "given": "Giles",
+    "surname": "van BRUGGE",
+    "suffix": null,
+    "full": "Giles van BRUGGE"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1462_-_1463",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cubberley (Gloucestershire) England",
+        "parts": [
+          "Cubberley (Gloucestershire) England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 December 1511",
+        "year": 1511,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cubberley (Gloucestershire) England",
+        "parts": [
+          "Cubberley (Gloucestershire) England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620327791",
+      "I182620327835"
+    ],
+    "spouses": [
+      {
+        "id": "I182620327460"
+      }
+    ],
+    "children": [
+      "I182620325132"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

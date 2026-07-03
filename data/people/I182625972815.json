@@ -1,0 +1,74 @@
+{
+  "id": "I182625972815",
+  "name": {
+    "given": "Anna Gertrud",
+    "surname": "Massing",
+    "suffix": null,
+    "full": "Anna Gertrud Massing"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Heisterberg, St. Wendel, Saarland, Allemagne",
+        "parts": [
+          "Heisterberg",
+          "St. Wendel",
+          "Saarland",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wormeldingen, Grevenmacher, Grevenmacher, Luxembourg",
+        "parts": [
+          "Wormeldingen",
+          "Grevenmacher",
+          "Grevenmacher",
+          "Luxembourg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972841",
+      "I182625972837"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972828"
+      }
+    ],
+    "children": [
+      "I182625972646"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

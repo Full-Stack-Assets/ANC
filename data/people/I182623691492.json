@@ -1,0 +1,73 @@
+{
+  "id": "I182623691492",
+  "name": {
+    "given": "Persis",
+    "surname": "Carr",
+    "suffix": null,
+    "full": "Persis Carr"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "08 Jun 1794",
+        "year": 1794,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ft, Ann, Washington, USA",
+        "parts": [
+          "Ft",
+          "Ann",
+          "Washington",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 May 1869",
+        "year": 1869,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694669"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691507"
+      }
+    ],
+    "children": [
+      "I182623679447"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

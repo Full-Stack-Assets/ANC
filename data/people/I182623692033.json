@@ -1,0 +1,69 @@
+{
+  "id": "I182623692033",
+  "name": {
+    "given": "John Ralph",
+    "surname": "Collins of Ockley",
+    "suffix": null,
+    "full": "John Ralph Collins of Ockley"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 May 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ockley, Surrey, England",
+        "parts": [
+          "Ockley",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1591",
+        "year": 1591,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aylesbury, Buckinghamshire, England",
+        "parts": [
+          "Aylesbury",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623692026"
+      }
+    ],
+    "children": [
+      "I182623691995"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

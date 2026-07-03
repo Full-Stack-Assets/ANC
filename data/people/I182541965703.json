@@ -1,0 +1,335 @@
+{
+  "id": "I182541965703",
+  "name": {
+    "given": "Filomena",
+    "surname": "Monacelli",
+    "suffix": null,
+    "full": "Filomena Monacelli"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1884",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Italy",
+        "parts": [
+          "Italy"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Manhattan, New York, New York; Page: 5B; Enumeration District: 0053; FHL microfilm: 2341281"
+        },
+        {
+          "source_id": "S518613214",
+          "page": "The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85"
+        },
+        {
+          "source_id": "S447116012",
+          "page": "Year: 1910; Census Place: Milford, Worcester, Massachusetts; Roll: T624_629; Page: 9b; Enumeration District: 1784; FHL microfilm: 1374642"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1937",
+        "year": 1937,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milford, Massachusetts, USA",
+        "parts": [
+          "Milford",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115786",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1879",
+        "year": 1879,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "8 May 1905",
+        "year": 1905,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, New York, USA",
+        "parts": [
+          "New York",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S518613214",
+          "page": "The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Manhattan, New York, New York; Page: 5B; Enumeration District: 0053; FHL microfilm: 2341281"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1907",
+        "year": 1907,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": "Year: 1910; Census Place: Milford, Worcester, Massachusetts; Roll: T624_629; Page: 9b; Enumeration District: 1784; FHL microfilm: 1374642"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milford, Worcester, Massachusetts, USA",
+        "parts": [
+          "Milford",
+          "Worcester",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": "Year: 1910; Census Place: Milford, Worcester, Massachusetts; Roll: T624_629; Page: 9b; Enumeration District: 1784; FHL microfilm: 1374642"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1925",
+        "year": 1925,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, New York",
+        "parts": [
+          "New York",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Manhattan (Districts 1-250), Manhattan, New York, New York, USA",
+        "parts": [
+          "Manhattan (Districts 1-250)",
+          "Manhattan",
+          "New York",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Widowed; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": "Year: 1930; Census Place: Manhattan, New York, New York; Page: 5B; Enumeration District: 0053; FHL microfilm: 2341281"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Le Havre",
+        "parts": [
+          "Le Havre"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S518613214",
+          "page": "The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Gubbia",
+        "parts": [
+          "Gubbia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S518613214",
+          "page": "The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S518613214",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115786",
+      "title": "Massachusetts, Death Index, 1901-1980",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447252836",
+      "title": "Massachusetts, Boston Archdiocese Roman Catholic Sacramental Records, 1789-1900",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

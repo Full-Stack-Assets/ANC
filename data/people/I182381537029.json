@@ -1,0 +1,48 @@
+{
+  "id": "I182381537029",
+  "name": {
+    "given": "James",
+    "surname": "McKie",
+    "suffix": null,
+    "full": "James McKie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kinloss, Moray, Scotland",
+        "parts": [
+          "Kinloss",
+          "Moray",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537023"
+      }
+    ],
+    "children": [
+      "I182381537010"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

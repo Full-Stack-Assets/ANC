@@ -1,0 +1,73 @@
+{
+  "id": "I182381538268",
+  "name": {
+    "given": "John",
+    "surname": "Murray",
+    "suffix": null,
+    "full": "John Murray"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 August 1735",
+        "year": 1735,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eskdale, Dumfries-shire, Scotland",
+        "parts": [
+          "Eskdale",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bedeque, Prince, Prince Edward Island, Canada",
+        "parts": [
+          "North Bedeque",
+          "Prince",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538347",
+      "I182381538339"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538262"
+      }
+    ],
+    "children": [
+      "I182381538103"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

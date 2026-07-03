@@ -1,0 +1,71 @@
+{
+  "id": "I182623694680",
+  "name": {
+    "given": "Judith",
+    "surname": "Preston",
+    "suffix": null,
+    "full": "Judith Preston"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 May 1752",
+        "year": 1752,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Rockingham, New Hampshire, United States",
+        "parts": [
+          "Chester",
+          "Rockingham",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 May 1837",
+        "year": 1837,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterford, Caledonia, Vermont, United States",
+        "parts": [
+          "Waterford",
+          "Caledonia",
+          "Vermont",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694683"
+      }
+    ],
+    "children": [
+      "I182623694669"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

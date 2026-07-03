@@ -1,0 +1,71 @@
+{
+  "id": "I182625972474",
+  "name": {
+    "given": "Johann Volard",
+    "surname": "Kettler",
+    "suffix": null,
+    "full": "Johann Volard Kettler"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westfalen, Deutschland",
+        "parts": [
+          "Westfalen",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pewsum, Ostfriesland, Niedersachsen",
+        "parts": [
+          "Pewsum",
+          "Ostfriesland",
+          "Niedersachsen"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972605",
+      "I182625972603"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972468"
+      }
+    ],
+    "children": [
+      "I182625972457"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

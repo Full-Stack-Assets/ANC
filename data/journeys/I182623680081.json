@@ -1,0 +1,82 @@
+{
+  "id": "I182623680081",
+  "person": "Amy Em Wyeth",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": ", Suffolk, , England",
+        "parts": [
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Sep 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woolverstone,Suffolk,England",
+        "parts": [
+          "Woolverstone",
+          "Suffolk",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 Sep 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447253093",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Exeter, Rockingham County, New Hampshire",
+        "parts": [
+          "Exeter",
+          "Rockingham County",
+          "New Hampshire"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 May 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "I182620322656",
+  "name": {
+    "given": "Michael",
+    "surname": "McGann",
+    "suffix": null,
+    "full": "Michael McGann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322577"
+      }
+    ],
+    "children": [
+      "I182620322519"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

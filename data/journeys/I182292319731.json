@@ -1,0 +1,56 @@
+{
+  "id": "I182292319731",
+  "person": "Sven Persson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ramkvilla, Jönköpings län, Sweden",
+        "parts": [
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "ABT 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,69 @@
+{
+  "id": "I182659715006",
+  "name": {
+    "given": "Mary Ellen Nell",
+    "surname": "Giessen Donohue",
+    "suffix": null,
+    "full": "Mary Ellen Nell Giessen Donohue"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Jul 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cincinnati, Hamilton, Ohio",
+        "parts": [
+          "Cincinnati",
+          "Hamilton",
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Oct 1979",
+        "year": 1979,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jacksonville, Duval, Florida",
+        "parts": [
+          "Jacksonville",
+          "Duval",
+          "Florida"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195860029"
+      }
+    ],
+    "children": [
+      "I182534044628"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

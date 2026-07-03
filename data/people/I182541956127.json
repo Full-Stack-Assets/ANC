@@ -1,0 +1,70 @@
+{
+  "id": "I182541956127",
+  "name": {
+    "given": "John",
+    "surname": "Severence",
+    "suffix": null,
+    "full": "John Severence"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abbey Ashrewsbury, England, United Kingdom",
+        "parts": [
+          "Abbey Ashrewsbury",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 April 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Powick, Worcestershire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Powick",
+          "Worcestershire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541956242",
+      "I182541956230"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541956067"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

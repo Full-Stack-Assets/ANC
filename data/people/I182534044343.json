@@ -1,0 +1,51 @@
+{
+  "id": "I182534044343",
+  "name": {
+    "given": "Maria Elisabetha",
+    "surname": "Bayers",
+    "suffix": null,
+    "full": "Maria Elisabetha Bayers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044348"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044344"
+      }
+    ],
+    "children": [
+      "I182534044241"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

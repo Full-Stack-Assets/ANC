@@ -1,0 +1,90 @@
+{
+  "id": "I182650551677",
+  "name": {
+    "given": "Robert",
+    "surname": "Dunbar 9ggf",
+    "suffix": "\"Immigrated 1650 \" Prison Ship Unity left Gravesend, England 11 11 1650 arrived Boston, Mass. 12 15 1650, Indentured\"",
+    "full": "Robert Dunbar 9ggf \"Immigrated 1650 \" Prison Ship Unity left Gravesend, England 11 11 1650 arrived Boston, Mass. 12 15 1650, Indentured\""
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 April 1634",
+        "year": 1634,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kintessack, Morayshire, Lanarkshire, Glasgow, East Lothian, Scotland",
+        "parts": [
+          "Kintessack",
+          "Morayshire",
+          "Lanarkshire",
+          "Glasgow",
+          "East Lothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Sep 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, County of Suffolke, in the Providence of Mass, buried in Liberty Plain Cemetery",
+        "parts": [
+          "Hingham",
+          "County of Suffolke",
+          "in the Providence of Mass",
+          "buried in Liberty Plain Cemetery"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551686"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551681"
+      }
+    ],
+    "children": [
+      "I182650551659"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "Sept 19 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

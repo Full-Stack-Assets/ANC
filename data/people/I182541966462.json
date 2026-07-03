@@ -1,0 +1,68 @@
+{
+  "id": "I182541966462",
+  "name": {
+    "given": "Konrad",
+    "surname": "Grossmann",
+    "suffix": null,
+    "full": "Konrad Grossmann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marxheim, Main-Taunus-Kreis, Hessen, Germany",
+        "parts": [
+          "Marxheim",
+          "Main-Taunus-Kreis",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Unbekannt",
+        "parts": [
+          "Unbekannt"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966465"
+      }
+    ],
+    "children": [
+      "I182541966431"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

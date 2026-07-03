@@ -1,0 +1,72 @@
+{
+  "id": "I182623663944",
+  "name": {
+    "given": "Anna Maria",
+    "surname": "Riefer",
+    "suffix": null,
+    "full": "Anna Maria Riefer"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Alsfassen",
+        "parts": [
+          "Alsfassen"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Apr 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Sankt Wendel, Rhein, Prussia, Germany",
+        "parts": [
+          "Urweiler",
+          "Sankt Wendel",
+          "Rhein",
+          "Prussia",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972378",
+      "I182625972370"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663946"
+      }
+    ],
+    "children": [
+      "I182623663832"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "I182613118106",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Manwaring",
+    "suffix": null,
+    "full": "Elizabeth Manwaring"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 December 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ipswich, Essex, Massachusetts, USA",
+        "parts": [
+          "Ipswich",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613117891",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "7 September 1639",
+            "year": 1639,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Topsfield, Essex, Massachusetts, USA",
+            "parts": [
+              "Topsfield",
+              "Essex",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613118109",
+      "I182613118097",
+      "I182613118098",
+      "I182613118107",
+      "I182613118100",
+      "I182613118101",
+      "I182613118105",
+      "I182613118104",
+      "I182613118103",
+      "I182613118102",
+      "I182613118110",
+      "I182613118108"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182650552440",
+  "name": {
+    "given": "George",
+    "surname": "Ashenden",
+    "suffix": null,
+    "full": "George Ashenden"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent, England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Mar 1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ashford, Kent, England",
+        "parts": [
+          "Ashford",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552469",
+      "I182650552450"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552437"
+      }
+    ],
+    "children": [
+      "I182650552430"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182623692049",
+  "name": {
+    "given": "John Widick",
+    "surname": " Whittaker Foxe",
+    "suffix": null,
+    "full": "John Widick  Whittaker Foxe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Jan 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorset, England",
+        "parts": [
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Dec 1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorset, England",
+        "parts": [
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694232",
+      "I182623694237"
+    ],
+    "spouses": [
+      {
+        "id": "I182623692044"
+      }
+    ],
+    "children": [
+      "I182623691979"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "I182391485919",
+  "name": {
+    "given": "Torgier",
+    "surname": "Torbjörnsson",
+    "suffix": null,
+    "full": "Torgier Torbjörnsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182536798181"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548681"
+      }
+    ],
+    "children": [
+      "I182391485910"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "I182613023967",
+  "name": {
+    "given": "Ann",
+    "surname": "Benbow",
+    "suffix": "6\\6",
+    "full": "Ann Benbow 6\\6"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "newport shropshire, England",
+        "parts": [
+          "newport shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Jun 1597",
+        "year": 1597,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newport Shropshire,England",
+        "parts": [
+          "Newport Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Cheswardine, Shropshire, England",
+        "parts": [
+          "Cheswardine",
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113754",
+      "I182613113750"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613023944"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

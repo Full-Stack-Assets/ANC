@@ -1,0 +1,121 @@
+{
+  "id": "I182541958293",
+  "name": {
+    "given": "Capt. William of Lynn Gunsmith",
+    "surname": "Bassett Sr ++ (Pilgrim)",
+    "suffix": "Sr.",
+    "full": "Capt. William of Lynn Gunsmith Bassett Sr ++ (Pilgrim) Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 May 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dorking, New Haven, Surry, England or MA, USA",
+        "parts": [
+          "Dorking",
+          "New Haven",
+          "Surry",
+          "England or MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Mar 1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lynn, Essex County, Massachusetts, USA",
+        "parts": [
+          "Lynn",
+          "Essex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964106",
+      "I182541964104"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964107",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1647",
+            "year": 1647,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Lynn, Essex, Massachusetts, USA",
+            "parts": [
+              "Lynn",
+              "Essex",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541964105",
+      "I182541958255"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

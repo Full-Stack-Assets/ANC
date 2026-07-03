@@ -1,0 +1,72 @@
+{
+  "id": "I182650552033",
+  "name": {
+    "given": "George",
+    "surname": "Brabrooke",
+    "suffix": null,
+    "full": "George Brabrooke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burton Latimer, Northamptonshire, England",
+        "parts": [
+          "Burton Latimer",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jun 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burton Latimer, Northamptonshire, England",
+        "parts": [
+          "Burton Latimer",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552058",
+      "I182650552042"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552024"
+      }
+    ],
+    "children": [
+      "I182650552005"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182625987023",
+  "name": {
+    "given": "PETER",
+    "surname": "RAWSON",
+    "suffix": null,
+    "full": "PETER RAWSON"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-upon-Thames, Royal Borough of Kingston upon Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Royal Borough of Kingston upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625987036"
+      }
+    ],
+    "children": [
+      "I182625986417"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

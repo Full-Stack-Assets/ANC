@@ -1,0 +1,54 @@
+{
+  "id": "I182625292258",
+  "person": "Mary Susannah Owen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brookhaven, Suffolk, NY",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "NY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "aft 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

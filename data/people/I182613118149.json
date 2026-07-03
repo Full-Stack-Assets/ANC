@@ -1,0 +1,69 @@
+{
+  "id": "I182613118149",
+  "name": {
+    "given": "Thomas",
+    "surname": "Millington",
+    "suffix": null,
+    "full": "Thomas Millington"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hawarden, Flint, Wales, United Kingdom",
+        "parts": [
+          "Hawarden",
+          "Flint",
+          "Wales",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1617",
+        "year": 1617,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Somerset, England",
+        "parts": [
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613118181"
+      }
+    ],
+    "children": [
+      "I182613118099"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

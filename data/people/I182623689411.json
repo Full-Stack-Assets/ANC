@@ -1,0 +1,71 @@
+{
+  "id": "I182623689411",
+  "name": {
+    "given": "Joan",
+    "surname": "Copshowse",
+    "suffix": null,
+    "full": "Joan Copshowse"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesham, Buckinghamshire, England",
+        "parts": [
+          "Chesham",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesham, Buckinghamshire, England",
+        "parts": [
+          "Chesham",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689455"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689426"
+      }
+    ],
+    "children": [
+      "I182623689288"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

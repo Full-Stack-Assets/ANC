@@ -1,0 +1,74 @@
+{
+  "id": "I182584905053",
+  "name": {
+    "given": "William Osbern",
+    "surname": "Haskall",
+    "suffix": "II",
+    "full": "William Osbern Haskall II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1544",
+        "year": 1544,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, South Somerset District, Somerset, England",
+        "parts": [
+          "Wincanton",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, South Somerset District, Somerset, England",
+        "parts": [
+          "Wincanton",
+          "South Somerset District",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905069",
+      "I182584905068"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905049"
+      }
+    ],
+    "children": [
+      "I182584905046"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

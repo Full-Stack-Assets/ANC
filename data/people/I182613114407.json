@@ -1,0 +1,94 @@
+{
+  "id": "I182613114407",
+  "name": {
+    "given": "Lady Elizabeth",
+    "surname": "FitzHugh,",
+    "suffix": "Countess of Lindsay",
+    "full": "Lady Elizabeth FitzHugh, Countess of Lindsay"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1455",
+        "year": 1455,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ravensworth Castle, Kirby, Yorkshire, England",
+        "parts": [
+          "Ravensworth Castle",
+          "Kirby",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Feb 1513",
+        "year": 1513,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harrowden, Northamptonshire, England",
+        "parts": [
+          "Harrowden",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115622",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613114501",
+      "I182613114556"
+    ],
+    "spouses": [
+      {
+        "id": "I182613114397"
+      },
+      {
+        "id": "I182613114666"
+      }
+    ],
+    "children": [
+      "I182613026331"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

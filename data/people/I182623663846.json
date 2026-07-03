@@ -1,0 +1,96 @@
+{
+  "id": "I182623663846",
+  "name": {
+    "given": "Valentine",
+    "surname": "Saling",
+    "suffix": null,
+    "full": "Valentine Saling"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Sep 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bavaria, Bayern, Germany",
+        "parts": [
+          "Bavaria",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Mar 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Enoch, Noble, Ohio, USA",
+        "parts": [
+          "Enoch",
+          "Noble",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664015",
+      "I182623663979"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663842"
+      }
+    ],
+    "children": [
+      "I182623663782"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "5 Sep 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bayern, Traunstein, Bayern, Germany",
+        "parts": [
+          "Bayern",
+          "Traunstein",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

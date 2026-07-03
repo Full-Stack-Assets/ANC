@@ -1,0 +1,132 @@
+{
+  "id": "I182620325139",
+  "name": {
+    "given": "Sir Rhys\\Rice",
+    "surname": "Mansell\\Mansfield",
+    "suffix": null,
+    "full": "Sir Rhys\\Rice Mansell\\Mansfield"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 January 1487",
+        "year": 1487,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oxwich, Glamorgan, Wales",
+        "parts": [
+          "Oxwich",
+          "Glamorgan",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 April 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clerkenwell, London, England",
+        "parts": [
+          "Clerkenwell",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "London, City of London, Greater London, England",
+        "parts": [
+          "London",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620326715",
+      "I182620327319"
+    ],
+    "spouses": [
+      {
+        "id": "I182620325132"
+      },
+      {
+        "id": "I182620335533"
+      }
+    ],
+    "children": [
+      "I182620335532",
+      "I182620325097",
+      "I182620335534"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

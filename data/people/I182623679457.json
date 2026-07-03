@@ -1,0 +1,117 @@
+{
+  "id": "I182623679457",
+  "name": {
+    "given": "Minea Atwood",
+    "surname": "Andrews Foss",
+    "suffix": null,
+    "full": "Minea Atwood Andrews Foss"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Dec 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Apr 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679484",
+      "I182623679478"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679474"
+      }
+    ],
+    "children": [
+      "I182623679445"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "16 Dec 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "16 Apr 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elmore, Lamoille, Vermont",
+        "parts": [
+          "Elmore",
+          "Lamoille",
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

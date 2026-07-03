@@ -1,0 +1,69 @@
+{
+  "id": "I182541960116",
+  "name": {
+    "given": "PRISCILLA Precilla (Pitt)",
+    "surname": "SEARLE  Searelle 1558**++#",
+    "suffix": null,
+    "full": "PRISCILLA Precilla (Pitt) SEARLE  Searelle 1558**++#"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cornwall, England",
+        "parts": [
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Jun 1618",
+        "year": 1618,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960180",
+      "I182541960160"
+    ],
+    "spouses": [
+      {
+        "id": "I182541960127"
+      }
+    ],
+    "children": [
+      "I182541960083"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

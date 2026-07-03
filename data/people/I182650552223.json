@@ -1,0 +1,65 @@
+{
+  "id": "I182650552223",
+  "name": {
+    "given": "Mary",
+    "surname": "Tyllcocke",
+    "suffix": null,
+    "full": "Mary Tyllcocke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bedfordshire, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Bedfordshire",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Rhode Island, Rhode Island, USA",
+        "parts": [
+          "Rhode Island",
+          "Rhode Island",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552226"
+      }
+    ],
+    "children": [
+      "I182650551991"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

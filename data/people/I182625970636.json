@@ -1,0 +1,118 @@
+{
+  "id": "I182625970636",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Rogers",
+    "suffix": null,
+    "full": "Elizabeth Rogers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 JUL 1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ugborough, Devon, England",
+        "parts": [
+          "Ugborough",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 December 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Wiltshire, England, United Kingdom",
+        "parts": [
+          "Salisbury",
+          "Wiltshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970663",
+      "I182625970652"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970632",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "6 Jun 1563",
+            "year": 1563,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Shropshire, England",
+            "parts": [
+              "Shropshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182730910295",
+      "I182730910296",
+      "I182625970608"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

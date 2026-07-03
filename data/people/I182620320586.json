@@ -1,0 +1,71 @@
+{
+  "id": "I182620320586",
+  "name": {
+    "given": "Märit",
+    "surname": "Mattsdotter",
+    "suffix": null,
+    "full": "Märit Mattsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spjutsbo, Norrbärke kyrka, Kopparberg (Dalarna), Sverige",
+        "parts": [
+          "Spjutsbo",
+          "Norrbärke kyrka",
+          "Kopparberg (Dalarna)",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skellefteå Norrbotten Sverige",
+        "parts": [
+          "Skellefteå Norrbotten Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620320618",
+      "I182620320599"
+    ],
+    "spouses": [
+      {
+        "id": "I182620320579"
+      }
+    ],
+    "children": [
+      "I182522975980"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "I182541961022",
+  "name": {
+    "given": "Peter Tristram",
+    "surname": "Coffin (Coffyn), Capt",
+    "suffix": null,
+    "full": "Peter Tristram Coffin (Coffyn), Capt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "January 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brixton, South Hams District, Devon, England",
+        "parts": [
+          "Brixton",
+          "South Hams District",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 March 1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brixton, Devonshire, England",
+        "parts": [
+          "Brixton",
+          "Devonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182382755444"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

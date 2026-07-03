@@ -1,0 +1,67 @@
+{
+  "id": "I182623680117",
+  "name": {
+    "given": "Agnes",
+    "surname": "BABB Blackner Blockler",
+    "suffix": null,
+    "full": "Agnes BABB Blackner Blockler"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Feb 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolborough, Newton Abbot, Devon, England",
+        "parts": [
+          "Wolborough",
+          "Newton Abbot",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Wolborough and Newton Abbot, Devon, England",
+        "parts": [
+          "Wolborough and Newton Abbot",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623687218"
+    ],
+    "spouses": [
+      {
+        "id": "I182623687138"
+      }
+    ],
+    "children": [
+      "I182623680090"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

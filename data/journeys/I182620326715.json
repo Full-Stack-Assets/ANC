@@ -1,0 +1,74 @@
+{
+  "id": "I182620326715",
+  "person": "Jenkin Mansel",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wales",
+        "parts": [
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "About 1461",
+        "year": 1461,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Chepstow, Monmouthshire, Wales",
+        "parts": [
+          "Chepstow",
+          "Monmouthshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Apr 1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Oxwich",
+        "parts": [
+          "Oxwich"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516621428",
+          "page": "A Genealogical and Heraldic History of The Commoners of Great Britain And Ireland Enjoying Territorial Possessions or High Official Rank: But Uninvested With Heritable Honours.; Chapter: History of the Commoners of Great Britain and Ireland.; Heading: Carn"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

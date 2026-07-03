@@ -1,0 +1,56 @@
+{
+  "id": "I182728424014",
+  "person": "BENGTA PÄRSSON",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "WASSÖ,MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "WASSÖ",
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "MYCKLEBY,GOTEBORG-O-BOHUS,Sweden",
+        "parts": [
+          "MYCKLEBY",
+          "GOTEBORG-O-BOHUS",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Apr 1689",
+        "year": 1689,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

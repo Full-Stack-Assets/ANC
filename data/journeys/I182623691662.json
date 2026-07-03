@@ -1,0 +1,55 @@
+{
+  "id": "I182623691662",
+  "person": "Timothy Bruce",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Woburn, Middlesex, Massachusetts",
+        "parts": [
+          "Woburn",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Feb 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Marlborough, Middlesex County, Massachusetts",
+        "parts": [
+          "Marlborough",
+          "Middlesex County",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "3 Jan 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

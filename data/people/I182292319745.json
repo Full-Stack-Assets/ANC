@@ -1,0 +1,68 @@
+{
+  "id": "I182292319745",
+  "name": {
+    "given": "Elin",
+    "surname": "Ericksdotter",
+    "suffix": null,
+    "full": "Elin Ericksdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ramkvilla Jönköpings län",
+        "parts": [
+          "Ramkvilla Jönköpings län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stora Torp, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Stora Torp",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319755"
+      }
+    ],
+    "children": [
+      "I182292319723"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

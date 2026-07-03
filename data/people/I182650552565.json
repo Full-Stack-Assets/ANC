@@ -1,0 +1,74 @@
+{
+  "id": "I182650552565",
+  "name": {
+    "given": "Susan Maria",
+    "surname": "Whiting",
+    "suffix": null,
+    "full": "Susan Maria Whiting"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 July 1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duxbury, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Duxbury",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 February 1926",
+        "year": 1926,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pembroke, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Pembroke",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552598",
+      "I182650552593"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552570"
+      }
+    ],
+    "children": [
+      "I182650552556"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

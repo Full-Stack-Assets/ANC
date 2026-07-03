@@ -1,0 +1,42 @@
+{
+  "id": "I182694740149",
+  "name": {
+    "given": "Justin Donald",
+    "surname": "Delong",
+    "suffix": null,
+    "full": "Justin Donald Delong"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Aug 1989",
+        "year": 1989,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182694740109"
+      }
+    ],
+    "children": [
+      "I182694750861",
+      "I182694750877"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

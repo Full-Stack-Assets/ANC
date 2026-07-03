@@ -1,0 +1,77 @@
+{
+  "id": "I182623664130",
+  "name": {
+    "given": "Johann",
+    "surname": "Spiegel",
+    "suffix": null,
+    "full": "Johann Spiegel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1801",
+        "year": 1801,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810570",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 Dez 1875",
+        "year": 1875,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poppenhausen, Hessen, Deutschland",
+        "parts": [
+          "Poppenhausen",
+          "Hessen",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810570",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663970",
+      "I182623663967"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810570",
+      "title": "Hesse, Germany, Deaths, 1851-1958",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

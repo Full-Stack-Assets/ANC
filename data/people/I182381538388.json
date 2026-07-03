@@ -1,0 +1,69 @@
+{
+  "id": "I182381538388",
+  "name": {
+    "given": "John",
+    "surname": "Gibson",
+    "suffix": null,
+    "full": "John Gibson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Dumfries, Dumfries-shire, Scotland",
+        "parts": [
+          "Dumfries",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "DECEASED",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dumfries, Dumfries-shire, Scotland",
+        "parts": [
+          "Dumfries",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538375"
+      }
+    ],
+    "children": [
+      "I182381538357"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

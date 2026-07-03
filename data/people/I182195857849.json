@@ -1,0 +1,168 @@
+{
+  "id": "I182195857849",
+  "name": {
+    "given": "Emeline Jane",
+    "surname": "Murphy",
+    "suffix": null,
+    "full": "Emeline Jane Murphy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jan 1882",
+        "year": 1882,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rockland, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Rockland",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+        },
+        {
+          "source_id": "S513850753",
+          "page": "Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Mar 1979",
+        "year": 1979,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts",
+        "parts": [
+          "Brockton",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850753",
+          "page": "Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863067",
+      "I182195863068"
+    ],
+    "spouses": [
+      {
+        "id": "I182195857866",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 Feb 1899",
+            "year": 1899,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Brockton, Massachusetts, USA",
+            "parts": [
+              "Brockton",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": null
+            },
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195863074",
+      "I182195863071",
+      "I182195863072",
+      "I182195863070",
+      "I182195863073",
+      "I182195857360"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1973",
+        "year": 1973,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850753",
+          "page": "Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850753",
+      "title": "U.S., Social Security Death Index, 1935-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

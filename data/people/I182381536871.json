@@ -1,0 +1,72 @@
+{
+  "id": "I182381536871",
+  "name": {
+    "given": "John",
+    "surname": "MacKenzie",
+    "suffix": null,
+    "full": "John MacKenzie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 November 1765",
+        "year": 1765,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirling, Stirlingshire, Scotland.",
+        "parts": [
+          "Stirling",
+          "Stirlingshire",
+          "Scotland."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cable Head West, Prince Edward Island, Canada",
+        "parts": [
+          "Cable Head West",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536897",
+      "I182381536888"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536867"
+      }
+    ],
+    "children": [
+      "I182195859033"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

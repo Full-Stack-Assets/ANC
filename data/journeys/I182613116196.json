@@ -1,0 +1,55 @@
+{
+  "id": "I182613116196",
+  "person": "Catherine Plantagenet",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hertfordshire, England",
+        "parts": [
+          "Hertfordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "31 Mar 1373",
+        "year": 1373,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Valladolid, Valladolid, Castilla-Leon, Spain",
+        "parts": [
+          "Valladolid",
+          "Valladolid",
+          "Castilla-Leon",
+          "Spain"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Jun 1418",
+        "year": 1418,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

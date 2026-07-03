@@ -1,0 +1,54 @@
+{
+  "id": "I182381535988",
+  "person": "Brita Pedersdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pehr Ols, Torrbo, Norrbärke",
+        "parts": [
+          "Pehr Ols",
+          "Torrbo",
+          "Norrbärke"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Huggarbo, Norrbärke(W)",
+        "parts": [
+          "Huggarbo",
+          "Norrbärke(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 NOV 1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

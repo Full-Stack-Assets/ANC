@@ -1,0 +1,71 @@
+{
+  "id": "I182197770113",
+  "name": {
+    "given": "Catherine",
+    "surname": "Martell",
+    "suffix": null,
+    "full": "Catherine Martell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1803",
+        "year": 1803,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Main-a-Dieu, Cape Breton, Nova Scotia Canada",
+        "parts": [
+          "Main-a-Dieu",
+          "Cape Breton",
+          "Nova Scotia Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 November 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Danvers, Essex, Massachusetts, USA",
+        "parts": [
+          "Danvers",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197770092"
+      }
+    ],
+    "children": [
+      "I182197769963",
+      "I182587609543"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

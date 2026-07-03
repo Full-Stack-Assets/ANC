@@ -1,0 +1,72 @@
+{
+  "id": "I182613112931",
+  "name": {
+    "given": "en Edmunde",
+    "surname": "Barret",
+    "suffix": null,
+    "full": "en Edmunde Barret"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Assington, Suffolkshire, England",
+        "parts": [
+          "Assington",
+          "Suffolkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Dec 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Assington, Suffolkshire, England",
+        "parts": [
+          "Assington",
+          "Suffolkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113617",
+      "I182613113606"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112930"
+      }
+    ],
+    "children": [
+      "I182613112917"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

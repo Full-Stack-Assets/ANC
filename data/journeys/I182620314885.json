@@ -1,0 +1,56 @@
+{
+  "id": "I182620314885",
+  "person": "Nicholas Fairlamb",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stockton-on-Tees, Durham County, England",
+        "parts": [
+          "Stockton-on-Tees",
+          "Durham County",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Nov 1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Middletown, Chester, Pennsylvania, United States",
+        "parts": [
+          "Middletown",
+          "Chester",
+          "Pennsylvania",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 October 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,117 @@
+{
+  "id": "I182195858598",
+  "person": "Howard Russell Morrow",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Milton Norfolk Co. MA USA",
+        "parts": [
+          "Milton Norfolk Co. MA USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Aug 1913",
+        "year": 1913,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 686"
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880317",
+          "page": "National Archives at St. Louis; St. Louis, Missouri; Draft Registration Cards For Massachusetts, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 686"
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Waterbury New Haven County Connecticut USA",
+        "parts": [
+          "Waterbury New Haven County Connecticut USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Dec 1973",
+        "year": 1973,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

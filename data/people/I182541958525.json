@@ -1,0 +1,81 @@
+{
+  "id": "I182541958525",
+  "name": {
+    "given": "Raymond E",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Raymond E Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 April 1918",
+        "year": 1918,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 October 1971",
+        "year": 1971,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "NJ",
+        "parts": [
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862478"
+    ],
+    "spouses": [],
+    "children": [
+      "I182541958545"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

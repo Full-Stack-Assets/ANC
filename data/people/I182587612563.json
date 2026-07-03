@@ -1,0 +1,68 @@
+{
+  "id": "I182587612563",
+  "name": {
+    "given": "Lady Mary Beth",
+    "surname": "Bray of Lambert Marsh",
+    "suffix": null,
+    "full": "Lady Mary Beth Bray of Lambert Marsh"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 May 1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lambert Marsh, Surrey, England",
+        "parts": [
+          "Lambert Marsh",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Sep 1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "All Hallows, Tottenham, Middlesex, England",
+        "parts": [
+          "All Hallows",
+          "Tottenham",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548888"
+    ],
+    "spouses": [],
+    "children": [
+      "I182587612475"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182381537376",
+  "name": {
+    "given": "Archibald Arche",
+    "surname": "PEIRSONE\\PEIRSON\\PERSON",
+    "suffix": null,
+    "full": "Archibald Arche PEIRSONE\\PEIRSON\\PERSON"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Dumfermline Fife, Scotland",
+        "parts": [
+          "Dumfermline Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Feb 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dumfermline Fife, Scotland",
+        "parts": [
+          "Dumfermline Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537388",
+      "I182381537381"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537374"
+      }
+    ],
+    "children": [
+      "I182381537361"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182613026405",
+  "name": {
+    "given": "Sir Richard",
+    "surname": "Deane",
+    "suffix": null,
+    "full": "Sir Richard Deane"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1512",
+        "year": 1512,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sopley Upon Avon, SW, United Kingdom",
+        "parts": [
+          "Sopley Upon Avon",
+          "SW",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sopley, Hampshire, England, United Kingdom",
+        "parts": [
+          "Sopley",
+          "Hampshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613026392"
+      }
+    ],
+    "children": [
+      "I182613023768"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "I182195862794",
+  "name": {
+    "given": "Jacob",
+    "surname": "Shone*",
+    "suffix": null,
+    "full": "Jacob Shone*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "about 1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 May 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester County, New Jersey, USA",
+        "parts": [
+          "Gloucester County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195862796",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "06 Apr 1787",
+            "year": 1787,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Philadelphia, Pennsylvania, USA",
+            "parts": [
+              "Philadelphia",
+              "Pennsylvania",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862704"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester Township, Gloucester County, NJ",
+        "parts": [
+          "Gloucester Township",
+          "Gloucester County",
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146197",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146197",
+      "title": "New Jersey, Compiled Census and Census Substitutes Index, 1643-1890",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447146195",
+      "title": "Pennsylvania, Compiled Marriage Records, 1700-1821",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

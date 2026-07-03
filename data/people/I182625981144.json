@@ -1,0 +1,72 @@
+{
+  "id": "I182625981144",
+  "name": {
+    "given": " Thomas",
+    "surname": "Kenworthy Kenward",
+    "suffix": null,
+    "full": " Thomas Kenworthy Kenward"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tenterden, Kent, England",
+        "parts": [
+          "Tenterden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nettlestead, Kent, England",
+        "parts": [
+          "Nettlestead",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981149",
+      "I182625981164"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981141"
+      }
+    ],
+    "children": [
+      "I182625981118"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I182625972417",
+  "person": "Johannes, Jakob, THOLEY",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "St. Wendel, Saarland",
+        "parts": [
+          "St. Wendel",
+          "Saarland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St. Wendel, Saarland, Deutschland",
+        "parts": [
+          "St. Wendel",
+          "Saarland",
+          "Deutschland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 OCT 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

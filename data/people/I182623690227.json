@@ -1,0 +1,67 @@
+{
+  "id": "I182623690227",
+  "name": {
+    "given": "Sarah",
+    "surname": "Priest",
+    "suffix": null,
+    "full": "Sarah Priest"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "leyden, Holland, Reusel-de Mierden, Noord-Brabant, Netherlands",
+        "parts": [
+          "leyden",
+          "Holland",
+          "Reusel-de Mierden",
+          "Noord-Brabant",
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1 Aug 1648",
+        "year": 1648,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690579",
+      "I182623690251"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690234"
+      }
+    ],
+    "children": [
+      "I182623690129"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

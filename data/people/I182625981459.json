@@ -1,0 +1,72 @@
+{
+  "id": "I182625981459",
+  "name": {
+    "given": "Jennet Millington",
+    "surname": "Tomlinson",
+    "suffix": null,
+    "full": "Jennet Millington Tomlinson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme Upon Spalding Moor, Yorkshire, England",
+        "parts": [
+          "Holme Upon Spalding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Jan 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme Upon Spalding Moor, Yorkshire, England",
+        "parts": [
+          "Holme Upon Spalding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981471",
+      "I182625981473"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981458"
+      }
+    ],
+    "children": [
+      "I182625981455"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

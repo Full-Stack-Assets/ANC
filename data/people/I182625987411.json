@@ -1,0 +1,72 @@
+{
+  "id": "I182625987411",
+  "name": {
+    "given": "Sibell\\Sybil\\Sibilla\\Sibble",
+    "surname": "Vaughan",
+    "suffix": null,
+    "full": "Sibell\\Sybil\\Sibilla\\Sibble Vaughan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Leominster, Herefordshire, England",
+        "parts": [
+          "Leominster",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Jul 1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Almeley, Herefordshire, England",
+        "parts": [
+          "Almeley",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987420",
+      "I182625987434"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987414"
+      }
+    ],
+    "children": [
+      "I182625987148"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

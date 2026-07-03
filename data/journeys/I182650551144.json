@@ -1,0 +1,91 @@
+{
+  "id": "I182650551144",
+  "person": "John Cooke",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Leiden, Leiden Municipality, Zuid-Holland, Netherlands",
+        "parts": [
+          "Leiden",
+          "Leiden Municipality",
+          "Zuid-Holland",
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Dartmouth, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Dartmouth",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 November 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Fairhaven, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Fairhaven",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

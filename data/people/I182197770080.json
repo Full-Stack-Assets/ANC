@@ -1,0 +1,50 @@
+{
+  "id": "I182197770080",
+  "name": {
+    "given": "Neil",
+    "surname": "MacDonald",
+    "suffix": null,
+    "full": "Neil MacDonald"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1785",
+        "year": 1785,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "North Uist, invernessshire",
+        "parts": [
+          "North Uist",
+          "invernessshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536690",
+      "I182381536682"
+    ],
+    "spouses": [
+      {
+        "id": "I182197770070"
+      }
+    ],
+    "children": [
+      "I182197769975"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

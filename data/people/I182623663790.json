@@ -1,0 +1,94 @@
+{
+  "id": "I182623663790",
+  "name": {
+    "given": "Nicolas",
+    "surname": "SCHOTT SCHAAD",
+    "suffix": null,
+    "full": "Nicolas SCHOTT SCHAAD"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Feb 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, Kreis St Wendel, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Urweiler",
+          "Kreis St Wendel",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jun 1897",
+        "year": 1897,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda, Noble, Ohio, USA",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663939",
+      "I182623663832"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663782"
+      }
+    ],
+    "children": [
+      "I182623663676"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "2 Feb 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prussia",
+        "parts": [
+          "Prussia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

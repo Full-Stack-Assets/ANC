@@ -1,0 +1,68 @@
+{
+  "id": "I182292319606",
+  "name": {
+    "given": "Malena(Magdalena)",
+    "surname": "Olofsdotter",
+    "suffix": null,
+    "full": "Malena(Magdalena) Olofsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 May 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wriken Åker, Myckleby",
+        "parts": [
+          "Wriken Åker",
+          "Myckleby"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jan 1795",
+        "year": 1795,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby församling, Germundslund, Göteborgs o Bohus län",
+        "parts": [
+          "Myckleby församling",
+          "Germundslund",
+          "Göteborgs o Bohus län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319628"
+      }
+    ],
+    "children": [
+      "I182292319587"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

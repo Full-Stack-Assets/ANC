@@ -1,0 +1,53 @@
+{
+  "id": "I182620320549",
+  "person": "Johannes Jönsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brandstorp",
+        "parts": [
+          "Brandstorp"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "06-Mar-1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Brandstorp, Skaraborg, Sverige",
+        "parts": [
+          "Brandstorp",
+          "Skaraborg",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Jul 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

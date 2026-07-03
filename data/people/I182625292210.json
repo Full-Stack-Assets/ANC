@@ -1,0 +1,72 @@
+{
+  "id": "I182625292210",
+  "name": {
+    "given": "Mary A.",
+    "surname": "Monahan",
+    "suffix": null,
+    "full": "Mary A. Monahan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Feb 1724",
+        "year": 1724,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cork, Ireland",
+        "parts": [
+          "Cork",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1774",
+        "year": 1774,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Town Point, Provence, Nova Scotia, Canada.",
+        "parts": [
+          "Town Point",
+          "Provence",
+          "Nova Scotia",
+          "Canada."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292230",
+      "I182625292228"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292213"
+      }
+    ],
+    "children": [
+      "I182625292198"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

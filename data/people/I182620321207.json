@@ -1,0 +1,87 @@
+{
+  "id": "I182620321207",
+  "name": {
+    "given": "Peder",
+    "surname": "Andersson",
+    "suffix": null,
+    "full": "Peder Andersson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1536",
+        "year": 1536,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lernbo, Norrbärcke, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Lernbo",
+          "Norrbärcke",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrmesunda 1:6, Anundsjö, Örnsköldsvik, Västernorrland, Suède",
+        "parts": [
+          "Norrmesunda 1:6",
+          "Anundsjö",
+          "Örnsköldsvik",
+          "Västernorrland",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182522976091",
+      "I182620321201"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

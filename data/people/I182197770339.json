@@ -1,0 +1,181 @@
+{
+  "id": "I182197770339",
+  "name": {
+    "given": "Josiah",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Josiah Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1692",
+        "year": 1692,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Gloucester, New Jersey, USA",
+        "parts": [
+          "Gloucester",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Mar 1784",
+        "year": 1784,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haddonfield, Camden, New Jersey, United States",
+        "parts": [
+          "Haddonfield",
+          "Camden",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197776810",
+      "I182541935662",
+      "I182625980429"
+    ],
+    "spouses": [
+      {
+        "id": "I182197770234",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "12 Nov 1727",
+            "year": 1727,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Camden, New Jersey",
+            "parts": [
+              "Camden",
+              "New Jersey"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447146275",
+              "page": null
+            },
+            {
+              "source_id": "S447152695",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182197756280"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "12 Nov 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "9 Mar 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington, New Jersey",
+        "parts": [
+          "Burlington",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S447146275",
+      "title": "U.S., Quaker Meeting Records, 1681-1935",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447152695",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182623690864",
+  "name": {
+    "given": "Lady Margaret Ringer",
+    "surname": "Barbor (Barber) of Wolnaugh",
+    "suffix": null,
+    "full": "Lady Margaret Ringer Barbor (Barber) of Wolnaugh"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fressingfield, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Fressingfield",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stock, Chelmsford Borough, Essex, England",
+        "parts": [
+          "Stock",
+          "Chelmsford Borough",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690869"
+      }
+    ],
+    "children": [
+      "I182623690437"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "I182625980874",
+  "name": {
+    "given": "Jane Hellen",
+    "surname": "Mucklow",
+    "suffix": null,
+    "full": "Jane Hellen Mucklow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1612",
+        "year": 1612,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Desford, Leicestershire, England",
+        "parts": [
+          "Desford",
+          "Leicestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980887",
+      "I182625980883"
+    ],
+    "spouses": [
+      {
+        "id": "I182625980870"
+      }
+    ],
+    "children": [
+      "I182587606286"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

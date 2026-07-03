@@ -1,0 +1,72 @@
+{
+  "id": "I182567600380",
+  "name": {
+    "given": "Lady Sarah",
+    "surname": "Nowell",
+    "suffix": null,
+    "full": "Lady Sarah Nowell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingshurst Hall, Warwickshire, England",
+        "parts": [
+          "Kingshurst Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 Dec 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sheldon Hall, Warwickshire, England",
+        "parts": [
+          "Sheldon Hall",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970860",
+      "I182625970866"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600400"
+      }
+    ],
+    "children": [
+      "I182567600333"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

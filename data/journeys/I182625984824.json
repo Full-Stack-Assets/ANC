@@ -1,0 +1,103 @@
+{
+  "id": "I182625984824",
+  "person": "*Captain James Pine\\Pyne (Immigrant)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Exeter, Devon, England",
+        "parts": [
+          "Exeter",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 June 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": "Source number: 542.000; Source type: Electronic Database; Number of Pages: 1; Submitter Code: DG1"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hempstead, Livingston, New York, Colonial America",
+        "parts": [
+          "Hempstead",
+          "Livingston",
+          "New York",
+          "Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516008989",
+          "page": "Source number: 542.000; Source type: Electronic Database; Number of Pages: 1; Submitter Code: DG1"
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Hempstead, Nassau, New York, Colonial America",
+        "parts": [
+          "Hempstead",
+          "Nassau",
+          "New York",
+          "Colonial America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Oct 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

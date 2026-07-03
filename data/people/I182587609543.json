@@ -1,0 +1,86 @@
+{
+  "id": "I182587609543",
+  "name": {
+    "given": "Martin",
+    "surname": "LeVatte",
+    "suffix": null,
+    "full": "Martin LeVatte"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Feb 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Main-a-Dieu, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Main-a-Dieu",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Apr 1859",
+        "year": 1859,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Main-a-Dieu, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Main-a-Dieu",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197770092",
+      "I182197770113"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

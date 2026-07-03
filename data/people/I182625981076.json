@@ -1,0 +1,84 @@
+{
+  "id": "I182625981076",
+  "name": {
+    "given": "Elizabeth",
+    "surname": null,
+    "suffix": null,
+    "full": "Elizabeth"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625981055",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1668",
+            "year": 1668,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Horsmonden, Kent, England",
+            "parts": [
+              "Horsmonden",
+              "Kent",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Horsemonden, Kent, England",
+        "parts": [
+          "Horsemonden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

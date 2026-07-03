@@ -1,0 +1,72 @@
+{
+  "id": "I182613112917",
+  "name": {
+    "given": "Johanna  Joan",
+    "surname": "Barrett  (Shattuck)",
+    "suffix": null,
+    "full": "Johanna  Joan Barrett  (Shattuck)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1574",
+        "year": 1574,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Assington, Suffolkshire, England",
+        "parts": [
+          "Assington",
+          "Suffolkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Sep 1670",
+        "year": 1670,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Essex, Massachusetts Colony",
+        "parts": [
+          "Salem",
+          "Essex",
+          "Massachusetts Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112931",
+      "I182613112930"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112927"
+      }
+    ],
+    "children": [
+      "I182613112908"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

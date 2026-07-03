@@ -1,0 +1,218 @@
+{
+  "id": "I182195857641",
+  "name": {
+    "given": "Mary",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Mary Larkin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "October 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Birmingham, Warwickshire, England",
+        "parts": [
+          "Birmingham",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513879842",
+          "page": null
+        },
+        {
+          "source_id": "S513880151",
+          "page": "The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 3092; Folio: 105; Page: 11; GSU roll: 839567"
+        },
+        {
+          "source_id": "S513880175",
+          "page": "The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger Lists of Vessels Arriving at Philadelphia, Pennsylvania; Record Group Title: Records of the United States Customs Service, 1745-1997; Record Group Number: 36; Series: M425"
+        },
+        {
+          "source_id": "S513850707",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Birmingham, Warwickshire, England",
+        "parts": [
+          "Birmingham",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182585307149",
+      "I182585307148"
+    ],
+    "spouses": [],
+    "children": [
+      "I182585304195",
+      "I182585304197",
+      "I182585304194",
+      "I182585304196"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, Warwickshire, England",
+        "parts": [
+          "St Mark",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Daughter",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": "The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 3092; Folio: 105; Page: 11; GSU roll: 839567"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "5 May 1880",
+        "year": 1880,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880175",
+          "page": "The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger Lists of Vessels Arriving at Philadelphia, Pennsylvania; Record Group Title: Records of the United States Customs Service, 1745-1997; Record Group Number: 36; Series: M425"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Whitehaven, Cumberland, England",
+        "parts": [
+          "Whitehaven",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S513879842",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Liverpool, England",
+        "parts": [
+          "Liverpool",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880175",
+          "page": "The National Archives at Washington, D.C.; Washington, D.C.; Series Title: Passenger Lists of Vessels Arriving at Philadelphia, Pennsylvania; Record Group Title: Records of the United States Customs Service, 1745-1997; Record Group Number: 36; Series: M425"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513879842",
+      "title": "1911 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S513880175",
+      "title": "Pennsylvania, U.S., Arriving Passenger and Crew Lists, 1798-1962",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850707",
+      "title": "England & Wales, Civil Registration Birth Index, 1837-1915",
+      "author": "FreeBMD",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

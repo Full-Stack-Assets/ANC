@@ -1,0 +1,42 @@
+{
+  "id": "I182197756627",
+  "name": {
+    "given": "Elijah",
+    "surname": "Tomlinson",
+    "suffix": null,
+    "full": "Elijah Tomlinson"
+  },
+  "sex": "M",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "New Jersey, USA",
+        "parts": [
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197756639"
+      }
+    ],
+    "children": [
+      "I182197756552"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "I182195861766",
+  "person": "Erik Andersson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ludvika bruk, Grangärde(W)",
+        "parts": [
+          "Ludvika bruk",
+          "Grangärde(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 sep 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Nissbo, Grangärde(W)",
+        "parts": [
+          "Nissbo",
+          "Grangärde(W)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 jun 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,115 @@
+{
+  "id": "I182195861181",
+  "name": {
+    "given": "Maria Wilhelmina",
+    "surname": null,
+    "suffix": null,
+    "full": "Maria Wilhelmina"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1867",
+        "year": 1867,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo",
+        "parts": [
+          "Hjo"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861102"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Skaraborg, Sverige",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relationship: Dotter",
+      "sources": [
+        {
+          "source_id": "S446915028",
+          "page": "Roll/Fiche Number: SC-1420; Volume Number: 55; Page Number: 18"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "24 Sep 1928",
+        "year": 1928,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edwardsville, Illinois, USA",
+        "parts": [
+          "Edwardsville",
+          "Illinois",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S525022190",
+          "page": "The Edwardsville Intelligencer; Publication Date: 24 Sep 1928; Publication Place: Edwardsville, Illinois, USA; URL: https://www.newspapers.com/image/26445266/?article=2af72f98-e4a2-4911-8fb9-cc8a926ae0b9&xid=5503&terms=Wilhelmina_Rang"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446915028",
+      "title": "Sweden, Selected Indexed Household Clerical Surveys, 1880-1893",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S525022190",
+      "title": "Illinois, U.S., Newspapers.com™ Stories and Events Index, 1800's-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

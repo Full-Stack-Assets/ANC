@@ -1,0 +1,71 @@
+{
+  "id": "I182625995943",
+  "name": {
+    "given": "Frederick",
+    "surname": "Sleeter*",
+    "suffix": null,
+    "full": "Frederick Sleeter*"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 July 1853",
+        "year": 1853,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bucken, Nienburg, Lower Saxony, Germany",
+        "parts": [
+          "Bucken",
+          "Nienburg",
+          "Lower Saxony",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": "Born Johann Heinrich Friedrich Schluter.    Birth and Baptism Books of the Parish of Bucken, Volume 1853, page 12.",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1933",
+        "year": 1933,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blackwood, Camden, New Jersey, USA",
+        "parts": [
+          "Blackwood",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195862466"
+      }
+    ],
+    "children": [
+      "I182541934447"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

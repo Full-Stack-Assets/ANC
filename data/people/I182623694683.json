@@ -1,0 +1,70 @@
+{
+  "id": "I182623694683",
+  "name": {
+    "given": "Parker (6th GGF)",
+    "surname": "Carr",
+    "suffix": null,
+    "full": "Parker (6th GGF) Carr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 May 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chester, Rockingham, New Hampshire, USA",
+        "parts": [
+          "Chester",
+          "Rockingham",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 Nov 1809",
+        "year": 1809,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Caledonia County, Vermont, USA",
+        "parts": [
+          "Caledonia County",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694680"
+      }
+    ],
+    "children": [
+      "I182623694669"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

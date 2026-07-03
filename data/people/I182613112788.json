@@ -1,0 +1,71 @@
+{
+  "id": "I182613112788",
+  "name": {
+    "given": "Sir Knight John III,  High Sheriff of Northamptonshire, MEMBER of PARLIAMENT,",
+    "surname": "Bernard III   Squire of Abington",
+    "suffix": null,
+    "full": "Sir Knight John III,  High Sheriff of Northamptonshire, MEMBER of PARLIAMENT, Bernard III   Squire of Abington"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington Manor, Abington, Northamptonshire, England",
+        "parts": [
+          "Abington Manor",
+          "Abington",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Feb 1549",
+        "year": 1549,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abington Manor, Abington, Northamptonshire, England",
+        "parts": [
+          "Abington Manor",
+          "Abington",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613112776"
+      }
+    ],
+    "children": [
+      "I182613112752"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

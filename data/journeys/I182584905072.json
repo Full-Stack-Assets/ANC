@@ -1,0 +1,113 @@
+{
+  "id": "I182584905072",
+  "person": "John Foyle Jr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Fontmell Magna, Dorset, England",
+        "parts": [
+          "Fontmell Magna",
+          "Dorset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cann, Dorset, England",
+        "parts": [
+          "Cann",
+          "Dorset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Jun 1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513850648",
+          "page": "Dorset History Centre; Dorchester, England; Dorset Parish Registers; Reference: PE/CAN: RE1/1"
+        },
+        {
+          "source_id": "S513850648",
+          "page": null
+        },
+        {
+          "source_id": "S513850651",
+          "page": null
+        },
+        {
+          "source_id": "S513850651",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Fontmell Magna, Dorset, England",
+        "parts": [
+          "Fontmell Magna",
+          "Dorset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 May 1587",
+        "year": 1587,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,180 @@
+{
+  "id": "I182195860382",
+  "name": {
+    "given": "Anna Josefina",
+    "surname": "Rånge",
+    "suffix": null,
+    "full": "Anna Josefina Rånge"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Apr 1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo Vgt",
+        "parts": [
+          "Hjo Vgt"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Aug 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Easton, Massachusetts",
+        "parts": [
+          "Easton",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195860718",
+      "I182195861102"
+    ],
+    "spouses": [
+      {
+        "id": "I182195860381",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 MAY 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Easton, Massachusetts",
+            "parts": [
+              "Easton",
+              "Massachusetts"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182195860476",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 May 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914824",
+              "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195860597",
+      "I182195860477",
+      "I182195860478"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "4 Jun 1892",
+        "year": 1892,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Hjo, Smelen",
+        "parts": [
+          "Hjo",
+          "Smelen"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914946",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

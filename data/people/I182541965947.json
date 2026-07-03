@@ -1,0 +1,58 @@
+{
+  "id": "I182541965947",
+  "name": {
+    "given": "Anna",
+    "surname": "Dugard",
+    "suffix": null,
+    "full": "Anna Dugard"
+  },
+  "sex": null,
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541965892",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "9 Jul 1780",
+            "year": 1780,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Marblehead, Massachusetts, USA",
+            "parts": [
+              "Marblehead",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446915296",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

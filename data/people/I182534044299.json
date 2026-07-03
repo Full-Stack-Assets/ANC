@@ -1,0 +1,71 @@
+{
+  "id": "I182534044299",
+  "name": {
+    "given": "Adam",
+    "surname": "Eychorn (Eichhorn)",
+    "suffix": null,
+    "full": "Adam Eychorn (Eichhorn)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schlachau, Coburg, Bayern, Germany",
+        "parts": [
+          "Schlachau",
+          "Coburg",
+          "Bayern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "About 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schalkau, Sonneberg, Thuringia, Germany",
+        "parts": [
+          "Schalkau",
+          "Sonneberg",
+          "Thuringia",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044296"
+      }
+    ],
+    "children": [
+      "I182534044275"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

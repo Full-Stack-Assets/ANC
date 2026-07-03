@@ -1,0 +1,56 @@
+{
+  "id": "I182292319595",
+  "person": "Sven Persson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Grindsby, Myckleby, Goteborg och Bohus, Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Goteborg och Bohus",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Jul 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Knäred, Halland, Sweden",
+        "parts": [
+          "Knäred",
+          "Halland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jul 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

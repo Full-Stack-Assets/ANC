@@ -1,0 +1,93 @@
+{
+  "id": "I182625987271",
+  "name": {
+    "given": "Ann",
+    "surname": "Jones Fletcher",
+    "suffix": "Haslam Haslome",
+    "full": "Ann Jones Fletcher Haslam Haslome"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bolton, Lancashire, England",
+        "parts": [
+          "Bolton",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 March 1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walmsley, Bury, Lancashire",
+        "parts": [
+          "Walmsley",
+          "Bury",
+          "Lancashire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987329"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987264"
+      }
+    ],
+    "children": [
+      "I182625987245"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walmsley, Bury, Lancashire",
+        "parts": [
+          "Walmsley",
+          "Bury",
+          "Lancashire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

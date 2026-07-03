@@ -1,0 +1,70 @@
+{
+  "id": "I182541959973",
+  "name": {
+    "given": "Thomas",
+    "surname": "Gryffyn",
+    "suffix": null,
+    "full": "Thomas Gryffyn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1510",
+        "year": 1510,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westminster, Middlesex, England",
+        "parts": [
+          "Westminster",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "c. 1593  --  or  --  22 Feb 1594",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Derbyshire, England  --  or  --  Westminster, Middlesex, England",
+        "parts": [
+          "Derbyshire",
+          "England  --  or  --  Westminster",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541959977"
+      }
+    ],
+    "children": [
+      "I182541959874"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "I182197444991",
+  "person": "Måns Månsson Rånge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1680-1708",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115812",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Daretorp, Skattegården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Daretorp",
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Alvsborg, Sweden",
+        "parts": [
+          "Alvsborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Apr 1686",
+        "year": 1686,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "baptism",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 Jun 1713",
+        "year": 1713,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

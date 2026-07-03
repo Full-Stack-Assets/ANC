@@ -1,0 +1,73 @@
+{
+  "id": "I182381538262",
+  "name": {
+    "given": "Mary Ann",
+    "surname": "Kennedy",
+    "suffix": null,
+    "full": "Mary Ann Kennedy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Feb 1736",
+        "year": 1736,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dumfries, Dumfries-shire, Scotland",
+        "parts": [
+          "Dumfries",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bedeque, Prince, Prince Edward Island, Canada",
+        "parts": [
+          "North Bedeque",
+          "Prince",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538329",
+      "I182381538280"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538268"
+      }
+    ],
+    "children": [
+      "I182381538103"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

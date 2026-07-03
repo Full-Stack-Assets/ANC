@@ -1,0 +1,57 @@
+{
+  "id": "I182534044148",
+  "person": "David Hawkins Junior",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Brookhaven, Suffolk, Province of New York, British America",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "Province of New York",
+          "British America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 May 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Blooming Grove, Orange, New York, USA",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "08 Aug 1825",
+        "year": 1825,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182534044195",
+  "name": {
+    "given": "Anna Veronica",
+    "surname": "Menges- Crist",
+    "suffix": null,
+    "full": "Anna Veronica Menges- Crist"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Jul 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Upper German Colony, West Camp, Ulster, New York, United States",
+        "parts": [
+          "Upper German Colony",
+          "West Camp",
+          "Ulster",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1766",
+        "year": 1766,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walkill, Ulster, New York, USA",
+        "parts": [
+          "Walkill",
+          "Ulster",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182534044198"
+      }
+    ],
+    "children": [
+      "I182534044158"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

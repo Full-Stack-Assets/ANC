@@ -1,0 +1,46 @@
+{
+  "id": "I182197824862",
+  "name": {
+    "given": "Reijer",
+    "surname": "IJSBRANTS",
+    "suffix": null,
+    "full": "Reijer IJSBRANTS"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Netherlands",
+        "parts": [
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182197824893"
+      }
+    ],
+    "children": [
+      "I182197821577"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

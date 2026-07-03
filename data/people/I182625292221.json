@@ -1,0 +1,41 @@
+{
+  "id": "I182625292221",
+  "name": {
+    "given": "Hannah",
+    "surname": "Mc Donald",
+    "suffix": null,
+    "full": "Hannah Mc Donald"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "UNKNOWN",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625292224"
+      }
+    ],
+    "children": [
+      "I182625292202"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

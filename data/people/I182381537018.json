@@ -1,0 +1,65 @@
+{
+  "id": "I182381537018",
+  "name": {
+    "given": "Louisa Elizabeth",
+    "surname": "Martin",
+    "suffix": null,
+    "full": "Louisa Elizabeth Martin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1720",
+        "year": 1720,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelton, Dumfries-shire, Scotland",
+        "parts": [
+          "Kelton",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kelton, Dumfries-shire, Scotland",
+        "parts": [
+          "Kelton",
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381536994"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

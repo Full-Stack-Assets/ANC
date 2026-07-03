@@ -1,0 +1,217 @@
+{
+  "id": "I182541956067",
+  "name": {
+    "given": "John Edmund",
+    "surname": "Severans (Or Severance)",
+    "suffix": "Sr",
+    "full": "John Edmund Severans (Or Severance) Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rattlesden, Mid Suffolk District, Suffolk, England",
+        "parts": [
+          "Rattlesden",
+          "Mid Suffolk District",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 April 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salisbury",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Salisbury, Essex County, Massachusetts, United States of America",
+        "parts": [
+          "Salisbury",
+          "Essex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914565",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541956127"
+    ],
+    "spouses": [
+      {
+        "id": "I182541956088",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "abt 1633",
+            "year": 1633,
+            "year_end": null,
+            "qualifier": "ABT"
+          },
+          "place": {
+            "raw": "poss England or Ipswich, Essex, Massachusetts, America",
+            "parts": [
+              "poss England or Ipswich",
+              "Essex",
+              "Massachusetts",
+              "America"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182541956197",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "13 June 1635",
+            "year": 1635,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ipswich, Massachusetts Bay, British Colonial America, Suffolk, England, United Kingdom",
+            "parts": [
+              "Ipswich",
+              "Massachusetts Bay",
+              "British Colonial America",
+              "Suffolk",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182541956194",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "2 Oct 1663",
+            "year": 1663,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Massachusetts, USA",
+            "parts": [
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      },
+      {
+        "id": "I182541956195",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "2 Oct 1663",
+            "year": 1663,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Salisbury, Essex, Massachusetts, United States",
+            "parts": [
+              "Salisbury",
+              "Essex",
+              "Massachusetts",
+              "United States"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182541955827"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914565",
+      "title": "U.S., Find A Grave Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

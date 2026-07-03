@@ -1,0 +1,66 @@
+{
+  "id": "I182534215083",
+  "person": "Anna Esther Fallon Ryan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pittsford, Vermont, USA",
+        "parts": [
+          "Pittsford",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Sudbury, Rutland, Vermont, USA",
+        "parts": [
+          "Sudbury",
+          "Rutland",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 Apr 1952",
+        "year": 1952,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506472660",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

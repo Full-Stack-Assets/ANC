@@ -1,0 +1,71 @@
+{
+  "id": "I182625972118",
+  "name": {
+    "given": "Maria Barbara",
+    "surname": "Sachs",
+    "suffix": null,
+    "full": "Maria Barbara Sachs"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Oct 1764",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Evangelisch, Metterzimmern, Neckarkreis, Wuerttemberg",
+        "parts": [
+          "Evangelisch",
+          "Metterzimmern",
+          "Neckarkreis",
+          "Wuerttemberg"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Dec 1808",
+        "year": 1808,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "GERMANY",
+        "parts": [
+          "GERMANY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972141",
+      "I182625972136"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972125"
+      }
+    ],
+    "children": [
+      "I182625972104"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

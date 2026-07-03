@@ -1,0 +1,57 @@
+{
+  "id": "I182623694669",
+  "person": "Daniel Carr",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rockingham, Cumberland, Vermont, USA",
+        "parts": [
+          "Rockingham",
+          "Cumberland",
+          "Vermont",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Jan 1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Waterford, Caledonia, Vermont, United States",
+        "parts": [
+          "Waterford",
+          "Caledonia",
+          "Vermont",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "21 Apr 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,104 @@
+{
+  "id": "I182195862459",
+  "name": {
+    "given": "Mary Ann",
+    "surname": "Shone",
+    "suffix": null,
+    "full": "Mary Ann Shone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Oct 1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassboro, New Jersey",
+        "parts": [
+          "Glassboro",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Sep 1900",
+        "year": 1900,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Center Township, Camden, New Jersey",
+        "parts": [
+          "Center Township",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862704",
+      "I182195862717"
+    ],
+    "spouses": [
+      {
+        "id": "I182195862458",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1850",
+            "year": 1850,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "NJ",
+            "parts": [
+              "NJ"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862466",
+      "I182195862464",
+      "I182195862463",
+      "I182195862295",
+      "I182195862462",
+      "I182195862460",
+      "I182195862461"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "I182789736897",
+  "name": {
+    "given": "Harriet Melvina",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Harriet Melvina Coffin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Jun 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Savage Harbour, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "Savage Harbour",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1947",
+        "year": 1947,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Savage Harbour, Prince Edward Island, Canada",
+        "parts": [
+          "Savage Harbour",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182789736872"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

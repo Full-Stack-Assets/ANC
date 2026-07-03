@@ -1,0 +1,69 @@
+{
+  "id": "I182620323531",
+  "name": {
+    "given": "Martha",
+    "surname": "MacKinnon",
+    "suffix": null,
+    "full": "Martha MacKinnon"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 Apr 1753",
+        "year": 1753,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isle of Skye, Inverness, Scotland",
+        "parts": [
+          "Isle of Skye",
+          "Inverness",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Apr 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cumberland, North Carolina, United States",
+        "parts": [
+          "Cumberland",
+          "North Carolina",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323536"
+      }
+    ],
+    "children": [
+      "I182620323420"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

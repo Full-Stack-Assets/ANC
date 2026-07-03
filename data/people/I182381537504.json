@@ -1,0 +1,69 @@
+{
+  "id": "I182381537504",
+  "name": {
+    "given": "Jean",
+    "surname": "Wilsone",
+    "suffix": null,
+    "full": "Jean Wilsone"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ", Falkirk, Stirling, Scotland",
+        "parts": [
+          "Falkirk",
+          "Stirling",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Scotland",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537509"
+      }
+    ],
+    "children": [
+      "I182381537490"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

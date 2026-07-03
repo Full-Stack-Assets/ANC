@@ -1,0 +1,68 @@
+{
+  "id": "I182623690404",
+  "name": {
+    "given": "Mother of Richard Kimpton",
+    "surname": null,
+    "suffix": null,
+    "full": "Mother of Richard Kimpton"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1534",
+        "year": 1534,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Mar 1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Barnet, Hertford, England",
+        "parts": [
+          "East Barnet",
+          "Hertford",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623690419"
+      }
+    ],
+    "children": [
+      "I182623690332"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

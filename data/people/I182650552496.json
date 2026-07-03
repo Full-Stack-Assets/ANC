@@ -1,0 +1,201 @@
+{
+  "id": "I182650552496",
+  "name": {
+    "given": "Priscilla",
+    "surname": "Rogers",
+    "suffix": null,
+    "full": "Priscilla Rogers"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "06 Jul 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 May 1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hebron, Oxford, Maine, USA",
+        "parts": [
+          "Hebron",
+          "Oxford",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552492"
+      }
+    ],
+    "children": [
+      "I182650552252"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "06 Jul 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, MA, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "06 Jul 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth,Plymouth,Massachusetts,USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "05 Jul 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Massachusetts",
+        "parts": [
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "07 May 1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hebron, Oxford, ME, USA",
+        "parts": [
+          "Hebron",
+          "Oxford",
+          "ME",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "07 May 1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hebron,Oxford,Maine,USA",
+        "parts": [
+          "Hebron",
+          "Oxford",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "06 May 1830",
+        "year": 1830,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hebron, Maine, United States",
+        "parts": [
+          "Hebron",
+          "Maine",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

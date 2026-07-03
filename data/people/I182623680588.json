@@ -1,0 +1,105 @@
+{
+  "id": "I182623680588",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Sydenham",
+    "suffix": null,
+    "full": "Elizabeth Sydenham"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1532",
+        "year": 1532,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brimpton, Somerset, England, United Kingdom",
+        "parts": [
+          "Brimpton",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 March 1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Poltimore, Devon, England, United Kingdom",
+        "parts": [
+          "Poltimore",
+          "Devon",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681183",
+      "I182623681182"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680593"
+      }
+    ],
+    "children": [
+      "I182623680534"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": null,
+      "place": {
+        "raw": "St Mary Whitechapel,Stepney,London,England",
+        "parts": [
+          "St Mary Whitechapel",
+          "Stepney",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447253093",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447253093",
+      "title": "England, Select Births and Christenings, 1538-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

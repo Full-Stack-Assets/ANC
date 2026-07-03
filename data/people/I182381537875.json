@@ -1,0 +1,70 @@
+{
+  "id": "I182381537875",
+  "name": {
+    "given": "Ann",
+    "surname": "Meredydd",
+    "suffix": null,
+    "full": "Ann Meredydd"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clynnog, Caernarvonshire, Wales",
+        "parts": [
+          "Clynnog",
+          "Caernarvonshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales",
+        "parts": [
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537914",
+      "I182381537896"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537881"
+      }
+    ],
+    "children": [
+      "I182381537857"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

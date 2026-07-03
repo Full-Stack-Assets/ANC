@@ -1,0 +1,41 @@
+{
+  "id": "I182620322532",
+  "name": {
+    "given": "Ellen",
+    "surname": "Ryan",
+    "suffix": null,
+    "full": "Ellen Ryan"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322542"
+      }
+    ],
+    "children": [
+      "I182620322499"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

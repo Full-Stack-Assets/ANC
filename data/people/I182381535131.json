@@ -1,0 +1,67 @@
+{
+  "id": "I182381535131",
+  "name": {
+    "given": "Anne",
+    "surname": "Jordon",
+    "suffix": null,
+    "full": "Anne Jordon"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 Apr 1699",
+        "year": 1699,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ribbesford, Worcestershire, England",
+        "parts": [
+          "Ribbesford",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Kidderminster, Worcestershire, England?",
+        "parts": [
+          "Kidderminster",
+          "Worcestershire",
+          "England?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535139",
+      "I182381535143"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535113"
+      }
+    ],
+    "children": [
+      "I182381535070"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

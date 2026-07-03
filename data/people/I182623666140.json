@@ -1,0 +1,52 @@
+{
+  "id": "I182623666140",
+  "name": {
+    "given": "William",
+    "surname": "De La Spine",
+    "suffix": null,
+    "full": "William De La Spine"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "About 1480",
+        "year": 1480,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623678759"
+    ],
+    "spouses": [
+      {
+        "id": "I182623666139"
+      }
+    ],
+    "children": [
+      "I182623664743",
+      "I182623678758"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810665",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

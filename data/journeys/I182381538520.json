@@ -1,0 +1,57 @@
+{
+  "id": "I182381538520",
+  "person": "Jakob Pfluger",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wiernsheim, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Wiernsheim",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wiernsheim, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Wiernsheim",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

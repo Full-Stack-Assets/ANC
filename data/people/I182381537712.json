@@ -1,0 +1,73 @@
+{
+  "id": "I182381537712",
+  "name": {
+    "given": "Eleanor",
+    "surname": "Williams",
+    "suffix": null,
+    "full": "Eleanor Williams"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Nov 1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Throggs Neck, Westchester, New York, United States",
+        "parts": [
+          "Throggs Neck",
+          "Westchester",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pownal Lot 49, Prince Edward Island, Canada",
+        "parts": [
+          "Pownal Lot 49",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537740",
+      "I182381537723"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537717"
+      }
+    ],
+    "children": [
+      "I182195863352"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

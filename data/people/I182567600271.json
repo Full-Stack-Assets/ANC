@@ -1,0 +1,72 @@
+{
+  "id": "I182567600271",
+  "name": {
+    "given": "Eleanor",
+    "surname": "Simson",
+    "suffix": null,
+    "full": "Eleanor Simson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lichfield, Staffordshire, England",
+        "parts": [
+          "Lichfield",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 Dec 1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wolverhampton, Staffordshire, England",
+        "parts": [
+          "Wolverhampton",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600311",
+      "I182567600302"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600278"
+      }
+    ],
+    "children": [
+      "I182567600250"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "I182623687138",
+  "person": "Richard CARLE, I",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Dartmouth, Devon, England",
+        "parts": [
+          "Dartmouth",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kittery, York, Maine, British America",
+        "parts": [
+          "Kittery",
+          "York",
+          "Maine",
+          "British America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

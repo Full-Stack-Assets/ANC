@@ -1,0 +1,70 @@
+{
+  "id": "I182541959649",
+  "name": {
+    "given": "Richard",
+    "surname": "Phillips",
+    "suffix": null,
+    "full": "Richard Phillips"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, England",
+        "parts": [
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1679",
+        "year": 1679,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "York, Maine",
+        "parts": [
+          "York",
+          "Maine"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959684",
+      "I182541959675"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959658"
+      }
+    ],
+    "children": [
+      "I182541959564"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

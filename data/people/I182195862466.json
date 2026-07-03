@@ -1,0 +1,80 @@
+{
+  "id": "I182195862466",
+  "name": {
+    "given": "Mary Catherine",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Mary Catherine Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jul 1849",
+        "year": 1849,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Jersey, United States",
+        "parts": [
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1938",
+        "year": 1938,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blackwood, Camden, New Jersey, USA",
+        "parts": [
+          "Blackwood",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862458",
+      "I182195862459"
+    ],
+    "spouses": [
+      {
+        "id": "I182625995943"
+      }
+    ],
+    "children": [
+      "I182541934447"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

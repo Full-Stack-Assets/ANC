@@ -1,0 +1,102 @@
+{
+  "id": "I182620317391",
+  "name": {
+    "given": "Purce",
+    "surname": "Butler",
+    "suffix": null,
+    "full": "Purce Butler"
+  },
+  "sex": "M",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620317364"
+      }
+    ],
+    "children": [
+      "I182541955053"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ballinvrana, Knockainy, Limerick, Ireland",
+        "parts": [
+          "Ballinvrana",
+          "Knockainy",
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619375",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "22 Aug 1834",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ballinvrana, Limerick, Ireland",
+        "parts": [
+          "Ballinvrana",
+          "Limerick",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516619372",
+          "page": "The National Archives of the UK; Kew, Surrey, England; Irish Reproductive Loan Fund: Records. County Committees and Trusts.; Series Number: T 91/172; Piece Description: Piece 172: Limerick Lists of Defaulters Summoned to Petty Sessions (1834 - 1837); Piece"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516619375",
+      "title": "Ireland, Tithe Applotment Books, 1805-1837",
+      "author": "Heritage World and the Genealogical Publishing Company",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516619372",
+      "title": "Ireland, Sustainability Loan Fund, 1812-1868",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

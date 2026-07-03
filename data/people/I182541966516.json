@@ -1,0 +1,73 @@
+{
+  "id": "I182541966516",
+  "name": {
+    "given": "Johann Heinrich",
+    "surname": "Christ",
+    "suffix": null,
+    "full": "Johann Heinrich Christ"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Solothurn, Solothurn, Switzerland",
+        "parts": [
+          "Solothurn",
+          "Solothurn",
+          "Switzerland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1579",
+        "year": 1579,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Frankfurt am Main, Stadtkreis Frankfurt, Hessen, Germany",
+        "parts": [
+          "Frankfurt am Main",
+          "Stadtkreis Frankfurt",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972011",
+      "I182625972008"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966514"
+      }
+    ],
+    "children": [
+      "I182541966508"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

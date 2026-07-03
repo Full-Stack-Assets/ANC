@@ -1,0 +1,74 @@
+{
+  "id": "I182623679474",
+  "name": {
+    "given": "Luther",
+    "surname": "Foss",
+    "suffix": null,
+    "full": "Luther Foss"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Mar 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cornish City, Sullivan, New Hampshire, USA",
+        "parts": [
+          "Cornish City",
+          "Sullivan",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Apr 1879",
+        "year": 1879,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lake Elmore, Lamoille, Vermont, USA",
+        "parts": [
+          "Lake Elmore",
+          "Lamoille",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679493",
+      "I182623679489"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679457"
+      }
+    ],
+    "children": [
+      "I182623679445"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "I182620321199",
+  "name": {
+    "given": "Olof",
+    "surname": "Hansson",
+    "suffix": null,
+    "full": "Olof Hansson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1465",
+        "year": 1465,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nedre Starbo Norrbärke Dalarna Sverige, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Nedre Starbo Norrbärke Dalarna Sverige",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1539",
+        "year": 1539,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nedre Starbo, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Nedre Starbo",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620321206",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1499",
+            "year": 1499,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Skalmsjö. Anundsjö",
+            "parts": [
+              "Skalmsjö. Anundsjö"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182522976091"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

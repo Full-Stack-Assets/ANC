@@ -1,0 +1,121 @@
+{
+  "id": "I182613113136",
+  "name": {
+    "given": "Mary",
+    "surname": "Coles",
+    "suffix": null,
+    "full": "Mary Coles"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 July 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Daventry District, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Preston Capes",
+          "Daventry District",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 January 1610",
+        "year": 1610,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Daventry District, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Preston Capes",
+          "Daventry District",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113210"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113135",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "30 September 1597",
+            "year": 1597,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Huntingdon, Huntingdonshire, Cambridgeshire, England, United Kingdom",
+            "parts": [
+              "Huntingdon",
+              "Huntingdonshire",
+              "Cambridgeshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613113115"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

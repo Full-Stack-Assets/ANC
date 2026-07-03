@@ -1,0 +1,99 @@
+{
+  "id": "I182620323439",
+  "name": {
+    "given": "Flora Matheson",
+    "surname": "MacPherson",
+    "suffix": null,
+    "full": "Flora Matheson MacPherson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "West, head, Isle, of, Skye, Scotland",
+        "parts": [
+          "West",
+          "head",
+          "Isle",
+          "of",
+          "Skye",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Nov 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North East Lake Ainslie, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "North East Lake Ainslie",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323550",
+      "I182620323557"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323447"
+      }
+    ],
+    "children": [
+      "I182620323023"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "5 Nov 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North East Lake Ainslie, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "North East Lake Ainslie",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

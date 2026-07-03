@@ -1,0 +1,117 @@
+{
+  "id": "I182625988245",
+  "name": {
+    "given": "Alice",
+    "surname": "Freeman (11ggm)",
+    "suffix": null,
+    "full": "Alice Freeman (11ggm)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Apr 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranford, Kettering Borough, Northamptonshire, England",
+        "parts": [
+          "Cranford",
+          "Kettering Borough",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Feb 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mystic, New London County, Connecticut, United States of America",
+        "parts": [
+          "Mystic",
+          "New London County",
+          "Connecticut",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552671",
+      "I182650552679"
+    ],
+    "spouses": [
+      {
+        "id": "I182625988231"
+      }
+    ],
+    "children": [
+      "I182625987601"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "21 April 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Northamptonshire, England",
+        "parts": [
+          "Preston Capes",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 February 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mystic, New London County, Connecticut",
+        "parts": [
+          "Mystic",
+          "New London County",
+          "Connecticut"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

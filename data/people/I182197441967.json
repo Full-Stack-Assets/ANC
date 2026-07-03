@@ -1,0 +1,498 @@
+{
+  "id": "I182197441967",
+  "name": {
+    "given": "Howard F",
+    "surname": "Donahue",
+    "suffix": "Jr",
+    "full": "Howard F Donahue Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Sep 1943",
+        "year": 1943,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        },
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S446914569",
+          "page": null
+        },
+        {
+          "source_id": "S458741983",
+          "page": null
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jan 2013",
+        "year": 2013,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bonita Springs, Lee, Florida, USA",
+        "parts": [
+          "Bonita Springs",
+          "Lee",
+          "Florida",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": null
+        },
+        {
+          "source_id": "S446914762",
+          "page": null
+        },
+        {
+          "source_id": "S446914516",
+          "page": null
+        },
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 10 Jan 2013; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444206147/?article=fda9d88d-4cb3-4299-98cf-6eaac2613329&focus=0.0074533545,0.016582748,0.17406572,0.28325877&xid=3355"
+        },
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "12 Jan",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": null
+        },
+        {
+          "source_id": "S446914516",
+          "page": null
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 10 Jan 2013; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444206147/?article=fda9d88d-4cb3-4299-98cf-6eaac2613329&focus=0.0074533545,0.016582748,0.17406572,0.28325877&xid=3355"
+        },
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197441999",
+      "I182198562790"
+    ],
+    "spouses": [
+      {
+        "id": "I182195856886"
+      },
+      {
+        "id": "I182197442000"
+      }
+    ],
+    "children": [
+      "I182195856889",
+      "I182195856807",
+      "I182195856890"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head: Son; Marital Status: Never Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1962",
+        "year": 1962,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1992-2011",
+        "year": 1992,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sharon, Massachusetts, USA",
+        "parts": [
+          "Sharon",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1993",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, MA",
+        "parts": [
+          "Dedham",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2002-2020",
+        "year": 2002,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Walpole, Massachusetts, USA",
+        "parts": [
+          "Walpole",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2009",
+        "year": 2009,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sharon, Massachusetts, USA",
+        "parts": [
+          "Sharon",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2009-2020",
+        "year": 2009,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bonita Springs, Florida, USA",
+        "parts": [
+          "Bonita Springs",
+          "Florida",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S458741983",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Foxboro, MA",
+        "parts": [
+          "Foxboro",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Norwood, MA",
+        "parts": [
+          "Norwood",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Walpole",
+        "parts": [
+          "Walpole"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 10 Jan 2013; Publication Place: Boston, Massachusetts, USA; URL: https://www.newspapers.com/image/444206147/?article=fda9d88d-4cb3-4299-98cf-6eaac2613329&focus=0.0074533545,0.016582748,0.17406572,0.28325877&xid=3355"
+        },
+        {
+          "source_id": "S446914524",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Walpole, Sharon, Bonita Springs, FL, Dedham, Brockton",
+        "parts": [
+          "Walpole",
+          "Sharon",
+          "Bonita Springs",
+          "FL",
+          "Dedham",
+          "Brockton"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": null
+        },
+        {
+          "source_id": "S446914516",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914507",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 1",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914762",
+      "title": "U.S., Social Security Death Index, 1935-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914569",
+      "title": "Massachusetts, Birth Index, 1860-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S458741983",
+      "title": "U.S., Index to Public Records, 1994-2019",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

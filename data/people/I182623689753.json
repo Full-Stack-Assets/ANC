@@ -1,0 +1,66 @@
+{
+  "id": "I182623689753",
+  "name": {
+    "given": "Rev. William",
+    "surname": "Cooke Cocke Cox, Vicar",
+    "suffix": null,
+    "full": "Rev. William Cooke Cocke Cox, Vicar"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stratton, Dorset, , England",
+        "parts": [
+          "Stratton",
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Apr 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Essex, Baltimore, Maryland, US",
+        "parts": [
+          "Essex",
+          "Baltimore",
+          "Maryland",
+          "US"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623689737"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

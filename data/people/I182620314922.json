@@ -1,0 +1,65 @@
+{
+  "id": "I182620314922",
+  "name": {
+    "given": "Mariam",
+    "surname": "Leonard",
+    "suffix": null,
+    "full": "Mariam Leonard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hexhem, Northumberland, England",
+        "parts": [
+          "Hexhem",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620314948",
+      "I182620314938"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314915"
+      }
+    ],
+    "children": [
+      "I182620314885"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

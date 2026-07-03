@@ -1,0 +1,71 @@
+{
+  "id": "I182541956448",
+  "name": {
+    "given": "Rachel",
+    "surname": "BURROUGH (PINE) (DAVIS)",
+    "suffix": null,
+    "full": "Rachel BURROUGH (PINE) (DAVIS)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 March 1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington County, New Jersey, USA",
+        "parts": [
+          "Burlington County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Aug 1826",
+        "year": 1826,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Burlington County, New Jersey, USA",
+        "parts": [
+          "Burlington County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541957577"
+    ],
+    "spouses": [
+      {
+        "id": "I182541932596"
+      }
+    ],
+    "children": [
+      "I182197732094"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

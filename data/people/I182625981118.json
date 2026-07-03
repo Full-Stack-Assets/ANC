@@ -1,0 +1,73 @@
+{
+  "id": "I182625981118",
+  "name": {
+    "given": "Elizabeth Anna",
+    "surname": "Littlefield- Kenworthy",
+    "suffix": null,
+    "full": "Elizabeth Anna Littlefield- Kenworthy"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "09 Feb 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Kent, England, United Kingdom",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981144",
+      "I182625981141"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981105"
+      }
+    ],
+    "children": [
+      "I182625981087"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

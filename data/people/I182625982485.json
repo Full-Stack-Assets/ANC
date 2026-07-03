@@ -1,0 +1,177 @@
+{
+  "id": "I182625982485",
+  "name": {
+    "given": "Anne",
+    "surname": "Boleyn",
+    "suffix": null,
+    "full": "Anne Boleyn"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 March 1501",
+        "year": 1501,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blickling, Broadland District, Norfolk, England",
+        "parts": [
+          "Blickling",
+          "Broadland District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 May 1536",
+        "year": 1536,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tower Hamlets, London Borough of Tower Hamlets, Greater London, England",
+        "parts": [
+          "Tower Hamlets",
+          "London Borough of Tower Hamlets",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S514024035",
+          "page": null
+        },
+        {
+          "source_id": "S516008889",
+          "page": null
+        },
+        {
+          "source_id": "S516958505",
+          "page": "Obituaries prior to 1800; Author: Musgrave, William, Sir, 1735-1800; Armytage, George J., Sir, 1842-1918"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Wapping, London Borough of Tower Hamlets, Greater London, England",
+        "parts": [
+          "Wapping",
+          "London Borough of Tower Hamlets",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982482",
+      "I182625982382"
+    ],
+    "spouses": [
+      {
+        "id": "I182625982809",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 May 1533",
+            "year": 1533,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516958479",
+              "page": null
+            },
+            {
+              "source_id": "S516958479",
+              "page": "Henry County Local; Publication Date: 29/ Jul/ 1976; Publication Place: New Castle, Kentucky, USA; URL: https://www.newspapers.com/image/920571034/?article=09f45860-9777-4cb4-8fe4-bd90d89af87d&focus=0.030712668,0.93664306,0.15072031,0.975404&xid=3398"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625983112"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S514024035",
+      "title": "Web: Netherlands, GenealogieOnline Trees Index, 1000-2015",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516958505",
+      "title": "England, Extracted Parish and Court Records, 1399-1795",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516958479",
+      "title": "U.S., Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516958461",
+      "title": "Liverpool, England, Church of England Baptisms, 1813-1919",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

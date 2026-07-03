@@ -1,0 +1,66 @@
+{
+  "id": "I182623664495",
+  "name": {
+    "given": "Sir Robert",
+    "surname": "Throckmorton",
+    "suffix": null,
+    "full": "Sir Robert Throckmorton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Coughton, Warwick, England",
+        "parts": [
+          "Coughton",
+          "Warwick",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "01 Jan 1586",
+        "year": 1586,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Suffolk, England",
+        "parts": [
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664551",
+      "I182623664547"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664484"
+      }
+    ],
+    "children": [
+      "I182623664477"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

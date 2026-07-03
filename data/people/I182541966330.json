@@ -1,0 +1,91 @@
+{
+  "id": "I182541966330",
+  "name": {
+    "given": "MARY (Sarah)",
+    "surname": "DODGE",
+    "suffix": null,
+    "full": "MARY (Sarah) DODGE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Apr 1675",
+        "year": 1675,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, MA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508670172",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Nov 1763",
+        "year": 1763,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beverly, Essex, MA",
+        "parts": [
+          "Beverly",
+          "Essex",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508670172",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182545335936",
+      "I182545335943"
+    ],
+    "spouses": [
+      {
+        "id": "I182541966326"
+      }
+    ],
+    "children": [
+      "I182541966181",
+      "I182545335905"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508670172",
+      "title": "U.S., Sons of the American Revolution Membership Applications, 1889-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I182197443214",
+  "person": "Sven Johan Samuelsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Langelanda och Torp Parish, Goteborg och Bohus County, Sweden",
+        "parts": [
+          "Langelanda och Torp Parish",
+          "Goteborg och Bohus County",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 apr 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Goteborg och Bohus County, Sweden",
+        "parts": [
+          "Goteborg och Bohus County",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 dec 1877",
+        "year": 1877,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

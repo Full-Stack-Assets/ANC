@@ -1,0 +1,65 @@
+{
+  "id": "I182620321198",
+  "person": "Olaus Andreae Angermanus",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Prastgarden Sidensjo, Dalarnas, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Prastgarden Sidensjo",
+          "Dalarnas",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "I fångenskap 8 år Gripsholms slott, Mariefred",
+        "parts": [
+          "I fångenskap 8 år Gripsholms slott",
+          "Mariefred"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 October 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

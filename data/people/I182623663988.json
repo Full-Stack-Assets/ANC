@@ -1,0 +1,70 @@
+{
+  "id": "I182623663988",
+  "name": {
+    "given": "Johann Jacob",
+    "surname": "Schaad",
+    "suffix": null,
+    "full": "Johann Jacob Schaad"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 February 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Baltersweiler, Saarland, Deu",
+        "parts": [
+          "Baltersweiler",
+          "Saarland",
+          "Deu"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "19 April 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urweiler, St. Wendel, Saarland, Deu",
+        "parts": [
+          "Urweiler",
+          "St. Wendel",
+          "Saarland",
+          "Deu"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623663985"
+      }
+    ],
+    "children": [
+      "I182623663939"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

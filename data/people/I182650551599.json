@@ -1,0 +1,49 @@
+{
+  "id": "I182650551599",
+  "name": {
+    "given": "Edward",
+    "surname": "Doty",
+    "suffix": null,
+    "full": "Edward Doty"
+  },
+  "sex": "M",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Aug 1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650551596"
+      }
+    ],
+    "children": [
+      "I182650551584"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I182650548845",
+  "name": {
+    "given": "Sir Walter",
+    "surname": "Langley of Knowlton",
+    "suffix": "II",
+    "full": "Sir Walter Langley of Knowlton II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1490",
+        "year": 1490,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rochdale Parish Church, Rochdale, Lanacashire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Rochdale Parish Church",
+          "Rochdale",
+          "Lanacashire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Unknown",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, England",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182650548825"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

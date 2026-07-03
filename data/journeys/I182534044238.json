@@ -1,0 +1,57 @@
+{
+  "id": "I182534044238",
+  "person": "Mary Magdalena Eichorn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gobrichen, Baden Durach, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Gobrichen",
+          "Baden Durach",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 April 1712",
+        "year": 1712,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Waldoboro, Lincoln, Maine, USA",
+        "parts": [
+          "Waldoboro",
+          "Lincoln",
+          "Maine",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "29 April 1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

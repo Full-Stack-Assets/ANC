@@ -1,0 +1,55 @@
+{
+  "id": "I182625987709",
+  "person": "Sir Edmund Degrey, Baron Grey Of Wilton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Wilton Castle, Herefordshire, England 1666735",
+        "parts": [
+          "Wilton Castle",
+          "Herefordshire",
+          "England 1666735"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1469",
+        "year": 1469,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "5 May 1511",
+        "year": 1511,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

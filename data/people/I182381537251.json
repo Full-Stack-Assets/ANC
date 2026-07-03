@@ -1,0 +1,49 @@
+{
+  "id": "I182381537251",
+  "name": {
+    "given": "Alexander",
+    "surname": "Steel",
+    "suffix": null,
+    "full": "Alexander Steel"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bathgate, West Lothian, Scotland, United Kingdom",
+        "parts": [
+          "Bathgate",
+          "West Lothian",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381537246"
+      }
+    ],
+    "children": [
+      "I182381537234"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182613118628",
+  "name": {
+    "given": "Robert",
+    "surname": "McClelland",
+    "suffix": null,
+    "full": "Robert McClelland"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587609594"
+      }
+    ],
+    "children": [
+      "I182613118644",
+      "I182613118627"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447147251",
+      "title": "Pennsylvania, Death Certificates, 1906-1967",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

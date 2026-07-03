@@ -1,0 +1,53 @@
+{
+  "id": "I182620321396",
+  "name": {
+    "given": "Erick",
+    "surname": null,
+    "suffix": null,
+    "full": "Erick"
+  },
+  "sex": null,
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182522976091",
+      "I182620321201"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Jäder, Södermanland, Sverige",
+        "parts": [
+          "Jäder",
+          "Södermanland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Son",
+      "sources": [
+        {
+          "source_id": "S516619795",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516619795",
+      "title": "Sweden, Household Clerical Surveys, 1880-1896",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

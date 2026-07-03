@@ -1,0 +1,72 @@
+{
+  "id": "I182567600333",
+  "name": {
+    "given": "Sir WILLIAM Knight",
+    "surname": "Bull (Quaker)",
+    "suffix": null,
+    "full": "Sir WILLIAM Knight Bull (Quaker)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 Jul 1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coleshill, Warwickshire, England",
+        "parts": [
+          "Coleshill",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Manuden, Hertfordshire, England",
+        "parts": [
+          "Manuden",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182567600400",
+      "I182567600380"
+    ],
+    "spouses": [
+      {
+        "id": "I182567600325"
+      }
+    ],
+    "children": [
+      "I182567600278"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

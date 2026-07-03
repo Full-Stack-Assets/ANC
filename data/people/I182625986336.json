@@ -1,0 +1,73 @@
+{
+  "id": "I182625986336",
+  "name": {
+    "given": "Peter",
+    "surname": "Stringham",
+    "suffix": "II",
+    "full": "Peter Stringham II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ca. 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hereford, Herefordshire, England",
+        "parts": [
+          "Hereford",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 August 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hempstead, (now Nassau County), Long Island, New York",
+        "parts": [
+          "Hempstead",
+          "(now Nassau County)",
+          "Long Island",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986341",
+      "I182625986344"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986326"
+      }
+    ],
+    "children": [
+      "I182625986309"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

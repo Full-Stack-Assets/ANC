@@ -1,0 +1,72 @@
+{
+  "id": "I182623690454",
+  "name": {
+    "given": "Robert de Brandon",
+    "surname": "(Lord Chamberlain of London 1583)  Royal Goldsmith",
+    "suffix": null,
+    "full": "Robert de Brandon (Lord Chamberlain of London 1583)  Royal Goldsmith"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "01 Jan 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 May 1591",
+        "year": 1591,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690898",
+      "I182623690890"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690437"
+      }
+    ],
+    "children": [
+      "I182623690349"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

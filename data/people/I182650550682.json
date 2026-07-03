@@ -1,0 +1,69 @@
+{
+  "id": "I182650550682",
+  "name": {
+    "given": "^ (Pvt) Matthew",
+    "surname": "Kingman",
+    "suffix": null,
+    "full": "^ (Pvt) Matthew Kingman"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Sep 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bridgewater, Plymouth, Province of Massachusetts Bay Colony",
+        "parts": [
+          "Bridgewater",
+          "Plymouth",
+          "Province of Massachusetts Bay Colony"
+        ]
+      },
+      "value": null,
+      "note": "Massachusetts statehood on 6 Feb 1788",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Nov 1809",
+        "year": 1809,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Bridgewater, Plymouth, Massachusetts, USA",
+        "parts": [
+          "North Bridgewater",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Age: 78",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650550689",
+      "I182650550711"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650550641"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

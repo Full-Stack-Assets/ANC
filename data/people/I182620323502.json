@@ -1,0 +1,71 @@
+{
+  "id": "I182620323502",
+  "name": {
+    "given": "Catherine",
+    "surname": "MacDonald",
+    "suffix": null,
+    "full": "Catherine MacDonald"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glenelg Par, Barisdale, Inverness, Scotland, United Kingdom",
+        "parts": [
+          "Glenelg Par",
+          "Barisdale",
+          "Inverness",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 JUN 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Uist, Inverness-shire, Scotland",
+        "parts": [
+          "North Uist",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323505"
+      }
+    ],
+    "children": [
+      "I182620323070"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

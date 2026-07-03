@@ -1,0 +1,57 @@
+{
+  "id": "I182381537944",
+  "person": "Richard Buckeley",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Baron Hill, Beaumaris, Anglesey, Wales",
+        "parts": [
+          "Baron Hill",
+          "Beaumaris",
+          "Anglesey",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Baron Hill, Beaumaurice, Anglice, Wales",
+        "parts": [
+          "Baron Hill",
+          "Beaumaurice",
+          "Anglice",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 September 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

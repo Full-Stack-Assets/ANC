@@ -1,0 +1,71 @@
+{
+  "id": "I182570421661",
+  "name": {
+    "given": "Capt. Barnabas",
+    "surname": "Horton",
+    "suffix": "II",
+    "full": "Capt. Barnabas Horton II"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Southold, Suffolk, New York, USA",
+        "parts": [
+          "Southold",
+          "Suffolk",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Oct 1782",
+        "year": 1782,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goshen, Orange, New York, USA",
+        "parts": [
+          "Goshen",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182570421656"
+      }
+    ],
+    "children": [
+      "I182567600222"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

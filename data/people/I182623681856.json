@@ -1,0 +1,67 @@
+{
+  "id": "I182623681856",
+  "name": {
+    "given": "John Walter\\Walteri",
+    "surname": "Framingham\\Fremingham Robertson\\Roberts, Esq., Baron Roberts of Glassenbury",
+    "suffix": "Sir",
+    "full": "John Walter\\Walteri Framingham\\Fremingham Robertson\\Roberts, Esq., Baron Roberts of Glassenbury Sir"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1526",
+        "year": 1526,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Glassenbury Manor, Cranbrook, Kent, England",
+        "parts": [
+          "Glassenbury Manor",
+          "Cranbrook",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Jun 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cranbrook, Kent/Woolston/Welford, Gloucestershire, England",
+        "parts": [
+          "Cranbrook",
+          "Kent/Woolston/Welford",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623681567"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

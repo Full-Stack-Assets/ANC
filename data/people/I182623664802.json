@@ -1,0 +1,87 @@
+{
+  "id": "I182623664802",
+  "name": {
+    "given": "John Burgoyne",
+    "surname": "Burgoyne-Bosum",
+    "suffix": null,
+    "full": "John Burgoyne Burgoyne-Bosum"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1475",
+        "year": 1475,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "possibly Cambridgeshire, England",
+        "parts": [
+          "possibly Cambridgeshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aug 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sutton, Bedfordshire or London, England",
+        "parts": [
+          "Sutton",
+          "Bedfordshire or London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623664625"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1475",
+        "year": 1475,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Cambridgeshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Cambridgeshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

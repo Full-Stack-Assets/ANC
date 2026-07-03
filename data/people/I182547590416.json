@@ -1,0 +1,182 @@
+{
+  "id": "I182547590416",
+  "name": {
+    "given": "Hannß Jerg",
+    "surname": "Ried",
+    "suffix": null,
+    "full": "Hannß Jerg Ried"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 April 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Juli 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182547590406"
+      }
+    ],
+    "children": [
+      "I182534044344"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "16 April 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stuttgart, Stuttgarter Stadtkreis, Baden-Württemberg, Germany",
+        "parts": [
+          "Stuttgart",
+          "Stuttgarter Stadtkreis",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "16 April 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stuttgart, Stadtkreis Stuttgart, Baden-Württemberg, GERMANY.",
+        "parts": [
+          "Stuttgart",
+          "Stadtkreis Stuttgart",
+          "Baden-Württemberg",
+          "GERMANY."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "16 April 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stuttgart, Stadtkreis Stuttgart, Baden-Württemberg, Germany",
+        "parts": [
+          "Stuttgart",
+          "Stadtkreis Stuttgart",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 Juli 1693",
+        "year": 1693,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langensteinbach, Karlsruhe, Baden Wurttemberg, Allemagne",
+        "parts": [
+          "Langensteinbach",
+          "Karlsruhe",
+          "Baden Wurttemberg",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "I182620315197",
+  "name": {
+    "given": "John",
+    "surname": "Crosby (2nd husband of widow Jane)",
+    "suffix": null,
+    "full": "John Crosby (2nd husband of widow Jane)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 January 1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme On Spalding Moor, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Holme On Spalding Moor",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jan 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme upon Spalding Moor, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Holme upon Spalding Moor",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315357",
+      "I182620315349"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315186"
+      }
+    ],
+    "children": [
+      "I182620315152"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holme On Spalding Moor, Yorkshire, England",
+        "parts": [
+          "Holme On Spalding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "11 Jan 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spalding Moor, Yorkshire, England",
+        "parts": [
+          "Spalding Moor",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

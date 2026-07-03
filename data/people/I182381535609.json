@@ -1,0 +1,72 @@
+{
+  "id": "I182381535609",
+  "name": {
+    "given": "John",
+    "surname": "Southgate",
+    "suffix": null,
+    "full": "John Southgate"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Dec 1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elton, Huntingdon, England",
+        "parts": [
+          "Elton",
+          "Huntingdon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Jan 1694-5",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Elton, Huntingdon, England",
+        "parts": [
+          "Elton",
+          "Huntingdon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535671",
+      "I182381535624"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535600"
+      }
+    ],
+    "children": [
+      "I182381535591"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

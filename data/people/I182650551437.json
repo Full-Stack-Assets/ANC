@@ -1,0 +1,72 @@
+{
+  "id": "I182650551437",
+  "name": {
+    "given": "John Edward",
+    "surname": "Doty",
+    "suffix": null,
+    "full": "John Edward Doty"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 May 1638",
+        "year": 1638,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Plymouth",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 May 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth,massachusetts,america",
+        "parts": [
+          "Plymouth",
+          "massachusetts",
+          "america"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551445"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551434"
+      }
+    ],
+    "children": [
+      "I182650551427"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "I182541967174",
+  "name": {
+    "given": "Richard",
+    "surname": "Barnes",
+    "suffix": null,
+    "full": "Richard Barnes"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1509",
+        "year": 1509,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Toddington, Bedfordshire, England",
+        "parts": [
+          "Toddington",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Jun 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brinkworth, Wiltshire, England",
+        "parts": [
+          "Brinkworth",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508120342",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Long Wittenham, Wales, Glamorgan, Wales",
+        "parts": [
+          "Long Wittenham",
+          "Wales",
+          "Glamorgan",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508120342",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182541967165"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508120342",
+      "title": "UK, Extracted Probate Records, 1269-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

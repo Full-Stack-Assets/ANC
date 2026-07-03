@@ -1,0 +1,71 @@
+{
+  "id": "I182541960160",
+  "name": {
+    "given": "Dorothy",
+    "surname": "Cooke\\Cookes",
+    "suffix": null,
+    "full": "Dorothy Cooke\\Cookes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Honiton On Otter,Devon,England",
+        "parts": [
+          "Honiton On Otter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 MAY 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Honiton On Otter,Devon,England",
+        "parts": [
+          "Honiton On Otter",
+          "Devon",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960231"
+    ],
+    "spouses": [
+      {
+        "id": "I182541960180"
+      }
+    ],
+    "children": [
+      "I182541960116"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

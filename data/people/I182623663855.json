@@ -1,0 +1,92 @@
+{
+  "id": "I182623663855",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Haas",
+    "suffix": null,
+    "full": "Elizabeth Haas"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "oberrode Fulda, Hessen, Germany",
+        "parts": [
+          "oberrode Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 nov 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Giesel, Fulda, Germany",
+        "parts": [
+          "Giesel",
+          "Fulda",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663912",
+      "I182623663928"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663858"
+      }
+    ],
+    "children": [
+      "I182623663806"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1775",
+        "year": 1775,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Germany",
+        "parts": [
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

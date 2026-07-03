@@ -1,0 +1,70 @@
+{
+  "id": "I182620321001",
+  "person": "Sigrid Jonsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kyrkbyn, Grangärde, Ludvika, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Kyrkbyn",
+          "Grangärde",
+          "Ludvika",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kyrkbyn, Grangärde, Kopparbergs Län, Ludvika, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Kyrkbyn",
+          "Grangärde",
+          "Kopparbergs Län",
+          "Ludvika",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 July 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

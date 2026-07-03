@@ -1,0 +1,74 @@
+{
+  "id": "I182625292257",
+  "name": {
+    "given": "Capt. Eleazor",
+    "surname": "Howell Hawkins",
+    "suffix": null,
+    "full": "Capt. Eleazor Howell Hawkins"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "07 Aug 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Setauket, Suffolk, New York, USA",
+        "parts": [
+          "Setauket",
+          "Suffolk",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Sep 1772",
+        "year": 1772,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Setauket, Suffolk County, New York, United States of America",
+        "parts": [
+          "Setauket",
+          "Suffolk County",
+          "New York",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292265",
+      "I182625292264"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292255"
+      }
+    ],
+    "children": [
+      "I182625292247"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

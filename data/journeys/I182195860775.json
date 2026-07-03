@@ -1,0 +1,56 @@
+{
+  "id": "I182195860775",
+  "person": "Johannes Magnusson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Backgården Hadäng farm, Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Backgården Hadäng farm",
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Sep 1791",
+        "year": 1791,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Nya Varv, Skaraborg, Sweden",
+        "parts": [
+          "Nya Varv",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 Jan 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

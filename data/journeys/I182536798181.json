@@ -1,0 +1,53 @@
+{
+  "id": "I182536798181",
+  "person": "Torbjörn Östensson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Härlycke, Stala",
+        "parts": [
+          "Härlycke",
+          "Stala"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1655",
+        "year": 1655,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Härlycke,Stala (O) Sverige",
+        "parts": [
+          "Härlycke",
+          "Stala (O) Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1718",
+        "year": 1718,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,106 @@
+{
+  "id": "I182620325090",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Iley Cooke",
+    "suffix": null,
+    "full": "Elizabeth Iley Cooke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1556",
+        "year": 1556,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cheshire, England",
+        "parts": [
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "aft 1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "Kinnerton, Cheshire, England",
+        "parts": [
+          "Kinnerton",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620325166",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "25 Nov 1578",
+            "year": 1578,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Esh,Durham,England",
+            "parts": [
+              "Esh",
+              "Durham",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182620325068"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

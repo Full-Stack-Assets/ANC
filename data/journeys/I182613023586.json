@@ -1,0 +1,57 @@
+{
+  "id": "I182613023586",
+  "person": "LUCY Page Towne",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Topsfield, Essex, MA, Colonies",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "MA",
+          "Colonies"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1705 Jan 6",
+        "year": 1705,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Topsfield,Essex,MA,Colonies",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "MA",
+          "Colonies"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1764-04-15",
+        "year": 1764,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

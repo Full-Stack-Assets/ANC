@@ -1,0 +1,58 @@
+{
+  "id": "I182567600222",
+  "person": "Silas 1730 Horton Sr*+*",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Southold, Suffolk, LI, NY, USA",
+        "parts": [
+          "Southold",
+          "Suffolk",
+          "LI",
+          "NY",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 December 1730",
+        "year": 1730,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Goshen, Orange, New York, USA",
+        "parts": [
+          "Goshen",
+          "Orange",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "28 February 1820",
+        "year": 1820,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182613112490",
+  "name": {
+    "given": "Belinda",
+    "surname": "Fraser",
+    "suffix": null,
+    "full": "Belinda Fraser"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1792",
+        "year": 1792,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmoreland, Cheshire, New Hampshire, USA",
+        "parts": [
+          "Westmoreland",
+          "Cheshire",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 June 1814",
+        "year": 1814,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westmoreland, Cheshire County, New Hampshire, United States of America",
+        "parts": [
+          "Westmoreland",
+          "Cheshire County",
+          "New Hampshire",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112501"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112498"
+      }
+    ],
+    "children": [
+      "I182613023540"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "I182381535070",
+  "person": "Mary Robinson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Heversham, Westmorland, England",
+        "parts": [
+          "Heversham",
+          "Westmorland",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kidderminster, Worcestershire, England?",
+        "parts": [
+          "Kidderminster",
+          "Worcestershire",
+          "England?"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

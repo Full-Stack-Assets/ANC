@@ -1,0 +1,41 @@
+{
+  "id": "I182381535475",
+  "name": {
+    "given": "Benjamin c",
+    "surname": "Groff",
+    "suffix": null,
+    "full": "Benjamin c Groff"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381535516"
+      }
+    ],
+    "children": [
+      "I182381535346"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

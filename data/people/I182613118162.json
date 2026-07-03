@@ -1,0 +1,67 @@
+{
+  "id": "I182613118162",
+  "name": {
+    "given": "Lady Frances Isabella",
+    "surname": "Clinton, Brydges\\Bridges van Fiennes",
+    "suffix": null,
+    "full": "Lady Frances Isabella Clinton, Brydges\\Bridges van Fiennes"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scrivelsby (Lincoln) England",
+        "parts": [
+          "Scrivelsby (Lincoln) England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "12 Sep 1623",
+        "year": 1623,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn Abbey, Bedfordshire, England",
+        "parts": [
+          "Woburn Abbey",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613118158"
+      }
+    ],
+    "children": [
+      "I182613118146"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "I182623680269",
+  "name": {
+    "given": "LT John",
+    "surname": "Roberts",
+    "suffix": null,
+    "full": "LT John Roberts"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1629",
+        "year": 1629,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Strafford, New Hampshire",
+        "parts": [
+          "Dover",
+          "Strafford",
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "21 Jan 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dover, Stafford, New Hampshire",
+        "parts": [
+          "Dover",
+          "Stafford",
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681469"
+    ],
+    "spouses": [
+      {
+        "id": "I182623680266"
+      }
+    ],
+    "children": [
+      "I182623680069"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810856",
+      "title": "Northamptonshire, England, Church of England Baptisms, Marriages and Burials, 1532-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

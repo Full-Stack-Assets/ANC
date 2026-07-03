@@ -1,0 +1,136 @@
+{
+  "id": "I182197770234",
+  "name": {
+    "given": "Ann",
+    "surname": "Austin",
+    "suffix": null,
+    "full": "Ann Austin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 Apr 1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Evesham, Burlington, NJ, USA",
+        "parts": [
+          "Evesham",
+          "Burlington",
+          "NJ",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Dec 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, New Jersey, United States",
+        "parts": [
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960934"
+    ],
+    "spouses": [
+      {
+        "id": "I182197770339",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "12 Nov 1727",
+            "year": 1727,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Camden, New Jersey",
+            "parts": [
+              "Camden",
+              "New Jersey"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447146275",
+              "page": null
+            },
+            {
+              "source_id": "S447152695",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182197756280"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "12 Nov 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146275",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146275",
+      "title": "U.S., Quaker Meeting Records, 1681-1935",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447152695",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

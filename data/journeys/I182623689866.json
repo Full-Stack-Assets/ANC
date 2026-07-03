@@ -1,0 +1,55 @@
+{
+  "id": "I182623689866",
+  "person": "Samuel Eldridge",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Yarmouth, Massachusetts",
+        "parts": [
+          "Yarmouth",
+          "Massachusetts"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Sep 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Yarmouth, Cumberland, Maine, United States",
+        "parts": [
+          "Yarmouth",
+          "Cumberland",
+          "Maine",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Feb 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

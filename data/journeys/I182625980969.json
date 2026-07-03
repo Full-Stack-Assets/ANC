@@ -1,0 +1,60 @@
+{
+  "id": "I182625980969",
+  "person": "Nicholace Douglas",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Drumlanrig Castle, Dumfriesshire, Dumfries and Galloway, Scotland, United Kingdom",
+        "parts": [
+          "Drumlanrig Castle",
+          "Dumfriesshire",
+          "Dumfries and Galloway",
+          "Scotland",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Aft. 01 Nov 1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

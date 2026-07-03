@@ -1,0 +1,94 @@
+{
+  "id": "I182650551480",
+  "name": {
+    "given": "John",
+    "surname": "Clark",
+    "suffix": null,
+    "full": "John Clark"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wells, Somerset, England",
+        "parts": [
+          "Wells",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Wells, Somerset, England",
+        "parts": [
+          "Wells",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551482",
+      "I182650551485"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551477"
+      }
+    ],
+    "children": [
+      "I182650551472"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Earls Colne, Essex, England",
+        "parts": [
+          "Earls Colne",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "I182623664580",
+  "name": {
+    "given": "Lady Margaret",
+    "surname": "Arden-Bosum 19GGM",
+    "suffix": null,
+    "full": "Lady Margaret Arden-Bosum 19GGM"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxton, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Roxton",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roxton, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Roxton",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664640"
+      }
+    ],
+    "children": [
+      "I182623664565",
+      "I182623664573"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810626",
+      "title": "UK and Ireland, Newspapers.com™ Marriage Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

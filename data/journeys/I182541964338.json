@@ -1,0 +1,55 @@
+{
+  "id": "I182541964338",
+  "person": "Sarah Sanford (Paine)",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boston, Massachusetts, British American Colony",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "British American Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Jan 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Salem County, New Jersey, British Colony",
+        "parts": [
+          "Salem County",
+          "New Jersey",
+          "British Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

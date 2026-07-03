@@ -1,0 +1,49 @@
+{
+  "id": "I182381537499",
+  "name": {
+    "given": "Robert",
+    "surname": "Banks",
+    "suffix": null,
+    "full": "Robert Banks"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537523",
+      "I182381537522"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537490"
+      }
+    ],
+    "children": [
+      "I182381537274"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "I182195862476",
+  "name": {
+    "given": "Charles Luke",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Charles Luke Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 May 1888",
+        "year": 1888,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chambersburg, Mercer, New Jersey",
+        "parts": [
+          "Chambersburg",
+          "Mercer",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1974",
+        "year": 1974,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Titusville, Mercer, New Jersey, United States of America",
+        "parts": [
+          "Titusville",
+          "Mercer",
+          "New Jersey",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862295",
+      "I182195862467"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

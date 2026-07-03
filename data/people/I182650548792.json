@@ -1,0 +1,109 @@
+{
+  "id": "I182650548792",
+  "name": {
+    "given": "Sir George",
+    "surname": "Denison (Bishop of Thorley)",
+    "suffix": null,
+    "full": "Sir George Denison (Bishop of Thorley)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1513",
+        "year": 1513,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Thorley, East Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Thorley",
+          "East Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "July 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bishops Stortford, Hertfordshire, England",
+        "parts": [
+          "Bishops Stortford",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548818",
+      "I182650548804"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548795",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1527",
+            "year": 1527,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Thorly, Herts, Hertfordshire, England, United Kingdom",
+            "parts": [
+              "Thorly",
+              "Herts",
+              "Hertfordshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914557",
+              "page": "Ancestry Family Tree"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182650548777"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

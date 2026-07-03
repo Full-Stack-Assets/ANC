@@ -1,0 +1,70 @@
+{
+  "id": "I182613112423",
+  "name": {
+    "given": "John James",
+    "surname": "Lockey",
+    "suffix": null,
+    "full": "John James Lockey"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "St Albans, Hertfordshire, England",
+        "parts": [
+          "St Albans",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1608",
+        "year": 1608,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112435"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112417"
+      }
+    ],
+    "children": [
+      "I182613112387"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

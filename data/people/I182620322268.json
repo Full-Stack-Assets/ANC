@@ -1,0 +1,116 @@
+{
+  "id": "I182620322268",
+  "name": {
+    "given": "Thomas W.",
+    "surname": "ARSENAULT",
+    "suffix": null,
+    "full": "Thomas W. ARSENAULT"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "06 Jun 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree, Inverness, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Margaree",
+          "Inverness",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1945",
+        "year": 1945,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322316",
+      "I182620322296"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322285"
+      }
+    ],
+    "children": [
+      "I182195859446"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "06 Jun 1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canada French",
+        "parts": [
+          "Canada French"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "04 Aug 1945",
+        "year": 1945,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "351 Washington St. Newton, Mdlsx, MA",
+        "parts": [
+          "351 Washington St. Newton",
+          "Mdlsx",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

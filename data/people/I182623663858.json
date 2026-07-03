@@ -1,0 +1,73 @@
+{
+  "id": "I182623663858",
+  "name": {
+    "given": "Johann Valentine",
+    "surname": "Block Bloch",
+    "suffix": null,
+    "full": "Johann Valentine Block Bloch"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Dec 1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grischow, Nordvorpommern, Mecklenburg-Vorpommern, Germany",
+        "parts": [
+          "Grischow",
+          "Nordvorpommern",
+          "Mecklenburg-Vorpommern",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "08 Nov 1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Giesel, Fulda, Germany",
+        "parts": [
+          "Giesel",
+          "Fulda",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663906",
+      "I182623663921"
+    ],
+    "spouses": [
+      {
+        "id": "I182623663855"
+      }
+    ],
+    "children": [
+      "I182623663806"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

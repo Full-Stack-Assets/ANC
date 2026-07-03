@@ -1,0 +1,67 @@
+{
+  "id": "I182623663921",
+  "name": {
+    "given": "maria Elizabeth",
+    "surname": "Denner",
+    "suffix": null,
+    "full": "maria Elizabeth Denner"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 Jun 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Traisbach (Margretenhaun)",
+        "parts": [
+          "Traisbach (Margretenhaun)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "06 Sep 1824",
+        "year": 1824,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Giesel, Fulda, Germany",
+        "parts": [
+          "Giesel",
+          "Fulda",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623663906"
+      }
+    ],
+    "children": [
+      "I182623663858"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

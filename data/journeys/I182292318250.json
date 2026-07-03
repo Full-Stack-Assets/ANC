@@ -1,0 +1,53 @@
+{
+  "id": "I182292318250",
+  "person": "Annika Olsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Myckleby, Önne",
+        "parts": [
+          "Myckleby",
+          "Önne"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 MAY 1800",
+        "year": 1800,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Tegneby, Lunnaslätt",
+        "parts": [
+          "Tegneby",
+          "Lunnaslätt"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1876",
+        "year": 1876,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

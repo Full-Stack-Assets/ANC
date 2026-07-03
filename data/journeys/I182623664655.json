@@ -1,0 +1,84 @@
+{
+  "id": "I182623664655",
+  "person": "Lady Anne\\Ann Freville-Burgoyne-Bosum",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "england",
+        "parts": [
+          "england"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810631",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Crediton, Devon, England",
+        "parts": [
+          "Crediton",
+          "Devon",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Feb 1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "burial",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516810631",
+          "page": "Indexes created from Anglican Parish Registers held at South West Heritage Trust; Taunton, Somerset, England"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

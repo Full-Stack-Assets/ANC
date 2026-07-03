@@ -1,0 +1,55 @@
+{
+  "id": "I182534044128",
+  "person": "Matilda Hawkins-Crist",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Blooming Grove, Orange, NY",
+        "parts": [
+          "Blooming Grove",
+          "Orange",
+          "NY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "30 June 1793",
+        "year": 1793,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Middletown, Orange, NY",
+        "parts": [
+          "Middletown",
+          "Orange",
+          "NY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 December 1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

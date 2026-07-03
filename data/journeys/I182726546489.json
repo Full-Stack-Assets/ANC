@@ -1,0 +1,59 @@
+{
+  "id": "I182726546489",
+  "person": "Per Jonsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Grindsby, Myckleby, Orust, Bohuslän, Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Orust",
+          "Bohuslän",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grindsby, Myckleby, Orust, Bohuslän, Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Orust",
+          "Bohuslän",
+          "Sverige"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Mar 1747",
+        "year": 1747,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

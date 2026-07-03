@@ -1,0 +1,104 @@
+{
+  "id": "I182623664386",
+  "name": {
+    "given": "Sir Thomas I Rhys (Rice)",
+    "surname": "Nicoll Davis (Davys),",
+    "suffix": null,
+    "full": "Sir Thomas I Rhys (Rice) Nicoll Davis (Davys),"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Acton Turville, Gloucestershire, England",
+        "parts": [
+          "Acton Turville",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Nov 1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Acton Turville, Gloucestershire, England",
+        "parts": [
+          "Acton Turville",
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623664375",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "18 Oct 1575",
+            "year": 1575,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Marborough, Salisbury, Wiltshire, England",
+            "parts": [
+              "Marborough",
+              "Salisbury",
+              "Wiltshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182623664358"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

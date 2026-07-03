@@ -1,0 +1,71 @@
+{
+  "id": "I182541959128",
+  "name": {
+    "given": "Anne",
+    "surname": "Henley",
+    "suffix": null,
+    "full": "Anne Henley"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1672",
+        "year": 1672,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sudbury, Suffolk, England",
+        "parts": [
+          "Sudbury",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Silverstone, Northamptonshire, England",
+        "parts": [
+          "Silverstone",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964369"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959142"
+      }
+    ],
+    "children": [
+      "I182541959080"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

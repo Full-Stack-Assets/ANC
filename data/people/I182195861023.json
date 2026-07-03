@@ -1,0 +1,54 @@
+{
+  "id": "I182195861023",
+  "name": {
+    "given": "Lisa",
+    "surname": "Mansson",
+    "suffix": null,
+    "full": "Lisa Mansson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Juni 1794",
+        "year": 1794,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hadäng, Velinga, Västra Götaland, Sverige",
+        "parts": [
+          "Hadäng",
+          "Velinga",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861020",
+      "I182195861021"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

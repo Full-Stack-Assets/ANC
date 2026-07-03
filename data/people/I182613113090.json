@@ -1,0 +1,73 @@
+{
+  "id": "I182613113090",
+  "name": {
+    "given": "Susannah",
+    "surname": "Davis",
+    "suffix": null,
+    "full": "Susannah Davis"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 May 1662",
+        "year": 1662,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Reading, Middlesex, Massachusetts",
+        "parts": [
+          "Reading",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "October 1734",
+        "year": 1734,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woburn, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Woburn",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113111",
+      "I182613113103"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113073"
+      }
+    ],
+    "children": [
+      "I182613113064"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

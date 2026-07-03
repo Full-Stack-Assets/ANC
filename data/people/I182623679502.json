@@ -1,0 +1,74 @@
+{
+  "id": "I182623679502",
+  "name": {
+    "given": "Nathaniel",
+    "surname": "Atwood",
+    "suffix": null,
+    "full": "Nathaniel Atwood"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 September 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eastham, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Eastham",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Apr 1829",
+        "year": 1829,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wellfleet, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Wellfleet",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691127",
+      "I182623689801"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679498"
+      }
+    ],
+    "children": [
+      "I182623679478"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

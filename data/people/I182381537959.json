@@ -1,0 +1,81 @@
+{
+  "id": "I182381537959",
+  "name": {
+    "given": "Lady Catharine",
+    "surname": "Griffith",
+    "suffix": null,
+    "full": "Lady Catharine Griffith"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Penrhyn Castle, Caernarvonshire, Wales",
+        "parts": [
+          "Penrhyn Castle",
+          "Caernarvonshire",
+          "Wales"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Mar 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beaumaris, anglesey Alverstoke, Hampshire, England",
+        "parts": [
+          "Beaumaris",
+          "anglesey Alverstoke",
+          "Hampshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381537944"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508119336",
+      "title": "England, Scotland, and Wales Royal Families",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508119347",
+      "title": "The ancestors of Charles Clement Heacock : 1851-1914",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

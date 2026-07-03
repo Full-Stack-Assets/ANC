@@ -1,0 +1,94 @@
+{
+  "id": "I182541964338",
+  "name": {
+    "given": "Sarah",
+    "surname": "Sanford (Paine)",
+    "suffix": null,
+    "full": "Sarah Sanford (Paine)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 Jan 1661",
+        "year": 1661,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Massachusetts, British American Colony",
+        "parts": [
+          "Boston",
+          "Massachusetts",
+          "British American Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem County, New Jersey, British Colony",
+        "parts": [
+          "Salem County",
+          "New Jersey",
+          "British Colony"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964402"
+    ],
+    "spouses": [
+      {
+        "id": "I182541964344"
+      }
+    ],
+    "children": [
+      "I182541959101"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "Jan 1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hartford, Hartford, Connecticut, United States",
+        "parts": [
+          "Hartford",
+          "Hartford",
+          "Connecticut",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

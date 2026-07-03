@@ -1,0 +1,107 @@
+{
+  "id": "I182534044158",
+  "name": {
+    "given": "Sgt.  Philippus\\Philip",
+    "surname": "Crist",
+    "suffix": null,
+    "full": "Sgt.  Philippus\\Philip Crist"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Oct 1751",
+        "year": 1751,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Montgomery, Orange, New York, USA",
+        "parts": [
+          "Montgomery",
+          "Orange",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Aug 1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Herkimer County, New York, USA",
+        "parts": [
+          "Herkimer County",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044198",
+      "I182534044195"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044155"
+      }
+    ],
+    "children": [
+      "I182534044131"
+    ]
+  },
+  "events": [
+    {
+      "type": "military",
+      "date": {
+        "raw": "14-16 Oct 1778",
+        "year": 1778,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New York, USA",
+        "parts": [
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S506435308",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S506435308",
+      "title": "U.S., Revolutionary War Rolls, 1775-1783",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

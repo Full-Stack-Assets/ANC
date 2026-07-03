@@ -1,0 +1,74 @@
+{
+  "id": "I182195860781",
+  "name": {
+    "given": "Maria Kristina",
+    "surname": "Johansdotter",
+    "suffix": null,
+    "full": "Maria Kristina Johansdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Sverige",
+        "parts": [
+          "Hjo",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195860718",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "28 Sept 1862",
+            "year": 1862,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hjo landsförsamling, Skaraborg, Sverige",
+            "parts": [
+              "Hjo landsförsamling",
+              "Skaraborg",
+              "Sverige"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

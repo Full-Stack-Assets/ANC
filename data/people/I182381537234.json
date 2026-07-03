@@ -1,0 +1,65 @@
+{
+  "id": "I182381537234",
+  "name": {
+    "given": "Margaret",
+    "surname": "Steel",
+    "suffix": null,
+    "full": "Margaret Steel"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "of, Ayrshire, Scotland",
+        "parts": [
+          "of",
+          "Ayrshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537251",
+      "I182381537246"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537239"
+      }
+    ],
+    "children": [
+      "I182381537227"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

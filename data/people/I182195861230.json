@@ -1,0 +1,100 @@
+{
+  "id": "I182195861230",
+  "name": {
+    "given": "Sofia",
+    "surname": "Nilsdotter",
+    "suffix": null,
+    "full": "Sofia Nilsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 jan 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haga, Stala (O)",
+        "parts": [
+          "Haga",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 jan 1887",
+        "year": 1887,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Ng, Stala (O)",
+        "parts": [
+          "Hjälmvik Ng",
+          "Stala (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195861313",
+      "I182195861335"
+    ],
+    "spouses": [
+      {
+        "id": "I182195861248",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "13 MAY 1836",
+            "year": 1836,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+            "parts": [
+              "Hjälmvik Nolgården farm",
+              "Stala",
+              "Göteborg och Bohus",
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195860594"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

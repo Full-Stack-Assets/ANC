@@ -1,0 +1,74 @@
+{
+  "id": "I182650552498",
+  "name": {
+    "given": "Jacob",
+    "surname": "DeCoster",
+    "suffix": null,
+    "full": "Jacob DeCoster"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Sep 1813",
+        "year": 1813,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Westerlo, Albany, NY, USA",
+        "parts": [
+          "Westerlo",
+          "Albany",
+          "NY",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552512",
+      "I182650552515"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552503"
+      }
+    ],
+    "children": [
+      "I182650552492"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182381537788",
+  "person": "Joshua Hunt Sr.",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "West Farms, Westchester County, Colony of New York",
+        "parts": [
+          "West Farms",
+          "Westchester County",
+          "Colony of New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Oct 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "White Plains, Westchester County, Colony of New York",
+        "parts": [
+          "White Plains",
+          "Westchester County",
+          "Colony of New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Mar 1762",
+        "year": 1762,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

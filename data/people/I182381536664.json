@@ -1,0 +1,44 @@
+{
+  "id": "I182381536664",
+  "name": {
+    "given": "George",
+    "surname": "Twadel",
+    "suffix": "Jr",
+    "full": "George Twadel Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Dec 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Columb's, Londonderry, Northern Ireland",
+        "parts": [
+          "St Columb's",
+          "Londonderry",
+          "Northern Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182381536534"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

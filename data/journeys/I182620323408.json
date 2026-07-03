@@ -1,0 +1,55 @@
+{
+  "id": "I182620323408",
+  "person": "Captain Angus MacDonald \\ MacDonell of Keppoch VII .\\7. of Tulloch",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Tulloch, Invernesshire, Scotland",
+        "parts": [
+          "Tulloch",
+          "Invernesshire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 OCT 1759",
+        "year": 1759,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Fort William, Inverness-shire, Scotland",
+        "parts": [
+          "Fort William",
+          "Inverness-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "9 May 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

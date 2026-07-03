@@ -1,0 +1,119 @@
+{
+  "id": "I182623664346",
+  "name": {
+    "given": "Jeane",
+    "surname": "Hall-Burns   (Ramsey?)",
+    "suffix": null,
+    "full": "Jeane Hall-Burns   (Ramsey?)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 May 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Central, Scotland, United Kingdom",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Central",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "26 May 1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Central, Scotland, United Kingdom",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Central",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664362",
+      "I182623664358"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664350"
+      }
+    ],
+    "children": [
+      "I182587607863"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 May 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Scotland",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "26 May 1656",
+        "year": 1656,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falkirk, Stirlingshire, Scotland",
+        "parts": [
+          "Falkirk",
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "I182625970574",
+  "name": {
+    "given": "Hester",
+    "surname": "Biggs",
+    "suffix": null,
+    "full": "Hester Biggs"
+  },
+  "sex": "F",
+  "vitals": {},
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625292273",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1695",
+            "year": 1695,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "New England, USA",
+            "parts": [
+              "New England",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516957526",
+              "page": "Genealogical Publishing Co.; Baltimore, MD, USA; Volume Title: New England Marriages Prior to 1700"
+            },
+            {
+              "source_id": "S516957526",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516957526",
+      "title": "U.S., New England Marriages Prior to 1700",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

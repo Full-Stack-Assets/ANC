@@ -1,0 +1,71 @@
+{
+  "id": "I182541959997",
+  "name": {
+    "given": "Gilberte",
+    "surname": "Butler",
+    "suffix": null,
+    "full": "Gilberte Butler"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aughton, Lancashire, England",
+        "parts": [
+          "Aughton",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Apr 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aughton, Lancashire, England",
+        "parts": [
+          "Aughton",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960001"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536303"
+      }
+    ],
+    "children": [
+      "I182381536293"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

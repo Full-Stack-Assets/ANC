@@ -1,0 +1,67 @@
+{
+  "id": "I182623688796",
+  "name": {
+    "given": "Sarah",
+    "surname": "Babb",
+    "suffix": null,
+    "full": "Sarah Babb"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Sep 1711",
+        "year": 1711,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hampton Falls, Rockingham, New Hampshire",
+        "parts": [
+          "Hampton Falls",
+          "Rockingham",
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scarborough, Cumberland, Maine",
+        "parts": [
+          "Scarborough",
+          "Cumberland",
+          "Maine"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623688809"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623679540"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182623690431",
+  "name": {
+    "given": "Elizabeth Laurence Lauren",
+    "surname": "Wall*",
+    "suffix": null,
+    "full": "Elizabeth Laurence Lauren Wall*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Apr 1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 Dec 1571",
+        "year": 1571,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mary Magdalen, Old Fish Street, London, England",
+        "parts": [
+          "St Mary Magdalen",
+          "Old Fish Street",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690961",
+      "I182623690992"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690539"
+      }
+    ],
+    "children": [
+      "I182623690357"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

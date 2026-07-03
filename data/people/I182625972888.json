@@ -1,0 +1,77 @@
+{
+  "id": "I182625972888",
+  "name": {
+    "given": "Maria Maijken",
+    "surname": "Coenen Van Zegenwerp",
+    "suffix": null,
+    "full": "Maria Maijken Coenen Van Zegenwerp"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 February 1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wouw, North Brabant, The Netherlands, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "Wouw",
+          "North Brabant",
+          "The Netherlands",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 March 1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "'In den Akker', Wouw, North Brabant, The Netherlands, Noord-Brabant, Pays-Bas",
+        "parts": [
+          "'In den Akker'",
+          "Wouw",
+          "North Brabant",
+          "The Netherlands",
+          "Noord-Brabant",
+          "Pays-Bas"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972899",
+      "I182625972893"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972886"
+      }
+    ],
+    "children": [
+      "I182625972863"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "I182391485866",
+  "person": "Jakob Kristoffersson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Stala, Holm, Tegneby (O)",
+        "parts": [
+          "Stala",
+          "Holm",
+          "Tegneby (O)"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjälmvik Nedergård, Stala",
+        "parts": [
+          "Hjälmvik Nedergård",
+          "Stala"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "AUG 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

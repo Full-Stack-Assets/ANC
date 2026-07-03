@@ -1,0 +1,72 @@
+{
+  "id": "I182623694406",
+  "name": {
+    "given": "George Obadiah",
+    "surname": "Wheeler  **Early English Immigrant and Freeman**",
+    "suffix": null,
+    "full": "George Obadiah Wheeler  **Early English Immigrant and Freeman**"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "23 or 25 Mar 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wharley, Cranfield, Central Bedfordshire Unitary Authority, Bedfordshire, England",
+        "parts": [
+          "Wharley",
+          "Cranfield",
+          "Central Bedfordshire Unitary Authority",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 or 2 Jun 1687  FINAL FINAL",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newbury, Essex, Massachusetts, Colonial America",
+        "parts": [
+          "Newbury",
+          "Essex",
+          "Massachusetts",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694386"
+      }
+    ],
+    "children": [
+      "I182623694338"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

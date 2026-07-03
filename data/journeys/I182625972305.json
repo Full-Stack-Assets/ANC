@@ -1,0 +1,57 @@
+{
+  "id": "I182625972305",
+  "person": "Else Weyerbauer",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Saarbrücken, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "Saarbrücken",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1594",
+        "year": 1594,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Johann, Saarbrucken, Saarland, Germany",
+        "parts": [
+          "St Johann",
+          "Saarbrucken",
+          "Saarland",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "10 Mar 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

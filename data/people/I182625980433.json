@@ -1,0 +1,86 @@
+{
+  "id": "I182625980433",
+  "name": {
+    "given": "Catharine",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Catharine Albertson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1697",
+        "year": 1697,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pennsylvania, Somerset, Pennsylvania, USA",
+        "parts": [
+          "Pennsylvania",
+          "Somerset",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 December 1759",
+        "year": 1759,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bucks, Pennsylvania, USA",
+        "parts": [
+          "Bucks",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197776810",
+      "I182541935662",
+      "I182625980429"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

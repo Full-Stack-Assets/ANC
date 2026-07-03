@@ -1,0 +1,161 @@
+{
+  "id": "I182623679034",
+  "name": {
+    "given": "Catherine",
+    "surname": "Lynch",
+    "suffix": null,
+    "full": "Catherine Lynch"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ireland",
+        "parts": [
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "After 1848",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fall River, Massachusetts, USA",
+        "parts": [
+          "Fall River",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446915296",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679295",
+      "I182623679296"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679053"
+      }
+    ],
+    "children": [
+      "I182623679008",
+      "I182623679114",
+      "I182623679113",
+      "I182623679111",
+      "I182623679112"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "25 Aug 1805",
+        "year": 1805,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Roman Catholic, Killarney, Kerry, Ireland",
+        "parts": [
+          "Roman Catholic",
+          "Killarney",
+          "Kerry",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850773",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1850",
+        "year": 1850,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Bedford, Bristol, Massachusetts, USA",
+        "parts": [
+          "New Bedford",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447146252",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447146252",
+      "title": "1850 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446915296",
+      "title": "Massachusetts, Town and Vital Records, 1620-1988",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S513850773",
+      "title": "Ireland, Select Births and Baptisms, 1620-1911",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

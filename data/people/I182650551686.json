@@ -1,0 +1,75 @@
+{
+  "id": "I182650551686",
+  "name": {
+    "given": "Ninian Dunbar of",
+    "surname": "Grangehill",
+    "suffix": null,
+    "full": "Ninian Dunbar of Grangehill"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grange Hill, Moray, Scotland",
+        "parts": [
+          "Grange Hill",
+          "Moray",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Aug 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grangehill, Morayshire, Scotland",
+        "parts": [
+          "Grangehill",
+          "Morayshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551711"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650551677"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S518613394",
+      "title": "Genealogy of the Dunbar family",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

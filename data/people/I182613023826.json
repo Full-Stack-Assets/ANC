@@ -1,0 +1,69 @@
+{
+  "id": "I182613023826",
+  "name": {
+    "given": "William",
+    "surname": "Colcombe",
+    "suffix": null,
+    "full": "William Colcombe"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1508",
+        "year": 1508,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dilwyn, Herefordshire, England",
+        "parts": [
+          "Dilwyn",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "AFT 1 JUL 1562",
+        "year": 1562,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "Dilwyn, Herefordshire, England",
+        "parts": [
+          "Dilwyn",
+          "Herefordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613023822"
+      }
+    ],
+    "children": [
+      "I182613023818"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

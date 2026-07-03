@@ -1,0 +1,72 @@
+{
+  "id": "I182381537279",
+  "name": {
+    "given": "David",
+    "surname": "Lindsay, 9th Earl of Crawford",
+    "suffix": null,
+    "full": "David Lindsay, 9th Earl of Crawford"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Aug 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Edzell Castle, Angus, Scotland",
+        "parts": [
+          "Edzell Castle",
+          "Angus",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dunfermline, Fife, Scotland",
+        "parts": [
+          "Dunfermline",
+          "Fife",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537295",
+      "I182381537286"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537276"
+      }
+    ],
+    "children": [
+      "I182381537266"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

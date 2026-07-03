@@ -1,0 +1,64 @@
+{
+  "id": "I182625986402",
+  "name": {
+    "given": "Franncis Cheesman",
+    "surname": "Rason",
+    "suffix": null,
+    "full": "Franncis Cheesman Rason"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston-upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Kingston-upon-Thames, Surrey, England",
+        "parts": [
+          "Kingston-upon-Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986417"
+      }
+    ],
+    "children": [
+      "I182625986383"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

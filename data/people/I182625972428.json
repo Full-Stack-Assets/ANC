@@ -1,0 +1,47 @@
+{
+  "id": "I182625972428",
+  "name": {
+    "given": "Sebastian",
+    "surname": "Schlick",
+    "suffix": null,
+    "full": "Sebastian Schlick"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rodnitze (Radnice), Tchéquie",
+        "parts": [
+          "Rodnitze (Radnice)",
+          "Tchéquie"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972423"
+      }
+    ],
+    "children": [
+      "I182625972415"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

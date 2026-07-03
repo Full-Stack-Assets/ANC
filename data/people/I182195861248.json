@@ -1,0 +1,101 @@
+{
+  "id": "I182195861248",
+  "name": {
+    "given": "Samuel",
+    "surname": "Jacobsson",
+    "suffix": null,
+    "full": "Samuel Jacobsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 JUL 1806",
+        "year": 1806,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Hjälmvik Nolgården farm",
+          "Stala",
+          "Göteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 APR 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Hjälmvik Nolgården farm",
+          "Stala",
+          "Göteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195861230",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "13 MAY 1836",
+            "year": 1836,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+            "parts": [
+              "Hjälmvik Nolgården farm",
+              "Stala",
+              "Göteborg och Bohus",
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195860594"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625970860",
+  "name": {
+    "given": "Laurence de",
+    "surname": "Nowell Nowel",
+    "suffix": "Dean for Lichfield-Rev.",
+    "full": "Laurence de Nowell Nowel Dean for Lichfield-Rev."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1516",
+        "year": 1516,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Read, Lancashire, England, United Kingdom",
+        "parts": [
+          "Read",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Oct 1576",
+        "year": 1576,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weston, Derbyshire, England",
+        "parts": [
+          "Weston",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625970952"
+    ],
+    "spouses": [
+      {
+        "id": "I182625970866"
+      }
+    ],
+    "children": [
+      "I182567600380"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "I182197821527",
+  "person": "Heljnrik Albersen or Gijsbersen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Amsterdam, Noord-Holland, Netherlands",
+        "parts": [
+          "Amsterdam",
+          "Noord-Holland",
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Amsterdam, Noord-Holland, Netherlands",
+        "parts": [
+          "Amsterdam",
+          "Noord-Holland",
+          "Netherlands"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "24 Nov 1602",
+        "year": 1602,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "marriage",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447153188",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

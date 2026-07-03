@@ -1,0 +1,72 @@
+{
+  "id": "I182292319713",
+  "name": {
+    "given": "Per",
+    "surname": "Svensson",
+    "suffix": null,
+    "full": "Per Svensson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1649",
+        "year": 1649,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Ramkvilla, Jönköpings län, Sweden",
+        "parts": [
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 JUL 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ramkvilla, Jönköpings län, Sweden",
+        "parts": [
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182292319731",
+      "I182292319723"
+    ],
+    "spouses": [
+      {
+        "id": "I182292319706"
+      }
+    ],
+    "children": [
+      "I182292319690"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

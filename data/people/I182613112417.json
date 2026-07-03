@@ -1,0 +1,71 @@
+{
+  "id": "I182613112417",
+  "name": {
+    "given": "Eliza",
+    "surname": "Gleidehyll Gledall",
+    "suffix": null,
+    "full": "Eliza Gleidehyll Gledall"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "May 1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halifax, Yorkshire, England",
+        "parts": [
+          "Halifax",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1605",
+        "year": 1605,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hertfordshire, England",
+        "parts": [
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112445",
+      "I182613112439"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112423"
+      }
+    ],
+    "children": [
+      "I182613112387"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

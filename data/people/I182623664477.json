@@ -1,0 +1,73 @@
+{
+  "id": "I182623664477",
+  "name": {
+    "given": "Elizabeth Hussey",
+    "surname": "Catesby",
+    "suffix": null,
+    "full": "Elizabeth Hussey Catesby"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1518",
+        "year": 1518,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Coughton Court, Warwickshire, England, United Kingdom",
+        "parts": [
+          "Coughton Court",
+          "Warwickshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "31 DEC 1553",
+        "year": 1553,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Drayton, Somerset, England",
+        "parts": [
+          "Drayton",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664495",
+      "I182623664484"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664466"
+      }
+    ],
+    "children": [
+      "I182623664450"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625981299",
+  "name": {
+    "given": " Sir James",
+    "surname": "Barker",
+    "suffix": null,
+    "full": " Sir James Barker"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England or Southwold",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England or Southwold"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1622",
+        "year": 1622,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Harwich, Essex, England",
+        "parts": [
+          "Harwich",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981306",
+      "I182625981312"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981301"
+      }
+    ],
+    "children": [
+      "I182625981095"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

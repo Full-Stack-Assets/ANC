@@ -1,0 +1,74 @@
+{
+  "id": "I182197783801",
+  "name": {
+    "given": "Lijsbet",
+    "surname": "Huberts",
+    "suffix": null,
+    "full": "Lijsbet Huberts"
+  },
+  "sex": "F",
+  "vitals": {
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "31 Apr 1694",
+        "year": 1694,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Reek",
+        "parts": [
+          "Reek"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447153001",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S447153001",
+      "title": "Netherlands, Burial Index, 1540-1899",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447152997",
+      "title": "Netherlands, Select Births and Baptisms, 1564-1910",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447153188",
+      "title": "Netherlands, Select Marriages, 1565-1892",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447153181",
+      "title": "Netherlands, Baptism Index, 1557-1902",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

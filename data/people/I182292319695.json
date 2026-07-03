@@ -1,0 +1,70 @@
+{
+  "id": "I182292319695",
+  "name": {
+    "given": "Djur",
+    "surname": "Persson",
+    "suffix": null,
+    "full": "Djur Persson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hylletofta, Jönköping, Sverige",
+        "parts": [
+          "Hylletofta",
+          "Jönköping",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 okt 1731",
+        "year": 1731,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Urås, Ramkvilla, Jönköpings län, Sverige",
+        "parts": [
+          "Urås",
+          "Ramkvilla",
+          "Jönköpings län",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182292319690"
+      }
+    ],
+    "children": [
+      "I182292319640"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "I182534044257",
+  "person": "Martin Fell",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kesselbrohn, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kesselbrohn",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Kesselbrohn, Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Kesselbrohn",
+          "Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 March 1678",
+        "year": 1678,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

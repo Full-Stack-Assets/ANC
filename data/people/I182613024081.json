@@ -1,0 +1,72 @@
+{
+  "id": "I182613024081",
+  "name": {
+    "given": "Lady Joane",
+    "surname": "Coxsune",
+    "suffix": null,
+    "full": "Lady Joane Coxsune"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "May 7, 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Saint Alphege,Canterbury,Kent,England",
+        "parts": [
+          "Saint Alphege",
+          "Canterbury",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "August 15, 1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Canterbury, Kent, England",
+        "parts": [
+          "Canterbury",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613024126"
+    ],
+    "spouses": [
+      {
+        "id": "I182613024103"
+      }
+    ],
+    "children": [
+      "I182613024028"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

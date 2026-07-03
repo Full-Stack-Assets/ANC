@@ -1,0 +1,80 @@
+{
+  "id": "I182198561979",
+  "name": {
+    "given": "Franklin P. S.",
+    "surname": "Hohmann",
+    "suffix": null,
+    "full": "Franklin P. S. Hohmann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1855",
+        "year": 1855,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 June 1898",
+        "year": 1898,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Francis Hospital, Trenton NJ",
+        "parts": [
+          "St. Francis Hospital",
+          "Trenton NJ"
+        ]
+      },
+      "value": null,
+      "note": "Age: 42",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999844",
+      "I182526999854"
+    ],
+    "spouses": [
+      {
+        "id": "I182198562017"
+      }
+    ],
+    "children": [
+      "I182541955630",
+      "I182195862117"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S467165446",
+      "title": "Virginia, U.S., Marriage Records, 1936-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

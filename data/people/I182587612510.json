@@ -1,0 +1,73 @@
+{
+  "id": "I182587612510",
+  "name": {
+    "given": "Elinor Ellen",
+    "surname": "Arnold",
+    "suffix": null,
+    "full": "Elinor Ellen Arnold"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "31 Jul 1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Isleworth, London Borough of Hounslow, Greater London, England",
+        "parts": [
+          "Isleworth",
+          "London Borough of Hounslow",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 May 1659",
+        "year": 1659,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex County, Massachusetts, United States of America",
+        "parts": [
+          "Watertown",
+          "Middlesex County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587612547"
+    ],
+    "spouses": [
+      {
+        "id": "I182587612475"
+      }
+    ],
+    "children": [
+      "I182587612460"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182613116086",
+  "name": {
+    "given": "Blanche Of lancaster",
+    "surname": null,
+    "suffix": null,
+    "full": "Blanche Of lancaster"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Nov 1345",
+        "year": 1345,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lincoln, Lincolnshire, England",
+        "parts": [
+          "Lincoln",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 Sep 1368",
+        "year": 1368,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stafford, Staffordshire, England",
+        "parts": [
+          "Stafford",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613116003"
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

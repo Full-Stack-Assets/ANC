@@ -1,0 +1,70 @@
+{
+  "id": "I182381535346",
+  "name": {
+    "given": "Samuel Joel",
+    "surname": "Groff",
+    "suffix": null,
+    "full": "Samuel Joel Groff"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "NJ",
+        "parts": [
+          "NJ"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Oct 1. 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, New Jersey, United States",
+        "parts": [
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535475",
+      "I182381535516"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535353"
+      }
+    ],
+    "children": [
+      "I182381535340"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

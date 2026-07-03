@@ -1,0 +1,74 @@
+{
+  "id": "I182613112521",
+  "name": {
+    "given": "Annabelle",
+    "surname": "Benjamin",
+    "suffix": null,
+    "full": "Annabelle Benjamin"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Mar 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, Colonies",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1780",
+        "year": 1780,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112531",
+      "I182613112533"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112524"
+      }
+    ],
+    "children": [
+      "I182613112513"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

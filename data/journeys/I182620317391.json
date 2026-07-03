@@ -1,0 +1,66 @@
+{
+  "id": "I182620317391",
+  "person": "Purce Butler",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Ballinvrana, Knockainy, Limerick, Ireland",
+        "parts": [
+          "Ballinvrana",
+          "Knockainy",
+          "Limerick",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619375",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Ballinvrana, Limerick, Ireland",
+        "parts": [
+          "Ballinvrana",
+          "Limerick",
+          "Ireland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Aug 1834",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S516619372",
+          "page": "The National Archives of the UK; Kew, Surrey, England; Irish Reproductive Loan Fund: Records. County Committees and Trusts.; Series Number: T 91/172; Piece Description: Piece 172: Limerick Lists of Defaulters Summoned to Petty Sessions (1834 - 1837); Piece"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,131 @@
+{
+  "id": "I182197821557",
+  "name": {
+    "given": "Neel",
+    "surname": "Pietersdr",
+    "suffix": null,
+    "full": "Neel Pietersdr"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "about 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Noord-Holland, Netherlands",
+        "parts": [
+          "Noord-Holland",
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "DECEASED",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197821609",
+      "I182197821577"
+    ],
+    "spouses": [
+      {
+        "id": "I182197821527",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "24 Nov 1602",
+            "year": 1602,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Amsterdam, Noord-Holland, Netherlands",
+            "parts": [
+              "Amsterdam",
+              "Noord-Holland",
+              "Netherlands"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447153188",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "09 Dec 1582",
+        "year": 1582,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Oude Kerk Nederlands Hervormde Kerk, Amsterdam, Noord Holland, Netherlands",
+        "parts": [
+          "Oude Kerk Nederlands Hervormde Kerk",
+          "Amsterdam",
+          "Noord Holland",
+          "Netherlands"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447152997",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447152997",
+      "title": "Netherlands, Select Births and Baptisms, 1564-1910",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447153188",
+      "title": "Netherlands, Select Marriages, 1565-1892",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

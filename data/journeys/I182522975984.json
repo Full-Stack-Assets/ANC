@@ -1,0 +1,55 @@
+{
+  "id": "I182522975984",
+  "person": "Justina Olofsdotter Angermannus",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Västerfärnebo, Vastmanland, Sweden",
+        "parts": [
+          "Västerfärnebo",
+          "Vastmanland",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "1656459, Vastmanlands, Sweden",
+        "parts": [
+          "1656459",
+          "Vastmanlands",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 Jan 1626",
+        "year": 1626,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

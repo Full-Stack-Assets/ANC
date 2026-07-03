@@ -1,0 +1,66 @@
+{
+  "id": "I182587608645",
+  "person": "Mary Alberson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Gloucester County, New Jersey, British Colony",
+        "parts": [
+          "Gloucester County",
+          "New Jersey",
+          "British Colony"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Sep 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Pyrmont, Montgomery, Ohio, United States of America",
+        "parts": [
+          "Pyrmont",
+          "Montgomery",
+          "Ohio",
+          "United States of America"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Jan 1845",
+        "year": 1845,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

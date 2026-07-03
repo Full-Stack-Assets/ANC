@@ -1,0 +1,71 @@
+{
+  "id": "I182650552593",
+  "name": {
+    "given": "Maria",
+    "surname": "Peterson",
+    "suffix": null,
+    "full": "Maria Peterson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Mar 1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duxbury, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Duxbury",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 Jan 1901",
+        "year": 1901,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duxbury, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Duxbury",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "85:10:x general asthenia",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552598"
+      }
+    ],
+    "children": [
+      "I182650552565"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

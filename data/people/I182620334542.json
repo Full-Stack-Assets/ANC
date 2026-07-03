@@ -1,0 +1,70 @@
+{
+  "id": "I182620334542",
+  "name": {
+    "given": "Alice (m:Box)",
+    "surname": "Sperte",
+    "suffix": null,
+    "full": "Alice (m:Box) Sperte"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandwich, Kent, England, United Kingdom",
+        "parts": [
+          "Sandwich",
+          "Kent",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 May 1583",
+        "year": 1583,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holy Trinity Minories, London, England",
+        "parts": [
+          "Holy Trinity Minories",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620334529"
+      }
+    ],
+    "children": [
+      "I182620325059"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

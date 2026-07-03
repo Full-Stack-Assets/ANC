@@ -1,0 +1,72 @@
+{
+  "id": "I182625981245",
+  "name": {
+    "given": "Thomas",
+    "surname": "Bourne",
+    "suffix": null,
+    "full": "Thomas Bourne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kent, England",
+        "parts": [
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bef 24 Oct 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Marshfield, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Marshfield",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981256",
+      "I182625981254"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981251"
+      }
+    ],
+    "children": [
+      "I182625981099"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

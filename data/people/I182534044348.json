@@ -1,0 +1,45 @@
+{
+  "id": "I182534044348",
+  "name": {
+    "given": "Hans Georg",
+    "surname": "Beÿers",
+    "suffix": null,
+    "full": "Hans Georg Beÿers"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Durlach, Stadt Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Durlach",
+          "Stadt Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182534044343"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

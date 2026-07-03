@@ -1,0 +1,57 @@
+{
+  "id": "I182620323023",
+  "person": "Mary Doherty",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Portage, Prince, Prince Edward Island, Canada",
+        "parts": [
+          "Portage",
+          "Prince",
+          "Prince Edward Island",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Jun 24, 1823",
+        "year": 1823,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Skye Glen, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Skye Glen",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Mar 13, 1894",
+        "year": 1894,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

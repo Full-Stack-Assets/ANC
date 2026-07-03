@@ -1,0 +1,134 @@
+{
+  "id": "I182197443442",
+  "name": {
+    "given": "Anders Christian",
+    "surname": "Magnusson",
+    "suffix": null,
+    "full": "Anders Christian Magnusson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Jan 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        },
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 Jun 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lycke, Göteborg Och Bohus, Sweden",
+        "parts": [
+          "Lycke",
+          "Göteborg Och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "24 Jun 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115831",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197443412",
+      "I182197443441"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "28 Jan 1781",
+        "year": 1781,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lycke, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Lycke",
+          "Göteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115815",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115815",
+      "title": "Sweden, Select Baptisms, 1611-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115831",
+      "title": "Sweden, Select Burials, 1649-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

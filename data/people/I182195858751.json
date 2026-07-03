@@ -1,0 +1,75 @@
+{
+  "id": "I182195858751",
+  "name": {
+    "given": "Priscilla Lilla Belle",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "Priscilla Lilla Belle Swallow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1884-10-29",
+        "year": 1884,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Pond Kings County, Lot 56, Prince Edward Island, Canada",
+        "parts": [
+          "Little Pond Kings County",
+          "Lot 56",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Apr 1968",
+        "year": 1968,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Little Pond, Prince Edward Island, Canada",
+        "parts": [
+          "Little Pond",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858742",
+      "I182195858743"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

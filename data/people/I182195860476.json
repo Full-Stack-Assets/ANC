@@ -1,0 +1,99 @@
+{
+  "id": "I182195860476",
+  "name": {
+    "given": "Anders Simon",
+    "surname": "Svenson",
+    "suffix": null,
+    "full": "Anders Simon Svenson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Mar 1868",
+        "year": 1868,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Togneby Bohus L",
+        "parts": [
+          "Togneby Bohus L"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182195860382",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "14 May 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S446914824",
+              "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182195860477",
+      "I182195860478"
+    ]
+  },
+  "events": [
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Gamle Stad Götell",
+        "parts": [
+          "Gamle Stad Götell"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914824",
+          "page": "Archives of the Evangelical Lutheran Church in America; Elk Grove Village, IL, USA; Swedish American Baptisms, Marriages, Deaths, and Burials; Parish: Holy Trinity Lutheran Church (Libanon); ELCA Film Number: S-119; SSIRC Film Number: S-119"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914824",
+      "title": "U.S., Evangelical Lutheran Church in America, Swedish American Church Records, 1800-1947",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

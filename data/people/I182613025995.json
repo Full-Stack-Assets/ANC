@@ -1,0 +1,179 @@
+{
+  "id": "I182613025995",
+  "name": {
+    "given": "Sir William A",
+    "surname": "Heath",
+    "suffix": "#",
+    "full": "Sir William A Heath #"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 Feb 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ware, East Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Ware",
+          "East Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jan 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ware, Hertfordshire, England",
+        "parts": [
+          "Ware",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        },
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Ware, East Hertfordshire District, Hertfordshire, England",
+        "parts": [
+          "Ware",
+          "East Hertfordshire District",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513244164",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026018",
+      "I182613026084"
+    ],
+    "spouses": [
+      {
+        "id": "I182613025993",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1573",
+            "year": 1573,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Salisbury, Wiltshire, , England",
+            "parts": [
+              "Salisbury",
+              "Wiltshire",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            },
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613026092",
+      "I182613026082",
+      "I182613026083",
+      "I182613026091",
+      "I182613026086",
+      "I182613026090",
+      "I182613026093",
+      "I182613026088",
+      "I182613026094",
+      "I182613026089",
+      "I182613026095",
+      "I182613025909",
+      "I182613026087",
+      "I182613026096",
+      "I182613026085"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S513244164",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516008954",
+      "title": "The New England Historical & Genealogical Register, 1847-2011",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

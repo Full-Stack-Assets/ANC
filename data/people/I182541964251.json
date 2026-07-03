@@ -1,0 +1,71 @@
+{
+  "id": "I182541964251",
+  "name": {
+    "given": "Henry",
+    "surname": "JOHNSON",
+    "suffix": null,
+    "full": "Henry JOHNSON"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Bet. 1645–1673",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Bet. 1698–1758",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Philadelphia, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541964296"
+      }
+    ],
+    "children": [
+      "I182541958360"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

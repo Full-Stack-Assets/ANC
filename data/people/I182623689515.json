@@ -1,0 +1,71 @@
+{
+  "id": "I182623689515",
+  "name": {
+    "given": "Joan",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Joan Smith"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Of, Great Baddow, Essex, England",
+        "parts": [
+          "Of",
+          "Great Baddow",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "February 1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Great Baddow, Chelmsford Borough, Essex, England",
+        "parts": [
+          "Great Baddow",
+          "Chelmsford Borough",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623689531"
+      }
+    ],
+    "children": [
+      "I182623689505"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I182613112769",
+  "name": {
+    "given": "Sir John Edward",
+    "surname": "Haslewood",
+    "suffix": null,
+    "full": "Sir John Edward Haslewood"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1502",
+        "year": 1502,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maidwell, Northamptonshire, England",
+        "parts": [
+          "Maidwell",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 Dec 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Maidwell, Northamptonshire, England",
+        "parts": [
+          "Maidwell",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112887",
+      "I182613112881"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613112756"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

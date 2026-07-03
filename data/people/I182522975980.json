@@ -1,0 +1,77 @@
+{
+  "id": "I182522975980",
+  "name": {
+    "given": "Anna",
+    "surname": "Mårtensdotter",
+    "suffix": null,
+    "full": "Anna Mårtensdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spjutsbo, Norrbärke, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Spjutsbo",
+          "Norrbärke",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Mar 1663",
+        "year": 1663,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spjutsbo, Norrbärke, Kopparbergs län, Smedjebacken, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Spjutsbo",
+          "Norrbärke",
+          "Kopparbergs län",
+          "Smedjebacken",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620320579",
+      "I182620320586"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536014"
+      }
+    ],
+    "children": [
+      "I182381536004"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

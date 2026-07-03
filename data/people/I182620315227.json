@@ -1,0 +1,104 @@
+{
+  "id": "I182620315227",
+  "name": {
+    "given": "Joane",
+    "surname": "BRADFORD",
+    "suffix": null,
+    "full": "Joane BRADFORD"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "May 1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Howden, Yorkshire, England",
+        "parts": [
+          "Howden",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yorkshire, England",
+        "parts": [
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620315260"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315246"
+      }
+    ],
+    "children": [
+      "I182620315186"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "7 May 1561",
+        "year": 1561,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucestershire, England",
+        "parts": [
+          "Gloucestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516621441",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516621441",
+      "title": "Gloucestershire, England, Church of England Baptisms, Marriages and Burials, 1538-1813",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

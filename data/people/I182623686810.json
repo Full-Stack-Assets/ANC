@@ -1,0 +1,73 @@
+{
+  "id": "I182623686810",
+  "name": {
+    "given": "Thomas Francis",
+    "surname": "Gillman  Gyllmyn",
+    "suffix": null,
+    "full": "Thomas Francis Gillman  Gyllmyn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1550",
+        "year": 1550,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Poss, Surrey, England",
+        "parts": [
+          "Poss",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 May 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bermondsey, London Borough of Southwark, Greater London, England",
+        "parts": [
+          "Bermondsey",
+          "London Borough of Southwark",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686887",
+      "I182623686895"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686802"
+      }
+    ],
+    "children": [
+      "I182623682507"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

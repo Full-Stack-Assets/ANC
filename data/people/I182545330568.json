@@ -1,0 +1,85 @@
+{
+  "id": "I182545330568",
+  "name": {
+    "given": "John Murray",
+    "surname": "Blake",
+    "suffix": null,
+    "full": "John Murray Blake"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 Dec 1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Utica, Licking, Ohio, USA",
+        "parts": [
+          "Utica",
+          "Licking",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 June 1986",
+        "year": 1986,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Utica, Licking, Ohio, USA",
+        "parts": [
+          "Utica",
+          "Licking",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182545330551"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

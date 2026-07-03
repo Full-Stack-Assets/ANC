@@ -1,0 +1,50 @@
+{
+  "id": "I182623664658",
+  "name": {
+    "given": "Bartholomew",
+    "surname": "Burgoyne",
+    "suffix": null,
+    "full": "Bartholomew Burgoyne"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1504",
+        "year": 1504,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Sutton, Bedfordshire, England",
+        "parts": [
+          "Sutton",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664798"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664655"
+      }
+    ],
+    "children": [
+      "I182623664640"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

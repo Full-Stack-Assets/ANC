@@ -1,0 +1,86 @@
+{
+  "id": "I182197756552",
+  "name": {
+    "given": "John",
+    "surname": "Tomlinson",
+    "suffix": null,
+    "full": "John Tomlinson"
+  },
+  "sex": "M",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "New Jersey, USA",
+        "parts": [
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197756627",
+      "I182197756639"
+    ],
+    "spouses": [
+      {
+        "id": "I182197756701"
+      }
+    ],
+    "children": [
+      "I182197732129"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "2 Jan 1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Gloucester, New Jersey, United States",
+        "parts": [
+          "Gloucester",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447147404",
+      "title": "New Jersey, Abstract of Wills, 1670-1817",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

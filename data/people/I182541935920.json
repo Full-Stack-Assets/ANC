@@ -1,0 +1,86 @@
+{
+  "id": "I182541935920",
+  "name": {
+    "given": "Elisha",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Elisha Morrow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Mar 1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "East Point, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "East Point",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Oct 1858",
+        "year": 1858,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Lake, Kings, Prince Edward Island, Canada",
+        "parts": [
+          "North Lake",
+          "Kings",
+          "Prince Edward Island",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197770013",
+      "I182197770003"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

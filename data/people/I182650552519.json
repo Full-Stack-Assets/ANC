@@ -1,0 +1,73 @@
+{
+  "id": "I182650552519",
+  "name": {
+    "given": "Isaac",
+    "surname": "DeCOSTER 1",
+    "suffix": "Jr",
+    "full": "Isaac DeCOSTER 1 Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rouen, Seine-Maritime, Haute-Normandie, France",
+        "parts": [
+          "Rouen",
+          "Seine-Maritime",
+          "Haute-Normandie",
+          "France"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "9 Aug 1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, MA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552524",
+      "I182650552527"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552521"
+      }
+    ],
+    "children": [
+      "I182650552512"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

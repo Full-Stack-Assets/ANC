@@ -1,0 +1,56 @@
+{
+  "id": "I182623689386",
+  "person": "Lydia Chadwick",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Mucklestone, Staffordshire, England",
+        "parts": [
+          "Mucklestone",
+          "Staffordshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1486",
+        "year": 1486,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Mucklestone, Staffs, Eng, England",
+        "parts": [
+          "Mucklestone",
+          "Staffs",
+          "Eng",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Mar 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "id": "I182623689611",
+  "name": {
+    "given": "John",
+    "surname": "Chester",
+    "suffix": null,
+    "full": "John Chester"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Jan 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nantwich, Cheshire, England",
+        "parts": [
+          "Nantwich",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1614",
+        "year": 1614,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "London, London, England",
+        "parts": [
+          "London",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689649",
+      "I182623689670"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623689573"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

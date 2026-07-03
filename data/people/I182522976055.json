@@ -1,0 +1,72 @@
+{
+  "id": "I182522976055",
+  "name": {
+    "given": " Elsa Elisabeth",
+    "surname": "Nilsdotter Svinhuvud Stierna",
+    "suffix": "Kopparbergsätten",
+    "full": " Elsa Elisabeth Nilsdotter Svinhuvud Stierna Kopparbergsätten"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1535",
+        "year": 1535,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Falun, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Falun",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1592",
+        "year": 1592,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mora, Mora, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Mora",
+          "Mora",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620320732"
+    ],
+    "spouses": [
+      {
+        "id": "I182522976051"
+      }
+    ],
+    "children": [
+      "I182522975984"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

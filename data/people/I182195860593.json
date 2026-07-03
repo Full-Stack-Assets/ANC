@@ -1,0 +1,94 @@
+{
+  "id": "I182195860593",
+  "name": {
+    "given": "Sven Johan",
+    "surname": "Samuelsson",
+    "suffix": null,
+    "full": "Sven Johan Samuelsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "7 apr 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Langelanda och Torp Parish, Goteborg och Bohus County, Sweden",
+        "parts": [
+          "Langelanda och Torp Parish",
+          "Goteborg och Bohus County",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 dec 1877",
+        "year": 1877,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goteborg och Bohus County, Sweden",
+        "parts": [
+          "Goteborg och Bohus County",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862070",
+      "I182195862044"
+    ],
+    "spouses": [
+      {
+        "id": "I182195860594",
+        "marriage": {
+          "type": "marriage",
+          "date": null,
+          "place": {
+            "raw": "Sweden",
+            "parts": [
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195860381",
+      "I182195860595"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

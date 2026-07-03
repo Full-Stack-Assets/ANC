@@ -1,0 +1,70 @@
+{
+  "id": "I182195863493",
+  "name": {
+    "given": "Mary Ann (Sarah)",
+    "surname": "Jackson",
+    "suffix": null,
+    "full": "Mary Ann (Sarah) Jackson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "2 Dec 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth New Jersey",
+        "parts": [
+          "Weymouth New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Feb 1877",
+        "year": 1877,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ohio",
+        "parts": [
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863492",
+      "I182195863436"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

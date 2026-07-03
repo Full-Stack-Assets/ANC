@@ -1,0 +1,55 @@
+{
+  "id": "I182381538486",
+  "person": "Johann Georg Pflüger",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rutesheim, Böblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "Rutesheim",
+          "Böblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "6 Feb 1673",
+        "year": 1673,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wirensheim, Germany",
+        "parts": [
+          "Wirensheim",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "2 Sep 1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

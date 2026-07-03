@@ -1,0 +1,88 @@
+{
+  "id": "I182197769975",
+  "name": {
+    "given": "Laughlan",
+    "surname": "Macdonald",
+    "suffix": null,
+    "full": "Laughlan Macdonald"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 OCT 1816",
+        "year": 1816,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Uist, Inverness-shire, Scotland",
+        "parts": [
+          "North Uist",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "07 MAY 1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Main-à-Dieu, Nova Scotia, Canada",
+        "parts": [
+          "Main-à-Dieu",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Saint James Anglican Cemetary, Main a dieu, Ns",
+        "parts": [
+          "Saint James Anglican Cemetary",
+          "Main a dieu",
+          "Ns"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197770080",
+      "I182197770070"
+    ],
+    "spouses": [
+      {
+        "id": "I182197769963"
+      }
+    ],
+    "children": [
+      "I182197769659"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

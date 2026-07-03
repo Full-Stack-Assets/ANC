@@ -1,0 +1,71 @@
+{
+  "id": "I182541966502",
+  "name": {
+    "given": "Hartman",
+    "surname": "Wider",
+    "suffix": null,
+    "full": "Hartman Wider"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mainz, Mainz, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Mainz",
+          "Mainz",
+          "Rheinland-Pfalz",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Feb 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Höchst, Frankfurt am Main, Hessen, Deutschland",
+        "parts": [
+          "Höchst",
+          "Frankfurt am Main",
+          "Hessen",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541966495"
+      }
+    ],
+    "children": [
+      "I182541966447"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

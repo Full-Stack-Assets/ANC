@@ -1,0 +1,213 @@
+{
+  "id": "I182195858596",
+  "name": {
+    "given": "Russell",
+    "surname": "Morrow",
+    "suffix": null,
+    "full": "Russell Morrow"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Eglington, Prince Edward Island Canada",
+        "parts": [
+          "Eglington",
+          "Prince Edward Island Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810486",
+          "page": "National Archives at Boston; Waltham, Massachusetts; ARC Title: Petitions and Records of Naturalization , 8/1845 - 12/1911; NAI Number: 3000057; Record Group Title: Records of District Courts of the United States, 1685-2009; Record Group Number: RG 21"
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1940",
+        "year": 1940,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Halifax, Halifax, Nova Scotia, Canada",
+        "parts": [
+          "Halifax",
+          "Halifax",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197769659",
+      "I182197769583"
+    ],
+    "spouses": [
+      {
+        "id": "I182195858597",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "31 Aug 1898",
+            "year": 1898,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Dover, Strafford, New Hampshire",
+            "parts": [
+              "Dover",
+              "Strafford",
+              "New Hampshire"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195858601",
+      "I182195858600",
+      "I182195858327",
+      "I182195858598"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1890",
+        "year": 1890,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, USA",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head: Head",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "arrival",
+      "date": null,
+      "place": {
+        "raw": "Boston, Massachusetts",
+        "parts": [
+          "Boston",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810486",
+          "page": "National Archives at Boston; Waltham, Massachusetts; ARC Title: Petitions and Records of Naturalization , 8/1845 - 12/1911; NAI Number: 3000057; Record Group Title: Records of District Courts of the United States, 1685-2009; Record Group Number: RG 21"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "departure",
+      "date": null,
+      "place": {
+        "raw": "Charlottetown Prince Edward Island",
+        "parts": [
+          "Charlottetown Prince Edward Island"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810486",
+          "page": "National Archives at Boston; Waltham, Massachusetts; ARC Title: Petitions and Records of Naturalization , 8/1845 - 12/1911; NAI Number: 3000057; Record Group Title: Records of District Courts of the United States, 1685-2009; Record Group Number: RG 21"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516810486",
+      "title": "Massachusetts, U.S., State and Federal Naturalization Records, 1798-1950",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S447115653",
+      "title": "1930 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

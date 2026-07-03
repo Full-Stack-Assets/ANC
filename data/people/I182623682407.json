@@ -1,0 +1,74 @@
+{
+  "id": "I182623682407",
+  "name": {
+    "given": "Bethia Elizabeth",
+    "surname": "Learned",
+    "suffix": null,
+    "full": "Bethia Elizabeth Learned"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 March 1621",
+        "year": 1621,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Yarmouth",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 February 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Barnstable, Massachusetts, USA",
+        "parts": [
+          "Yarmouth",
+          "Barnstable",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623682443",
+      "I182623682437"
+    ],
+    "spouses": [
+      {
+        "id": "I182623682429"
+      }
+    ],
+    "children": [
+      "I182623680251"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

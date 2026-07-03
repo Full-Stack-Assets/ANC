@@ -1,0 +1,69 @@
+{
+  "id": "I182526999658",
+  "name": {
+    "given": "Francis",
+    "surname": "Rolls, Rolle, Rowles, Rollo",
+    "suffix": null,
+    "full": "Francis Rolls, Rolle, Rowles, Rollo"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beardon, Cornwall, England",
+        "parts": [
+          "Beardon",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Apr 1641",
+        "year": 1641,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boyton, Cornwall, England",
+        "parts": [
+          "Boyton",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182526999637"
+      }
+    ],
+    "children": [
+      "I182526999578"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

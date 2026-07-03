@@ -1,0 +1,117 @@
+{
+  "id": "I182613024435",
+  "name": {
+    "given": "Miles",
+    "surname": "Crosby",
+    "suffix": null,
+    "full": "Miles Crosby"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1483",
+        "year": 1483,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Spaulding Moor, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Spaulding Moor",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stillingfleet, Yorkshire, England, United Kingdom",
+        "parts": [
+          "Stillingfleet",
+          "Yorkshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613024067",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1510",
+            "year": 1510,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Holm Holling, Spaulding, Yorkshire, England, United Kingdom",
+            "parts": [
+              "Holm Holling",
+              "Spaulding",
+              "Yorkshire",
+              "England",
+              "United Kingdom"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508118847",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613024051"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

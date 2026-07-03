@@ -1,0 +1,57 @@
+{
+  "id": "I182620323502",
+  "person": "Catherine MacDonald",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Glenelg Par, Barisdale, Inverness, Scotland, United Kingdom",
+        "parts": [
+          "Glenelg Par",
+          "Barisdale",
+          "Inverness",
+          "Scotland",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "North Uist, Inverness-shire, Scotland",
+        "parts": [
+          "North Uist",
+          "Inverness-shire",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "27 JUN 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

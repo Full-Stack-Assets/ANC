@@ -1,0 +1,74 @@
+{
+  "id": "I182534044279",
+  "name": {
+    "given": "Catharina Maria",
+    "surname": "Schneider",
+    "suffix": null,
+    "full": "Catharina Maria Schneider"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "18 Sep 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schalkau, Sonneberg, Thuringia, Germany",
+        "parts": [
+          "Schalkau",
+          "Sonneberg",
+          "Thuringia",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "About 1660",
+        "year": 1660,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schalkau, Sonneberg,Thuringia, Germany",
+        "parts": [
+          "Schalkau",
+          "Sonneberg",
+          "Thuringia",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044307",
+      "I182534044305"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044283"
+      }
+    ],
+    "children": [
+      "I182534044265"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

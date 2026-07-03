@@ -1,0 +1,102 @@
+{
+  "id": "I182292319595",
+  "name": {
+    "given": "Sven",
+    "surname": "Persson",
+    "suffix": null,
+    "full": "Sven Persson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Jul 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby, Goteborg och Bohus, Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "Goteborg och Bohus",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Jul 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Knäred, Halland, Sweden",
+        "parts": [
+          "Knäred",
+          "Halland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182726546489",
+      "I182726546473"
+    ],
+    "spouses": [
+      {
+        "id": "I182726546290"
+      }
+    ],
+    "children": [
+      "I182292319579"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "20 Jul 1723",
+        "year": 1723,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "25 Jul 1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

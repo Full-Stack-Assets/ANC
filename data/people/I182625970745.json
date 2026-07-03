@@ -1,0 +1,77 @@
+{
+  "id": "I182625970745",
+  "name": {
+    "given": "Sir Richard",
+    "surname": "Rogers, Lord of Dowdeswell END",
+    "suffix": null,
+    "full": "Sir Richard Rogers, Lord of Dowdeswell END"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bryanstone, Dorset, England",
+        "parts": [
+          "Bryanstone",
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1539 - 25 May 1547",
+        "year": 1539,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chelmsford, Essex, England",
+        "parts": [
+          "Chelmsford",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625970747"
+      }
+    ],
+    "children": [
+      "I182625970719"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516957541",
+      "title": "Wiltshire, England, Church of England Baptisms, Marriages and Burials, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

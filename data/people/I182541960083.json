@@ -1,0 +1,72 @@
+{
+  "id": "I182541960083",
+  "name": {
+    "given": "William Thomas",
+    "surname": "Pitt 1578***++# Sir, Captain, Ship Owner, Sheriff of Bristol,",
+    "suffix": " East Indies Company, Merchant, Trader, Militia Officer",
+    "full": "William Thomas Pitt 1578***++# Sir, Captain, Ship Owner, Sheriff of Bristol,  East Indies Company, Merchant, Trader, Militia Officer"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1578",
+        "year": 1578,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bristol, Somerset, England",
+        "parts": [
+          "Bristol",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Oct 1624",
+        "year": 1624,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bristol, Somerset, England",
+        "parts": [
+          "Bristol",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541960127",
+      "I182541960116"
+    ],
+    "spouses": [
+      {
+        "id": "I182541960048"
+      }
+    ],
+    "children": [
+      "I182541960030"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

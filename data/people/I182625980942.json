@@ -1,0 +1,64 @@
+{
+  "id": "I182625980942",
+  "name": {
+    "given": "John",
+    "surname": "Thomson",
+    "suffix": "Sr",
+    "full": "John Thomson Sr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1546",
+        "year": 1546,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kirktown,Ayr,Scot",
+        "parts": [
+          "Kirktown",
+          "Ayr",
+          "Scot"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1593",
+        "year": 1593,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980973"
+    ],
+    "spouses": [
+      {
+        "id": "I182625980944"
+      }
+    ],
+    "children": [
+      "I182625980918"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

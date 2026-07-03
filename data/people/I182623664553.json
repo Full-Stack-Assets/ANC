@@ -1,0 +1,87 @@
+{
+  "id": "I182623664553",
+  "name": {
+    "given": "Sir  John Thomas",
+    "surname": "De Throckmorton\\Throckmorton",
+    "suffix": null,
+    "full": "Sir  John Thomas De Throckmorton\\Throckmorton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Throckmorton, Warwick, England",
+        "parts": [
+          "Throckmorton",
+          "Warwick",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Throckmorton, Warwickshire, England",
+        "parts": [
+          "Throckmorton",
+          "Warwickshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664690",
+      "I182623664699"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664555"
+      }
+    ],
+    "children": [
+      "I182623664551"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516021591",
+      "title": "U.S. and International Marriage Records, 1560-1900",
+      "author": "Yates Publishing",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447151841",
+      "title": "North America, Family Histories, 1500-2000",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "I182195862295",
+  "name": {
+    "given": "Edwin S",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Edwin S Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Aug 1860",
+        "year": 1860,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Haddonfield, Camden, New Jersey, USA",
+        "parts": [
+          "Haddonfield",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Nov 1932",
+        "year": 1932,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jefferson, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Jefferson",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862458",
+      "I182195862459"
+    ],
+    "spouses": [
+      {
+        "id": "I182195862467",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "3 Sep 1882",
+            "year": 1882,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Trenton, Mercer, New Jersey, USA",
+            "parts": [
+              "Trenton",
+              "Mercer",
+              "New Jersey",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862474",
+      "I182655903503",
+      "I182195862472",
+      "I182195862475",
+      "I182195862476",
+      "I182195862479",
+      "I182195862478",
+      "I182195862468",
+      "I182195862469",
+      "I182195862116",
+      "I182195862470",
+      "I182195862471"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1910",
+        "year": 1910,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trenton Ward 10, Mercer, New Jersey, USA",
+        "parts": [
+          "Trenton Ward 10",
+          "Mercer",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447116012",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447116012",
+      "title": "1910 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

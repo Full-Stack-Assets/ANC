@@ -1,0 +1,70 @@
+{
+  "id": "I182381536897",
+  "name": {
+    "given": "John",
+    "surname": "Mckenzie",
+    "suffix": null,
+    "full": "John Mckenzie"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 March 1742",
+        "year": 1742,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clackmannan, Clackmannanshire, Scotland.",
+        "parts": [
+          "Clackmannan",
+          "Clackmannanshire",
+          "Scotland."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1810",
+        "year": 1810,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182587607681",
+      "I182587607692"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536888"
+      }
+    ],
+    "children": [
+      "I182381536871"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

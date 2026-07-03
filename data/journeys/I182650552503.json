@@ -1,0 +1,53 @@
+{
+  "id": "I182650552503",
+  "person": "Elizabeth Cole",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Plymouth, Plymouth Co. MA USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth Co. MA USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1727",
+        "year": 1727,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Bridgewater, Plymouth Co. MA USA",
+        "parts": [
+          "Bridgewater",
+          "Plymouth Co. MA USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "01 Jan 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

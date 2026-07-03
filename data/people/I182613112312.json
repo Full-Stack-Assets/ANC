@@ -1,0 +1,72 @@
+{
+  "id": "I182613112312",
+  "name": {
+    "given": "Jael",
+    "surname": "Remington",
+    "suffix": null,
+    "full": "Jael Remington"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Apr 1688",
+        "year": 1688,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Norfolk co., Massachusetts",
+        "parts": [
+          "Hingham",
+          "Norfolk co.",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "14 Apr 1783",
+        "year": 1783,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, MA, USA",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112318"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112314"
+      }
+    ],
+    "children": [
+      "I182613112304"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

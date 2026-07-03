@@ -1,0 +1,57 @@
+{
+  "id": "I182381537754",
+  "person": "Caleb Hunt",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Grove Farm, Throgg's Neck, British Colony of New York",
+        "parts": [
+          "Grove Farm",
+          "Throgg's Neck",
+          "British Colony of New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt. 1710",
+        "year": 1710,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Grove Farm, Eastchester, Westchester, New York, United States",
+        "parts": [
+          "Grove Farm",
+          "Eastchester",
+          "Westchester",
+          "New York",
+          "United States"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 Dec 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182650548767",
+  "name": {
+    "given": "Ann (Annes) Wiley",
+    "surname": "Denison  (Deneson) Langley*",
+    "suffix": null,
+    "full": "Ann (Annes) Wiley Denison  (Deneson) Langley*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1552",
+        "year": 1552,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, England",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 Jul 1595",
+        "year": 1595,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, England",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548777",
+      "I182650548774"
+    ],
+    "spouses": [
+      {
+        "id": "I182650548770"
+      }
+    ],
+    "children": [
+      "I182650548761"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

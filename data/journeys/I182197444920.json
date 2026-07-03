@@ -1,0 +1,56 @@
+{
+  "id": "I182197444920",
+  "person": "Cajsa Johansdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Boda farm, Hjo lands, Skaraborg, Sweden",
+        "parts": [
+          "Boda farm",
+          "Hjo lands",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "20 Oct 1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Hjo, Skaraborg, Sweden",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "22 Oct 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

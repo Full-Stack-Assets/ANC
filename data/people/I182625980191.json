@@ -1,0 +1,64 @@
+{
+  "id": "I182625980191",
+  "name": {
+    "given": "Mariae",
+    "surname": "Gugliomi",
+    "suffix": null,
+    "full": "Mariae Gugliomi"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 Nov 1619",
+        "year": 1619,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "27 Nov 1651",
+        "year": 1651,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wroot, Lincolnshire, England",
+        "parts": [
+          "Wroot",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625980893"
+    ],
+    "spouses": [
+      {
+        "id": "I182625980849"
+      }
+    ],
+    "children": [
+      "I182587606722"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

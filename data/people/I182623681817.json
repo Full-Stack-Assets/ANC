@@ -1,0 +1,71 @@
+{
+  "id": "I182623681817",
+  "name": {
+    "given": "Lady Anne  Alice",
+    "surname": "Ramsay",
+    "suffix": "James",
+    "full": "Lady Anne  Alice Ramsay James"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "October 1500",
+        "year": 1500,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hitcham, South Bucks District, Buckinghamshire, England",
+        "parts": [
+          "Hitcham",
+          "South Bucks District",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "8 December 1584",
+        "year": 1584,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hanley Castle, Astley, Worcestershire, England",
+        "parts": [
+          "Hanley Castle",
+          "Astley",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623681825"
+      }
+    ],
+    "children": [
+      "I182623681607"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

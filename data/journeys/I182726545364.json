@@ -1,0 +1,69 @@
+{
+  "id": "I182726545364",
+  "person": "Michael Goode",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Castle Frome, Herefordshire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Castle Frome",
+          "Herefordshire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1455",
+        "year": 1455,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Castle Frome, Herefordshire, Herefordshire and Worcester, England, United Kingdom",
+        "parts": [
+          "Castle Frome",
+          "Herefordshire",
+          "Herefordshire and Worcester",
+          "England",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1533",
+        "year": 1533,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "I182625972468",
+  "name": {
+    "given": "Catharina",
+    "surname": "Von Langen",
+    "suffix": null,
+    "full": "Catharina Von Langen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kreyenburg, Haselünne, (auf der Kreyenburg), Niedersachsen, Allemagne",
+        "parts": [
+          "Kreyenburg",
+          "Haselünne",
+          "(auf der Kreyenburg)",
+          "Niedersachsen",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1657",
+        "year": 1657,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pewsum, Ostfriesland, Niedersachsen, Allemagne",
+        "parts": [
+          "Pewsum",
+          "Ostfriesland",
+          "Niedersachsen",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972480",
+      "I182625972478"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972474"
+      }
+    ],
+    "children": [
+      "I182625972457"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

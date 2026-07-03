@@ -1,0 +1,72 @@
+{
+  "id": "I182620322519",
+  "name": {
+    "given": "Patrick Aloysis",
+    "surname": "McGann",
+    "suffix": null,
+    "full": "Patrick Aloysis McGann"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Mar 1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Galway, Ireland",
+        "parts": [
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1902",
+        "year": 1902,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waltham, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Waltham",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322656",
+      "I182620322577"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322499"
+      }
+    ],
+    "children": [
+      "I182620322484"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

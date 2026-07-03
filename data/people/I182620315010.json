@@ -1,0 +1,72 @@
+{
+  "id": "I182620315010",
+  "name": {
+    "given": "Agnes",
+    "surname": "Armstronge",
+    "suffix": null,
+    "full": "Agnes Armstronge"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1580",
+        "year": 1580,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northumberland, England, United Kingdom",
+        "parts": [
+          "Northumberland",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1640",
+        "year": 1640,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Allendale, Northumberland, England",
+        "parts": [
+          "Allendale",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625984474",
+      "I182625984468"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315014"
+      }
+    ],
+    "children": [
+      "I182620314975"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

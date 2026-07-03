@@ -1,0 +1,74 @@
+{
+  "id": "I182613112304",
+  "name": {
+    "given": "Israel",
+    "surname": "Beals (Beal)",
+    "suffix": null,
+    "full": "Israel Beals (Beal)"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Apr 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hingham, Plymouth, Massachusetts, United States",
+        "parts": [
+          "Hingham",
+          "Plymouth",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 Jan 1811",
+        "year": 1811,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holbrook, Norfolk, Massachusetts, United States",
+        "parts": [
+          "Holbrook",
+          "Norfolk",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": "Age: 84",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112314",
+      "I182613112312"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112303"
+      }
+    ],
+    "children": [
+      "I182613112194"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

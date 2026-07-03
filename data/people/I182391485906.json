@@ -1,0 +1,50 @@
+{
+  "id": "I182391485906",
+  "name": {
+    "given": "Kerstin",
+    "surname": "Svensdotter",
+    "suffix": null,
+    "full": "Kerstin Svensdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Varekilsnäs, Västra Götaland, Sverige",
+        "parts": [
+          "Varekilsnäs",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548687"
+    ],
+    "spouses": [
+      {
+        "id": "I182391485910"
+      }
+    ],
+    "children": [
+      "I182391485891"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

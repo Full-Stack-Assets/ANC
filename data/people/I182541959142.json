@@ -1,0 +1,72 @@
+{
+  "id": "I182541959142",
+  "name": {
+    "given": "John William",
+    "surname": "Whitlock",
+    "suffix": null,
+    "full": "John William Whitlock"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Dec 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Paulersbury, Northamptonshire, England",
+        "parts": [
+          "Paulersbury",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Feb 1739",
+        "year": 1739,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Silverstone, Northamptonshire, England",
+        "parts": [
+          "Silverstone",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541964356",
+      "I182541964361"
+    ],
+    "spouses": [
+      {
+        "id": "I182541959128"
+      }
+    ],
+    "children": [
+      "I182541959080"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

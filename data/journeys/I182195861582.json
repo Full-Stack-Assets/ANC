@@ -1,0 +1,51 @@
+{
+  "id": "I182195861582",
+  "person": "Britta Månsdotter",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Daretorp Velinga Hadäng",
+        "parts": [
+          "Daretorp Velinga Hadäng"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1704-05-14",
+        "year": 1704,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Daretorp Velinga Aplagården",
+        "parts": [
+          "Daretorp Velinga Aplagården"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1792-05-26",
+        "year": 1792,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

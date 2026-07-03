@@ -1,0 +1,74 @@
+{
+  "id": "I182195863427",
+  "name": {
+    "given": "Richard D",
+    "surname": "Cheeseman",
+    "suffix": "Jr",
+    "full": "Richard D Cheeseman Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "6 Oct 1749",
+        "year": 1749,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Old Upton, Gloucester, New Jersey, USA",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Nov 1799",
+        "year": 1799,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Blackwood, Camden, New Jersey, USA",
+        "parts": [
+          "Blackwood",
+          "Camden",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986293",
+      "I182625986282"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863429"
+      }
+    ],
+    "children": [
+      "I182195862855"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

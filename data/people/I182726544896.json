@@ -1,0 +1,47 @@
+{
+  "id": "I182726544896",
+  "name": {
+    "given": "Mary",
+    "surname": "Carroll",
+    "suffix": null,
+    "full": "Mary Carroll"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1770",
+        "year": 1770,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Co Monaghan, Ireland",
+        "parts": [
+          "Co Monaghan",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182726544913"
+      }
+    ],
+    "children": [
+      "I182726543033"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

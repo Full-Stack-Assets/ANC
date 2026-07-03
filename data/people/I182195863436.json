@@ -1,0 +1,100 @@
+{
+  "id": "I182195863436",
+  "name": {
+    "given": "Mary Ann",
+    "surname": "Cheesman",
+    "suffix": null,
+    "full": "Mary Ann Cheesman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Sept. 1746",
+        "year": 1746,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Old Upton, Gloucester, New Jersey",
+        "parts": [
+          "Old Upton",
+          "Gloucester",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1840",
+        "year": 1840,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mongomery County,Washington Twp. Ohio",
+        "parts": [
+          "Mongomery County",
+          "Washington Twp. Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863485",
+      "I182195863486"
+    ],
+    "spouses": [
+      {
+        "id": "I182195863492",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1768",
+            "year": 1768,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": null,
+          "value": null,
+          "note": null,
+          "sources": [],
+          "confidence": "inferred"
+        }
+      }
+    ],
+    "children": [
+      "I182195862860",
+      "I182195863495",
+      "I182195863498",
+      "I182195863493",
+      "I182195863499",
+      "I182195863497",
+      "I182195863494",
+      "I182195863500"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

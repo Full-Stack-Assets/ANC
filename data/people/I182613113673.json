@@ -1,0 +1,72 @@
+{
+  "id": "I182613113673",
+  "name": {
+    "given": "Sarah",
+    "surname": "Smith",
+    "suffix": null,
+    "full": "Sarah Smith"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1555",
+        "year": 1555,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nottingham, Nottinghamshire, England",
+        "parts": [
+          "Nottingham",
+          "Nottinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "3 Sep 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bourne, Lincolnshire, England",
+        "parts": [
+          "Bourne",
+          "Lincolnshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113682",
+      "I182613113686"
+    ],
+    "spouses": [
+      {
+        "id": "I182613113677"
+      }
+    ],
+    "children": [
+      "I182613026493"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

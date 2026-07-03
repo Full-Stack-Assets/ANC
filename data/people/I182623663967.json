@@ -1,0 +1,58 @@
+{
+  "id": "I182623663967",
+  "name": {
+    "given": "Anna Catharina",
+    "surname": "Rang",
+    "suffix": null,
+    "full": "Anna Catharina Rang"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Sep 1769",
+        "year": 1769,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Schmalnau, Fulda, Hessen, Germany",
+        "parts": [
+          "Schmalnau",
+          "Fulda",
+          "Hessen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623663970"
+      }
+    ],
+    "children": [
+      "I182623663842",
+      "I182623664130"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516810570",
+      "title": "Hesse, Germany, Deaths, 1851-1958",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

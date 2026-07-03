@@ -1,0 +1,71 @@
+{
+  "id": "I182623689866",
+  "name": {
+    "given": "Samuel",
+    "surname": "Eldridge",
+    "suffix": null,
+    "full": "Samuel Eldridge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "25 Sep 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Massachusetts",
+        "parts": [
+          "Yarmouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Feb 1726",
+        "year": 1726,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Yarmouth, Cumberland, Maine, United States",
+        "parts": [
+          "Yarmouth",
+          "Cumberland",
+          "Maine",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689949"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689845"
+      }
+    ],
+    "children": [
+      "I182623689818"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

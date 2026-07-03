@@ -1,0 +1,44 @@
+{
+  "id": "I182382755270",
+  "name": {
+    "given": "Susannah",
+    "surname": "Bunker",
+    "suffix": null,
+    "full": "Susannah Bunker"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182382755360",
+      "I182382755326"
+    ],
+    "spouses": [
+      {
+        "id": "I182382755290"
+      }
+    ],
+    "children": [
+      "I182381536407"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

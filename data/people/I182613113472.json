@@ -1,0 +1,157 @@
+{
+  "id": "I182613113472",
+  "name": {
+    "given": "Joseph P",
+    "surname": "Cloutier",
+    "suffix": null,
+    "full": "Joseph P Cloutier"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1883",
+        "year": 1883,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Canada",
+        "parts": [
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115921",
+          "page": null
+        },
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Marlborough Ward 3, Middlesex, Massachusetts; Roll: T625_714; Page: 10A; Enumeration District: 298"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113473",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "3 Sep 1906",
+            "year": 1906,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Marlborough, Massachusetts, USA",
+            "parts": [
+              "Marlborough",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115921",
+              "page": null
+            },
+            {
+              "source_id": "S447115921",
+              "page": "New England Historic Genealogical Society; Boston, Massachusetts; Massachusetts Vital Records, 1911–1915"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182613113497",
+      "I182613113496",
+      "I182613113498",
+      "I182536728343"
+    ]
+  },
+  "events": [
+    {
+      "type": "arrival",
+      "date": {
+        "raw": "1899",
+        "year": 1899,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Marlborough Ward 3, Middlesex, Massachusetts; Roll: T625_714; Page: 10A; Enumeration District: 298"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough Ward 3, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Marlborough Ward 3",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: Channeller; Marital Status: Married; Relation to Head of House: Head",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: Marlborough Ward 3, Middlesex, Massachusetts; Roll: T625_714; Page: 10A; Enumeration District: 298"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115921",
+      "title": "Massachusetts, Marriage Records, 1840-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516021486",
+      "title": "U.S., Social Security Applications and Claims Index, 1936-2007",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

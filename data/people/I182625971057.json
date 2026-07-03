@@ -1,0 +1,65 @@
+{
+  "id": "I182625971057",
+  "name": {
+    "given": "Thomas",
+    "surname": "Penrice Als Glover",
+    "suffix": null,
+    "full": "Thomas Penrice Als Glover"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1489",
+        "year": 1489,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Kent, England.",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 July 1588",
+        "year": 1588,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wilmington, Kent, England.",
+        "parts": [
+          "Wilmington",
+          "Kent",
+          "England."
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182625971041"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

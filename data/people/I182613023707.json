@@ -1,0 +1,74 @@
+{
+  "id": "I182613023707",
+  "name": {
+    "given": "Rachael Anne",
+    "surname": "Anderson",
+    "suffix": null,
+    "full": "Rachael Anne Anderson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1532",
+        "year": 1532,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckingham, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Buckingham",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckingham, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Buckingham",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613023782",
+      "I182613023780"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023773"
+      }
+    ],
+    "children": [
+      "I182613023690"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

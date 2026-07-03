@@ -1,0 +1,73 @@
+{
+  "id": "I182623689288",
+  "name": {
+    "given": "Sir Rev.  Henry Lewis",
+    "surname": "Pratt",
+    "suffix": null,
+    "full": "Sir Rev.  Henry Lewis Pratt"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Jun 1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Marys, Watford, Hertfordshire, England",
+        "parts": [
+          "St Marys",
+          "Watford",
+          "Hertfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "06 Apr 1647",
+        "year": 1647,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salisbury, Wiltshire, England",
+        "parts": [
+          "Salisbury",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689426",
+      "I182623689411"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689269"
+      }
+    ],
+    "children": [
+      "I182623688933"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

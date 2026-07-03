@@ -1,0 +1,71 @@
+{
+  "id": "I182613026125",
+  "name": {
+    "given": "Lady Anne\\Ann  Margaret",
+    "surname": "Acklome\\Acclam-van Stillingfleet-Heath,",
+    "suffix": "of Stillingfleet",
+    "full": "Lady Anne\\Ann  Margaret Acklome\\Acclam-van Stillingfleet-Heath, of Stillingfleet"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "05 Apr 1505",
+        "year": 1505,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stillingfleet, Yorkshire, England",
+        "parts": [
+          "Stillingfleet",
+          "Yorkshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shiplake, Oxfordshire, England",
+        "parts": [
+          "Shiplake",
+          "Oxfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026144"
+    ],
+    "spouses": [
+      {
+        "id": "I182613026131"
+      }
+    ],
+    "children": [
+      "I182613026018"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

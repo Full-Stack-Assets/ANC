@@ -1,0 +1,73 @@
+{
+  "id": "I182625987245",
+  "name": {
+    "given": "William",
+    "surname": "Haslam",
+    "suffix": null,
+    "full": "William Haslam"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1563",
+        "year": 1563,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bolton, Lancashire, England",
+        "parts": [
+          "Bolton",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1627",
+        "year": 1627,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rochdale, St. Chad, Lancashire, England",
+        "parts": [
+          "Rochdale",
+          "St. Chad",
+          "Lancashire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987264",
+      "I182625987271"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987257"
+      }
+    ],
+    "children": [
+      "I182625987073"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

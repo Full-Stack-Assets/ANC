@@ -1,0 +1,69 @@
+{
+  "id": "I182623692019",
+  "name": {
+    "given": "Thomas",
+    "surname": "Kinge III of Purbeck",
+    "suffix": null,
+    "full": "Thomas Kinge III of Purbeck"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Oct 1577",
+        "year": 1577,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shaftsbury, Dorset, England",
+        "parts": [
+          "Shaftsbury",
+          "Dorset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Sudbury, Middlesex, Massachusetts, Colonial America",
+        "parts": [
+          "Sudbury",
+          "Middlesex",
+          "Massachusetts",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623694268",
+      "I182623694265"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623691937"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

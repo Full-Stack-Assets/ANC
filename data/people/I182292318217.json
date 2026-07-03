@@ -1,0 +1,74 @@
+{
+  "id": "I182292318217",
+  "name": {
+    "given": "Gustava",
+    "surname": "Samuelsdotter",
+    "suffix": null,
+    "full": "Gustava Samuelsdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 may 1842",
+        "year": 1842,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjälmvik Nolgården farm, Stala, Göteborg och Bohus, Sweden",
+        "parts": [
+          "Hjälmvik Nolgården farm",
+          "Stala",
+          "Göteborg och Bohus",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": "Sweden",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 jul 1912",
+        "year": 1912,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Easton, Bristol, Massachusetts, USA",
+        "parts": [
+          "North Easton",
+          "Bristol",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Massachusetts",
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182382755763",
+      "I182382755760"
+    ],
+    "spouses": [
+      {
+        "id": "I182197443214"
+      }
+    ],
+    "children": [
+      "I182197442974"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

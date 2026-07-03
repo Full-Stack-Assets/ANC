@@ -1,0 +1,68 @@
+{
+  "id": "I182620322285",
+  "name": {
+    "given": "Margaret",
+    "surname": "DONOHUE",
+    "suffix": null,
+    "full": "Margaret DONOHUE"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1889",
+        "year": 1889,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cappamore, County Galway, Ireland",
+        "parts": [
+          "Cappamore",
+          "County Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Newton, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Newton",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620322375",
+      "I182620322365"
+    ],
+    "spouses": [
+      {
+        "id": "I182620322268"
+      }
+    ],
+    "children": [
+      "I182195859446"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

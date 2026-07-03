@@ -1,0 +1,74 @@
+{
+  "id": "I182613112194",
+  "name": {
+    "given": "Eleazer",
+    "surname": "Beals",
+    "suffix": null,
+    "full": "Eleazer Beals"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "9 Jul 1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Newton, Middlesex, Massachusetts, USA",
+        "parts": [
+          "Newton",
+          "Middlesex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "28 March 1819",
+        "year": 1819,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Randoloph, Norfolk County, Massachusetts, USA",
+        "parts": [
+          "Randoloph",
+          "Norfolk County",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112304",
+      "I182613112303"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112189"
+      }
+    ],
+    "children": [
+      "I182613023550"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

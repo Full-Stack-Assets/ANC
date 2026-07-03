@@ -1,0 +1,74 @@
+{
+  "id": "I182613112533",
+  "name": {
+    "given": "Annabele",
+    "surname": "Eve",
+    "suffix": null,
+    "full": "Annabele Eve"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Jun 1695",
+        "year": 1695,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Suffolk, Massachusetts, Colonies",
+        "parts": [
+          "Boston",
+          "Suffolk",
+          "Massachusetts",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1733",
+        "year": 1733,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, Colonies",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "Colonies"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112975",
+      "I182613112970"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112531"
+      }
+    ],
+    "children": [
+      "I182613112521"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

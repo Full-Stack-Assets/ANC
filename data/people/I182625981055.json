@@ -1,0 +1,132 @@
+{
+  "id": "I182625981055",
+  "name": {
+    "given": "Francis",
+    "surname": "AUSTIN or AUSTEN",
+    "suffix": "Sr.   θ",
+    "full": "Francis AUSTIN or AUSTEN Sr.   θ"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Sep 1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Horsmonden, Kent, England",
+        "parts": [
+          "Horsmonden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Mar 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Horsmonden, Kent, England",
+        "parts": [
+          "Horsmonden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981083",
+      "I182625981084"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981076",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "1668",
+            "year": 1668,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Horsmonden, Kent, England",
+            "parts": [
+              "Horsmonden",
+              "Kent",
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182541960934"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Horsemonden, Kent, England",
+        "parts": [
+          "Horsemonden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513850664",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

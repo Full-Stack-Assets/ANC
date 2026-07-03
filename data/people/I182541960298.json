@@ -1,0 +1,69 @@
+{
+  "id": "I182541960298",
+  "name": {
+    "given": "Thomas",
+    "surname": "Merrick",
+    "suffix": null,
+    "full": "Thomas Merrick"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wales, Massachusetts",
+        "parts": [
+          "Wales",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1684",
+        "year": 1684,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middletown, Middlesex, Connecticut, Colonial America",
+        "parts": [
+          "Middletown",
+          "Middlesex",
+          "Connecticut",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541960291"
+      }
+    ],
+    "children": [
+      "I182381536578"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

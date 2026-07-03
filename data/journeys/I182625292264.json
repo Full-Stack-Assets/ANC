@@ -1,0 +1,55 @@
+{
+  "id": "I182625292264",
+  "person": "Mary Biggs",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Setauket, Li, NY",
+        "parts": [
+          "Setauket",
+          "Li",
+          "NY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Setauket, Li, NY",
+        "parts": [
+          "Setauket",
+          "Li",
+          "NY"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

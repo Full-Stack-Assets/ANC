@@ -1,0 +1,53 @@
+{
+  "id": "I182694740109",
+  "name": {
+    "given": "Meagan K.",
+    "surname": "Delong (Albertson)",
+    "suffix": null,
+    "full": "Meagan K. Delong (Albertson)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "27 Sep 1989",
+        "year": 1989,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Weymouth, Norfolk, Massachusetts, USA",
+        "parts": [
+          "Weymouth",
+          "Norfolk",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195856777",
+      "I182195856807"
+    ],
+    "spouses": [
+      {
+        "id": "I182694740149"
+      }
+    ],
+    "children": [
+      "I182694750861",
+      "I182694750877"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

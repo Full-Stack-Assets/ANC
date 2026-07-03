@@ -1,0 +1,72 @@
+{
+  "id": "I182613026244",
+  "name": {
+    "given": " Rev Robert Maurice",
+    "surname": "Johnson, Arch Deacon of Leicester",
+    "suffix": null,
+    "full": " Rev Robert Maurice Johnson, Arch Deacon of Leicester"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 May 1540",
+        "year": 1540,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Luffenham, Rutland, England",
+        "parts": [
+          "North Luffenham",
+          "Rutland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Jul 1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Luffenham, Rutland Unitary Authority, Rutland, England",
+        "parts": [
+          "North Luffenham",
+          "Rutland Unitary Authority",
+          "Rutland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613026294"
+    ],
+    "spouses": [
+      {
+        "id": "I182613026270"
+      }
+    ],
+    "children": [
+      "I182613026232"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

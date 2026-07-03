@@ -1,0 +1,71 @@
+{
+  "id": "I182522976051",
+  "name": {
+    "given": "Olaus Olof Andersson",
+    "surname": "Angermannus Stierna",
+    "suffix": null,
+    "full": "Olaus Olof Andersson Angermannus Stierna"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Prästgården Sidensjö, Västernorrlands län",
+        "parts": [
+          "Prästgården Sidensjö",
+          "Västernorrlands län"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 April 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mora, Mora, Dalarna/Kopparberg, Suède",
+        "parts": [
+          "Mora",
+          "Mora",
+          "Dalarna/Kopparberg",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620320717"
+    ],
+    "spouses": [
+      {
+        "id": "I182522976055"
+      }
+    ],
+    "children": [
+      "I182522975984"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

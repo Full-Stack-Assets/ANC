@@ -1,0 +1,62 @@
+{
+  "id": "I182625972559",
+  "name": {
+    "given": "Catharina",
+    "surname": "Von Der Kuhla (Von Klae)",
+    "suffix": null,
+    "full": "Catharina Von Der Kuhla (Von Klae)"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1523",
+        "year": 1523,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972486"
+      }
+    ],
+    "children": [
+      "I182625972558",
+      "I182625972562",
+      "I182625972561",
+      "I182625972565",
+      "I182625972566",
+      "I182625972480",
+      "I182625972564",
+      "I182625972560",
+      "I182625972567"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

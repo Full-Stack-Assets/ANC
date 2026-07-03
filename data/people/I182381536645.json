@@ -1,0 +1,95 @@
+{
+  "id": "I182381536645",
+  "name": {
+    "given": "Edward",
+    "surname": "Larkin",
+    "suffix": null,
+    "full": "Edward Larkin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "30 Oct 1603",
+        "year": 1603,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Berkhampsted, Suffolk, England (Kent, England)",
+        "parts": [
+          "Berkhampsted",
+          "Suffolk",
+          "England (Kent",
+          "England)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "02 Jun 1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Charlestown, Suffolk, Massachusetts",
+        "parts": [
+          "Charlestown",
+          "Suffolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541959817"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536282"
+      }
+    ],
+    "children": [
+      "I182381536270"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "2 Jun 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Berkhampsted, Suffolk, England (Kent, England)",
+        "parts": [
+          "Berkhampsted",
+          "Suffolk",
+          "England (Kent",
+          "England)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

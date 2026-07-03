@@ -1,0 +1,72 @@
+{
+  "id": "I182195862463",
+  "name": {
+    "given": "Richard",
+    "surname": "Albertson",
+    "suffix": null,
+    "full": "Richard Albertson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1856",
+        "year": 1856,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "PA",
+        "parts": [
+          "PA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 Jan 1858",
+        "year": 1858,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Near Clemington, Camden, New Jersey",
+        "parts": [
+          "Near Clemington",
+          "Camden",
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195862458",
+      "I182195862459"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

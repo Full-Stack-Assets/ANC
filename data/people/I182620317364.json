@@ -1,0 +1,176 @@
+{
+  "id": "I182620317364",
+  "name": {
+    "given": "Mary Ann",
+    "surname": "Eliston",
+    "suffix": null,
+    "full": "Mary Ann Eliston"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "Worcestershire Archive & Archaeology Service; Worcester, England, UK; The Diocese of Worcester Bishop's Transcripts; Reference: B736/Ba2245/95b"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1848",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "Worcestershire Archive & Archaeology Service; Worcester, England, UK; The Diocese of Worcester Bishop's Transcripts; Reference: B736/Ba2245/95b"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "10 Apr 1848",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cotheridge, Worcestershire, England",
+        "parts": [
+          "Cotheridge",
+          "Worcestershire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": "Worcestershire Archive & Archaeology Service; Worcester, England, UK; The Diocese of Worcester Bishop's Transcripts; Reference: B736/Ba2245/95b"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620318009",
+      "I182620318008"
+    ],
+    "spouses": [
+      {
+        "id": "I182620317514",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Mar 1802",
+            "year": 1802,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Ireland, Ireland",
+            "parts": [
+              "Ireland",
+              "Ireland"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S506435674",
+              "page": null
+            },
+            {
+              "source_id": "S506435674",
+              "page": "National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 02412 / 02"
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182620317391"
+      }
+    ],
+    "children": [
+      "I182541955053"
+    ]
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "16 Sep 1759",
+        "year": 1759,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Augustine-the-Less Church, Bristol, Gloucester, England",
+        "parts": [
+          "St Augustine-the-Less Church",
+          "Bristol",
+          "Gloucester",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447253093",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S447253093",
+      "title": "England, Select Births and Christenings, 1538-1975",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435674",
+      "title": "Ireland, Catholic Parish Registers, 1655-1915",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

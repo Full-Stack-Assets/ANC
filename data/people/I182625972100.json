@@ -1,0 +1,72 @@
+{
+  "id": "I182625972100",
+  "name": {
+    "given": "ANNA MARIE MARGARETHA",
+    "surname": "WEBER",
+    "suffix": null,
+    "full": "ANNA MARIE MARGARETHA WEBER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "09 Aug 1786",
+        "year": 1786,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mittelkalbach, Germany",
+        "parts": [
+          "Mittelkalbach",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Dec 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fulda, Noble, Ohio, USA",
+        "parts": [
+          "Fulda",
+          "Noble",
+          "Ohio",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972122",
+      "I182625972115"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972104"
+      }
+    ],
+    "children": [
+      "I182625972093"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

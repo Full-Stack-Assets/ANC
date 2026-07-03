@@ -1,0 +1,73 @@
+{
+  "id": "I182584905069",
+  "name": {
+    "given": "William Osbern",
+    "surname": "Haskell, I",
+    "suffix": null,
+    "full": "William Osbern Haskell, I"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1514",
+        "year": 1514,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fontmell Magna, Dorset, England, United Kingdom",
+        "parts": [
+          "Fontmell Magna",
+          "Dorset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wincanton, Somerset, England",
+        "parts": [
+          "Wincanton",
+          "Somerset",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584905089",
+      "I182584905094"
+    ],
+    "spouses": [
+      {
+        "id": "I182584905068"
+      }
+    ],
+    "children": [
+      "I182584905053"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

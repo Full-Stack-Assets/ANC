@@ -1,0 +1,70 @@
+{
+  "id": "I182620323429",
+  "name": {
+    "given": "Malcolm",
+    "surname": "MacLeod",
+    "suffix": null,
+    "full": "Malcolm MacLeod"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1787",
+        "year": 1787,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Raasay, Inverness-shire, Scotland",
+        "parts": [
+          "Raasay",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1862",
+        "year": 1862,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Big Intervale, Inverness, Nova Scotia, Canada",
+        "parts": [
+          "Big Intervale",
+          "Inverness",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620323420"
+      }
+    ],
+    "children": [
+      "I182620323052"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

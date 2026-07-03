@@ -1,0 +1,72 @@
+{
+  "id": "I182526999637",
+  "name": {
+    "given": "Richard",
+    "surname": "Lovys",
+    "suffix": null,
+    "full": "Richard Lovys"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1551",
+        "year": 1551,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beardon, Cornwall, England",
+        "parts": [
+          "Beardon",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 May 1607",
+        "year": 1607,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bearedon, Cornwall, England",
+        "parts": [
+          "Bearedon",
+          "Cornwall",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182526999701",
+      "I182526999710"
+    ],
+    "spouses": [
+      {
+        "id": "I182526999658"
+      }
+    ],
+    "children": [
+      "I182526999578"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

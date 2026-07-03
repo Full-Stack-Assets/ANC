@@ -1,0 +1,72 @@
+{
+  "id": "I182625981099",
+  "name": {
+    "given": "Margarett",
+    "surname": "Bourne",
+    "suffix": null,
+    "full": "Margarett Bourne"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Oct 1573",
+        "year": 1573,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "24 Feb 1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Goudhurst, , Kent, England",
+        "parts": [
+          "Goudhurst",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981245",
+      "I182625981251"
+    ],
+    "spouses": [
+      {
+        "id": "I182625981087"
+      }
+    ],
+    "children": [
+      "I182625981083"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182381537274",
+  "name": {
+    "given": "Joseph",
+    "surname": "Banks",
+    "suffix": null,
+    "full": "Joseph Banks"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Aug 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abercorn, West Lothian, Scotland",
+        "parts": [
+          "Abercorn",
+          "West Lothian",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537499",
+      "I182381537490"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537266"
+      }
+    ],
+    "children": [
+      "I182381537229"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

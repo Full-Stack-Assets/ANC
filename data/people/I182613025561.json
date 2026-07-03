@@ -1,0 +1,66 @@
+{
+  "id": "I182613025561",
+  "name": {
+    "given": "Nathaniel (Hathorn)",
+    "surname": "Porter",
+    "suffix": null,
+    "full": "Nathaniel (Hathorn) Porter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 Mar 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "of Topsfield",
+        "parts": [
+          "of Topsfield"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Topsfield, Essex, Massachusetts",
+        "parts": [
+          "Topsfield",
+          "Essex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613025603",
+      "I182613025585"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613023567"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "I182620314948",
+  "name": {
+    "given": "Thomas",
+    "surname": "Leonard",
+    "suffix": null,
+    "full": "Thomas Leonard"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1625",
+        "year": 1625,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hexham, Northumberland, England, United Kingdom",
+        "parts": [
+          "Hexham",
+          "Northumberland",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620314938"
+      }
+    ],
+    "children": [
+      "I182620314922"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

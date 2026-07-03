@@ -1,0 +1,68 @@
+{
+  "id": "I182625972417",
+  "name": {
+    "given": "Johannes, Jakob,",
+    "surname": "THOLEY",
+    "suffix": null,
+    "full": "Johannes, Jakob, THOLEY"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1631",
+        "year": 1631,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Wendel, Saarland",
+        "parts": [
+          "St. Wendel",
+          "Saarland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 OCT 1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St. Wendel, Saarland, Deutschland",
+        "parts": [
+          "St. Wendel",
+          "Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": "Y",
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972415"
+      }
+    ],
+    "children": [
+      "I182625972398"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182623679489",
+  "name": {
+    "given": "Lucy",
+    "surname": "Cook",
+    "suffix": null,
+    "full": "Lucy Cook"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 Jul 1767",
+        "year": 1767,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Arlington, Middlesex, Massachusetts",
+        "parts": [
+          "Arlington",
+          "Middlesex",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1854",
+        "year": 1854,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Cambridge, Coos, New Hampshire, United States",
+        "parts": [
+          "Cambridge",
+          "Coos",
+          "New Hampshire",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623679527",
+      "I182623679524"
+    ],
+    "spouses": [
+      {
+        "id": "I182623679493"
+      }
+    ],
+    "children": [
+      "I182623679474"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

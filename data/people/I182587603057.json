@@ -1,0 +1,67 @@
+{
+  "id": "I182587603057",
+  "name": {
+    "given": "Phoebe",
+    "surname": "Cornish",
+    "suffix": null,
+    "full": "Phoebe Cornish"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1698",
+        "year": 1698,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Monmouth County, New Jersey, USA",
+        "parts": [
+          "Monmouth County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "aft 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": "AFT"
+      },
+      "place": {
+        "raw": "New Jersey",
+        "parts": [
+          "New Jersey"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620314823"
+      }
+    ],
+    "children": [
+      "I182541957605"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

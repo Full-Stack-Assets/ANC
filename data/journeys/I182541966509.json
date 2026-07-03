@@ -1,0 +1,56 @@
+{
+  "id": "I182541966509",
+  "person": "Ursula Geuder\\ Gruders",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Nürnberg, Mittelfranken, Bavaria",
+        "parts": [
+          "Nürnberg",
+          "Mittelfranken",
+          "Bavaria"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "26 December 1566",
+        "year": 1566,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Zeilsheim, Frankfort am Main, Hessen, Germany",
+        "parts": [
+          "Zeilsheim",
+          "Frankfort am Main",
+          "Hessen",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Nov 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

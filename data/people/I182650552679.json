@@ -1,0 +1,69 @@
+{
+  "id": "I182650552679",
+  "name": {
+    "given": "Lady Margaret Mary",
+    "surname": "Edwards",
+    "suffix": null,
+    "full": "Lady Margaret Mary Edwards"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1570",
+        "year": 1570,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Northamptonshire, England",
+        "parts": [
+          "Preston Capes",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 23 Aug 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Preston Capes, Northamptonshire, England",
+        "parts": [
+          "Preston Capes",
+          "Northamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552671"
+      }
+    ],
+    "children": [
+      "I182625988245"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

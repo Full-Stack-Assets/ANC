@@ -1,0 +1,155 @@
+{
+  "id": "I182197443412",
+  "name": {
+    "given": "Magnus",
+    "surname": "Månsson Rånge",
+    "suffix": null,
+    "full": "Magnus Månsson Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "4 Mar 1744",
+        "year": 1744,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Skattegården, Hadäng, Velinga, Västergötaland, Sverige",
+        "parts": [
+          "Skattegården",
+          "Hadäng",
+          "Velinga",
+          "Västergötaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "18 November 1822",
+        "year": 1822,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Backgården, Hädäng, Velinga, Västragötaland, Sverige",
+        "parts": [
+          "Backgården",
+          "Hädäng",
+          "Velinga",
+          "Västragötaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182197444971",
+      "I182197444935"
+    ],
+    "spouses": [
+      {
+        "id": "I182197443441",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "17 Sep 1798",
+            "year": 1798,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Karlstad, Varmland, Sweden",
+            "parts": [
+              "Karlstad",
+              "Varmland",
+              "Sweden"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S447115848",
+              "page": null
+            }
+          ],
+          "confidence": "documented"
+        }
+      },
+      {
+        "id": "I182197443408"
+      }
+    ],
+    "children": [
+      "I182197443442",
+      "I182197443344"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1755-1852",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Velinge, Skaraborg, Sweden",
+        "parts": [
+          "Velinge",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447115812",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447115812",
+      "title": "Sweden, Church Records, 1451-1943",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115848",
+      "title": "Sweden, Select Marriages, 1630-1920",
+      "author": "Ancestry.com",
+      "publication": "v",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115815",
+      "title": "Sweden, Select Baptisms, 1611-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

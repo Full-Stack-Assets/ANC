@@ -1,0 +1,65 @@
+{
+  "id": "I182197731852",
+  "person": "Samuel Moore Gregory",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Pedricktown, New Jersey",
+        "parts": [
+          "Pedricktown",
+          "New Jersey"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 May 1857",
+        "year": 1857,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "West Donegal, Lancaster, Pennsylvania, USA",
+        "parts": [
+          "West Donegal",
+          "Lancaster",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "8 Oct 1948",
+        "year": 1948,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447147251",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

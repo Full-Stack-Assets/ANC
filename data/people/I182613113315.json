@@ -1,0 +1,89 @@
+{
+  "id": "I182613113315",
+  "name": {
+    "given": "Sir Robertus Robert",
+    "surname": "Buell",
+    "suffix": null,
+    "full": "Sir Robertus Robert Buell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "28 September 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Chesterton, Huntingdonshire, Cambridgeshire, England, United Kingdom",
+        "parts": [
+          "Chesterton",
+          "Huntingdonshire",
+          "Cambridgeshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 September 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Windsor Twp., Hartford County, Connecticut, USA",
+        "parts": [
+          "Windsor Twp.",
+          "Hartford County",
+          "Connecticut",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113213",
+      "I182613113312",
+      "I182613113313",
+      "I182613113305"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

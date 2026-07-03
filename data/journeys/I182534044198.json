@@ -1,0 +1,56 @@
+{
+  "id": "I182534044198",
+  "person": "Phillipus Stephanus Crist",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rangsdorf, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Rangsdorf",
+          "Rheinland-Pfalz",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wallkill, Ulster, New York, USA",
+        "parts": [
+          "Wallkill",
+          "Ulster",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1773",
+        "year": 1773,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

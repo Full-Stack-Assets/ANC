@@ -1,0 +1,73 @@
+{
+  "id": "I182381538484",
+  "name": {
+    "given": "Regina Barbara",
+    "surname": "Ross",
+    "suffix": null,
+    "full": "Regina Barbara Ross"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1676",
+        "year": 1676,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Darmsheim, Böblingen, Baden-Württemberg, Germany",
+        "parts": [
+          "Darmsheim",
+          "Böblingen",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1717",
+        "year": 1717,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Wiernsheim, Enzkreis, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Wiernsheim",
+          "Enzkreis",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381538502"
+    ],
+    "spouses": [
+      {
+        "id": "I182381538486"
+      }
+    ],
+    "children": [
+      "I182381538174"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

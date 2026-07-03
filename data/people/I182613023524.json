@@ -1,0 +1,72 @@
+{
+  "id": "I182613023524",
+  "name": {
+    "given": "Albert Harris",
+    "surname": "DeCoster",
+    "suffix": null,
+    "full": "Albert Harris DeCoster"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Jul 1836",
+        "year": 1836,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckfield, Oxford, Maine",
+        "parts": [
+          "Buckfield",
+          "Oxford",
+          "Maine"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Jun 1904",
+        "year": 1904,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Avon, Norfolk, Massachusetts",
+        "parts": [
+          "Avon",
+          "Norfolk",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613098449",
+      "I182613098430"
+    ],
+    "spouses": [
+      {
+        "id": "I182613023530"
+      }
+    ],
+    "children": [
+      "I182613023502"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "I182650552556",
+  "name": {
+    "given": "Edith Maria",
+    "surname": "Strang",
+    "suffix": null,
+    "full": "Edith Maria Strang"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 May 1874",
+        "year": 1874,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Duxbury,Plymouth,Massachusetts",
+        "parts": [
+          "Duxbury",
+          "Plymouth",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1926",
+        "year": 1926,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552570",
+      "I182650552565"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552562"
+      }
+    ],
+    "children": [
+      "I182536798052"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

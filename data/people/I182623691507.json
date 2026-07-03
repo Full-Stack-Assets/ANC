@@ -1,0 +1,65 @@
+{
+  "id": "I182623691507",
+  "name": {
+    "given": "Jacob",
+    "surname": "Bedell",
+    "suffix": null,
+    "full": "Jacob Bedell"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "New Hampshire",
+        "parts": [
+          "New Hampshire"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Abt. 1838",
+        "year": 1838,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Vermont",
+        "parts": [
+          "Vermont"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691492"
+      }
+    ],
+    "children": [
+      "I182623679447"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "I182650551997",
+  "person": "* Elizabeth Smyth",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Earls Barton, Northamptonshire, , England",
+        "parts": [
+          "Earls Barton",
+          "Northamptonshire",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "23 Jan 1609",
+        "year": 1609,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Portsmouth, Newport, Rhode Island",
+        "parts": [
+          "Portsmouth",
+          "Newport",
+          "Rhode Island"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1658",
+        "year": 1658,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

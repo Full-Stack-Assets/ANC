@@ -1,0 +1,74 @@
+{
+  "id": "I182623664565",
+  "name": {
+    "given": "Lady Godith Judith",
+    "surname": "Bosum-Olney",
+    "suffix": null,
+    "full": "Lady Godith Judith Bosum-Olney"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1538",
+        "year": 1538,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bedfordshire, Bedfordshire, England, United Kingdom",
+        "parts": [
+          "Bedfordshire",
+          "Bedfordshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Buckinghamshire, Buckinghamshire, England, United Kingdom",
+        "parts": [
+          "Buckinghamshire",
+          "Buckinghamshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623664640",
+      "I182623664580"
+    ],
+    "spouses": [
+      {
+        "id": "I182623664573"
+      }
+    ],
+    "children": [
+      "I182623664547"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

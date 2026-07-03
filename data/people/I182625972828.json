@@ -1,0 +1,67 @@
+{
+  "id": "I182625972828",
+  "name": {
+    "given": "Hans Peter",
+    "surname": "Lermen",
+    "suffix": null,
+    "full": "Hans Peter Lermen"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "um 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Würmelting/Wormeldingen an der Mosel",
+        "parts": [
+          "Würmelting/Wormeldingen an der Mosel"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "vor 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Heisterberg, Namborn Saarland, Deutschland",
+        "parts": [
+          "Heisterberg",
+          "Namborn Saarland",
+          "Deutschland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972815"
+      }
+    ],
+    "children": [
+      "I182625972646"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

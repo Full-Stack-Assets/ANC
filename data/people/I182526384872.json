@@ -1,0 +1,71 @@
+{
+  "id": "I182526384872",
+  "name": {
+    "given": "Mäster Måns",
+    "surname": "Andersson Rånge",
+    "suffix": null,
+    "full": "Mäster Måns Andersson Rånge"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Storegården, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Storegården",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Jan 1719",
+        "year": 1719,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Norrgård, Velinge, Västra Götaland, Sweden",
+        "parts": [
+          "Norrgård",
+          "Velinge",
+          "Västra Götaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182526384900"
+      }
+    ],
+    "children": [
+      "I182197444991"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

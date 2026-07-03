@@ -1,0 +1,73 @@
+{
+  "id": "I182541958337",
+  "name": {
+    "given": "Tamzen OR Tamzon",
+    "surname": "STANDFORD 7gg",
+    "suffix": null,
+    "full": "Tamzen OR Tamzon STANDFORD 7gg"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1692",
+        "year": 1692,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 Feb 1740",
+        "year": 1740,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilesgrove, Salem, New Jersey, USA",
+        "parts": [
+          "Pilesgrove",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182541958360"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534759"
+      }
+    ],
+    "children": [
+      "I182381534745"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

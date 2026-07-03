@@ -1,0 +1,57 @@
+{
+  "id": "I182381537941",
+  "person": "Owain Holland",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "of, Berw, Llanfihangel Ysgeifiog, Anglesey, Wales",
+        "parts": [
+          "of",
+          "Berw",
+          "Llanfihangel Ysgeifiog",
+          "Anglesey",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "Abt 1530",
+        "year": 1530,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "of Llanfiahangel Ysceifiog, Anglesey, Wales",
+        "parts": [
+          "of Llanfiahangel Ysceifiog",
+          "Anglesey",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Feb 1600",
+        "year": 1600,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

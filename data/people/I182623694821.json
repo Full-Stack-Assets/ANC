@@ -1,0 +1,49 @@
+{
+  "id": "I182623694821",
+  "name": {
+    "given": "Thomas",
+    "surname": "Gleeson",
+    "suffix": null,
+    "full": "Thomas Gleeson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1761",
+        "year": 1761,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Athenry, Co, Galway, Ireland",
+        "parts": [
+          "Athenry",
+          "Co",
+          "Galway",
+          "Ireland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623694812"
+      }
+    ],
+    "children": [
+      "I182620338750"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

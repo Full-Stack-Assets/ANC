@@ -1,0 +1,72 @@
+{
+  "id": "I182620314915",
+  "name": {
+    "given": "*Nichollas",
+    "surname": "Farlam",
+    "suffix": null,
+    "full": "*Nichollas Farlam"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1635",
+        "year": 1635,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Of High Ousley, Allendale, Northumberland, England",
+        "parts": [
+          "Of High Ousley",
+          "Allendale",
+          "Northumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 May 1729",
+        "year": 1729,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Allendale, , , England",
+        "parts": [
+          "Allendale",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620314975",
+      "I182620314981"
+    ],
+    "spouses": [
+      {
+        "id": "I182620314922"
+      }
+    ],
+    "children": [
+      "I182620314885"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

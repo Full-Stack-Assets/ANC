@@ -1,0 +1,72 @@
+{
+  "id": "I182195858911",
+  "name": {
+    "given": "Benjamin",
+    "surname": "Swallow",
+    "suffix": null,
+    "full": "Benjamin Swallow"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1848-10-01",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bath, Sagadahoc Co. ME USA",
+        "parts": [
+          "Bath",
+          "Sagadahoc Co. ME USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1849-10-12",
+        "year": 1849,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bath, Sagadahoc Co. ME USA",
+        "parts": [
+          "Bath",
+          "Sagadahoc Co. ME USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195858904",
+      "I182195858905"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

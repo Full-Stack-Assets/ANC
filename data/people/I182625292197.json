@@ -1,0 +1,160 @@
+{
+  "id": "I182625292197",
+  "name": {
+    "given": "Charlotte Howe",
+    "surname": "Taylor",
+    "suffix": null,
+    "full": "Charlotte Howe Taylor"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5 Nov 1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Holborn, London, London, England, United Kingdom",
+        "parts": [
+          "Holborn",
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Apr 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stymiests Millstream, Tabusintac, Miramichi, New Brunswick",
+        "parts": [
+          "Stymiests Millstream",
+          "Tabusintac",
+          "Miramichi",
+          "New Brunswick"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292206",
+      "I182625292202"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292198"
+      }
+    ],
+    "children": [
+      "I182195863332"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "England",
+        "parts": [
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "05 Nov 1755",
+        "year": 1755,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, Middlesex, England",
+        "parts": [
+          "London",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tabusintac, Northumberland County, New Brunswick, Canada",
+        "parts": [
+          "Tabusintac",
+          "Northumberland County",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "25 Apr 1840",
+        "year": 1840,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tabusintac, Northumberland Co., New Brunswick, Canada",
+        "parts": [
+          "Tabusintac",
+          "Northumberland Co.",
+          "New Brunswick",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

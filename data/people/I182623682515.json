@@ -1,0 +1,71 @@
+{
+  "id": "I182623682515",
+  "name": {
+    "given": "Eleanore",
+    "surname": "Cresswell",
+    "suffix": null,
+    "full": "Eleanore Cresswell"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "11 January 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Rodenham, Northamptonshire, England, United Kingdom",
+        "parts": [
+          "Rodenham",
+          "Northamptonshire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "29 September 1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Benet's, London, London, England, United Kingdom",
+        "parts": [
+          "St Benet's",
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686929",
+      "I182623686921"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623682443"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

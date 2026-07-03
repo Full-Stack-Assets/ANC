@@ -1,0 +1,67 @@
+{
+  "id": "I182650548825",
+  "name": {
+    "given": "Sir Edward of Sandy",
+    "surname": "Bedfordshire Langley",
+    "suffix": null,
+    "full": "Sir Edward of Sandy Bedfordshire Langley"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1522",
+        "year": 1522,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, , England",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1572",
+        "year": 1572,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Sandy, Bedfordshire, , England",
+        "parts": [
+          "Sandy",
+          "Bedfordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650548845"
+    ],
+    "spouses": [],
+    "children": [
+      "I182650548770"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

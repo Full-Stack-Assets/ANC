@@ -1,0 +1,53 @@
+{
+  "id": "I182195862070",
+  "person": "Samuel Olsson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Rom, Tegneby, Göteborg och Bohuslän",
+        "parts": [
+          "Rom",
+          "Tegneby",
+          "Göteborg och Bohuslän"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1 Feb. 1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Tegneby Orust Sweden",
+        "parts": [
+          "Tegneby Orust Sweden"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "19 Apr 1872",
+        "year": 1872,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

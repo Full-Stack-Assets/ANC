@@ -1,0 +1,68 @@
+{
+  "id": "I182613113509",
+  "name": {
+    "given": "Hannah",
+    "surname": "Morse",
+    "suffix": null,
+    "full": "Hannah Morse"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 September 1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown Middlesex County Massachusetts, USA",
+        "parts": [
+          "Watertown Middlesex County Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "10 Sep 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlboro, Massachusetts, USA",
+        "parts": [
+          "Marlboro",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182613113511"
+      }
+    ],
+    "children": [
+      "I182613112524"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

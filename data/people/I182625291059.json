@@ -1,0 +1,278 @@
+{
+  "id": "I182625291059",
+  "name": {
+    "given": "eliza",
+    "surname": "wood",
+    "suffix": null,
+    "full": "eliza wood"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "abt 1835",
+        "year": 1835,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Willington Somerset England",
+        "parts": [
+          "Willington Somerset England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        },
+        {
+          "source_id": "S516918987",
+          "page": null
+        },
+        {
+          "source_id": "",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/17"
+        },
+        {
+          "source_id": "S516919029",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/12"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1891",
+        "year": 1891,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914557",
+          "page": "Ancestry Family Tree"
+        },
+        {
+          "source_id": "S516919029",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/12"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "20 Jan 1848",
+        "year": 1848,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, England",
+        "parts": [
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516919029",
+          "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/12"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625291834"
+    ],
+    "spouses": [
+      {
+        "id": "I182625291060",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "30 Mar 1861",
+            "year": 1861,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "England",
+            "parts": [
+              "England"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S516919008",
+              "page": "London Metropolitan Archives; London, England, UK; London Church of England Parish Registers; Reference Number: P90/PAN1/128"
+            },
+            {
+              "source_id": "S516919008",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "S513850664",
+              "page": null
+            },
+            {
+              "source_id": "",
+              "page": null
+            },
+            {
+              "source_id": "",
+              "page": "City of Westminster Archives Centre; London, England; Westminster Church of England Parish Registers; Reference: SJSS/PR/5/17"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": [
+      "I182625288498",
+      "I182726541117",
+      "I182726541118",
+      "I182625291660"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1861",
+        "year": 1861,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St James, Clerkenwell, Middlesex, England",
+        "parts": [
+          "St James",
+          "Clerkenwell",
+          "Middlesex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S516918987",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S513880151",
+      "title": "1871 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "S516918987",
+      "title": "1861 England Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    },
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    },
+    {
+      "id": "S516919029",
+      "title": "Westminster, London, England, Church of England Deaths and Burials, 1812-1910",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516919008",
+      "title": "London, England, Church of England Marriages and Banns, 1754-1938",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S513850664",
+      "title": "England, Select Marriages, 1538-1973",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516918951",
+      "title": "London, England, Church of England Births and Baptisms, 1813-1923",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516919005",
+      "title": "Devon, England, Church of England Births and Baptisms, 1813-1920",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

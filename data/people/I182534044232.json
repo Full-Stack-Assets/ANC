@@ -1,0 +1,74 @@
+{
+  "id": "I182534044232",
+  "name": {
+    "given": "Margaret Catherine",
+    "surname": "Reid",
+    "suffix": null,
+    "full": "Margaret Catherine Reid"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1743",
+        "year": 1743,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Durlach, Stadt Karlsruhe, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Durlach",
+          "Stadt Karlsruhe",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1815",
+        "year": 1815,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waldoboro, Lincoln, Maine, USA",
+        "parts": [
+          "Waldoboro",
+          "Lincoln",
+          "Maine",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182534044241",
+      "I182534044238"
+    ],
+    "spouses": [
+      {
+        "id": "I182534044236"
+      }
+    ],
+    "children": [
+      "I182381537717"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

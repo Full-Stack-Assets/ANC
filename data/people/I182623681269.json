@@ -1,0 +1,72 @@
+{
+  "id": "I182623681269",
+  "name": {
+    "given": "Sir George",
+    "surname": "Nutter",
+    "suffix": null,
+    "full": "Sir George Nutter"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1525",
+        "year": 1525,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sabdenhall, Lancastershire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Sabdenhall",
+          "Lancastershire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "11 January 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sabdenhall, Lancastershire, Lancashire, England, United Kingdom",
+        "parts": [
+          "Sabdenhall",
+          "Lancastershire",
+          "Lancashire",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623681368",
+      "I182623681360"
+    ],
+    "spouses": [],
+    "children": [
+      "I182623681216"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

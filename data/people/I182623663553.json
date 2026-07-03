@@ -1,0 +1,190 @@
+{
+  "id": "I182623663553",
+  "name": {
+    "given": "Elizabeth M",
+    "surname": "Hohman",
+    "suffix": null,
+    "full": "Elizabeth M Hohman"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt 1881",
+        "year": 1881,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Fulda, Noble County, Ohio, United States of America",
+        "parts": [
+          "Fulda",
+          "Noble County",
+          "Ohio",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: North Braddock Ward 3, Allegheny, Pennsylvania; Roll: T625_1515; Page: 3B; Enumeration District: 281"
+        },
+        {
+          "source_id": "S516810523",
+          "page": null
+        },
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 November 1957",
+        "year": 1957,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Braddock, Allegheny County, Pennsylvania, United States of America",
+        "parts": [
+          "Braddock",
+          "Allegheny County",
+          "Pennsylvania",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Pittsburgh, Allegheny County, Pennsylvania, United States of America",
+        "parts": [
+          "Pittsburgh",
+          "Allegheny County",
+          "Pennsylvania",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516331756",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623663677",
+      "I182623663676"
+    ],
+    "spouses": [
+      {
+        "id": "I182541955589"
+      }
+    ],
+    "children": [
+      "I182623663675",
+      "I182623663680",
+      "I182623663763",
+      "I182623663554",
+      "I182623663679",
+      "I182623663762",
+      "I182623663764",
+      "I182623663678"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "abt 1911",
+        "year": 1911,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516810523",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1920",
+        "year": 1920,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "North Braddock Ward 3, Allegheny, Pennsylvania, USA",
+        "parts": [
+          "North Braddock Ward 3",
+          "Allegheny",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Occupation: None; Marital Status: Married; Relation to Head of House: Wife",
+      "sources": [
+        {
+          "source_id": "S447147190",
+          "page": "Year: 1920; Census Place: North Braddock Ward 3, Allegheny, Pennsylvania; Roll: T625_1515; Page: 3B; Enumeration District: 281"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S447147190",
+      "title": "1920 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S516810523",
+      "title": "Pennsylvania, U.S., Birth Certificates, 1906-1914",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    },
+    {
+      "id": "S516331756",
+      "title": "U.S., Find a Grave® Index, 1600s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

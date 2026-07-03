@@ -1,0 +1,91 @@
+{
+  "id": "I182620322316",
+  "name": {
+    "given": "Guillame",
+    "surname": "ARSENAULT",
+    "suffix": null,
+    "full": "Guillame ARSENAULT"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "12 Nov 1834",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree Harbour, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "04 Apr 1913",
+        "year": 1913,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Margaree Harbour, Cape Breton, Nova Scotia, Canada",
+        "parts": [
+          "Margaree Harbour",
+          "Cape Breton",
+          "Nova Scotia",
+          "Canada"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620322296"
+      }
+    ],
+    "children": [
+      "I182620322268"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1833",
+        "year": 1833,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Nova Scotia",
+        "parts": [
+          "Nova Scotia"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

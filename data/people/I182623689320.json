@@ -1,0 +1,73 @@
+{
+  "id": "I182623689320",
+  "name": {
+    "given": "Gyles",
+    "surname": "Adams",
+    "suffix": null,
+    "full": "Gyles Adams"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1545",
+        "year": 1545,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trowbridge, Wiltshire, England, UK",
+        "parts": [
+          "Trowbridge",
+          "Wiltshire",
+          "England",
+          "UK"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1644",
+        "year": 1644,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trowbridge, Wiltshire, England, UK",
+        "parts": [
+          "Trowbridge",
+          "Wiltshire",
+          "England",
+          "UK"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689366"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689303"
+      }
+    ],
+    "children": [
+      "I182623689269"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

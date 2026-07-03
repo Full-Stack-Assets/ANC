@@ -1,0 +1,57 @@
+{
+  "id": "I182620327364",
+  "name": {
+    "given": "Edward",
+    "surname": "Mansel",
+    "suffix": null,
+    "full": "Edward Mansel"
+  },
+  "sex": "M",
+  "vitals": {},
+  "relationships": {
+    "parents": [
+      "I182620325097",
+      "I182620325420"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [
+    {
+      "type": "baptism",
+      "date": {
+        "raw": "18 Nov 1750",
+        "year": 1750,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Shropshire, England",
+        "parts": [
+          "Shropshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516620476",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S516620476",
+      "title": "Shropshire, England, Extracted Church of England Parish Records, 1538-1812",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

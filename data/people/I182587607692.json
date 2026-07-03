@@ -1,0 +1,50 @@
+{
+  "id": "I182587607692",
+  "name": {
+    "given": "Alison",
+    "surname": "Stein",
+    "suffix": null,
+    "full": "Alison Stein"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "17 October 1703",
+        "year": 1703,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Clackmannan, Clackmannanshire, Central, Scotland, United Kingdom",
+        "parts": [
+          "Clackmannan",
+          "Clackmannanshire",
+          "Central",
+          "Scotland",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182587607681"
+      }
+    ],
+    "children": [
+      "I182381536897"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

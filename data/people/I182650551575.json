@@ -1,0 +1,74 @@
+{
+  "id": "I182650551575",
+  "name": {
+    "given": "Hannah",
+    "surname": "Hatch",
+    "suffix": null,
+    "full": "Hannah Hatch"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "13 Feb 1681/2",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Scituate, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Scituate",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Apr 1771",
+        "year": 1771,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Middleborough, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Middleborough",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551590",
+      "I182650551584"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551581"
+      }
+    ],
+    "children": [
+      "I182650551423"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "I182625972886",
+  "name": {
+    "given": "Wendel",
+    "surname": "Hunn",
+    "suffix": null,
+    "full": "Wendel Hunn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1590",
+        "year": 1590,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beilstein, Cochem-Zell, Rheinland Pfalz, Allemagne",
+        "parts": [
+          "Beilstein",
+          "Cochem-Zell",
+          "Rheinland Pfalz",
+          "Allemagne"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aft. 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Beilstein, Heilbronn, Baden-Württemberg, Germany",
+        "parts": [
+          "Beilstein",
+          "Heilbronn",
+          "Baden-Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625972888"
+      }
+    ],
+    "children": [
+      "I182625972863"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

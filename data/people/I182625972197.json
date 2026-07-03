@@ -1,0 +1,51 @@
+{
+  "id": "I182625972197",
+  "name": {
+    "given": "Susanna",
+    "surname": "Spring*",
+    "suffix": null,
+    "full": "Susanna Spring*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Sep 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eberdingen, Württemberg, Germany",
+        "parts": [
+          "Eberdingen",
+          "Württemberg",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972206",
+      "I182625972202"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972199"
+      }
+    ],
+    "children": [
+      "I182625972178"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "I182613112702",
+  "name": {
+    "given": "(needupgrade) Phebe",
+    "surname": "Whiting (Bernard) Winship",
+    "suffix": null,
+    "full": "(needupgrade) Phebe Whiting (Bernard) Winship"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "3 September 1606",
+        "year": 1606,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, Essex, England, United Kingdom",
+        "parts": [
+          "Dedham",
+          "Essex",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Aug 1685",
+        "year": 1685,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Watertown, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Watertown",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112716"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112710"
+      }
+    ],
+    "children": [
+      "I182613112680"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

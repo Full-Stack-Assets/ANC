@@ -1,0 +1,56 @@
+{
+  "id": "I182620323505",
+  "person": "Malcolm Ross",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Kilmuir, Inverness, Scotland, United Kingdom",
+        "parts": [
+          "Kilmuir",
+          "Inverness",
+          "Scotland",
+          "United Kingdom"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1758",
+        "year": 1758,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Cromarty, Ross & Cromarty, Scotland",
+        "parts": [
+          "Cromarty",
+          "Ross & Cromarty",
+          "Scotland"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "05 Jul 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

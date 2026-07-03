@@ -1,0 +1,72 @@
+{
+  "id": "I182625292264",
+  "name": {
+    "given": "Mary",
+    "surname": "Biggs",
+    "suffix": null,
+    "full": "Mary Biggs"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1645",
+        "year": 1645,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Setauket, Li, NY",
+        "parts": [
+          "Setauket",
+          "Li",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1696",
+        "year": 1696,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Setauket, Li, NY",
+        "parts": [
+          "Setauket",
+          "Li",
+          "NY"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292273",
+      "I182625292269"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292265"
+      }
+    ],
+    "children": [
+      "I182625292257"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

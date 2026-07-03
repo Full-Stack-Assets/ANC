@@ -1,0 +1,85 @@
+{
+  "id": "I182545330540",
+  "name": {
+    "given": "John Murray",
+    "surname": "Blake",
+    "suffix": null,
+    "full": "John Murray Blake"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "21 Feb 1839",
+        "year": 1839,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tabusintac, Northumberland, New Brunswick",
+        "parts": [
+          "Tabusintac",
+          "Northumberland",
+          "New Brunswick"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Apr 1908",
+        "year": 1908,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Eldred, McKean, Pennsylvania",
+        "parts": [
+          "Eldred",
+          "McKean",
+          "Pennsylvania"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182545330233"
+    ],
+    "spouses": [],
+    "children": [
+      "I182545330551"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "",
+      "title": null,
+      "author": null,
+      "publication": null,
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "I182195863497",
+  "name": {
+    "given": "Seward (Steven) Leslie",
+    "surname": "Jackson",
+    "suffix": null,
+    "full": "Seward (Steven) Leslie Jackson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1790",
+        "year": 1790,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Woodbury, Gloucester, New Jersey, United States",
+        "parts": [
+          "Woodbury",
+          "Gloucester",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "6 Aug 1866",
+        "year": 1866,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Centerville, Montogmery, Co, Ohio",
+        "parts": [
+          "Centerville",
+          "Montogmery",
+          "Co",
+          "Ohio"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195863492",
+      "I182195863436"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182650551944",
+  "name": {
+    "given": "Isaac Edward",
+    "surname": "Hoard",
+    "suffix": null,
+    "full": "Isaac Edward Hoard"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "14 May 1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Swansea, Bristol, Massachusetts, Colonial America",
+        "parts": [
+          "Swansea",
+          "Bristol",
+          "Massachusetts",
+          "Colonial America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Jun 1841",
+        "year": 1841,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Potter, Yates, New York, USA",
+        "parts": [
+          "Potter",
+          "Yates",
+          "New York",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650551968",
+      "I182650551962"
+    ],
+    "spouses": [
+      {
+        "id": "I182650551937"
+      }
+    ],
+    "children": [
+      "I182613098619"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

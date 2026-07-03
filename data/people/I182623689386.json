@@ -1,0 +1,66 @@
+{
+  "id": "I182623689386",
+  "name": {
+    "given": "Lydia",
+    "surname": "Chadwick",
+    "suffix": null,
+    "full": "Lydia Chadwick"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1486",
+        "year": 1486,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mucklestone, Staffordshire, England",
+        "parts": [
+          "Mucklestone",
+          "Staffordshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Mar 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Mucklestone, Staffs, Eng, England",
+        "parts": [
+          "Mucklestone",
+          "Staffs",
+          "Eng",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [],
+    "children": [
+      "I182623689366"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

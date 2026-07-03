@@ -1,0 +1,64 @@
+{
+  "id": "I182613112289",
+  "name": {
+    "given": "Sara Mary",
+    "surname": "Thurston",
+    "suffix": null,
+    "full": "Sara Mary Thurston"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1565",
+        "year": 1565,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": ", Suffolk, , England",
+        "parts": [
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1653",
+        "year": 1653,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613112295",
+      "I182613112292"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112291"
+      }
+    ],
+    "children": [
+      "I182613112277"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

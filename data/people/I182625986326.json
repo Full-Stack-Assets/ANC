@@ -1,0 +1,69 @@
+{
+  "id": "I182625986326",
+  "name": {
+    "given": "Susanna",
+    "surname": "Harcourt",
+    "suffix": null,
+    "full": "Susanna Harcourt"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "5/6/1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jamaica, Queens, New York",
+        "parts": [
+          "Jamaica",
+          "Queens",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1682",
+        "year": 1682,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jamaica, Queens, New York",
+        "parts": [
+          "Jamaica",
+          "Queens",
+          "New York"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625986336"
+      }
+    ],
+    "children": [
+      "I182625986309"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

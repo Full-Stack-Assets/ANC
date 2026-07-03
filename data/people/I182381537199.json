@@ -1,0 +1,86 @@
+{
+  "id": "I182381537199",
+  "name": {
+    "given": "John",
+    "surname": "MacArthur II",
+    "suffix": "Of Milton",
+    "full": "John MacArthur II Of Milton"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Argyllshire, Scotland",
+        "parts": [
+          "Milton",
+          "Argyllshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "Aug 1674",
+        "year": 1674,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Milton, Argyllshire, Scotland",
+        "parts": [
+          "Milton",
+          "Argyllshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381537210"
+    ],
+    "spouses": [
+      {
+        "id": "I182381537186"
+      }
+    ],
+    "children": [
+      "I182381537173"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": null,
+      "place": {
+        "raw": "Milton,",
+        "parts": [
+          "Milton"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

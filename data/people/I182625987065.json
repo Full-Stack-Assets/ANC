@@ -1,0 +1,72 @@
+{
+  "id": "I182625987065",
+  "name": {
+    "given": "Peter\\Peeter",
+    "surname": "Barker",
+    "suffix": null,
+    "full": "Peter\\Peeter Barker"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "8 May 1581",
+        "year": 1581,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Darley, Derbyshire, England",
+        "parts": [
+          "Darley",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Darley, Derbyshire, England",
+        "parts": [
+          "Darley",
+          "Derbyshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625987153",
+      "I182625987189"
+    ],
+    "spouses": [
+      {
+        "id": "I182625987073"
+      }
+    ],
+    "children": [
+      "I182625986344"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "I182381538023",
+  "person": "Meredydd Ap Thomas Ap Ieuan",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Llanwnda, Caernarvonshire, , Wales",
+        "parts": [
+          "Llanwnda",
+          "Caernarvonshire",
+          "Wales"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": null,
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "1675627, Somerset, England",
+        "parts": [
+          "1675627",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1598",
+        "year": 1598,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

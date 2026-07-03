@@ -1,0 +1,74 @@
+{
+  "id": "I182584904936",
+  "name": {
+    "given": "Mary",
+    "surname": "Hodges",
+    "suffix": null,
+    "full": "Mary Hodges"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1558",
+        "year": 1558,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, Somerset, England, United Kingdom",
+        "parts": [
+          "Somerset",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 April 1639",
+        "year": 1639,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Somerset, Somerset, England, United Kingdom",
+        "parts": [
+          "Somerset",
+          "Somerset",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182584904944",
+      "I182584904941"
+    ],
+    "spouses": [
+      {
+        "id": "I182584904937"
+      }
+    ],
+    "children": [
+      "I182584904930"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

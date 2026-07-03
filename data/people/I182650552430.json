@@ -1,0 +1,94 @@
+{
+  "id": "I182650552430",
+  "name": {
+    "given": "Margerye \\ Margery (Reynolds)",
+    "surname": "Ashenden \\ Ashendon (m1. Thomas Lea) (m2. Sealis \\ Sillis)",
+    "suffix": "*2nd wife of Deacon Sillis*",
+    "full": "Margerye \\ Margery (Reynolds) Ashenden \\ Ashendon (m1. Thomas Lea) (m2. Sealis \\ Sillis) *2nd wife of Deacon Sillis*"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 Jan 1585",
+        "year": 1585,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Biddenden, Kent, England",
+        "parts": [
+          "Biddenden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "before Dec 1637",
+        "year": 1637,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Assington, Suffolk, England",
+        "parts": [
+          "Assington",
+          "Suffolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182650552440",
+      "I182650552437"
+    ],
+    "spouses": [
+      {
+        "id": "I182650552434"
+      }
+    ],
+    "children": [
+      "I182650552425"
+    ]
+  },
+  "events": [
+    {
+      "type": "death",
+      "date": {
+        "raw": "after 8 Jan 1615",
+        "year": 1615,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Biddenden, Kent, England",
+        "parts": [
+          "Biddenden",
+          "Kent",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "I182381535055",
+  "name": {
+    "given": "Jacob",
+    "surname": "Pedrick",
+    "suffix": "Jr",
+    "full": "Jacob Pedrick Jr"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "about 1747",
+        "year": 1747,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Salem, Salem, New Jersey, United States",
+        "parts": [
+          "Salem",
+          "Salem",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "about 1802",
+        "year": 1802,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lower Pennsneck, Salem, New Jersey, USA",
+        "parts": [
+          "Lower Pennsneck",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535083",
+      "I182381535070"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535051"
+      }
+    ],
+    "children": [
+      "I182381534685"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

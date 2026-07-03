@@ -1,0 +1,97 @@
+{
+  "id": "I182587609236",
+  "person": "Christina Kohlepp",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Hesse Cassel",
+        "parts": [
+          "Hesse Cassel"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1798",
+        "year": 1798,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        },
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Philadelphia Ward 15 District 45, Philadelphia, Pennsylvania; Roll: M593_1399; Page: 575A"
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Philadelphia Ward 15 District 45, 1509 Agden St, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Philadelphia Ward 15 District 45",
+          "1509 Agden St",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1870",
+        "year": 1870,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S506473118",
+          "page": "Year: 1870; Census Place: Philadelphia Ward 15 District 45, Philadelphia, Pennsylvania; Roll: M593_1399; Page: 575A"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Philadelphia, Philadelphia, Pennsylvania",
+        "parts": [
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 Apr 1873",
+        "year": 1873,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

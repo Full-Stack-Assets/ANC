@@ -1,0 +1,57 @@
+{
+  "id": "I182625972849",
+  "person": "Kath. Hunn",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Neulautern, Heilbronn, Baden-Wuerttemberg, Germany",
+        "parts": [
+          "Neulautern",
+          "Heilbronn",
+          "Baden-Wuerttemberg",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "25 Nov 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Beilstein, Cochem-Zell, Rheinland-Pfalz, Germany",
+        "parts": [
+          "Beilstein",
+          "Cochem-Zell",
+          "Rheinland-Pfalz",
+          "Germany"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "7 Jan 1706",
+        "year": 1706,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182620323392",
+  "name": {
+    "given": "Margaret",
+    "surname": "MacDonell \\ MacDonald of Aberarder",
+    "suffix": null,
+    "full": "Margaret MacDonell \\ MacDonald of Aberarder"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1754",
+        "year": 1754,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Lochaber, Inverness-shire, Scotland",
+        "parts": [
+          "Lochaber",
+          "Inverness-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "17 Sep 1804",
+        "year": 1804,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tulluch, Perthshire, Scotland",
+        "parts": [
+          "Tulluch",
+          "Perthshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620323485",
+      "I182620323483"
+    ],
+    "spouses": [
+      {
+        "id": "I182620323408"
+      }
+    ],
+    "children": [
+      "I182620323059"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182623689269",
+  "name": {
+    "given": "Mary Anne",
+    "surname": "Adams",
+    "suffix": null,
+    "full": "Mary Anne Adams"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Jun 1567",
+        "year": 1567,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Trowbridge, Wiltshire, England",
+        "parts": [
+          "Trowbridge",
+          "Wiltshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Apr 1632",
+        "year": 1632,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Aston Clinton, Buckinghamshire, England",
+        "parts": [
+          "Aston Clinton",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623689320",
+      "I182623689303"
+    ],
+    "spouses": [
+      {
+        "id": "I182623689288"
+      }
+    ],
+    "children": [
+      "I182623688933"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

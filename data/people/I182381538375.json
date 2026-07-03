@@ -1,0 +1,42 @@
+{
+  "id": "I182381538375",
+  "name": {
+    "given": "Margaret",
+    "surname": "Irving",
+    "suffix": null,
+    "full": "Margaret Irving"
+  },
+  "sex": "F",
+  "vitals": {
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Dumfries-shire, Scotland",
+        "parts": [
+          "Dumfries-shire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182381538388"
+      }
+    ],
+    "children": [
+      "I182381538357"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

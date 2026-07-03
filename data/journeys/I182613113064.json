@@ -1,0 +1,57 @@
+{
+  "id": "I182613113064",
+  "person": "John Richardson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "13 August 1681",
+        "year": 1681,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Woburn, Middlesex County, Massachusetts, USA",
+        "parts": [
+          "Woburn",
+          "Middlesex County",
+          "Massachusetts",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "15 November 1745",
+        "year": 1745,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

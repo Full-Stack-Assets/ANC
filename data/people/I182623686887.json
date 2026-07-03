@@ -1,0 +1,72 @@
+{
+  "id": "I182623686887",
+  "name": {
+    "given": "Richard",
+    "surname": "Gillman Gylmyn Gyhnyn",
+    "suffix": null,
+    "full": "Richard Gillman Gylmyn Gyhnyn"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1520",
+        "year": 1520,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "London, London, England, United Kingdom",
+        "parts": [
+          "London",
+          "London",
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "abt 1559",
+        "year": 1559,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Reigate, Surrey, England",
+        "parts": [
+          "Reigate",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623686963"
+    ],
+    "spouses": [
+      {
+        "id": "I182623686895"
+      }
+    ],
+    "children": [
+      "I182623686810"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "I182726543526",
+  "name": {
+    "given": "John",
+    "surname": "Walden\\Woodhall",
+    "suffix": null,
+    "full": "John Walden\\Woodhall"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1 Jan 1483",
+        "year": 1483,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ullock, Workington, Cumberland, England",
+        "parts": [
+          "Ullock",
+          "Workington",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1 Jan 1542",
+        "year": 1542,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ullock, Workington, Cumberland, England",
+        "parts": [
+          "Ullock",
+          "Workington",
+          "Cumberland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182726543619"
+      }
+    ],
+    "children": [
+      "I182625987334",
+      "I182726543868"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

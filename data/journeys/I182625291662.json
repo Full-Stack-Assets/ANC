@@ -1,0 +1,69 @@
+{
+  "id": "I182625291662",
+  "person": "Elizabeth Allen",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Crewkerne, Somerset, England",
+        "parts": [
+          "Crewkerne",
+          "Somerset",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1804",
+        "year": 1804,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": "The National Archives (United Kingdom); Kew, Surrey, England; Registers of Births, Marriages and Deaths surrendered to the Non-parochial Registers Commissions of 1837 and 1857; Class Number: Rg 4; Piece Number: 1565"
+        },
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "St Mark, London, England",
+        "parts": [
+          "St Mark",
+          "London",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1871",
+        "year": 1871,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S513880151",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

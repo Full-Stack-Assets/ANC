@@ -1,0 +1,74 @@
+{
+  "id": "I182625292255",
+  "name": {
+    "given": "Sarah",
+    "surname": "Owen",
+    "suffix": null,
+    "full": "Sarah Owen"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "22 Sep 1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stony Brook, Suffolk, New York, United States",
+        "parts": [
+          "Stony Brook",
+          "Suffolk",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Apr 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brookhaven, Suffolk, New York, United States",
+        "parts": [
+          "Brookhaven",
+          "Suffolk",
+          "New York",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625292261",
+      "I182625292258"
+    ],
+    "spouses": [
+      {
+        "id": "I182625292257"
+      }
+    ],
+    "children": [
+      "I182625292247"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

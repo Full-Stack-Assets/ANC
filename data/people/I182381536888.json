@@ -1,0 +1,64 @@
+{
+  "id": "I182381536888",
+  "name": {
+    "given": "Janet",
+    "surname": "Glas",
+    "suffix": null,
+    "full": "Janet Glas"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "29 October 1747",
+        "year": 1747,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Stirlingshire, Scotland",
+        "parts": [
+          "Stirlingshire",
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Scotland",
+        "parts": [
+          "Scotland"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381536914",
+      "I182381536900"
+    ],
+    "spouses": [
+      {
+        "id": "I182381536897"
+      }
+    ],
+    "children": [
+      "I182381536871"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

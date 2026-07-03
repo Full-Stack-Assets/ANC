@@ -1,0 +1,75 @@
+{
+  "id": "I182381534551",
+  "name": {
+    "given": "Joseph Elwell",
+    "surname": "Pedrick",
+    "suffix": null,
+    "full": "Joseph Elwell Pedrick"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "24 Apr 1834",
+        "year": 1834,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Upper Penns Neck, Salem, New Jersey, USA",
+        "parts": [
+          "Upper Penns Neck",
+          "Salem",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "5 Jul 1913",
+        "year": 1913,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Jefferson Hospital, Philadelphia, Philadelphia, Pennsylvania, USA",
+        "parts": [
+          "Jefferson Hospital",
+          "Philadelphia",
+          "Philadelphia",
+          "Pennsylvania",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381534660",
+      "I182381534646"
+    ],
+    "spouses": [
+      {
+        "id": "I182381534590"
+      }
+    ],
+    "children": [
+      "I182195862467"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

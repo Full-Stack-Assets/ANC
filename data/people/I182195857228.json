@@ -1,0 +1,46 @@
+{
+  "id": "I182195857228",
+  "name": {
+    "given": "Bette",
+    "surname": "Lyons",
+    "suffix": null,
+    "full": "Bette Lyons"
+  },
+  "sex": "U",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1961",
+        "year": 1961,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182195856839",
+      "I182195857227"
+    ],
+    "spouses": [],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

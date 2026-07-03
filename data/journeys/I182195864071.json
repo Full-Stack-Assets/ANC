@@ -1,0 +1,55 @@
+{
+  "id": "I182195864071",
+  "person": "Samuel Bolton",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Abington Twp, Philadelphia, PA",
+        "parts": [
+          "Abington Twp",
+          "Philadelphia",
+          "PA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1715",
+        "year": 1715,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Germantown, Philadelphia, PA",
+        "parts": [
+          "Germantown",
+          "Philadelphia",
+          "PA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "12 September 1757",
+        "year": 1757,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

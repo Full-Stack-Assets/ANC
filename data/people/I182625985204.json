@@ -1,0 +1,70 @@
+{
+  "id": "I182625985204",
+  "name": {
+    "given": "Mary Walcott",
+    "surname": "Ward",
+    "suffix": null,
+    "full": "Mary Walcott Ward"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1665",
+        "year": 1665,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Monmouth County, New Jersey, USA",
+        "parts": [
+          "Monmouth County",
+          "New Jersey",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "25 Jan 1738",
+        "year": 1738,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Egg Harbor City, Atlantic, New Jersey, United States",
+        "parts": [
+          "Egg Harbor City",
+          "Atlantic",
+          "New Jersey",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625985189"
+      }
+    ],
+    "children": [
+      "I182542052534"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

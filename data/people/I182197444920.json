@@ -1,0 +1,70 @@
+{
+  "id": "I182197444920",
+  "name": {
+    "given": "Cajsa",
+    "surname": "Johansdotter",
+    "suffix": null,
+    "full": "Cajsa Johansdotter"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Oct 1812",
+        "year": 1812,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boda farm, Hjo lands, Skaraborg, Sweden",
+        "parts": [
+          "Boda farm",
+          "Hjo lands",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "22 Oct 1893",
+        "year": 1893,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Hjo, Skaraborg, Sweden",
+        "parts": [
+          "Hjo",
+          "Skaraborg",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620320549"
+      }
+    ],
+    "children": [
+      "I182197444088"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

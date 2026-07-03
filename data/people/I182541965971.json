@@ -1,0 +1,74 @@
+{
+  "id": "I182541965971",
+  "name": {
+    "given": "Josiah",
+    "surname": "Ingersoll\\Ingersal",
+    "suffix": null,
+    "full": "Josiah Ingersoll\\Ingersal"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Jun 1687",
+        "year": 1687,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, USA",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "30 May 1768",
+        "year": 1768,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gloucester, Essex, Massachusetts, British America",
+        "parts": [
+          "Gloucester",
+          "Essex",
+          "Massachusetts",
+          "British America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182620337704",
+      "I182620337720"
+    ],
+    "spouses": [
+      {
+        "id": "I182541965969"
+      }
+    ],
+    "children": [
+      "I182541965902"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

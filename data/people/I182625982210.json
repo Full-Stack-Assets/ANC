@@ -1,0 +1,117 @@
+{
+  "id": "I182625982210",
+  "name": {
+    "given": "Elizabeth",
+    "surname": "Howard",
+    "suffix": null,
+    "full": "Elizabeth Howard"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1445",
+        "year": 1445,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Ashwellthorpe, South Norfolk District, Norfolk, England",
+        "parts": [
+          "Ashwellthorpe",
+          "South Norfolk District",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "4 April 1497",
+        "year": 1497,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Thetford, Breckland Borough, Norfolk, England",
+        "parts": [
+          "Thetford",
+          "Breckland Borough",
+          "Norfolk",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": null,
+      "place": {
+        "raw": "Aldgate, City of London, Greater London, England",
+        "parts": [
+          "Aldgate",
+          "City of London",
+          "Greater London",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S516008889",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625982381",
+      "I182625982380"
+    ],
+    "spouses": [
+      {
+        "id": "I182625982211"
+      }
+    ],
+    "children": [
+      "I182625981492",
+      "I182625982379",
+      "I182625982382",
+      "I182625982383"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S516008889",
+      "title": "UK and Ireland, Find a Grave® Index, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

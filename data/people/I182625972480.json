@@ -1,0 +1,88 @@
+{
+  "id": "I182625972480",
+  "name": {
+    "given": "Engelbert",
+    "surname": "VON LANGEN",
+    "suffix": null,
+    "full": "Engelbert VON LANGEN"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1554",
+        "year": 1554,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kreyenborg, Haseluenne, Preussen, Germany",
+        "parts": [
+          "Kreyenborg",
+          "Haseluenne",
+          "Preussen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S508118847",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "20 Jul 1667",
+        "year": 1667,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Sögel, Emsland, Niedersachsen, Germany",
+        "parts": [
+          "Sögel",
+          "Emsland",
+          "Niedersachsen",
+          "Germany"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625972486",
+      "I182625972569",
+      "I182625972559"
+    ],
+    "spouses": [
+      {
+        "id": "I182625972478"
+      }
+    ],
+    "children": [
+      "I182625972468"
+    ]
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508118847",
+      "title": "Geneanet Community Trees Index",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": null
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

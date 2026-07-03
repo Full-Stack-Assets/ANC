@@ -1,0 +1,70 @@
+{
+  "id": "I182623691720",
+  "name": {
+    "given": "Thomas",
+    "surname": "Joslin",
+    "suffix": null,
+    "full": "Thomas Joslin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "10 Mar 1707",
+        "year": 1707,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marlborough, Middlesex, MA",
+        "parts": [
+          "Marlborough",
+          "Middlesex",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1760",
+        "year": 1760,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Fort William-henry",
+        "parts": [
+          "Fort William-henry"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623691861",
+      "I182623691853"
+    ],
+    "spouses": [
+      {
+        "id": "I182623691712"
+      }
+    ],
+    "children": [
+      "I182623691684"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

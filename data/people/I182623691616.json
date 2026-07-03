@@ -1,0 +1,71 @@
+{
+  "id": "I182623691616",
+  "name": {
+    "given": "Capt. James M.",
+    "surname": "Greene",
+    "suffix": "Sr.",
+    "full": "Capt. James M. Greene Sr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Mar 1779",
+        "year": 1779,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Claremont, Sullivan, New Hampshire, USA",
+        "parts": [
+          "Claremont",
+          "Sullivan",
+          "New Hampshire",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Feb 1817",
+        "year": 1817,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Waterbury, Washington, Vermont, USA",
+        "parts": [
+          "Waterbury",
+          "Washington",
+          "Vermont",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182623691535"
+      }
+    ],
+    "children": [
+      "I182623691429"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

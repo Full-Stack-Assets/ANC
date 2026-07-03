@@ -1,0 +1,72 @@
+{
+  "id": "I182623690069",
+  "name": {
+    "given": "John",
+    "surname": "Coombs",
+    "suffix": null,
+    "full": "John Coombs"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "20 Jul 1664",
+        "year": 1664,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Boston, Middlesex, Massachusetts, United States",
+        "parts": [
+          "Boston",
+          "Middlesex",
+          "Massachusetts",
+          "United States"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "2 Aug 1732",
+        "year": 1732,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Northampton, Massachusetts",
+        "parts": [
+          "Northampton",
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182623690129",
+      "I182623690116"
+    ],
+    "spouses": [
+      {
+        "id": "I182623690040"
+      }
+    ],
+    "children": [
+      "I182623689856"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

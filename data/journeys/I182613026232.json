@@ -1,0 +1,57 @@
+{
+  "id": "I182613026232",
+  "person": "Reverend John Issac Johnson",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Herne Hill, Canterbury, Kent, England",
+        "parts": [
+          "Herne Hill",
+          "Canterbury",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "11 Mar 1564",
+        "year": 1564,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "Wilmington, Dartford, Kent, England",
+        "parts": [
+          "Wilmington",
+          "Dartford",
+          "Kent",
+          "England"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "4 Feb 1666",
+        "year": 1666,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "death",
+      "narrative": null,
+      "confidence": "inferred",
+      "sources": []
+    }
+  ],
+  "notes": null
+}

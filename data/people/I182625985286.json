@@ -1,0 +1,41 @@
+{
+  "id": "I182625985286",
+  "name": {
+    "given": "Elynor",
+    "surname": "Gryffies",
+    "suffix": null,
+    "full": "Elynor Gryffies"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "Abt. 1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182625985275"
+      }
+    ],
+    "children": [
+      "I182625985231"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

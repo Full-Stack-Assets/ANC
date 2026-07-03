@@ -1,0 +1,70 @@
+{
+  "id": "I182620320638",
+  "name": {
+    "given": "Margareta Hansdotter",
+    "surname": "Muurla",
+    "suffix": null,
+    "full": "Margareta Hansdotter Muurla"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1515",
+        "year": 1515,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pernaja Tetom, Finlande",
+        "parts": [
+          "Pernaja Tetom",
+          "Finlande"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1599",
+        "year": 1599,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Loviisan Pernajan Tetom, Loviisa, Finland / Pernaja / Pernå, Uusimaa / Nyland, Finlande",
+        "parts": [
+          "Loviisan Pernajan Tetom",
+          "Loviisa",
+          "Finland / Pernaja / Pernå",
+          "Uusimaa / Nyland",
+          "Finlande"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182620320663"
+      }
+    ],
+    "children": [
+      "I182620320579"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

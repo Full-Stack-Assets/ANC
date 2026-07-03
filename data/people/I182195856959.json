@@ -1,0 +1,351 @@
+{
+  "id": "I182195856959",
+  "name": {
+    "given": "Howard F",
+    "surname": "Donahue",
+    "suffix": "Jr.",
+    "full": "Howard F Donahue Jr."
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "15 Sep 1943",
+        "year": 1943,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        },
+        {
+          "source_id": "S446914762",
+          "page": "Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File"
+        },
+        {
+          "source_id": "S446914569",
+          "page": null
+        },
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "7 Jan 2013",
+        "year": 2013,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": "Publication Date: 10/ Jan/ 2013; Publication Place: West Roxbury, Massachusetts, USA; URL: http://currentobituary.com/ShowObit.aspx?id=120575&amp;member_id=67"
+        },
+        {
+          "source_id": "S446914762",
+          "page": "Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File"
+        },
+        {
+          "source_id": "S446914516",
+          "page": "Publication Date: 11/ Jan/ 2013; Publication Place: Boston, Massachusetts, USA; URL: http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=howard-f-donahue&amp;pid=162254431"
+        },
+        {
+          "source_id": "S447115622",
+          "page": null
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 11/ Jan/ 2013; Publication Place: Boston, Massachusetts, United States of America; URL: https://www.newspapers.com/image/444209194/?article=3d17cb68-0016-4821-9722-cbd5dbc0f745&focus=0.49924064,0.49164674,0.6662919,0.783"
+        }
+      ],
+      "confidence": "documented"
+    },
+    "burial": {
+      "type": "burial",
+      "date": {
+        "raw": "12 Jan",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": "Publication Date: 10/ Jan/ 2013; Publication Place: West Roxbury, Massachusetts, USA; URL: http://currentobituary.com/ShowObit.aspx?id=120575&amp;member_id=67"
+        },
+        {
+          "source_id": "S446914516",
+          "page": "Publication Date: 11/ Jan/ 2013; Publication Place: Boston, Massachusetts, USA; URL: http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=howard-f-donahue&amp;pid=162254431"
+        },
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 11/ Jan/ 2013; Publication Place: Boston, Massachusetts, United States of America; URL: https://www.newspapers.com/image/444209194/?article=3d17cb68-0016-4821-9722-cbd5dbc0f745&focus=0.49924064,0.49164674,0.6662919,0.783"
+        }
+      ],
+      "confidence": "documented"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182616333342",
+      "I182616333340"
+    ],
+    "spouses": [
+      {
+        "id": "I182195859300"
+      }
+    ],
+    "children": [
+      "I182195856807"
+    ]
+  },
+  "events": [
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1950",
+        "year": 1950,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Brockton, Plymouth, Massachusetts, USA",
+        "parts": [
+          "Brockton",
+          "Plymouth",
+          "Massachusetts",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": "Relation to Head of House: Son; Marital Status: Never Married",
+      "sources": [
+        {
+          "source_id": "S506435404",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1962",
+        "year": 1962,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Massachusetts",
+        "parts": [
+          "Massachusetts"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914762",
+          "page": "Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": {
+        "raw": "1993",
+        "year": 1993,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dedham, MA",
+        "parts": [
+          "Dedham",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Foxboro, MA",
+        "parts": [
+          "Foxboro",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Norwood, MA",
+        "parts": [
+          "Norwood",
+          "MA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914507",
+          "page": null
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Walpole",
+        "parts": [
+          "Walpole"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914524",
+          "page": "The Boston Globe; Publication Date: 11/ Jan/ 2013; Publication Place: Boston, Massachusetts, United States of America; URL: https://www.newspapers.com/image/444209194/?article=3d17cb68-0016-4821-9722-cbd5dbc0f745&focus=0.49924064,0.49164674,0.6662919,0.783"
+        }
+      ],
+      "confidence": "documented"
+    },
+    {
+      "type": "residence",
+      "date": null,
+      "place": {
+        "raw": "Walpole, Sharon, Bonita Springs, FL, Dedham, Brockton",
+        "parts": [
+          "Walpole",
+          "Sharon",
+          "Bonita Springs",
+          "FL",
+          "Dedham",
+          "Brockton"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [
+        {
+          "source_id": "S446914499",
+          "page": "Publication Date: 10/ Jan/ 2013; Publication Place: West Roxbury, Massachusetts, USA; URL: http://currentobituary.com/ShowObit.aspx?id=120575&amp;member_id=67"
+        },
+        {
+          "source_id": "S446914516",
+          "page": "Publication Date: 11/ Jan/ 2013; Publication Place: Boston, Massachusetts, USA; URL: http://www.legacy.com/obituaries/bostonglobe/obituary.aspx?n=howard-f-donahue&amp;pid=162254431"
+        }
+      ],
+      "confidence": "documented"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S446914507",
+      "title": "U.S. Public Records Index, 1950-1993, Volume 1",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914762",
+      "title": "U.S., Social Security Death Index, 1935-2014",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914569",
+      "title": "Massachusetts, Birth Index, 1860-1970",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S506435404",
+      "title": "1950 United States Federal Census",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914499",
+      "title": "U.S., Cemetery and Funeral Home Collection, 1847-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914516",
+      "title": "U.S., Obituary Collection, 1930-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S447115622",
+      "title": "Global, Find A Grave Index for Burials at Sea and other Select Burial Locations, 1300s-Current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914524",
+      "title": "Newspapers.com Obituary Index, 1800s-current",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations Inc",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

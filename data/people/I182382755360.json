@@ -1,0 +1,57 @@
+{
+  "id": "I182382755360",
+  "name": {
+    "given": "Stephen",
+    "surname": "Coffin",
+    "suffix": null,
+    "full": "Stephen Coffin"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1652",
+        "year": 1652,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1734",
+        "year": 1734,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182382755444"
+    ],
+    "spouses": [
+      {
+        "id": "I182382755326"
+      }
+    ],
+    "children": [
+      "I182382755270"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

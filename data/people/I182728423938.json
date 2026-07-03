@@ -1,0 +1,421 @@
+{
+  "id": "I182728423938",
+  "name": {
+    "given": "Jon",
+    "surname": "Olsson\\Olofsson",
+    "suffix": null,
+    "full": "Jon Olsson\\Olofsson"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Myckleby, Västra Götaland, Sverige",
+        "parts": [
+          "Myckleby",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "15 okt 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby socken, Orust, Bohuslän. Sverige",
+        "parts": [
+          "Grindsby",
+          "Myckleby socken",
+          "Orust",
+          "Bohuslän. Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182728423952"
+      }
+    ],
+    "children": [
+      "I182726546489"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Göteborg, Vastra Gotaland, Sweden",
+        "parts": [
+          "Göteborg",
+          "Vastra Gotaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gusseröd, Ljung, Uddevalla, Västra Götaland, Sverige",
+        "parts": [
+          "Gusseröd",
+          "Ljung",
+          "Uddevalla",
+          "Västra Götaland",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Västra Götalands län, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Myckleby",
+          "Västra Götalands län",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Orrevik, Bokenäs (O)",
+        "parts": [
+          "Orrevik",
+          "Bokenäs (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Bokenäs, Göteborg & Bohuslän, Sweden",
+        "parts": [
+          "Bokenäs",
+          "Göteborg & Bohuslän",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1620",
+        "year": 1620,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torp, Bohuslän Orust, Sverige",
+        "parts": [
+          "Torp",
+          "Bohuslän Orust",
+          "Sverige"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "ABT 1630",
+        "year": 1630,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "place": {
+        "raw": "Orrevik, Bokenäs (O)",
+        "parts": [
+          "Orrevik",
+          "Bokenäs (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "birth",
+      "date": {
+        "raw": "1636",
+        "year": 1636,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torp, Myckleby, Bohuslän, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Torp",
+          "Myckleby",
+          "Bohuslän",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Göteborg, Vastra Gotaland, Sweden",
+        "parts": [
+          "Göteborg",
+          "Vastra Gotaland",
+          "Sweden"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "15 October 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Grindsby, Myckleby, s Östra, Göteborgs- och Bohus län, Bohus, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Grindsby",
+          "Myckleby",
+          "s Östra",
+          "Göteborgs- och Bohus län",
+          "Bohus",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "BEF 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": "BEF"
+      },
+      "place": {
+        "raw": "Orrevik, Bokenäs (O)",
+        "parts": [
+          "Orrevik",
+          "Bokenäs (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Gusseröd, Ljung, Uddevalla, Göteborg och Bohus, Suède",
+        "parts": [
+          "Gusseröd",
+          "Ljung",
+          "Uddevalla",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "15 October 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Myckleby, Västra Götalands län, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Myckleby",
+          "Västra Götalands län",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "ca 1680",
+        "year": 1680,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Orrevik, Bokenäs (O)",
+        "parts": [
+          "Orrevik",
+          "Bokenäs (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1683",
+        "year": 1683,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Orrevik, Bokenäs (O)",
+        "parts": [
+          "Orrevik",
+          "Bokenäs (O)"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    {
+      "type": "death",
+      "date": {
+        "raw": "1690",
+        "year": 1690,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Torp, Myckleby, Bohuslän, Orust, Göteborg och Bohus, Suède",
+        "parts": [
+          "Torp",
+          "Myckleby",
+          "Bohuslän",
+          "Orust",
+          "Göteborg och Bohus",
+          "Suède"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "I182625986426",
+  "name": {
+    "given": "Nathaneell",
+    "surname": "Lilly or Lilley",
+    "suffix": null,
+    "full": "Nathaneell Lilly or Lilley"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1560",
+        "year": 1560,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Broughton , Northhamptonshire, England",
+        "parts": [
+          "Broughton",
+          "Northhamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "23 Mar 1642",
+        "year": 1642,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Broughton , Northhamptonshire, England",
+        "parts": [
+          "Broughton",
+          "Northhamptonshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625986455",
+      "I182625986461"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986423"
+      }
+    ],
+    "children": [
+      "I182625986374"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "I182613113356",
+  "name": {
+    "given": "Richard Christopher",
+    "surname": "Locke",
+    "suffix": null,
+    "full": "Richard Christopher Locke"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1568",
+        "year": 1568,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pensford, Buckinghamshire, , England",
+        "parts": [
+          "Pensford",
+          "Buckinghamshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "13 Jan 1643",
+        "year": 1643,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Pilrow, Lockestown, , England",
+        "parts": [
+          "Pilrow",
+          "Lockestown",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113360"
+    ],
+    "spouses": [],
+    "children": [
+      "I182613113346"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

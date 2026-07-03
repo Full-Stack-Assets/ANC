@@ -1,0 +1,111 @@
+{
+  "id": "I182541956631",
+  "name": {
+    "given": "Hester or Esther",
+    "surname": "Cooke",
+    "suffix": null,
+    "full": "Hester or Esther Cooke"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "16 August 1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth County, Massachusetts, United States of America",
+        "parts": [
+          "Plymouth",
+          "Plymouth County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "16 April 1671",
+        "year": 1671,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Dartmouth, Bristol County, Massachusetts, United States of America",
+        "parts": [
+          "Dartmouth",
+          "Bristol County",
+          "Massachusetts",
+          "United States of America"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182541933966",
+        "marriage": {
+          "type": "marriage",
+          "date": {
+            "raw": "Abt. 1667",
+            "year": 1667,
+            "year_end": null,
+            "qualifier": null
+          },
+          "place": {
+            "raw": "Dartmouth, Bristol, Massachusetts, USA",
+            "parts": [
+              "Dartmouth",
+              "Bristol",
+              "Massachusetts",
+              "USA"
+            ]
+          },
+          "value": null,
+          "note": null,
+          "sources": [
+            {
+              "source_id": "S508117531",
+              "page": "Historical Society of Pennsylvania; Society of Mayflower Descendants in the Commonwealth of Pennsylvania"
+            }
+          ],
+          "confidence": "documented"
+        }
+      }
+    ],
+    "children": []
+  },
+  "events": [],
+  "sources": [
+    {
+      "id": "S508117531",
+      "title": "Pennsylvania, U.S., Society of Mayflower Descendants Applications, 1911-1929",
+      "author": "Ancestry.com",
+      "publication": "Ancestry.com Operations, Inc.",
+      "repository": "@R404210260@"
+    },
+    {
+      "id": "S446914557",
+      "title": "Ancestry Family Trees",
+      "author": null,
+      "publication": "Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.",
+      "repository": "@R404210260@"
+    }
+  ],
+  "notes": [],
+  "confidence": "documented"
+}

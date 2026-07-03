@@ -1,0 +1,72 @@
+{
+  "id": "I182613112989",
+  "name": {
+    "given": "Adam",
+    "surname": "Eve",
+    "suffix": null,
+    "full": "Adam Eve"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1575",
+        "year": 1575,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abbess Roding, Essex, England",
+        "parts": [
+          "Abbess Roding",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1650",
+        "year": 1650,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Abbess Roding, Essex, England",
+        "parts": [
+          "Abbess Roding",
+          "Essex",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182613113017",
+      "I182613112998"
+    ],
+    "spouses": [
+      {
+        "id": "I182613112987"
+      }
+    ],
+    "children": [
+      "I182613112982"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

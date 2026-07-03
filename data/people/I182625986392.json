@@ -1,0 +1,50 @@
+{
+  "id": "I182625986392",
+  "name": {
+    "given": "Joan Warman",
+    "surname": "(PGx9GM)o",
+    "suffix": null,
+    "full": "Joan Warman (PGx9GM)o"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1589",
+        "year": 1589,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Kingston Upon Thames, Surrey, England",
+        "parts": [
+          "Kingston Upon Thames",
+          "Surrey",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182626038547"
+    ],
+    "spouses": [
+      {
+        "id": "I182625986383"
+      }
+    ],
+    "children": [
+      "I182625986361"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

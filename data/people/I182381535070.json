@@ -1,0 +1,67 @@
+{
+  "id": "I182381535070",
+  "name": {
+    "given": "Mary",
+    "surname": "Robinson",
+    "suffix": null,
+    "full": "Mary Robinson"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "1722",
+        "year": 1722,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Heversham, Westmorland, England",
+        "parts": [
+          "Heversham",
+          "Westmorland",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": null,
+      "place": {
+        "raw": "Kidderminster, Worcestershire, England?",
+        "parts": [
+          "Kidderminster",
+          "Worcestershire",
+          "England?"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182381535113",
+      "I182381535131"
+    ],
+    "spouses": [
+      {
+        "id": "I182381535083"
+      }
+    ],
+    "children": [
+      "I182381535055"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

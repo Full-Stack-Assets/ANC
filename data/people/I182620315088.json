@@ -1,0 +1,71 @@
+{
+  "id": "I182620315088",
+  "name": {
+    "given": "Robert",
+    "surname": "Doane",
+    "suffix": null,
+    "full": "Robert Doane"
+  },
+  "sex": "M",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "19 July 1604",
+        "year": 1604,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tarporley, Cheshire, England",
+        "parts": [
+          "Tarporley",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "UNKNOWN",
+        "year": null,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Tarporley, Cheshire, England",
+        "parts": [
+          "Tarporley",
+          "Cheshire",
+          "England"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [
+      "I182625981374"
+    ],
+    "spouses": [
+      {
+        "id": "I182620315082"
+      }
+    ],
+    "children": [
+      "I182620315068"
+    ]
+  },
+  "events": [],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}

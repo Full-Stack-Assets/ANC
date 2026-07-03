@@ -1,0 +1,96 @@
+{
+  "id": "I182620324559",
+  "person": "Josephine Minichelli",
+  "status": "seeded",
+  "summary": null,
+  "waypoints": [
+    {
+      "seq": 1,
+      "place": {
+        "raw": "Italy",
+        "parts": [
+          "Italy"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "abt 1906",
+        "year": 1906,
+        "year_end": null,
+        "qualifier": "ABT"
+      },
+      "event": "birth",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": "New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 29; Assembly District: 01; City: New York; County: New York; Page: 24"
+        },
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "place": {
+        "raw": "New York, New York",
+        "parts": [
+          "New York",
+          "New York"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1925",
+        "year": 1925,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "",
+          "page": "New York State Archives; Albany, New York; State Population Census Schedules, 1925; Election District: 29; Assembly District: 01; City: New York; County: New York; Page: 24"
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "place": {
+        "raw": "Manhattan (Districts 1-250), Manhattan, New York, New York, USA",
+        "parts": [
+          "Manhattan (Districts 1-250)",
+          "Manhattan",
+          "New York",
+          "New York",
+          "USA"
+        ],
+        "lat": null,
+        "lng": null
+      },
+      "date": {
+        "raw": "1930",
+        "year": 1930,
+        "year_end": null,
+        "qualifier": null
+      },
+      "event": "residence",
+      "narrative": null,
+      "confidence": "documented",
+      "sources": [
+        {
+          "source_id": "S447115653",
+          "page": null
+        }
+      ]
+    }
+  ],
+  "notes": null
+}

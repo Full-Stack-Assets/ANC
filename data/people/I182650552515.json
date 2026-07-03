@@ -1,0 +1,84 @@
+{
+  "id": "I182650552515",
+  "name": {
+    "given": "Elizabeth*.",
+    "surname": "CARVER",
+    "suffix": null,
+    "full": "Elizabeth*. CARVER"
+  },
+  "sex": "F",
+  "vitals": {
+    "birth": {
+      "type": "birth",
+      "date": {
+        "raw": "26 Mar 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": null,
+      "value": null,
+      "note": "Age: 0",
+      "sources": [],
+      "confidence": "inferred"
+    },
+    "death": {
+      "type": "death",
+      "date": {
+        "raw": "1788",
+        "year": 1788,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Plymouth, Plymouth Co. MA USA",
+        "parts": [
+          "Plymouth",
+          "Plymouth Co. MA USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  },
+  "relationships": {
+    "parents": [],
+    "spouses": [
+      {
+        "id": "I182650552512"
+      }
+    ],
+    "children": [
+      "I182650552498"
+    ]
+  },
+  "events": [
+    {
+      "type": "birth",
+      "date": {
+        "raw": "26 Mar 1701",
+        "year": 1701,
+        "year_end": null,
+        "qualifier": null
+      },
+      "place": {
+        "raw": "Marshfield, Plymouth, MA, USA",
+        "parts": [
+          "Marshfield",
+          "Plymouth",
+          "MA",
+          "USA"
+        ]
+      },
+      "value": null,
+      "note": null,
+      "sources": [],
+      "confidence": "inferred"
+    }
+  ],
+  "sources": [],
+  "notes": [],
+  "confidence": "inferred"
+}
