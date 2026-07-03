@@ -180,8 +180,109 @@
   "confidence": "documented",
   "manual": {
     "notes": [
-      "Three parents in the export: William Albertson and Hannah Drewett are the biological parents; William Stockdale is Hannah's first husband, pulled in as a step-parent by the tree structure.",
-      "The 12 Nov 1727 'residence' event with no place is the Quaker meeting-record counterpart of the marriage to Ann Austin on the same date."
+      "BIRTH CORRECTED (research 2026-07-03): born c. 1706 (compiled consensus: WikiTree Albertson-649, Geni, FamilySearch LZJZ-DSL — 'died 1784 at about age 78'), NOT 1692. The 1692 entry almost certainly grew from his father's real 1692 purchase of land 'in the town bounds of Gloucester' (Clement, Lib. S6, 405 O.S.G.) — a deed mutated into a birth event; no actual birth record has been produced by anyone. Birthplace uncertain: the family seat c. 1706 was Byberry/Poquessing, PA, so 'Gloucester' may only be right as the county of his adult life.",
+      "PARENTS: son of William Albertson and second wife Hannah Drewett (married by 27 Sep 1695 per Morgan Druet's will). Full siblings Benjamin and Cassandra; half-siblings William Jr., Abraham, Rebecca, Ann (first wife Jane Preston's children). The export's third 'parent' William Stockdale is a tree-structure artifact.",
+      "OCCUPATION & HOMESTEAD: shoemaker and farmer-lumberman on the Otter Branch tract (Timber Creek watershed) inherited by his father's 1709 will; doubled the acreage and in 1743 built the brick Albertson homestead that stood into the late 19th century — site near modern Magnolia/Albertson, NJ (the locality is named for this family).",
+      "MARRIAGE: declared intentions with Ann Austin (daughter of Francis Austin of Evesham) at Newton Monthly Meeting — renamed Haddonfield MM 1741/2 — in September 1727 (Craig, South Jersey Marriages: 'Albertson, Josiah, and Ann Austin, Sept, 1727'); Friends marriages typically followed ~2-3 months later, so the export's 12 Nov 1727 is credible as the actual marriage date and the circulating '8 Sep 1727' is the declaration. 'Camden' as a place is anachronistic.",
+      "CHILDREN (9): Hannah (m. Jacob Clement 1747), Mary (m. Thomas Hackney — contra Clement's 'unmarried'; her 1779 will names 'my father Josiah Alberson'), Cassandra (m. Jacob Ellis 1750, then Jacob Burrough), Patience (m. Isaac Ballinger), Elizabeth (d. unm.), Josiah Jr. (b. ~Oct 1738, m. Eleanor Tomlinson ~1768 then Judith Boggs, d. winter 1782/3, predeceasing his father), Sarah (m. Samuel Webster), Keturah (m. Isaac Townsend), Ann (m. Ebenezer Hopkins, then Jacob Jennings).",
+      "DEATH CORRECTED: the export's '16 Mar 1784' is the PROBATE date of his will, not his death. Will dated 7 Dec 1783 ('Albertson, Josiah, of Gloucester Township, Gloucester Co., yeoman'), estate inventory £130.14.3 taken 10 Mar 1784, will proved 16 Mar 1784 (Calendar of NJ Wills VI, pp. 11-12, Lib. 26, p. 30). He died on his Gloucester Township plantation between those dates, aged ~77-78 — not at Haddonfield (that was his meeting, not his home) and not ~92. Left the plantation to grandson John (son of the deceased Josiah Jr.).",
+      "1768 'BURLINGTON' RECORD: Ancestry files Haddonfield MM material under a 'Burlington, New Jersey' label; the 9 Mar 1768 entry is almost certainly Haddonfield MM business — plausibly proceedings around Josiah Jr.'s marriage to Eleanor Tomlinson (late 1760s per Prowell). Also documented: Josiah and Ann witnessed the Stokes-Hinchman marriage certificate at Haddonfield, 7 May 1741.",
+      "CONFLATION RISK: findagrave memorial 67740920 ('Josiah Albertson 1741-1827, Blue Anchor') is a DIFFERENT man; no memorial exists for this Josiah — Haddonfield Friends graves of the era are largely unmarked.",
+      "Sources: Calendar of NJ Wills VI pp. 11-12 (archive.org/details/calendarofnewjer00unse_0); Clement (1877) pp. 101-108; Prowell, History of Camden County (1886) pp. 673-674; Craig, South Jersey Marriages (dunhamwilcox.net/nj/s-jersey_marr11.htm); wikitree.com/wiki/Albertson-649; magnolia-nj.org/about/page/history."
+    ],
+    "events": [
+      {
+        "type": "birth",
+        "date": {
+          "raw": "ABT 1706",
+          "year": 1706,
+          "year_end": null,
+          "qualifier": "ABT"
+        },
+        "place": {
+          "raw": "Gloucester County, West New Jersey (or Byberry, Pennsylvania)",
+          "parts": [
+            "Gloucester County",
+            "West New Jersey"
+          ]
+        },
+        "value": null,
+        "note": "Corrected birth: c. 1706 per compiled consensus. Supersedes the impossible 1692 machine record.",
+        "sources": [],
+        "confidence": "inferred"
+      },
+      {
+        "type": "other",
+        "date": {
+          "raw": "1709",
+          "year": 1709,
+          "year_end": null,
+          "qualifier": null
+        },
+        "place": {
+          "raw": "Gloucester Township, Gloucester County, New Jersey",
+          "parts": [
+            "Gloucester Township",
+            "Gloucester County",
+            "New Jersey"
+          ]
+        },
+        "value": "Inherited the Otter Branch tract by his father's will",
+        "note": "Clement, p. 107.",
+        "sources": [],
+        "confidence": "documented"
+      },
+      {
+        "type": "occupation",
+        "date": null,
+        "place": null,
+        "value": "Shoemaker; farmer and lumberman",
+        "note": "Clement/Prowell.",
+        "sources": [],
+        "confidence": "documented"
+      },
+      {
+        "type": "other",
+        "date": {
+          "raw": "1743",
+          "year": 1743,
+          "year_end": null,
+          "qualifier": null
+        },
+        "place": {
+          "raw": "Otter Branch, Gloucester Township, New Jersey (modern Magnolia/Albertson)",
+          "parts": [
+            "Otter Branch",
+            "Gloucester Township",
+            "New Jersey"
+          ]
+        },
+        "value": "Built the brick Albertson homestead",
+        "note": "Stood into the late 19th century; occupied 1876 by descendant Chalkley Albertson.",
+        "sources": [],
+        "confidence": "documented"
+      },
+      {
+        "type": "other",
+        "date": {
+          "raw": "7 DEC 1783",
+          "year": 1783,
+          "year_end": null,
+          "qualifier": null
+        },
+        "place": {
+          "raw": "Gloucester Township, Gloucester County, New Jersey",
+          "parts": [
+            "Gloucester Township",
+            "Gloucester County",
+            "New Jersey"
+          ]
+        },
+        "value": "Will dated; inventory 10 Mar 1784; proved 16 Mar 1784",
+        "note": "Calendar of NJ Wills VI, pp. 11-12, Lib. 26, p. 30.",
+        "sources": [],
+        "confidence": "documented"
+      }
     ]
   }
 }
