@@ -67,5 +67,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "NAME FIELD CORRUPTED WITH RESEARCH NOTES (research 2026-07-03): the surname/suffix fields here embed a compiler's research note (\"...\\My 6th great-grandmother \\RICHARD INKERSALL\\ INGERSOLL LINE\\Line that belonges to my children Buffey, Spring, April, and Bill\") rather than an actual name — should read simply JUDITH MADDIVER. Independently attested on WikiTree (\"Madiver-1\") and other hosted family trees as wife of Samuel Ingersoll (I182620337704) of Gloucester, Essex Co., MA, matching this record's birth (1660, Purpooduck) and death (11 May 1720, Gloucester) exactly. Her husband's compound name \"SAMUEL LUNT INGERSOLL\" is explained by his mother's maiden name (Lunt) being folded into his name by a compiler, not a documented middle name."
+    ]
+  }
 }

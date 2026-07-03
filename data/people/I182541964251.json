@@ -67,5 +67,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "OPEN QUESTION / LOW CONFIDENCE (research 2026-07-03): this record's own event data gives a 28-year birth window (bet. 1645-1673) and a 60-year death window (bet. 1698-1758) — internally inconsistent enough that the recorded 1645/1698 vital dates should be treated as low-confidence placeholders rather than documented facts pending independent sourcing."
+    ]
+  }
 }
