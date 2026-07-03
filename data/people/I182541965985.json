@@ -105,5 +105,10 @@
   ],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DUPLICATE/MALFORMED EVENTS (research 2026-07-03): this record's events list carries birth and death entries that duplicate the vitals fields with minor place-string variants ('Beverly' vs 'Beverly, Essex, Massachusetts, USA'; 'Manchester, Mass' vs 'Manchester, Essex, Massachusetts, USA') — same person, same facts, duplicated/garbled during import, not evidence of a second Jeremiah Hibbard. Per Genealogy of the Hibbard Family (1901), entry #26, this man's parent (I182620337713) is Joseph Hibbard (Robert Hibbard's son, b. 1648, bap. 7 Mar 1648 Salem, d. 1701 Beverly) — the tree currently carries this parent only as an unlinked 'JOSEPH Hibbert' placeholder rather than a built-out record."
+    ]
+  }
 }

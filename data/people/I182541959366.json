@@ -65,5 +65,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DUPLICATE PERSON RECORD; PARENT FIELD INCOMPLETE (research 2026-07-03): this record and I182620334338 are the same individual with complementary but incomplete data split across two nodes — this one carries a parent link ('Abigail (Hyde) Stowell,' I182541959386, only), the other (I182620334338) carries the spouse (Mary Oliver, m. 24 May 1753, Boston) and its source citation but an empty parents field. Per a WikiTree/FamilySearch-derived compiled summary and the 'Stowell Family History' compilation (Grand Lake Historical Society, citing the 1922 Stowell genealogy), this man's parents were Isaac Stowell Sr. (b. 1708, Newton) AND Abigail Hyde — the tree's 'Abigail (Hyde) Stowell' parent field treats the mother's maiden-name-in-parens notation as if it were the complete parent, omitting the father entirely. Neither Isaac Stowell Sr., his father Israel Stowell (b. 1670, Hingham), nor the immigrant ancestor Samuel Stowell of Hingham (d. 1683) exist as person-records in this tree, though a fully documented published chain to the immigrant is available (The Stowell Genealogy, W.H.H. Stowell, 1922, Archive.org)."
+    ]
+  }
 }
