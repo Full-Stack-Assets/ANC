@@ -1,0 +1,62 @@
+0 HEAD
+1 SOUR Ancestry.com Family Trees
+1 GEDC
+2 VERS 5.5.1
+1 CHAR UTF-8
+0 @S1@ SOUR
+1 TITL 1880 United States Federal Census
+1 AUTH United States Census Bureau
+1 PUBL Washington, D.C.: National Archives
+1 REPO
+2 NAME Ancestry.com
+0 @S2@ SOUR
+1 TITL New York, Passenger and Crew Lists
+0 @I1@ INDI
+1 NAME Giuseppe /Marciano/ Sr
+1 SEX M
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Naples, Campania, Italy
+1 IMMI
+2 DATE 12 MAY 1869
+2 PLAC New York, New York, USA
+2 SOUR @S2@
+3 PAGE Line 14, SS Europa manifest
+1 RESI
+2 DATE 1880
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 SOUR @S1@
+3 PAGE ED 512, sheet 9
+1 OCCU Stonemason
+2 DATE 1880
+1 DEAT
+2 DATE BET 1910 AND 1915
+2 PLAC Boston, Suffolk, Massachusetts, USA
+1 NOTE Family story: he jumped ship in Boston
+2 CONC  harbor rather than
+2 CONT returning to Naples.
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Maria /Rossi/
+1 SEX F
+1 BIRT
+2 DATE 1852
+2 PLAC Salerno, Campania, Italy
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Anthony /Marciano/
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1875
+2 PLAC Boston, Suffolk, Massachusetts, USA
+1 FAMC @F1@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 MARR
+2 DATE 20 JUN 1870
+2 PLAC New York, New York, USA
+2 SOUR @S2@
+3 PAGE Marriage register 1870, p. 88
+0 TRLR
