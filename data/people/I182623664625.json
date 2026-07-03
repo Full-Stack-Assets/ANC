@@ -46,5 +46,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "PROBABLE DUPLICATE RECORD (deep-chain audit, 2026-07-03): this 'Bartholomew Burgoyne' (b. abt 1504, Sutton, Bedfordshire, spouse I182623664602) appears to be a near-duplicate of I182623664658 — another 'Bartholomew Burgoyne'+'Anne Freville' (I182623664655) couple with the same dates but a different father record (I182623664802 vs. I182623664798, both 'John Burgoyne' b. abt 1475) and slightly different birthplace/burial details. Both couples are listed together as the (four) parents of the same son, Sir William Bosum (I182623664640). Likely the same real couple duplicated via a merged-GEDCOM import; needs reconciliation into a single couple before the parent list can be trusted."
+    ]
+  }
 }

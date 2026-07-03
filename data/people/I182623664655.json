@@ -115,5 +115,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "PROBABLE DUPLICATE RECORD (deep-chain audit, 2026-07-03): this 'Lady Anne/Ann Freville-Burgoyne-Bosum' (spouse of Bartholomew Burgoyne, I182623664658) appears to be a near-duplicate of I182623664602 — another 'Anne Freville'+'Bartholomew Burgoyne' (I182623664625) couple with the same b.1504/d.1567 dates but different birthplace/source details. Both couples are listed together as the (four) parents of Sir William Bosum (I182623664640). Likely the same real couple duplicated via a merged-GEDCOM import; needs reconciliation into a single couple."
+    ]
+  }
 }

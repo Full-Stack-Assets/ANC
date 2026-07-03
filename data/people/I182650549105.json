@@ -69,5 +69,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "INFLATED TITLES + MERGE ARTIFACT (deep-chain audit, 2026-07-03): 'Lord Mayor of London' and any Garter claim for this individual are unsupported — the full list of London Lord Mayors 1510-1546 includes no Hardy/de Hardy, and no 'Sir John de Hardy' appears on the Order of the Garter rolls for the period; FamilySearch-derived records describe him only as Alderman (1524-1535) and Sheriff of London (1527-28), a real but lesser civic role. Downgrade to 'Alderman/Sheriff of London.' Separately, his wife Lady Mary Margaret Stanley (I182650549062) is duplicated elsewhere in the tree (as I182585308027) as the spouse of a merged/duplicate 'John de Hardy' record (I182585308101) AND of an entirely different man, John Poole (I182620332859) — with an identical children list in both marriages — a merge artifact, not two real marriages. — FamilySearch: Sir John de Hardy III; Wikipedia: List of lord mayors of London."
+    ]
+  }
 }

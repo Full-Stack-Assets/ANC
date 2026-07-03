@@ -63,5 +63,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "LEAKED CATALOG ID IN NAME FIELD (deep-chain audit, 2026-07-03): the 'XV:22144' prefix in the given-name field is a generation:number citation tag from a Swedish noble-genealogy register (Elgenstierna-style ättartavla/Adelsvapen numbering), not part of her name — should read 'Gertrud Knutsdotter (Svinhufvud af Qvalstad).' Its presence indicates this branch was copy-pasted wholesale from a compiled online genealogy without cleanup. — Adelsvapen-Wiki: Svinhufvud af Qvalstad nr 145."
+    ]
+  }
 }

@@ -88,5 +88,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "MERGE ARTIFACT — SHARED WIFE WITH DUPLICATE 'JOHN DE HARDY' RECORD (deep-chain audit, 2026-07-03): his wife Lady Mary Margaret Stanley (I182585308027) is also listed as the spouse of a duplicate 'John 12GGF de Hardy' record (I182585308101, itself a likely duplicate of I182650549105), with an identical children list (I182584905061, I182620332862, I182620332860, I182620332861) attached to both marriages. This looks like a tree-merge error attaching one wife/family to two different husbands rather than two real marriages; needs reconciliation."
+    ]
+  }
 }
