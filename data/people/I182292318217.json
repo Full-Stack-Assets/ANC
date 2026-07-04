@@ -70,5 +70,11 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "confidence_override": "documented",
+    "notes": [
+      "CORRECTED 2026-07-04: re-designated CANONICAL (was called duplicate for lacking a source citation at this node). Her son Simon Swanson (I182197442974) is the individually-sourced, externally-verified copy exactly matching gen05-simon-swanson-anna-josephina-svenson.md's documented children (Clara M Swanson, Ellen J. Swanson, Emma Albertina Svenson) and a marriage record carrying five source citations. Her own parents (I182382755763 Samuel Jacobsson, I182382755760 Sofia Nilsdotter) are the corrected-canonical copies of that pair. Duplicate: I182195860594 (has a generic 'Ancestry Family Trees' source at this node, but its son 'Simon A Swanson' I182195860381 has only an unsourced marriage and a single, differently-named child - not the verified lineage). The duplicate does carry one extra daughter, Selma Swanson (I182195860595, b.1872/d.1927) and son Simon's death date (17 Mar 1921) not present here - worth preserving if merged. See docs/research/ancestors/gen07-samuel-jacobsson.md and gen06-sven-johan-samuelsson-gustava-samuelsdotter.md."
+    ]
+  }
 }

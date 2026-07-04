@@ -87,5 +87,12 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "PARENT-TOO-OLD RESOLVED as a probable two-Nancy-Davis conflation (research 2026-07-04): this record's only solid documentation for a birth of 1780 Ireland is as mother of Winifreda Mulken (I182585270547, b. abt 1808 Ireland, per Ireland Catholic Parish Registers/1860 US census/Geneanet) with first husband James 'Gems' Carey (Mulkarey) (I182587609016, d. 1867 Balrothery, Ireland, i.e. never emigrated) -- age 28 at that birth, biologically unremarkable. The two flagged children, Thomas McKee (b. 1836 PA) and Curtis M McClelland (b. 1838 PA), rest solely on Pennsylvania death-certificate-index entries (S447147251, certificate ranges 052501-055500 and 040801-044800) naming a mother 'Nancy Davis' -- a common Irish/Scots-American name pairing with no independent link back to the 1780-born, Ireland-based woman documented above. Bearing children at ages 56 and 58 is not credible; the far more parsimonious reading is that these PA death-certificate entries belong to a SECOND, younger, unidentified Nancy Davis (plausibly b. c. 1800-1815, place unknown) who actually married Robert McClelland (I182613118628, b. Scotland) in Pennsylvania, and that the Geneanet Community Trees Index (S508118847) / Ancestry hint-matching merged the two same-named women into one tree node.",
+      "Corroborating detail: Thomas McKee's OWN surname does not match his supposed father Robert McClelland's, while his purported full sibling Curtis carries the McClelland surname correctly -- consistent with Thomas being the son of Nancy [Davis]'s first husband (a Mr. McKee) and Curtis being her son by Robert McClelland, i.e. a normal early-1830s remarriage in Pennsylvania, but NOT consistent with either child belonging to the 1780-born Irish Nancy Davis of this record.",
+      "RECOMMENDATION (not applied to the machine-owned relationships arrays per repo convention): treat Thomas McKee (I182613118644) and Curtis M McClelland (I182613118627) as almost certainly NOT children of this Nancy Davis; the true mother of both is an unidentified, younger, same-named woman who married Robert McClelland in Pennsylvania. This record's only verified child is Winifreda Mulken. Open question: whether this 1780 Nancy Davis herself ever emigrated, and if so, what became of her -- no PA record for her personally (as opposed to her descendants' death certificates) was found."
+    ]
+  }
 }

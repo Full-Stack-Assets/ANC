@@ -114,5 +114,13 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "PARENT-TOO-YOUNG RESOLVED as a likely mis-attached parent link, not a birth-year error on either side (research 2026-07-04): Martha Taber Hedger's OWN birth year (1720) is independently corroborated by her separate WikiTree profile (Taber-815), which documents a real first marriage -- to Joseph Hedger, 1 Nov 1741, Philadelphia, 'at age 21' -- consistent with a 1720 birth. That same profile lists Martha's parents as BOTH UNKNOWN; it does not connect her to this Eliza or to Benjamin Taber at all.",
+      "Meanwhile this record's own data creates a hard structural contradiction, not just an implausibly-young age: Eliza's parents Everard Bolton Jr (I182195864068) and Mary Naylor (I182195864069) married 2 Apr 1707 (per this tree). Even granting Eliza the earliest biologically possible birth after that marriage (1708, as currently recorded), she cannot have been more than about 12-13 years old in 1720 -- there is no birth year for Eliza, consistent with being Everard/Mary's biological daughter, that would make her an adult mother in 1720. This isn't a case where nudging one birth year a few years fixes the math; the parent-child link itself is the more likely error.",
+      "Independent corroboration for the doubt: WikiTree's profile for this exact couple (Bolton-1090, Everard Bolton b.abt.1680 Ross, Herefordshire, m. Mary Naylor) -- matching this tree's Everard/Mary Naylor pairing precisely -- lists only ONE documented child, Priscilla (Bolton) Conard, and no Eliza at all. No published Bolton, Taber, or Cheesman genealogy found on the open web (WikiTree, Geni, FamilySearch, Find A Grave, or the Albert Stirling Adams 'Cheesman Family' manuscript) links an Eliza Bolton to a Benjamin Taber or to Martha Taber Hedger as mother/daughter.",
+      "Most likely explanation, by analogy with this repo's other resolved 'two-women'/mis-hint cases (see Nancy Davis, gen 7, and James McCue, gen 7, in docs/research/direct-line-issues.md): the Benjamin Taber + Eliza Bolton parentage attached to Martha in this tree is a generic Ancestry Family Trees (S446914557) hint-match, not a demonstrated biological relationship. Martha's true parentage is unknown as of this research pass -- flagged as an open question rather than corrected to a guessed alternative. This record's own birth year (1708), parents, and Eliza's OTHER marriage (to Everard Bolton Jr, 'bef 1723', and second husband David Row, 1738) are left as-is; only the claimed link to Martha as mother/daughter is doubted. Full writeup: docs/research/ancestors/gen09-martha-taber-hedger-eliza-bolton-taber.md."
+    ]
+  }
 }

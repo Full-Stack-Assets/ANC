@@ -70,5 +70,12 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "confidence_override": "documented",
+    "notes": [
+      "CORRECTED 2026-07-04: earlier pass wrongly called this the duplicate based on this node alone lacking a source citation. Re-designated CANONICAL: this is the branch that continues, correctly and richly sourced two generations down, to daughter Gustava Samuelsdotter (I182292318217) -> grandson Simon Swanson (I182197442974) -> great-granddaughter Ellen J. Swanson (I182197442785) - the already-externally-verified direct-line descendant (see gen05-simon-swanson-anna-josephina-svenson.md, gen04-ellen-josephine-swanson.md). Simon Swanson I182197442974's own children (Clara M Swanson, Ellen J. Swanson, Emma Albertina Svenson) match that dossier's list exactly, and his marriage record carries five source citations - decisively better evidence than the parallel branch's generic 'Ancestry Family Trees' tag on Samuel Jacobsson himself. Duplicate: I182195861248 (has a source citation at this node, but its descendant Simon Swanson variant I182195860381 does not match the verified lineage).",
+      "Kept for its parents - Jakob Kristoffersson (I182391485866) and Annika Torbjörnsdotter (I182391485891) - not attached to the other Samuel Jacobsson copy. See docs/research/ancestors/gen07-samuel-jacobsson.md."
+    ]
+  }
 }

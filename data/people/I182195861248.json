@@ -97,5 +97,12 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "CORRECTED 2026-07-04: earlier pass called this canonical solely because it carries a source citation at this node. Re-designated DUPLICATE: its descendant Simon Swanson variant (I182195860381, via child I182195860594) has only a generic 'Ancestry Family Trees' marriage source and a child list that doesn't match the externally-verified lineage, whereas the parallel branch (I182382755763 -> I182292318217 -> I182197442974) connects to Simon Swanson's real, multiply-sourced MA marriage record and his three children exactly as documented in gen05-simon-swanson-anna-josephina-svenson.md. Canonical: I182382755763.",
+      "MISSING PARENTS (not applicable now that this is the duplicate): the other copy I182382755763 lists parents Jakob Kristoffersson (I182391485866) and Annika Torbjörnsdotter (I182391485891); this record's own parents field is empty.",
+      "Same tree-duplication pattern as the John Albertson & Ann Pine case (gen 6, see direct-line-issues.md): the whole Samuel Jacobsson/Sofia Nilsdotter/Gustava Samuelsdotter/Sven Johan Samuelsson nuclear-family group exists twice in parallel, apparently from two merged tree imports. See docs/research/ancestors/gen07-samuel-jacobsson.md for the full writeup."
+    ]
+  }
 }

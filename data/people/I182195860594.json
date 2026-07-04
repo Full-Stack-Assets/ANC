@@ -93,5 +93,12 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "CORRECTED 2026-07-04: re-designated DUPLICATE (was called canonical based solely on this node carrying a generic 'Ancestry Family Trees' source and an extra child). Her son here, 'Simon A Swanson' (I182195860381), has only an unsourced marriage and a single child - not a match for the externally-verified Simon Swanson in gen05-simon-swanson-anna-josephina-svenson.md, whose documented children (Clara M Swanson, Ellen J. Swanson, Emma Albertina Svenson) instead match I182197442974, son of the parallel branch (I182292318217, daughter of the corrected-canonical Samuel Jacobsson I182382755763/Sofia Nilsdotter I182382755760). Canonical: I182292318217. This record's extra facts worth preserving if merged: daughter Selma Swanson (I182195860595, b. 1872 Gustorp, Stala / d. 1927 Easton MA) and son Simon's death date (17 Mar 1921), both absent from the canonical copy.",
+      "Her birth/death years (1842-1912) are independently corroborated by a secondary compiled genealogy (yourroots.com) already cited in docs/research/ancestors/gen05-simon-swanson-anna-josephina-svenson.md, which gives 'Gustafva Samuelsdotter (1842-1912)' as Simon Swanson's mother - matching both tree copies equally, so it doesn't itself distinguish canonical from duplicate.",
+      "See docs/research/ancestors/gen07-samuel-jacobsson.md and gen06-sven-johan-samuelsson-gustava-samuelsdotter.md for the full writeup."
+    ]
+  }
 }

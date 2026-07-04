@@ -158,5 +158,10 @@
   ],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "Birth (6 Jan 1665, Newbury, Essex Co., MA) and parentage (son of James Merrick -- mislabeled 'Margaret' in this tree, see I182381536578's manual notes) match external research: WikiTree Myrick-487 states he was 'born at Newbury...on January 6, 1664/5, son of James Merrick and Margaret Unknown' and married Mary Newell of Charlestown 22 Aug 1694, matching this record's listed spouse (I182381536263). However, this record's machine-owned events[] array also carries two conflicting birth entries and a death entry (6 Jan 1661/1665 and death 5 Mar 1726, all placed in 'Eastham, Barnstable Co., MA') that appear to belong to a different, unrelated Isaac Myrick of Cape Cod -- not corrected here (events[] is machine-owned parser output) but flagged for a future data-cleanup pass. See docs/research/ancestors/gen11-margaret-myrick.md."
+    ]
+  }
 }

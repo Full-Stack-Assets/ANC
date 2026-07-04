@@ -151,5 +151,13 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DUPLICATE: this person also exists as I182195861020 (same name, same birth year 1744, sourced only to the generic compiled 'Ancestry Family Trees' index S446914557). Same person — matching birthplace (Skattegården, Hadäng, Velinge) and wife Britta Gabrielsdotter (I182197443408/I182195861021, independently duplicated). Treat this record as primary: it carries per-record Church Records/Select Marriages sourcing and continues, richly documented, to the Rånge line's US immigrant descendant Gustaf Rånge (d. 1902, Easton, MA).",
+      "CAVEAT — first 'spouse' Maria Larsdotter (I182197443441) and child Anders Christian Magnusson (I182197443442, b./d. 1781, Lycke, Göteborg och Bohus) do not fit this Magnus chronologically or geographically: the child was born in 1781, seventeen years before the cited 17 Sep 1798 Karlstad (Värmland) marriage record, and neither location matches Hadäng/Velinge (Skaraborg). Likely a common-name mis-merge with a different 'Magnus Månsson'; flagged as unverified, not asserted as fact.",
+      "Also duplicated one generation up: Magnus's parents Måns Månsson Rånge (1713-1762) & Maria Persdotter exist twice — I182197444971/I182197444935 (this record's parents, primary) and I182195861510/I182195861488 (duplicate; carries a cause-of-death note, 'Dog av huvudsjuka' = died of apoplexy/stroke, worth folding in). Same underlying gen-9 duplicate-person flag, tracked separately in direct-line-issues.md.",
+      "See docs/research/ancestors/gen08-britta-gabrielsdotter-magnus-mansson-range.md for full write-up."
+    ]
+  }
 }

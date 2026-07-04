@@ -66,5 +66,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "RESOLVED 2026-07-04 — this record's listed parents, John William Whitlock (I182541959142) and Anne Henley (I182541959128) of Northamptonshire/Suffolk, England, are a mis-attachment, most likely a surname-only tree hint-match (same pattern as Nancy Davis gen 7 and Eliza Bolton Taber gen 10 elsewhere in this repo). This woman matches WikiTree profile Whitlock-104, 'Elizabeth (Whitlock) Paullin' — wife of William Paullin (I182541959101, matches WikiTree Paullin-17 exactly on both his birth, abt 1682 Bucks Co., PA, and death, abt 12 Nov 1757 Pilesgrove, Salem Co., NJ) and mother of a matching child set including Henry Paullin (I182541958181, b. 1715). WikiTree, citing Elmer Garfield Van Name's 1958 published 'The Paullin Family of Southern New Jersey,' gives Elizabeth's birth as c. 1695 in Bucks County, Pennsylvania (not 1682 as in this tree) and her parents as unknown/unattested — not the English Whitlock/Henley couple. Her death year (1750) does match this tree. Corrected birth year and place are not applied here (no primary source seen, only a secondary WikiTree citation of an unexamined 1958 book) — flagged as an open question rather than guessed. Full write-up: docs/research/ancestors/gen11-anne-henley.md."
+    ]
+  }
 }

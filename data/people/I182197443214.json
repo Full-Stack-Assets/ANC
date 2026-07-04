@@ -67,5 +67,11 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "confidence_override": "documented",
+    "notes": [
+      "CORRECTED 2026-07-04: re-designated CANONICAL (an earlier pass called this the duplicate solely because the parallel copy carries a generic source citation). This is the branch whose son Simon Swanson (I182197442974) matches, child-for-child, the externally-verified gen05-simon-swanson-anna-josephina-svenson.md dossier (Clara M Swanson, Ellen J. Swanson, Emma Albertina Svenson) and whose marriage record carries five real source citations - decisively better evidence than a generic 'Ancestry Family Trees' tag on this node's parallel copy. This record is already correctly linked to canonical Gustava Samuelsdotter (I182292318217) and canonical parents Samuel Olsson (I182292318241) and Annika Olsdotter (I182292318250) - no re-pointing needed anywhere in this chain. Duplicate: I182195860593, whose own son 'Simon A Swanson' (I182195860381) does not match the verified lineage. The duplicate does carry a previously-unattested daughter, Selma Swanson (I182195860595), worth preserving if merged. Resolves the gen-6 flag. See docs/research/ancestors/gen06-sven-johan-samuelsson-gustava-samuelsdotter.md and gen07-samuel-jacobsson.md."
+    ]
+  }
 }

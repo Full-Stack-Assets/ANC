@@ -108,5 +108,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "PARENT-TOO-OLD & CHILD-AFTER-DEATH RESOLVED (folding in this repo's deep-chain credibility audit, 2026-07-04): Elizabeth Say (b.1424 Fen Ditton, d. 25 Sep 1473 Broxbourne) is the real, documented mother of Elizabeth Tilney, Countess of Surrey (I182625982210, b.1445/46), via husband Frederick Tylney (I182625982381) - Wikipedia: Elizabeth Tilney, Countess of Surrey. Edmund Howard (b.1478) is NOT her direct child - he is her GRANDSON, son of Elizabeth Tilney's second marriage (1472, after Elizabeth Tilney's first husband Humphrey Bourchier died) to Thomas Howard, 2nd Duke of Norfolk (see manual notes on I182625982210/I182625982211). The tree has skipped a generation, attaching Edmund Howard directly to Elizabeth Say instead of to her daughter - this single generation-skip error produces both the parent-too-old flag (age 54, would actually be grandmother at a normal age) and the child-after-death flag (born 5 years after her death, impossible for a direct child but trivially fine for a grandchild born after grandmother's death). See docs/research/ancestors/deep-chains-english-british-deep-chains.md."
+    ]
+  }
 }

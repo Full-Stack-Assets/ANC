@@ -134,5 +134,12 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "PRIMARY of a duplicate pair: also exists as I182541959347, a bare orphan stub (no parents, no spouses — missing both Mary Lyons and Anna Dugard/Dugan entirely, zero sources) retained only as the parent link for duplicate son I182541959308.",
+      "This record's two marriages are externally corroborated: A.G. Hibbard, 'Genealogy of the Hibbard Family Who Are Descendants of Robert Hibbard of Salem, Massachusetts' (Hartford: Case, 1901), entry 163: 'Joseph6 (s. Joseph4, Jeremiah3, Joseph2, Robert1), b. Manchester, Mass., April 23, 1751; m. (1) 1775, Mary Lyons, (2) July 9, 1780, Mrs. Anna Dugan of Marblehead (b. 1760; d. Dec. 19, 1804)' — matches this record's spouses, dates and place exactly ('Anna Dugard' in the tree vs. 'Anna Dugan' in the book, an ordinary period spelling variant). See docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md.",
+      "PLACE-NAME DEFECT (independent pass, 2026-07-04): birth place is recorded here (and on duplicate I182541959347) with parts ['Manchester','Mass','Massachusetts','USA'] — the county 'Essex' has been dropped and 'Mass.' (a period abbreviation) duplicated as a false county token. Correct form, matching his father's record (I182541965901: 'Manchester, Essex, Massachusetts, USA') and the published genealogy, is Manchester, Essex Co., Massachusetts. See docs/research/ancestors/gen08-hannah-stowell-joseph-hibbard.md."
+    ]
+  }
 }

@@ -56,5 +56,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "CORRECTED 2026-07-04: re-designated CANONICAL (an earlier pass called this the duplicate solely because the parallel copy carries an extra birthplace detail). This record is already correctly linked as father of the canonical Sven Johan Samuelsson (I182197443214), whose branch matches the externally-verified Simon Swanson/Ellen J. Swanson lineage (gen05-simon-swanson-anna-josephina-svenson.md) - no re-pointing needed. Duplicate: I182195862070, which carries the extra birthplace detail 'Rom, Tegneby, Göteborg och Bohuslän' (worth preserving if merged) but is parented to the duplicate Sven Johan branch. See docs/research/ancestors/gen07-annika-olsdotter.md and gen06-sven-johan-samuelsson-gustava-samuelsdotter.md."
+    ]
+  }
 }

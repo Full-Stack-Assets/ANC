@@ -67,5 +67,13 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DUPLICATE: this person also exists as I182195861021 (same name, same birth year 1756, sourced only to the generic compiled 'Ancestry Family Trees' index S446914557). Same person — matching birthplace (Hadäng, Velinge) and husband Magnus Månsson Rånge (I182197443412/I182195861020, himself independently duplicated). Treat this record as primary: its son Johannes Magnusson (I182197443344) carries specific per-record sources (Sweden Indexed Death Records 1840-1947; Jönköping Church Records 1633-1860) and the line continues, richly documented, down through Gustaf Rånge to Anna Josephina Svenson's 1885 Gothenburg emigration and 1902 Easton, MA death (see gen05-simon-swanson-anna-josephina-svenson.md). The duplicate carries a fuller children list.",
+      "CHILDREN (from duplicate I182195861021, not yet on this record): Stina Magnusdotter (b. 16 Sep 1789), Johannes Magnusson (b. 25 Sep 1791 — same birth date/place as this record's own son I182197443344), Lisa Mansson (b. 26 Jun 1794), Gabriel Magnusson (b. 12 Aug 1799). If the tree is ever merged, add Stina/Lisa/Gabriel to this record's children array alongside I182197443344.",
+      "PARENT (from duplicate): Britta's father given only as 'Gabriel' (I182195861462, bare stub, no vitals/sources) — consistent with the patronymic Gabrielsdotter, but otherwise unverified. Treat as a name-only inference, not a documented parent link.",
+      "See docs/research/ancestors/gen08-britta-gabrielsdotter-magnus-mansson-range.md for full write-up."
+    ]
+  }
 }
