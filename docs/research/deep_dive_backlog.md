@@ -20,7 +20,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182382755763` gen 7 **Samuel Jacobsson** — duplicate-person: 2 records share name + birth year 1806: `I182382755763`, `I182195861248`
 - [ ] `I182541965880` gen 7 **Joseph Hibbard III** — duplicate-person: 2 records share name + birth year 1787: `I182541965880`, `I182541959308`
 - [ ] `I182541965883` gen 7 **Hannah Pond** — duplicate-person: 2 records share name + birth year 1805: `I182541965883`, `I182541959296`
-- [ ] `I182587609594` gen 7 **Nancy Davis** — parent-too-old: age 56 at birth of Thomas McKee (1836); parent-too-old: age 58 at birth of Curtis M McClelland (1838)
+- [x] `I182587609594` gen 7 **Nancy Davis** — parent-too-old: age 56 at birth of Thomas McKee (1836); parent-too-old: age 58 at birth of Curtis M McClelland (1838) (RESOLVED — see docs/research/ancestors/gen07-nancy-davis.md)
 - [ ] `I182197443408` gen 8 **Britta Gabrielsdotter** — duplicate-person: 2 records share name + birth year 1756: `I182197443408`, `I182195861021`
 - [ ] `I182197443412` gen 8 **Magnus Månsson Rånge** — duplicate-person: 2 records share name + birth year 1744: `I182197443412`, `I182195861020`
 - [ ] `I182541959332` gen 8 **Hannah Stowell** — duplicate-person: 2 records share name + birth year 1772: `I182541959332`, `I182541966157`
