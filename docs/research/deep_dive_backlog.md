@@ -45,8 +45,8 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [x] `I182541966176` gen 10 **Andrew WHITE** — duplicate-person: 2 records share name + birth year 1694: `I182541966176`, `I182541959404` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182620321916` gen 10 **JONATHAN PINE** — duplicate-person: 2 records share name + birth year 1661: `I182620321916`, `I182625984979` (RESOLVED — see docs/research/ancestors/gen10-jonathan-pine.md)
 - [x] `I182197729576` gen 11 **Mary Margaret Valentine** — duplicate-person: 2 records share name + birth year 1645: `I182197729576`, `I182625986323` (RESOLVED — see docs/research/ancestors/gen11-mary-margaret-valentine.md)
-- [ ] `I182381536421` gen 11 **Christian Gard** — duplicate-person: 2 records share name + birth year 1670: `I182381536421`, `I182381539281`
-- [ ] `I182381536578` gen 11 **Margaret** — parent-too-old: age 53 at birth of Isaac Myrick (1665)
+- [x] `I182381536421` gen 11 **Christian Gard** — duplicate-person: 2 records share name + birth year 1670: `I182381536421`, `I182381539281` (RESOLVED — see docs/research/ancestors/gen11-christian-gard.md)
+- [x] `I182381536578` gen 11 **Margaret** — parent-too-old: age 53 at birth of Isaac Myrick (1665) (RESOLVED — see docs/research/ancestors/gen11-margaret-myrick.md)
 - [ ] `I182381537159` gen 11 **Margaret McArthur** — impossible-lifespan: lifespan 111 years (1664-1775)
 - [ ] `I182541958360` gen 11 **Miriam JOHNSON OR COHAWKIN 8gg** — parent-too-young: age 12 at birth of Tamzen OR Tamzon STANDFORD 7gg (1692)
 - [x] `I182541959128` gen 11 **Anne Henley** — parent-too-young: age 10 at birth of Elizabeth Whitlock (7th GGM) (1682) (RESOLVED — see docs/research/ancestors/gen11-anne-henley.md)
@@ -175,7 +175,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182613118080` **Mary Bridges** — 3 records share name + birth year 1667: `I182613118080`, `I182613118134`, `I182613118107`
 - [ ] `I182625972999` **Mechteld Gozewijn Van Dinther** — 3 records share name + birth year 1488: `I182625972999`, `I182625972974`, `I182625973039`
 - [ ] `I182613118131` **Peter Bridges** — 3 records share name + birth year 1677: `I182613118131`, `I182613118104`, `I182613118077`
-- [ ] `I182381539273` **Peter Coffin Sr** — 2 records share name + birth year 1671: `I182381539273`, `I182381536434`
+- [x] `I182381539273` **Peter Coffin Sr** — 2 records share name + birth year 1671: `I182381539273`, `I182381536434` (RESOLVED — see docs/research/ancestors/gen11-christian-gard.md)
 - [ ] `I182613115568` **Ralph de Neville** — 2 records share name + birth year 1364: `I182613115568`, `I182613115033`
 - [ ] `I182613114837` **Richard Neville** — 2 records share name + birth year 1400: `I182613114837`, `I182613114768`
 - [ ] `I182195862070` **Samuel Olsson** — 2 records share name + birth year 1798: `I182195862070`, `I182292318241`
@@ -500,7 +500,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182381536223` **George Bowen** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536240` **Eunice Myrick** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536245` **Andrew Myrick** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182381536258` **Isaac Myrick** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182381536258` **Isaac Myrick** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED — see docs/research/ancestors/gen11-margaret-myrick.md)
 - [ ] `I182381536263` **Mary Newell** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536270` **Hannah  (Penticost) Larkin** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536282` **Joanna Hale** — unflagged seeded journey — needs baseline verification/narrative
@@ -512,7 +512,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182381536384` **Rebecca Coffin** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536407` **Judith Mary Bunker** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536414` **Bartlett Coffin of Nantucket §** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182381536434` **Peter Coffin Sr** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182381536434` **Peter Coffin Sr** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED — see docs/research/ancestors/gen11-christian-gard.md)
 - [ ] `I182381536460` **Mary Mariah Jameson** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536470` **William Gard** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381536486` **Mary Thetherly Guard** — unflagged seeded journey — needs baseline verification/narrative
@@ -649,7 +649,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182381538540` **Johann Heinrick Henckell** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381538618` **Uriah Coffin** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182381538638` **Bartlett Coffin** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182381539281` **Christian Gard** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182381539281` **Christian Gard** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED — see docs/research/ancestors/gen11-christian-gard.md)
 - [ ] `I182382755326` **Mary Bunker** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182382755760` **Sofia Nilsdotter** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182391485866` **Jakob Kristoffersson** — unflagged seeded journey — needs baseline verification/narrative
