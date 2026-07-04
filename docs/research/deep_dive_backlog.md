@@ -49,7 +49,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182381536578` gen 11 **Margaret** — parent-too-old: age 53 at birth of Isaac Myrick (1665)
 - [ ] `I182381537159` gen 11 **Margaret McArthur** — impossible-lifespan: lifespan 111 years (1664-1775)
 - [ ] `I182541958360` gen 11 **Miriam JOHNSON OR COHAWKIN 8gg** — parent-too-young: age 12 at birth of Tamzen OR Tamzon STANDFORD 7gg (1692)
-- [ ] `I182541959128` gen 11 **Anne Henley** — parent-too-young: age 10 at birth of Elizabeth Whitlock (7th GGM) (1682)
+- [x] `I182541959128` gen 11 **Anne Henley** — parent-too-young: age 10 at birth of Elizabeth Whitlock (7th GGM) (1682) (RESOLVED — see docs/research/ancestors/gen11-anne-henley.md)
 - [x] `I182541959480` gen 11 **Eleazer S Whitney** — duplicate-person: 2 records share name + birth year 1662: `I182541959480`, `I182541966281` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [ ] `I182541959539` gen 11 **Deborah Mansfield** — duplicate-person: 2 records share name + birth year 1666: `I182541959539`, `I182541966183`
 - [ ] `I182541959549` gen 11 **Phillip (Wyeth) White** — duplicate-person: 2 records share name + birth year 1662: `I182541959549`, `I182541966184`
