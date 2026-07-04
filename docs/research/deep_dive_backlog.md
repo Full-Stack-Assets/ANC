@@ -23,10 +23,10 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill.
 
 ## Tier 1 — direct-line flagged issues (gen ascending)
 
-- [ ] `I182195858742` gen 5 **William "Curley The Sailor" Swallow** — child-after-death: child Fulton Swallow b.1906, parent died 1903
-- [ ] `I182195858743` gen 5 **Abigail Jenkins Swallow** — parent-too-old: age 53 at birth of Oswald Swallow (1904); parent-too-old: age 55 at birth of Fulton Swallow (1906)
+- [x] `I182195858742` gen 5 **William "Curley The Sailor" Swallow** — child-after-death: child Fulton Swallow b.1906, parent died 1903 (RESOLVED — see docs/research/ancestors/gen05-william-curley-the-sailor-swallow-abigai.md)
+- [x] `I182195858743` gen 5 **Abigail Jenkins Swallow** — parent-too-old: age 53 at birth of Oswald Swallow (1904); parent-too-old: age 55 at birth of Fulton Swallow (1906) (RESOLVED — see docs/research/ancestors/gen05-william-curley-the-sailor-swallow-abigai.md)
 - [ ] `I182625291737` gen 5 **Catherine Burton** — parent-too-young: age 12 at birth of PATRICK  JAMES LARKIN (1843)
-- [ ] `I182381538084` gen 8 **Liza (Eliza) Chambers** — parent-too-old: age 54 at birth of Alexander Murray (1806)
+- [x] `I182381538084` gen 8 **Liza (Eliza) Chambers** — parent-too-old: age 54 at birth of Alexander Murray (1806) (RESOLVED — see docs/research/ancestors/gen07-john-murray.md)
 - [ ] `I182625985204` gen 10 **Mary Walcott Ward** — parent-too-old: age 58 at birth of Edward Williams, Jnr (1723)
 - [ ] `I182541966287` gen 11 **Priscilla Colburn** — duplicate-person: 2 records share name + birth year 1675: `I182541966287`, `I182541959491`
 - [ ] `I182594402074` gen 12 **Margaret Hughes** — parent-too-old: age 54 at birth of JOHN WILLIAMS * (1679)
