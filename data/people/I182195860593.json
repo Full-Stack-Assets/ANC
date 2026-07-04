@@ -90,5 +90,11 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "CORRECTED 2026-07-04: re-designated DUPLICATE (an earlier pass called this canonical solely for carrying a source citation and an extra child). Its own son 'Simon A Swanson' (I182195860381) doesn't match the externally-verified Simon Swanson lineage in gen05-simon-swanson-anna-josephina-svenson.md (unsourced marriage, one child, no name match) - the verified branch is the parallel copy (I182197443214 -> I182292318217 -> I182197442974, whose three children exactly match that dossier). Canonical: I182197443214. This record's extra facts worth preserving if merged: daughter Selma Swanson (I182195860595, b.1872/d.1927) and the source citation itself (a generic 'Ancestry Family Trees' tag, not a primary record).",
+      "His parents field here (I182195862070, I182195862044) is the duplicate pair for Samuel Olsson/Annika Olsdotter - the canonical parents (matching the canonical Sven Johan I182197443214) are Samuel Olsson I182292318241 and Annika Olsdotter I182292318250. See docs/research/ancestors/gen07-annika-olsdotter.md and gen06-sven-johan-samuelsson-gustava-samuelsdotter.md for the full write-up."
+    ]
+  }
 }

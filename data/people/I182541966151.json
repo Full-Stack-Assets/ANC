@@ -70,5 +70,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "PRIMARY of a duplicate pair: also exists as I182541959337, a parallel unsourced import with identical vitals but its own duplicate parent chain (Jonas Pond I182541959422 / Sarah White I182541959371, mirroring this record's parents I182541966171/I182541966163 — both pairs separately flagged in direct-line-issues.md, gen 9). Part of the larger Hibbard/Pond branch that was double-imported as a whole; the shared great-granddaughter id I182541959707 is the anchor evidence. See docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md."
+    ]
+  }
 }

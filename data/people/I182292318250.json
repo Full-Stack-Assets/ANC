@@ -66,5 +66,12 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "CANONICAL for Annika Olsdotter (b. 23 May 1800, Myckleby/Önne / d. 1876, Tegneby/Lunnaslätt), daughter of Olof Germundsson (I182292319587) & Inger (Ingrid) Svensdotter (I182292319579), wife of Samuel Olsson. DUPLICATE exists as I182195862044 - identical birth/death dates and places, but that copy lists no parents at all. Kept as primary for that reason, and (CORRECTED 2026-07-04) her husband and son are ALSO already correctly represented on this same branch, not the other one as an earlier pass mistakenly concluded from source-citation presence alone: this branch's son, Sven Johan Samuelsson (I182197443214), is the copy whose own son Simon Swanson (I182197442974) matches the externally-verified gen05-simon-swanson-anna-josephina-svenson.md dossier exactly. This is the same split-nuclear-family pattern as the Samuel Jacobsson/Gustava Samuelsdotter group one generation down (docs/research/ancestors/gen07-samuel-jacobsson.md) and the John Albertson & Ann Pine case (gen 6, direct-line-issues.md) - but here the whole chain is already correctly self-linked and needs no re-pointing.",
+      "Her husband Samuel Olsson also exists twice: this record's spouse link (I182292318241) is the canonical copy (father of the canonical Sven Johan). The duplicate (I182195862070) additionally gives 'Rom, Tegneby, Göteborg och Bohuslän' as a birthplace, worth preserving if merged, but is parented to the duplicate Sven Johan branch.",
+      "Her son Sven Johan Samuelsson also exists twice, already flagged in direct-line-issues.md (gen 6): this record's child link (I182197443214) is the CANONICAL copy - see its own manual notes and docs/research/ancestors/gen06-sven-johan-samuelsson-gustava-samuelsdotter.md for the full write-up. See also gen07-annika-olsdotter.md."
+    ]
+  }
 }

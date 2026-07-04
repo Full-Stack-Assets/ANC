@@ -69,5 +69,11 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DUPLICATE of I182541966157 (Hannah Stowell, 1772-1829). Parallel unsourced import with only one parent recorded (I182541959366) versus the canonical record's two. Part of the larger Hibbard/Pond branch that was double-imported as a whole. See docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md.",
+      "DUPLICATE-PERSON RESOLVED 2026-07-04 (independent pass, same conclusion): confirmed via cross-check that this is the unsourced twin of I182541966157. A FamilySearch Family Tree profile 'Hannah Stowell (1771-1829)' (ancestors.familysearch.org/en/2Z3C-KL1) exists matching both records' dates almost exactly, but its underlying sources were not extractable via automated fetch. See docs/research/ancestors/gen08-hannah-stowell-joseph-hibbard.md for this pass's dossier (a companion to the gen08-joseph-hibbard-iii-hannah-pond.md dossier, which covers the same branch one generation down)."
+    ]
+  }
 }

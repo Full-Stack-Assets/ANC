@@ -100,8 +100,8 @@
   "confidence": "documented",
   "manual": {
     "notes": [
-      "CANONICAL for this Samuel Jacobsson (b. 2 Jul 1806 / d. 15 Apr 1854, both Hjälmvik Nolgården farm, Stala, Göteborg och Bohus). DUPLICATE exists as I182382755763 - same birth/death dates and place, but that copy has no sources and no marriage record. This record carries the full, sourced 13 May 1836 marriage to Sofia Nilsdotter (I182195861230) at the same farm (S446914557, Ancestry Family Trees). Kept as primary for that reason.",
-      "MISSING PARENTS (not yet added here): the duplicate I182382755763 lists parents Jakob Kristoffersson (I182391485866, b.1770 Stala/Holm/Tegneby, d. Aug 1838 Hjälmvik Nedergård) and Annika Torbjörnsdotter (I182391485891, b.1771) - this record's own parents field is empty. If/when merged, these should become this record's parents. Not asserted as fact here since neither parent record carries an independent source.",
+      "CORRECTED 2026-07-04: earlier pass called this canonical solely because it carries a source citation at this node. Re-designated DUPLICATE: its descendant Simon Swanson variant (I182195860381, via child I182195860594) has only a generic 'Ancestry Family Trees' marriage source and a child list that doesn't match the externally-verified lineage, whereas the parallel branch (I182382755763 -> I182292318217 -> I182197442974) connects to Simon Swanson's real, multiply-sourced MA marriage record and his three children exactly as documented in gen05-simon-swanson-anna-josephina-svenson.md. Canonical: I182382755763.",
+      "MISSING PARENTS (not applicable now that this is the duplicate): the other copy I182382755763 lists parents Jakob Kristoffersson (I182391485866) and Annika Torbjörnsdotter (I182391485891); this record's own parents field is empty.",
       "Same tree-duplication pattern as the John Albertson & Ann Pine case (gen 6, see direct-line-issues.md): the whole Samuel Jacobsson/Sofia Nilsdotter/Gustava Samuelsdotter/Sven Johan Samuelsson nuclear-family group exists twice in parallel, apparently from two merged tree imports. See docs/research/ancestors/gen07-samuel-jacobsson.md for the full writeup."
     ]
   }

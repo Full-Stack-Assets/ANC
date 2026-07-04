@@ -12,20 +12,20 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 
 ## Tier 1 — direct-line flagged issues (gen ascending)
 
-- [ ] `I182197442974` gen 5 **Simon Swanson** — duplicate-person (new, found during Samuel Jacobsson research, not yet in `tools/audit_tree.py`): 2 records share name + birth year 1868: `I182197442974`, `I182195860381`
-- [ ] `I182197443214` gen 6 **Sven Johan Samuelsson** — duplicate-person: 2 records share name + birth year 1839: `I182197443214`, `I182195860593`
+- [x] `I182197442974` gen 5 **Simon Swanson** — duplicate-person (new, found during Samuel Jacobsson research, not yet in `tools/audit_tree.py`): 2 records share name + birth year 1868: `I182197442974`, `I182195860381` (RESOLVED — see docs/research/ancestors/gen06-sven-johan-samuelsson-gustava-samuelsdotter.md)
+- [x] `I182197443214` gen 6 **Sven Johan Samuelsson** — duplicate-person: 2 records share name + birth year 1839: `I182197443214`, `I182195860593` (RESOLVED — see docs/research/ancestors/gen06-sven-johan-samuelsson-gustava-samuelsdotter.md)
 - [x] `I182195863173` gen 7 **James McCue** — child-after-death: child Margaret McCue b.1835, parent died 1829 (RESOLVED — see docs/research/ancestors/gen07-james-mccue-julia-murphy.md)
 - [x] `I182195863174` gen 7 **Julia Murphy** — parent-too-old: age 51 at birth of Margaret McCue (1835); child-after-death: child Margaret McCue b.1835, parent died 1829 (RESOLVED — see docs/research/ancestors/gen07-james-mccue-julia-murphy.md)
 - [x] `I182195863338` gen 7 **John Murray** — child-after-death: child Michael Murray b.1843, parent died 1821 (RESOLVED — see docs/research/ancestors/gen07-john-murray.md)
-- [ ] `I182292318250` gen 7 **Annika Olsdotter** — duplicate-person: 2 records share name + birth year 1800: `I182292318250`, `I182195862044`
+- [x] `I182292318250` gen 7 **Annika Olsdotter** — duplicate-person: 2 records share name + birth year 1800: `I182292318250`, `I182195862044` (RESOLVED — see docs/research/ancestors/gen07-annika-olsdotter.md)
 - [x] `I182382755763` gen 7 **Samuel Jacobsson** — duplicate-person: 2 records share name + birth year 1806: `I182382755763`, `I182195861248` (RESOLVED — whole-family duplication, see docs/research/ancestors/gen07-samuel-jacobsson.md)
-- [ ] `I182541965880` gen 7 **Joseph Hibbard III** — duplicate-person: 2 records share name + birth year 1787: `I182541965880`, `I182541959308`
-- [ ] `I182541965883` gen 7 **Hannah Pond** — duplicate-person: 2 records share name + birth year 1805: `I182541965883`, `I182541959296`
+- [x] `I182541965880` gen 7 **Joseph Hibbard III** — duplicate-person: 2 records share name + birth year 1787: `I182541965880`, `I182541959308` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
+- [x] `I182541965883` gen 7 **Hannah Pond** — duplicate-person: 2 records share name + birth year 1805: `I182541965883`, `I182541959296` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182587609594` gen 7 **Nancy Davis** — parent-too-old: age 56 at birth of Thomas McKee (1836); parent-too-old: age 58 at birth of Curtis M McClelland (1838) (RESOLVED — see docs/research/ancestors/gen07-nancy-davis.md)
-- [ ] `I182197443408` gen 8 **Britta Gabrielsdotter** — duplicate-person: 2 records share name + birth year 1756: `I182197443408`, `I182195861021`
-- [ ] `I182197443412` gen 8 **Magnus Månsson Rånge** — duplicate-person: 2 records share name + birth year 1744: `I182197443412`, `I182195861020`
-- [ ] `I182541959332` gen 8 **Hannah Stowell** — duplicate-person: 2 records share name + birth year 1772: `I182541959332`, `I182541966157`
-- [ ] `I182541959347` gen 8 **Joseph Hibbard** — duplicate-person: 2 records share name + birth year 1751: `I182541959347`, `I182541965892`
+- [x] `I182197443408` gen 8 **Britta Gabrielsdotter** — duplicate-person: 2 records share name + birth year 1756: `I182197443408`, `I182195861021` (RESOLVED — see docs/research/ancestors/gen08-britta-gabrielsdotter-magnus-mansson-range.md)
+- [x] `I182197443412` gen 8 **Magnus Månsson Rånge** — duplicate-person: 2 records share name + birth year 1744: `I182197443412`, `I182195861020` (RESOLVED — see docs/research/ancestors/gen08-britta-gabrielsdotter-magnus-mansson-range.md)
+- [x] `I182541959332` gen 8 **Hannah Stowell** — duplicate-person: 2 records share name + birth year 1772: `I182541959332`, `I182541966157` (RESOLVED — see docs/research/ancestors/gen08-hannah-stowell-joseph-hibbard.md)
+- [x] `I182541959347` gen 8 **Joseph Hibbard** — duplicate-person: 2 records share name + birth year 1751: `I182541959347`, `I182541965892` (RESOLVED — see docs/research/ancestors/gen08-hannah-stowell-joseph-hibbard.md)
 - [ ] `I182541966151` gen 8 **Samuel Pond** — duplicate-person: 2 records share name + birth year 1764: `I182541966151`, `I182541959337`
 - [ ] `I182650548639` gen 8 **Greta Nilsdotter** — duplicate-person: 2 records share name + birth year 1776: `I182650548639`, `I182195861335`
 - [ ] `I182195863486` gen 9 **Martha Taber Hedger** — parent-too-young: age 8 at birth of William Cheesman (1728)
