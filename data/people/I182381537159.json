@@ -59,5 +59,30 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "IMPOSSIBLE-LIFESPAN RESOLVED 2026-07-04 — the death year (1775) is correct and externally corroborated; the birth year (1664) is the error. An unrelated, professionally-researched source — the Clan Arthur/Court of the Lord Lyon chief-succession case (genealogist Hugh Peskett, commissioned 1986; James Edward Moir MacArthur recognized Chief of Clan Arthur 28 Aug 2002, per clanarthur.org/history) — states that the petitioner's genealogy was proved back to 'Margaret MacArthur Moir who died about 1775', and that her father was 'John MacArthur of Milton' (Dunoon, Cowal, Argyll), who died about 1674. This matches this record's father, John McArthur (I182381537173, born/died at Milton, Dunoon, Argyll per the tree), by name and place. The 'Moir' surname persisting as a middle name in the 2002 Chief's own name (James Edward MOIR MacArthur) three centuries later strongly corroborates this Margaret's marriage to a Moir and her place in a real, continuing family line — this is very unlikely to be coincidence.",
+      "No source anywhere gives Margaret's own birth year; 1664, combined with the externally-confirmed ~1775 death, produces the impossible 111-year lifespan the audit tool flagged. The tree's own import data for this small family is already internally inconsistent on years (her father John McArthur's record separately carries THREE different unsourced birth-year guesses — 1650 in vitals, Abt.1640/1645/1640 across duplicate GEDCOM events — and two conflicting death-year guesses, 1694 and 1697, versus the external source's ~1674), consistent with a garbled/mistyped year rather than a real 111-year life. Given husband Alexander Moir's recorded birth (1679) and son James Moir's recorded death (1784), Margaret's true birth was most plausibly in the 1680s-1690s (age roughly 85-95 at death — long-lived but credible, unlike 111). No document fixes an exact year, so this is left an open question rather than a fabricated replacement date; see docs/research/ancestors/gen11-margaret-mcarthur.md."
+    ],
+    "events": [
+      {
+        "type": "birth",
+        "date": {
+          "raw": "bet. 1680 and 1695 (estimated, unsourced)",
+          "year": 1680,
+          "year_end": 1695,
+          "qualifier": "BET"
+        },
+        "place": {
+          "raw": "Argyllshire, Scotland",
+          "parts": ["Argyllshire", "Scotland"]
+        },
+        "value": null,
+        "note": "Supersedes the unsourced machine-parsed 1664 birth year, which combined with the externally-corroborated ~1775 death year implies an impossible 111-year lifespan. True birth year unverified in open records as of 2026-07-04; range estimated from husband Alexander Moir's 1679 birth and son James Moir's 1784 death, not itself a sourced fact.",
+        "sources": [],
+        "confidence": "inferred"
+      }
+    ]
+  }
 }
