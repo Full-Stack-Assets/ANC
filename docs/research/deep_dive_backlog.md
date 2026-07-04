@@ -33,7 +33,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182381535298` gen 9 **Garrett Groff** — impossible-lifespan: lifespan 113 years (1718-1831)
 - [x] `I182541966163` gen 9 **Sarah White** — duplicate-person: 2 records share name + birth year 1738: `I182541966163`, `I182541959371` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182541966171` gen 9 **Jonas Pond** — duplicate-person: 2 records share name + birth year 1730: `I182541966171`, `I182541959422` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
-- [ ] `I182567600231` gen 9 **Sarah Wells** — parent-too-old: age 51 at birth of Elenor Weller (1745)
+- [x] `I182567600231` gen 9 **Sarah Wells** — parent-too-old: age 51 at birth of Elenor Weller (1745) (RESOLVED — genuine documented family fact, not an error — see docs/research/ancestors/gen09-sarah-wells.md)
 - [x] `I182620334338` gen 9 **Isaac Stowell Jr.** — duplicate-person: 2 records share name + birth year 1733: `I182620334338`, `I182541959366` (RESOLVED — see docs/research/ancestors/gen08-hannah-stowell-joseph-hibbard.md)
 - [x] `I182625980429` gen 9 **William Stockdale** — child-after-death: child Catharine Albertson b.1697, parent died 1693; child-after-death: child Ann Albertson b.1705, parent died 1693 (RESOLVED, pre-existing from the William/Josiah Albertson verification — see direct-line-issues.md interpretations and the Albertson manual blocks)
 - [ ] `I182195863565` gen 10 **Eliza Bolton Taber** — parent-too-young: age 12 at birth of Martha Taber Hedger (1720)
@@ -2160,7 +2160,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182625971794` **Ann Eager** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182625971795` **Sarah Booth** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182625971796` **William Bull** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182625971797` **Elenor Weller** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182625971797` **Elenor Weller** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED — confirmed genuine documented daughter of Sarah Wells/William Bull, not a misattached grandchild — see docs/research/ancestors/gen09-sarah-wells.md)
 - [ ] `I182625971798` **John Bull** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182625971799` **Isaac Bull** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182625971800` **Mary Booth** — unflagged seeded journey — needs baseline verification/narrative
