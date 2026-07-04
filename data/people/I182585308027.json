@@ -92,5 +92,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DUPLICATE-PERSON RESOLVED (folding in this repo's deep-chain credibility audit, 2026-07-04): 'Lady Mary Margaret Stanley' (b.1500) appears in the tree as spouse to both 'John de Hardy' and, separately, to 'John Poole' - with an identical list of children in both marriages. This is a merge artifact, not two real marriages: FamilySearch-linked compiled records show a real Sir John de Hardy (b. c.1510, d.1546), London Alderman/Sheriff (not, as the tree claims, 'Lord Mayor'/'Knight of the Garter' - those titles are unsupported embellishments; no Hardy appears on the Lord Mayors list 1510-1546 or Garter rolls), who married a Mary Stanley. Treat the 'John Poole' marriage as the duplicate copy of the same union. See docs/research/ancestors/deep-chains-english-british-deep-chains.md."
+    ]
+  }
 }

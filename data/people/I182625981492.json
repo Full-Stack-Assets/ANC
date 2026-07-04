@@ -126,5 +126,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "PARENTAGE CONTEXT (folding in this repo's deep-chain credibility audit, 2026-07-04): Margaret Bourchier's parents, Humphrey Bourchier (d.1471) and Elizabeth Tilney, are real and well-documented (Wikipedia: Elizabeth Tilney, Countess of Surrey); Margaret herself (b.1468, before Bourchier's 1471 death) is plausibly one of the couple's real two daughters, unlike her tree-listed 'siblings' Thomas Howard/Elizabeth Boleyn/Muriel Knyvet who were actually children of Elizabeth Tilney's second marriage (see manual notes on I182625982211). Her own parent-too-old flag (age 56 at son Thomas Brigham's 1524 birth) was not independently re-verified this pass - not covered by the deep-chain audit's own scope, which focused on the parentage-generation defect above. See docs/research/ancestors/deep-chains-english-british-deep-chains.md."
+    ]
+  }
 }
