@@ -39,10 +39,10 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [x] `I182195863565` gen 10 **Eliza Bolton Taber** — parent-too-young: age 12 at birth of Martha Taber Hedger (1720) (RESOLVED — see docs/research/ancestors/gen09-martha-taber-hedger-eliza-bolton-taber.md)
 - [x] `I182381535311` gen 10 **Susanna  Sarah Maus** — parent-too-young: age 1 at birth of Garrett Groff (1718) (RESOLVED — see docs/research/ancestors/gen09-garrett-groff.md)
 - [x] `I182381535340` gen 10 **Garret Groff** — parent-too-young: age 3 at birth of Garrett Groff (1718) (RESOLVED — see docs/research/ancestors/gen09-garrett-groff.md)
-- [ ] `I182541959410` gen 10 **Mary Woodbury** — duplicate-person: 2 records share name + birth year 1698: `I182541959410`, `I182541966181`
-- [ ] `I182541959431` gen 10 **Dorothy Whitney** — duplicate-person: 2 records share name + birth year 1700: `I182541959431`, `I182541966268`
-- [ ] `I182541959437` gen 10 **Joshua POND** — duplicate-person: 2 records share name + birth year 1700: `I182541959437`, `I182541966277`
-- [ ] `I182541966176` gen 10 **Andrew WHITE** — duplicate-person: 2 records share name + birth year 1694: `I182541966176`, `I182541959404`
+- [x] `I182541959410` gen 10 **Mary Woodbury** — duplicate-person: 2 records share name + birth year 1698: `I182541959410`, `I182541966181` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
+- [x] `I182541959431` gen 10 **Dorothy Whitney** — duplicate-person: 2 records share name + birth year 1700: `I182541959431`, `I182541966268` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
+- [x] `I182541959437` gen 10 **Joshua POND** — duplicate-person: 2 records share name + birth year 1700: `I182541959437`, `I182541966277` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
+- [x] `I182541966176` gen 10 **Andrew WHITE** — duplicate-person: 2 records share name + birth year 1694: `I182541966176`, `I182541959404` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [ ] `I182620321916` gen 10 **JONATHAN PINE** — duplicate-person: 2 records share name + birth year 1661: `I182620321916`, `I182625984979`
 - [ ] `I182197729576` gen 11 **Mary Margaret Valentine** — duplicate-person: 2 records share name + birth year 1645: `I182197729576`, `I182625986323`
 - [ ] `I182381536421` gen 11 **Christian Gard** — duplicate-person: 2 records share name + birth year 1670: `I182381536421`, `I182381539281`
@@ -50,7 +50,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182381537159` gen 11 **Margaret McArthur** — impossible-lifespan: lifespan 111 years (1664-1775)
 - [ ] `I182541958360` gen 11 **Miriam JOHNSON OR COHAWKIN 8gg** — parent-too-young: age 12 at birth of Tamzen OR Tamzon STANDFORD 7gg (1692)
 - [ ] `I182541959128` gen 11 **Anne Henley** — parent-too-young: age 10 at birth of Elizabeth Whitlock (7th GGM) (1682)
-- [ ] `I182541959480` gen 11 **Eleazer S Whitney** — duplicate-person: 2 records share name + birth year 1662: `I182541959480`, `I182541966281`
+- [x] `I182541959480` gen 11 **Eleazer S Whitney** — duplicate-person: 2 records share name + birth year 1662: `I182541959480`, `I182541966281` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [ ] `I182541959539` gen 11 **Deborah Mansfield** — duplicate-person: 2 records share name + birth year 1666: `I182541959539`, `I182541966183`
 - [ ] `I182541959549` gen 11 **Phillip (Wyeth) White** — duplicate-person: 2 records share name + birth year 1662: `I182541959549`, `I182541966184`
 - [ ] `I182541966287` gen 11 **Priscilla Colburn** — duplicate-person: 2 records share name + birth year 1675: `I182541966287`, `I182541959491`
@@ -827,7 +827,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182541959366` **Isaac Stowell Jr.** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541959371` **Sarah White** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541959386` **Abigail (Hyde) Stowell** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182541959404` **Andrew WHITE** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182541959404` **Andrew WHITE** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED via gen-10/11 duplicate-person resolution — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [ ] `I182541959422` **Jonas Pond** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541959491` **Priscilla Colburn** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541959496` **Caleb Pond** — unflagged seeded journey — needs baseline verification/narrative
@@ -924,13 +924,13 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [ ] `I182541966119` **Jo. Orton Mary Bowman Orton-Thomas** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541966123` **Lady Anne\Ann Rosewarne\Rossewarne\Roswarn-Thomas** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541966157` **Hannah Stowell** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182541966181` **Mary Woodbury** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182541966181` **Mary Woodbury** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED via gen-10/11 duplicate-person resolution — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [ ] `I182541966183` **Deborah Mansfield** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541966184` **Phillip (Wyeth) White** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541966193` **Andrew Lynn Mansfield** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182541966268` **Dorothy Whitney** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182541966277` **Joshua POND** — unflagged seeded journey — needs baseline verification/narrative
-- [ ] `I182541966281` **Eleazer S Whitney** — unflagged seeded journey — needs baseline verification/narrative
+- [x] `I182541966268` **Dorothy Whitney** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED via gen-10/11 duplicate-person resolution — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
+- [x] `I182541966277` **Joshua POND** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED via gen-10/11 duplicate-person resolution — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
+- [x] `I182541966281` **Eleazer S Whitney** — unflagged seeded journey — needs baseline verification/narrative (RESOLVED via gen-10/11 duplicate-person resolution — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [ ] `I182541966311` **Anne (Anna) Allen** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541966326` **Deacon Peter Woodberry III** — unflagged seeded journey — needs baseline verification/narrative
 - [ ] `I182541966342` **Peter Woodbury SR** — unflagged seeded journey — needs baseline verification/narrative
