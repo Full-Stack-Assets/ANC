@@ -43,8 +43,8 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [x] `I182541959431` gen 10 **Dorothy Whitney** — duplicate-person: 2 records share name + birth year 1700: `I182541959431`, `I182541966268` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182541959437` gen 10 **Joshua POND** — duplicate-person: 2 records share name + birth year 1700: `I182541959437`, `I182541966277` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182541966176` gen 10 **Andrew WHITE** — duplicate-person: 2 records share name + birth year 1694: `I182541966176`, `I182541959404` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
-- [ ] `I182620321916` gen 10 **JONATHAN PINE** — duplicate-person: 2 records share name + birth year 1661: `I182620321916`, `I182625984979`
-- [ ] `I182197729576` gen 11 **Mary Margaret Valentine** — duplicate-person: 2 records share name + birth year 1645: `I182197729576`, `I182625986323`
+- [x] `I182620321916` gen 10 **JONATHAN PINE** — duplicate-person: 2 records share name + birth year 1661: `I182620321916`, `I182625984979` (RESOLVED — see docs/research/ancestors/gen10-jonathan-pine.md)
+- [x] `I182197729576` gen 11 **Mary Margaret Valentine** — duplicate-person: 2 records share name + birth year 1645: `I182197729576`, `I182625986323` (RESOLVED — see docs/research/ancestors/gen11-mary-margaret-valentine.md)
 - [ ] `I182381536421` gen 11 **Christian Gard** — duplicate-person: 2 records share name + birth year 1670: `I182381536421`, `I182381539281`
 - [ ] `I182381536578` gen 11 **Margaret** — parent-too-old: age 53 at birth of Isaac Myrick (1665)
 - [ ] `I182381537159` gen 11 **Margaret McArthur** — impossible-lifespan: lifespan 111 years (1664-1775)

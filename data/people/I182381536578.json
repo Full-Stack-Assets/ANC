@@ -66,5 +66,11 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "Flagged parent-too-old (age 53 at the 1665 birth of listed child Isaac Myrick) and, if the recorded 1612 birth is accurate, an implausible ~96-year lifespan to the 2 Apr 1708 death. External research resolves this as a data-conflation, not a birth-year typo or a misattached child: this record's exact vital dates -- b. 1612, d. 2 Apr 1708 in Newbury, Essex Co., Massachusetts, 'at about age 96' -- are independently and richly documented (WikiTree Merrick-91; Familypedia; americanancestors.org/NEHGS Register; George Byron Merrick's 1902 'Genealogy of the Merrick-Mirick-Myrick Family of Massachusetts, 1636-1902'; Savage's 'Genealogical Dictionary of the First Settlers of New England') as belonging to her husband, JAMES MERRICK (b. 1612, St Davids, Pembrokeshire, Wales; emigrated to Charlestown, MA in 1636 with three brothers; d. 2 Apr 1708, Newbury), not to her. Isaac Myrick's real mother was indeed named Margaret (surname not preserved in any located source -- 'Margaret [surname unknown]', married James c.1648-1653), so the given name in this record is right, but its birth/death dates appear to have been copied from the husband's own well-documented vital record during tree compilation. Substitute James's identity and the 'parent-too-old' math actually describes a 53-year-old FATHER (unremarkable), not a 53-year-old mother. Full write-up: docs/research/ancestors/gen11-margaret-myrick.md",
+      "The recorded parents, Thomas Merrick (I182541960298) and Mary Griggs (I182541960291), are also likely a generation-level misattachment: external sources document James Merrick's real parents as Rev. John 'Sion' Meyrick (1579-1650) and Dorothy Bishop (1570-1650) of Pembrokeshire, Wales, and name a brother also called Thomas Merrick among the four Merrick brothers who emigrated together in 1636 -- i.e. this 'Thomas Merrick' is very likely James's brother, not his father. No source was found naming a 'Mary Griggs' anywhere in this family. Not corrected in the graph (no record ids exist for James's real, externally-documented parents, so nothing was fabricated) -- left as an open question. See docs/research/ancestors/gen11-margaret-myrick.md."
+    ]
+  }
 }
