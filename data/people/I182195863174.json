@@ -93,5 +93,28 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DEATH DATE QUESTIONED (research 2026-07-04, resolving the child-after-death and parent-too-old flags): the machine-parsed death year '1829' has no source citation (event sources: []) and no death place — it appears to be an unsupported estimate from the Ancestry Family Tree submission (S446914557), not a transcribed vital or parish record. It conflicts with the documented birth of daughter Margaret McCue on 9 Mar 1835 (Massachusetts Marriage Records, S447115921, citing Margaret's own 15 Oct 1854 marriage record). If the birth year 1784 is accurate, Julia Murphy would have been 51 at Margaret's birth (the separately flagged parent-too-old finding) — biologically possible but unusual; more likely, both the 1784 birth year and the 1829 death year are themselves loose, unsourced estimates rather than documented facts, and the '51' should not be read as a hard number.",
+      "Bloodline is NOT refuted: daughters Julia McCue (b. 6 Jun 1826, documented) and Margaret McCue (b. 9 Mar 1835, documented) are both recorded as born in Ireland and both married in adjoining Norfolk County, MA towns (Weymouth 1850; Randolph 1854) — consistent with one emigrating family, not a mis-attached child or a duplicate same-named couple. No corroborating open-web record (FamilySearch, WikiTree, Find A Grave, free MA/Irish parish transcriptions) was found for this couple as of 2026-07-04 — see docs/research/ancestors/gen07-james-mccue-julia-murphy.md.",
+      "The 1829 death year should be treated as unreliable rather than replaced with another guess; see manual.events for a non-committal 'died after 1834' placeholder."
+    ],
+    "events": [
+      {
+        "type": "death",
+        "date": {
+          "raw": "aft. 1834",
+          "year": 1834,
+          "year_end": null,
+          "qualifier": "AFT"
+        },
+        "place": null,
+        "value": null,
+        "note": "Supersedes the unsourced machine-parsed 1829 death year, which conflicts with the documented 1835 birth of daughter Margaret McCue. True death date/place unverified in open records as of 2026-07-04.",
+        "sources": [],
+        "confidence": "inferred"
+      }
+    ]
+  }
 }
