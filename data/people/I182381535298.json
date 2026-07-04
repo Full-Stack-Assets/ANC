@@ -67,5 +67,36 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "BIRTH YEAR QUESTIONED (research 2026-07-04, resolving the impossible-lifespan flag and both parents' parent-too-young flags): the machine-parsed birth year '1718' carries no source citation (birth event sources: []) and is inconsistent with every other date in this immediate family cluster. It sits only 3 years after father Garret Groff Sr.'s own birth (1715) and only 1 year after mother Susanna Sarah Maus's birth (1717) -- both biologically impossible -- and, combined with the recorded 1831 death, produces a 113-year lifespan, exceeding this repo's own impossible-lifespan threshold (105 years, tools/audit_tree.py MAX_LIFESPAN). No second, same-named New Jersey Groff of the right generation (i.e. no Jr./Sr. pair) was found anywhere in FamilySearch, WikiTree, Geni, Find A Grave, or published Groff-family genealogies -- this is one mis-dated person, not a two-person conflation.",
+      "The father's 1715 birth is the best-anchored figure in the cluster: it sits a normal, self-consistent ~20 years after his own father Samuel Joel Groff's birth (abt. 1695, I182381535346) -- the same generational spacing this line shows elsewhere. That points to this record's own '1718' birth year as the actual error, not the parents' dates. A single-digit transcription slip (e.g. '1718' for c. 1738) is the most economical explanation that resolves all three flags at once; the true birth year was almost certainly in the mid-to-late 1730s.",
+      "MARRIAGE RECORD FOUND AND VERIFIED (research 2026-07-04), which corroborates the above: William Nelson, ed., 'New Jersey Marriage Records, 1665-1800' (Archives of the State of New Jersey, First Series, Vol. XXII, 1900) -- transcribed at newhorizonsgenealogicalservices.com's Salem County NJ marriage-records page -- records: 'Groff, Garret, and Amy Stratton, of Burlington Co., 11-15-1764.' Independently, WikiTree Stratton-419 (David Stratton, 1714-1771, of Evesham, Burlington Co., NJ) and markstratton.org's 'Family History of Mark Stratton' both list 'Amy (Stratton) Groff' among David Stratton and Mary Elkinton's eight children and state she 'married Garrot Goff (Groff) of Salem on November 15, 1764' -- the same event from the bride's side, confirming this is a real marriage of a real Garret/Garrett Groff of Salem to this specific Amy Stratton. [documented -- marriage only; the couple's own birth/death years remain unsourced]",
+      "This marriage date makes the birth-year correction more, not less, likely: Amy (b. 1741 per the tree, consistent with being born within her parents' 1737-1771 childbearing span) was about 23 at the 15 Nov 1764 wedding -- an ordinary bridal age. Under the corrected c. 1738 birth, Garrett would have been about 26 at his wedding, a near-contemporary match; under the machine-parsed '1718' birth he would have been 46, an unusually large gap for what all evidence suggests is a first marriage for both. This supports c. 1738 (not 1718) as Garrett's real birth decade.",
+      "NEW CONFLICT SURFACED: daughter Hannah Groff's recorded birth year, 1758 (I182381535051), predates this now-documented 15 Nov 1764 marriage by six years -- she cannot be a marital child of Garrett and Amy as currently dated. Hannah's birth year carries no source and is very likely the error (should probably postdate 1765), but no record was found to establish her actual birth year, so it is left uncorrected here and flagged as an open question on her own record and in the dossier, rather than guessed at.",
+      "With a corrected birth of c. 1738, the recorded 1831 death implies an age of roughly 93 -- unusually long-lived for the period but not a genealogically impossible lifespan under this repo's 105-year threshold, so the death year is left unchanged; no specific evidence was found to question it.",
+      "Confidence: medium-high on the birth-year correction (internal-consistency estimate now corroborated by an independently-documented, age-appropriate 1764 marriage), high on the 1764 marriage to Amy Stratton itself (two independent sources), low/unresolved on the exact birth year, the 1831 death year, and Hannah Groff's birth year. See docs/research/ancestors/gen09-garrett-groff.md."
+    ],
+    "events": [
+      {
+        "type": "birth",
+        "date": { "raw": "ABT 1738", "year": 1738, "year_end": null, "qualifier": "ABT" },
+        "place": { "raw": "Salem, New Jersey, USA", "parts": ["Salem", "New Jersey", "USA"] },
+        "value": null,
+        "note": "Supersedes the unsourced machine-parsed 1718 birth year, which is inconsistent with both parents' own birth years (1715/1717) and, combined with the 1831 death, produced an impossible 113-year lifespan. c. 1738 is an internal-consistency estimate, corroborated by the documented 15 Nov 1764 marriage to Amy Stratton (age-appropriate at c. 26 rather than 46) -- not itself verified against any primary source as of 2026-07-04.",
+        "sources": [],
+        "confidence": "inferred"
+      },
+      {
+        "type": "marriage",
+        "date": { "raw": "15 Nov 1764", "year": 1764, "year_end": null, "qualifier": null },
+        "place": { "raw": "Burlington Co., New Jersey", "parts": ["Burlington Co.", "New Jersey"] },
+        "value": null,
+        "note": "Garret Groff m. Amy Stratton, 15 Nov 1764. Source: William Nelson, ed., 'New Jersey Marriage Records, 1665-1800' (Archives of the State of New Jersey, First Series, Vol. XXII, 1900), as transcribed at newhorizonsgenealogicalservices.com ('Groff, Garret, and Amy Stratton, of Burlington Co., 11-15-1764'); independently corroborated from the bride's side by WikiTree Stratton-419 (David Stratton) and markstratton.org, both naming 'Amy (Stratton) Groff' m. 'Garrot Goff (Groff) of Salem,' same date. Found 2026-07-04.",
+        "sources": [],
+        "confidence": "documented"
+      }
+    ]
+  }
 }

@@ -30,15 +30,15 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill —
 - [x] `I182650548639` gen 8 **Greta Nilsdotter** — duplicate-person: 2 records share name + birth year 1776: `I182650548639`, `I182195861335` (RESOLVED — see docs/research/ancestors/gen07-samuel-jacobsson.md)
 - [ ] `I182195863486` gen 9 **Martha Taber Hedger** — parent-too-young: age 8 at birth of William Cheesman (1728)
 - [x] `I182197444971` gen 9 **Måns Månsson Rånge** — duplicate-person: 2 records share name + birth year 1713: `I182197444971`, `I182195861510` (RESOLVED — see docs/research/ancestors/gen08-britta-gabrielsdotter-magnus-mansson-range.md)
-- [ ] `I182381535298` gen 9 **Garrett Groff** — impossible-lifespan: lifespan 113 years (1718-1831)
+- [x] `I182381535298` gen 9 **Garrett Groff** — impossible-lifespan: lifespan 113 years (1718-1831) (RESOLVED — see docs/research/ancestors/gen09-garrett-groff.md)
 - [x] `I182541966163` gen 9 **Sarah White** — duplicate-person: 2 records share name + birth year 1738: `I182541966163`, `I182541959371` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182541966171` gen 9 **Jonas Pond** — duplicate-person: 2 records share name + birth year 1730: `I182541966171`, `I182541959422` (RESOLVED — see docs/research/ancestors/gen08-joseph-hibbard-iii-hannah-pond.md)
 - [x] `I182567600231` gen 9 **Sarah Wells** — parent-too-old: age 51 at birth of Elenor Weller (1745) (RESOLVED — genuine documented family fact, not an error — see docs/research/ancestors/gen09-sarah-wells.md)
 - [x] `I182620334338` gen 9 **Isaac Stowell Jr.** — duplicate-person: 2 records share name + birth year 1733: `I182620334338`, `I182541959366` (RESOLVED — see docs/research/ancestors/gen08-hannah-stowell-joseph-hibbard.md)
 - [x] `I182625980429` gen 9 **William Stockdale** — child-after-death: child Catharine Albertson b.1697, parent died 1693; child-after-death: child Ann Albertson b.1705, parent died 1693 (RESOLVED, pre-existing from the William/Josiah Albertson verification — see direct-line-issues.md interpretations and the Albertson manual blocks)
 - [ ] `I182195863565` gen 10 **Eliza Bolton Taber** — parent-too-young: age 12 at birth of Martha Taber Hedger (1720)
-- [ ] `I182381535311` gen 10 **Susanna  Sarah Maus** — parent-too-young: age 1 at birth of Garrett Groff (1718)
-- [ ] `I182381535340` gen 10 **Garret Groff** — parent-too-young: age 3 at birth of Garrett Groff (1718)
+- [x] `I182381535311` gen 10 **Susanna  Sarah Maus** — parent-too-young: age 1 at birth of Garrett Groff (1718) (RESOLVED — see docs/research/ancestors/gen09-garrett-groff.md)
+- [x] `I182381535340` gen 10 **Garret Groff** — parent-too-young: age 3 at birth of Garrett Groff (1718) (RESOLVED — see docs/research/ancestors/gen09-garrett-groff.md)
 - [ ] `I182541959410` gen 10 **Mary Woodbury** — duplicate-person: 2 records share name + birth year 1698: `I182541959410`, `I182541966181`
 - [ ] `I182541959431` gen 10 **Dorothy Whitney** — duplicate-person: 2 records share name + birth year 1700: `I182541959431`, `I182541966268`
 - [ ] `I182541959437` gen 10 **Joshua POND** — duplicate-person: 2 records share name + birth year 1700: `I182541959437`, `I182541966277`
