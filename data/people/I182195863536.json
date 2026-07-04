@@ -66,5 +66,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DUPLICATE PERSON RECORD (research 2026-07-03): this record and I182625986316 ('Richard Cheesman Sr') are the same individual, unmerged — identical birth (9 Nov 1674) and death (2 Sep 1744) dates, identical parents (Thomas Cheesman + Mary Margaret Valentine), and the same single listed child (Peter C Cheesman/Peter Cheesman). This record is also missing the spouse Hannah Stringham/Halstead present on I182625986316 — the two nodes should be merged, not treated as independent. Source: WikiTree Cheesman-22 and Long Island Surnames database (via docs/research/ancestors/line-cheesman.md)."
+    ]
+  }
 }

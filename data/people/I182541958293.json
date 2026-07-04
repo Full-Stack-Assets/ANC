@@ -117,5 +117,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "EPITHETS UNSUPPORTED (research 2026-07-03): the export's name field \"...Gunsmith Bassett Sr ++ (Pilgrim) Sr.\" is very likely conflated with a DIFFERENT, earlier William Bassett (c.1590-1667) who came to Plymouth on the Fortune and is documented elsewhere as \"William Bassett (d. 1667).\" This William Bassett (bap. 30 May 1624 Dorking, Surrey; arrived 1635 on the ship Abigail; d. 31 Mar 1703 Lynn) is independently documented as a King Philip's War militia officer (Sergeant 1675, Quartermaster 1682, later Ensign) and Lynn town officer, not as a gunsmith, and no source calls him a Mayflower/Plymouth Pilgrim. Recommend dropping \"Gunsmith\"/\"Pilgrim\" from the name field. Sources: WikiTree Bassett-464; FamilySearch 9H6X-V7R; Wikipedia \"William Bassett (d. 1667)\"."
+    ]
+  }
 }

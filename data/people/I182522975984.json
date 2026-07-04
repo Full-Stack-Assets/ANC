@@ -68,5 +68,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "CORRUPTED PLACE-NAME FIELD (deep-chain audit, 2026-07-03): death place reads '1656459, Vastmanlands, Sweden' — '1656459' is plainly a leaked internal place/record ID, not a place name. The county is also likely wrong: the source located in this audit places her death in Rättvik, Dalarna (where her husband was parish priest), not Västmanland. — nacksta.com genealogy detail page (ps12_133.html)."
+    ]
+  }
 }

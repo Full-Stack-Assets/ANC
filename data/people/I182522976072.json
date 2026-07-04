@@ -109,5 +109,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DUPLICATE DEATH EVENTS (deep-chain audit, 2026-07-03): record carries two conflicting death entries — a sourced 'death: 1 Jan 1600 @ Bommersbo, Norrbarke W, Sweden' (vitals) and a redundant unsourced 'death: ca 1600 @ Dalarna, Sweden' (events list). These should be merged into one; keep the sourced Bommersbo entry and drop the unsourced duplicate. Also carries three parent IDs (I182522976091, I182620321201, I182522976080) — likely two spouses of Anders Andreas Olofsson i Lernbo merged into a single triple-parent set."
+    ]
+  }
 }

@@ -109,5 +109,10 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DATA HYGIENE (workflow, 2026-07-03): the dateless/placeless second 'residence: None @ None' event looks like a duplicate artifact of the same 1871 Census source already recorded elsewhere on this record, not a distinct event. No factual corrections found otherwise."
+    ]
+  }
 }

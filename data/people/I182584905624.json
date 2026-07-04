@@ -340,5 +340,12 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "DUPLICATE (research workflow, 2026-07-03): this record duplicates I182789737425 (same man, same death 14 Nov 1898; birth year 1825 here vs 1823 there) and his wife is covered at I182625291737 (Catherine Burton) — see docs/research/ancestors/gen05-thomas-larkin-catherine-burton.md for the researched couple. Treat I182789737425 as canonical.",
+      "SEVERAL EVENTS ON THIS RECORD BELONG TO OTHER MEN (research workflow, 2026-07-03) and should be disregarded when reading this person: (1) residence 1860 Barton, Washington, Wisconsin, USA - incompatible with this man's own sourced 1861/1871/1881 Liverpool censuses; (2) naturalization 1 Nov 1875 - a UK-resident Irish-born British subject had no naturalization process; belongs to the unrelated Wisconsin Thomas Larkin above; (3) residence 31 Mar 1901 Muckanagh, Meelick, Galway - impossible, this Thomas died 14 Nov 1898; (4) baptism 14 Jul 1839 Galway - likely belongs to a different Thomas Larkin of Muckanagh (b. ~1841 by census age), not this Liverpool emigrant (b. ~1827/28 per the Lancashire BMD death index, age 70 in 1898).",
+      "WISCONSIN MISATTRIBUTION RESOLVED (workflow, 2026-07-03): the 1860 Barton, Washington Co. WI residence and 1 Nov 1875 naturalization already flagged as not-this-man's (see prior note) have now been traced to their real owner — Laurence Larkin & Winifreda Mulken (I182585270548/I182585270547), an unrelated Larkin family who actually settled at Barton, Washington County, Wisconsin per the 1860 census."
+    ]
+  }
 }

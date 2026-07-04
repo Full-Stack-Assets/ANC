@@ -69,5 +69,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DEATH PLACE GARBLED (research 2026-07-03): export gives death place as \"Allendale, Northumberland, Pennsylvania, United States\" — no place named Allendale exists in Northumberland County, PA; almost certainly should read \"Allendale, Northumberland, England,\" consistent with her birthplace and husband Nicholas Farlam's identical death place. Likely a place-normalization/data-merge artifact."
+    ]
+  }
 }

@@ -67,5 +67,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "DATE/IDENTITY CONFLICT (research 2026-07-03, open question, unresolved): the export's 1651 birth (Hökhult, Fröderyd) / 1720 death (Urås, Ramkvilla) is unsourced (`[unsourced]` in the tree itself), and web search found two DIFFERENT women also named Ingrid Persdotter tied to the same two villages but with non-matching dates — a FamilySearch profile \"Ingrid Persdotter Bratt\" (c.1628-1651, i.e. she died in 1651, the very year this record's Ingrid was born), and a parish-index hit for an Ingrid Persdotter who died in Urås 30 Mar 1706 aged 15 (b. c.1691), born in Hökhult. Neither matches this record's 1651/1720 dates. Plausibly several different women sharing name + home village across generations (common with patronymics in small parishes); recommend checking the Fröderyd/Ramkvilla parish registers directly before trusting the tree's dates further."
+    ]
+  }
 }

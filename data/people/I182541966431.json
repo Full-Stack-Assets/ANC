@@ -70,5 +70,10 @@
   "events": [],
   "sources": [],
   "notes": [],
-  "confidence": "inferred"
+  "confidence": "inferred",
+  "manual": {
+    "notes": [
+      "NAME FIELD CORRECTED (research 2026-07-03): the leading \"8\" in the export's \"8 Juliana Grossmann\" is almost certainly a footnote/citation marker from the original source that wasn't stripped during import, not part of her name. Correct name is simply Juliana Grossmann."
+    ]
+  }
 }
