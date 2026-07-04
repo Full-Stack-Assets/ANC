@@ -69,7 +69,7 @@ Regenerate this file by re-running Phase 1 of the `ancestor-deep-dive` skill.
 - [ ] `I182650548801` gen 17 **Lady Agnes Dowife Wyllie (Basse)** — duplicate-person: 2 records share name + birth year 1500: `I182650548801`, `I182650548804`
 - [ ] `I182650548818` gen 17 **John (Wyllaye) (Wylleye Welly) Willie** — parent-too-young: age 13 at birth of Sir George Denison (Bishop of Thorley) (1513)
 - [ ] `I182650552707` gen 17 **Dorothy Covell Watson** — parent-too-young: age 12 at birth of Sir John Anthony Covell (1540)
-- [ ] `I182625982380` gen 18 **Elizabeth Say** — parent-too-old: age 54 at birth of Edmund Howard (1478); child-after-death: child Edmund Howard b.1478, parent died 1473
+- [x] `I182625982380` gen 18 **Elizabeth Say** — parent-too-old: age 54 at birth of Edmund Howard (1478); child-after-death: child Edmund Howard b.1478, parent died 1473 (RESOLVED — see docs/research/ancestors/deep-chains-english-british-deep-chains.md)
 - [x] `I182625982381` gen 18 **Frederick Tylney** — child-after-death: child Edmund Howard b.1478, parent died 1447 (RESOLVED — see docs/research/ancestors/deep-chains-english-british-deep-chains.md)
 - [ ] `I182650549010` gen 19 **Lady Margaret Maude Hardy** — child-before-parent: child Sir Hugh I Childers Childress III b.1500 before parent b.1516
 
