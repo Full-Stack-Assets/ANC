@@ -20,6 +20,7 @@ These sit close enough to affect the documented family story:
 - **gen 5** `I182195858743` Abigail Jenkins Swallow — *parent-too-old*: age 55 at birth of Fulton Swallow (1906)
 - **gen 5** `I182625291737` Catherine Burton — *parent-too-young*: age 12 at birth of PATRICK  JAMES LARKIN (1843)
 - **gen 5** `I182195858742` William "Curley The Sailor" Swallow — *child-after-death*: child Fulton Swallow b.1906, parent died 1903
+- **gen 5** `I182197442974` Simon Swanson — *duplicate-person* (new, found 2026-07-04 during Samuel Jacobsson research, not yet surfaced by `tools/audit_tree.py`): 2 records share name + birth year 1868: `I182197442974`, `I182195860381`
 - **gen 6** `I182541955589` John Henry Hohman — *child-before-parent*: child John Heinrich Hohmann b.1832 before parent b.1880
 - **gen 6** `I182197731994` John Albertson — *duplicate-person*: 2 records share name + birth year 1771: `I182197731994`, `I182197730733`
 - **gen 6** `I182197732094` Ann Pine — *duplicate-person*: 2 records share name + birth year 1775: `I182197732094`, `I182197730682`

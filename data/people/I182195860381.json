@@ -101,5 +101,11 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "Likely duplicate of I182197442974 ('Simon Swanson') - same birth 20 Mar 1868 and marriage 14 May 1898 (Easton, MA). This record additionally gives a death, 17 Mar 1921, Easton/Bristol, MA, that the other copy lacks. However this record's sourcing is thin (generic 'Ancestry Family Trees' + SS Applications Index only, no per-event citations) vs. the other copy's real vital/marriage/census/church records.",
+      "Kept for the death date and for being correctly parented under the canonical Gustava Samuelsdotter (I182195860594) / Sven Johan Samuelsson (I182195860593). Recommend merging into I182197442974 once its parents are re-pointed and this record's 17 Mar 1921 death date is folded in. See docs/research/ancestors/gen07-samuel-jacobsson.md."
+    ]
+  }
 }

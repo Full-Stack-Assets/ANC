@@ -97,5 +97,12 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "CANONICAL for this Samuel Jacobsson (b. 2 Jul 1806 / d. 15 Apr 1854, both Hjälmvik Nolgården farm, Stala, Göteborg och Bohus). DUPLICATE exists as I182382755763 - same birth/death dates and place, but that copy has no sources and no marriage record. This record carries the full, sourced 13 May 1836 marriage to Sofia Nilsdotter (I182195861230) at the same farm (S446914557, Ancestry Family Trees). Kept as primary for that reason.",
+      "MISSING PARENTS (not yet added here): the duplicate I182382755763 lists parents Jakob Kristoffersson (I182391485866, b.1770 Stala/Holm/Tegneby, d. Aug 1838 Hjälmvik Nedergård) and Annika Torbjörnsdotter (I182391485891, b.1771) - this record's own parents field is empty. If/when merged, these should become this record's parents. Not asserted as fact here since neither parent record carries an independent source.",
+      "Same tree-duplication pattern as the John Albertson & Ann Pine case (gen 6, see direct-line-issues.md): the whole Samuel Jacobsson/Sofia Nilsdotter/Gustava Samuelsdotter/Sven Johan Samuelsson nuclear-family group exists twice in parallel, apparently from two merged tree imports. See docs/research/ancestors/gen07-samuel-jacobsson.md for the full writeup."
+    ]
+  }
 }

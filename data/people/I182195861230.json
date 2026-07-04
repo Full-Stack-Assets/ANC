@@ -96,5 +96,11 @@
     }
   ],
   "notes": [],
-  "confidence": "documented"
+  "confidence": "documented",
+  "manual": {
+    "notes": [
+      "CANONICAL for Sofia Nilsdotter (b. 16 Jan 1805, Haga, Stala / d. 26 Jan 1887, Hjälmvik Ng, Stala), wife of Samuel Jacobsson. DUPLICATE exists as I182382755760 - same birth/death, but that copy has only one parent (Greta Nilsdotter, I182650548639) and no sources. This record carries both parents (Nils Olafsson I182195861313 + Greta Nilsdotter I182195861335) and the sourced 13 May 1836 marriage record (S446914557). Kept as primary.",
+      "See docs/research/ancestors/gen07-samuel-jacobsson.md. Note her mother Greta Nilsdotter is herself a separately-tracked duplicate-person pair (I182195861335 here vs. I182650548639 on the duplicate Sofia record) - gen-8 issue, not resolved by this pass."
+    ]
+  }
 }
