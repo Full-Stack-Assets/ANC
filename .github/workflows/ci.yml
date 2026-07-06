@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install '.[dev]'
+
+      - name: Run parser tests
+        run: pytest tools/tests/ -v
+
+      - name: Validate production data schemas
+        run: python3 tools/validate_data.py

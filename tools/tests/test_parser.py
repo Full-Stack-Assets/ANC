@@ -152,12 +152,13 @@ def test_ancestry_duplicate_events_collapse():
 
 
 def test_schema_validation():
-    """Validate emitter output against the repo schemas (skips without jsonschema)."""
+    """Validate emitter output against the repo schemas."""
     try:
         import jsonschema
-    except ImportError:
-        print("  (jsonschema not installed — schema validation skipped)")
-        return
+    except ImportError as exc:
+        raise ImportError(
+            "jsonschema is required for schema validation; install with: pip install '.[dev]'"
+        ) from exc
     person_schema = json.loads((REPO / "schema" / "person.schema.json").read_text())
     journey_schema = json.loads((REPO / "schema" / "journey.schema.json").read_text())
     with tempfile.TemporaryDirectory() as tmp:
@@ -175,6 +176,9 @@ if __name__ == "__main__":
             try:
                 fn()
                 print(f"ok   {name}")
+            except ImportError as e:
+                failures += 1
+                print(f"FAIL {name}: {e}")
             except AssertionError as e:
                 failures += 1
                 print(f"FAIL {name}: {e}")

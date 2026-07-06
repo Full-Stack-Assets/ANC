@@ -82,10 +82,13 @@ each fact.
 ## Testing
 
 ```sh
-python3 tools/tests/test_parser.py
+pip install '.[dev]'          # jsonschema + pytest (one-time)
+pytest tools/tests/ -v        # parser + emitter tests
+python3 tools/validate_data.py  # schema-check all people/journey JSON
 ```
 
-Runs the parser against `tools/tests/fixture.ged` (also works under pytest).
+`python3 tools/tests/test_parser.py` also works as a standalone runner.
+CI (`.github/workflows/ci.yml`) runs both on every push.
 
 ## Privacy
 
