@@ -66,10 +66,13 @@ def test_find_duplicate_clusters_respects_known_pairs():
         dup_id: {"name": {"full": "John Albertson"}, "vitals": {"birth": {"date": {"year": 1771}}}},
         canon_id: {"name": {"full": "John Albertson"}, "vitals": {"birth": {"date": {"year": 1771}}}},
     }
-    clusters = find_duplicate_clusters(people, {dup_id, canon_id})
-    assert len(clusters) == 1
-    assert clusters[0]["canonical_id"] == canon_id
-    assert clusters[0]["duplicate_ids"] == [dup_id]
+    from duplicates import load_duplicate_resolutions
+    resolutions = load_duplicate_resolutions()
+    clusters = find_duplicate_clusters(people, {dup_id, canon_id}, resolutions)
+    manual = [c for c in clusters if c["basis"] == "manual-research"]
+    assert len(manual) == 1
+    assert manual[0]["canonical_id"] == canon_id
+    assert manual[0]["duplicate_ids"] == [dup_id]
 
 
 def test_walk_ancestors_from_fixture():
@@ -93,6 +96,7 @@ def test_build_bundle_end_to_end():
 
         bundle = json.loads(out.read_text())
         assert bundle["home_person_id"] == "I3"
+        assert "generated_at" in bundle
         assert len(bundle["people"]) == 3
         assert bundle["people"][0]["generation"] == 0
         assert all("privacy_status" in row for row in bundle["people"])

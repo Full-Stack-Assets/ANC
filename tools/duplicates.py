@@ -2,14 +2,12 @@
 
 from __future__ import annotations
 
+import json
 import re
+from pathlib import Path
 
-# Pairs already confirmed as the same person during hand research this
-# project — not re-derived by the name+birth-year heuristic, just recorded.
-KNOWN_DUPLICATES = {
-    "I182197730733": "I182197731994",  # John Albertson (Find-a-Grave copy -> primary)
-    "I182197730682": "I182197732094",  # Ann Pine (Find-a-Grave copy -> primary)
-}
+ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_RESOLUTIONS_PATH = ROOT / "data" / "manual" / "duplicate_resolutions.json"
 
 
 def normalize_name(name: str) -> str:
@@ -18,6 +16,20 @@ def normalize_name(name: str) -> str:
 
 def birth_year(person: dict) -> int | None:
     return ((person.get("vitals", {}).get("birth") or {}).get("date") or {}).get("year")
+
+
+def load_duplicate_resolutions(path: Path | None = None) -> dict[str, str]:
+    """Return {duplicate_id: canonical_id} from data/manual/duplicate_resolutions.json."""
+    path = path or DEFAULT_RESOLUTIONS_PATH
+    if not path.exists():
+        return {}
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    return {dup_id: entry["canonical"] for dup_id, entry in raw.items()}
+
+
+def canonical_id(pid: str, resolutions: dict[str, str] | None = None) -> str:
+    known = load_duplicate_resolutions() if resolutions is None else resolutions
+    return known.get(pid, pid)
 
 
 def group_by_name_and_birth_year(
@@ -37,28 +49,38 @@ def group_by_name_and_birth_year(
     return {key: sorted(ids) for key, ids in groups.items()}
 
 
+def _group_is_resolved(ids: list[str], resolutions: dict[str, str]) -> bool:
+    if not resolutions:
+        return False
+    canonicals = {resolutions[pid] for pid in ids if pid in resolutions}
+    if len(canonicals) != 1:
+        return False
+    canon = next(iter(canonicals))
+    return all(pid == canon or resolutions.get(pid) == canon for pid in ids)
+
+
 def find_duplicate_clusters(
     people: dict[str, dict],
     scope_ids: set[str],
-    known_duplicates: dict[str, str] | None = None,
+    resolutions: dict[str, str] | None = None,
 ) -> list[dict]:
     """Return duplicate clusters for game-bundle export."""
-    known = KNOWN_DUPLICATES if known_duplicates is None else known_duplicates
+    known = load_duplicate_resolutions() if resolutions is None else resolutions
     groups = group_by_name_and_birth_year(people, scope_ids)
     clusters: list[dict] = []
     covered: set[str] = set()
 
     for ids in groups.values():
-        if len(ids) <= 1:
+        if len(ids) <= 1 or _group_is_resolved(ids, known):
             continue
-        canonical = ids[0]
+        canon = canonical_id(ids[0], known)
         for pid in ids:
             if pid in known:
-                canonical = known[pid]
+                canon = known[pid]
                 break
-        dup_ids = [pid for pid in ids if pid != canonical]
+        dup_ids = [pid for pid in ids if pid != canon]
         clusters.append({
-            "canonical_id": canonical,
+            "canonical_id": canon,
             "duplicate_ids": dup_ids,
             "basis": "name-and-birth-year-heuristic",
         })
@@ -78,12 +100,14 @@ def find_duplicate_clusters(
 def duplicate_person_findings(
     people: dict[str, dict],
     scope_ids: set[str] | None = None,
+    resolutions: dict[str, str] | None = None,
 ) -> list[dict]:
     """Return audit-style findings for unmerged duplicate candidates."""
+    known = load_duplicate_resolutions() if resolutions is None else resolutions
     groups = group_by_name_and_birth_year(people, scope_ids)
     findings: list[dict] = []
     for (_, year), ids in sorted(groups.items()):
-        if len(ids) <= 1:
+        if len(ids) <= 1 or _group_is_resolved(ids, known):
             continue
         first = ids[0]
         findings.append({

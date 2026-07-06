@@ -38,6 +38,21 @@ DNA raw download          ──► derived data only     ──► data/dna/  (
    - `data/people/{id}.json` — anything hand-authored goes under the `manual` key (notes, legend events, `confidence_override`). Everything **outside** `manual` is machine-owned and will be overwritten on the next parser run.
 4. Re-running the parser after a fresh export is safe: `manual` blocks are preserved, journey files are never touched once they exist.
 
+### Journey enrichment priorities
+
+Use `python3 tools/journey_coverage.py` to see who is missing a journey file and how many
+direct ancestors still need work. When transcribing, prioritize by distance from the home
+person (default `I182195856751`):
+
+| Generation | Target status | Why |
+|---|---|---|
+| 0–7 (direct ancestors) | `reviewed` | Close enough to drive game chapters |
+| 8–12 | `transcribed` | Enrich when a line is in active research |
+| 13+ | `seeded` acceptable | Machine skeleton is fine until needed |
+
+Confirmed duplicate records are tracked in `data/manual/duplicate_resolutions.json` —
+add an entry when research proves two Ancestry ids are the same person.
+
 ## Confidence model
 
 Every event and record carries a `confidence` flag that must survive all the way into game text:
@@ -85,6 +100,7 @@ each fact.
 pip install '.[dev]'          # jsonschema + pytest (one-time)
 pytest tools/tests/ -v        # parser + emitter tests
 python3 tools/validate_data.py  # schema-check all people/journey JSON
+python3 tools/journey_coverage.py  # report missing journey files
 ```
 
 `python3 tools/tests/test_parser.py` also works as a standalone runner.

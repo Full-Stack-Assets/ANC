@@ -19,7 +19,9 @@ import subprocess
 from collections import deque
 from pathlib import Path
 
-from duplicates import KNOWN_DUPLICATES, find_duplicate_clusters
+from datetime import datetime, timezone
+
+from duplicates import canonical_id, find_duplicate_clusters, load_duplicate_resolutions
 from people_io import load_people
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -184,6 +186,7 @@ def main(argv: list[str] | None = None) -> int:
 
     data_dir = Path(args.data)
     people = load_people(data_dir)
+    resolutions = load_duplicate_resolutions()
     if args.home not in people:
         raise SystemExit(f"home person {args.home!r} not found in {data_dir/'people'}")
 
@@ -214,16 +217,17 @@ def main(argv: list[str] | None = None) -> int:
             "readiness_score": score,
             "waypoint_count": wp_count,
             "confidence_mix": mix,
-            "canonical_id": KNOWN_DUPLICATES.get(pid, pid),
+            "canonical_id": canonical_id(pid, resolutions),
         })
     bundle_people.sort(key=lambda p: (p["generation"], p["name"]))
 
     bundle = {
+        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
         "generated_at_source_commit": git_commit_hash(),
         "home_person_id": args.home,
         "people": bundle_people,
         "source_provenance": build_source_provenance(people, ancestor_ids),
-        "duplicate_clusters": find_duplicate_clusters(people, ancestor_ids),
+        "duplicate_clusters": find_duplicate_clusters(people, ancestor_ids, resolutions),
     }
 
     out_path = Path(args.out)
