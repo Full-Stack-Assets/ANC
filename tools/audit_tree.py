@@ -12,8 +12,10 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import json
 from pathlib import Path
+
+from duplicates import duplicate_person_findings
+from people_io import load_people
 
 MAX_LIFESPAN = 105
 FATHER_MIN, FATHER_MAX = 14, 80
@@ -106,21 +108,7 @@ def audit(people: dict[str, dict]) -> list[dict]:
                     flag(pid, "child-after-death",
                          f"child {cname} b.{cby}, parent died {dy}")
 
-    # unmerged duplicate candidates: same normalized name + same birth year
-    groups: dict[tuple, list[str]] = {}
-    for pid, p in people.items():
-        by = year_of(p["vitals"].get("birth"))
-        name = " ".join(p["name"]["full"].lower().split())
-        if by is not None and name != "(unknown)":
-            groups.setdefault((name, by), []).append(pid)
-    for (name, by), ids in groups.items():
-        if len(ids) > 1:
-            first = ids[0]
-            findings.append({"id": first, "name": people[first]["name"]["full"],
-                             "kind": "duplicate-person",
-                             "detail": f"{len(ids)} records share name + birth year {by}: "
-                                       + ", ".join(f"`{i}`" for i in ids)})
-
+    findings.extend(duplicate_person_findings(people))
     return findings
 
 
@@ -130,8 +118,7 @@ def main() -> int:
     ap.add_argument("--out", default=None, help="write markdown report here")
     args = ap.parse_args()
 
-    people = {f.stem: json.loads(f.read_text(encoding="utf-8"))
-              for f in Path(args.data, "people").glob("I*.json")}
+    people = load_people(Path(args.data))
     findings = audit(people)
 
     by_kind: dict[str, list[dict]] = {}

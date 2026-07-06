@@ -19,6 +19,9 @@ import subprocess
 from collections import deque
 from pathlib import Path
 
+from duplicates import KNOWN_DUPLICATES, find_duplicate_clusters
+from people_io import load_people
+
 ROOT = Path(__file__).resolve().parent.parent
 
 # Direct ancestors this close to the home person with no recorded death are
@@ -28,20 +31,6 @@ LIVING_HEURISTIC_GENERATION_CUTOFF = 3
 LIVING_HEURISTIC_BIRTH_YEAR_CUTOFF = 1920
 
 READINESS_STATUS_BASE = {"seeded": 20, "transcribed": 55, "reviewed": 80}
-
-# Pairs already confirmed as the same person during hand research this
-# project — not re-derived by the name+birth-year heuristic, just recorded.
-KNOWN_DUPLICATES = {
-    "I182197730733": "I182197731994",  # John Albertson (Find-a-Grave copy -> primary)
-    "I182197730682": "I182197732094",  # Ann Pine (Find-a-Grave copy -> primary)
-}
-
-
-def load_people(data_dir: Path) -> dict[str, dict]:
-    people = {}
-    for f in (data_dir / "people").glob("*.json"):
-        people[f.stem] = json.loads(f.read_text(encoding="utf-8"))
-    return people
 
 
 def two_parents(people: dict, pid: str) -> list[str]:
@@ -123,44 +112,6 @@ def content_readiness(journey: dict | None) -> tuple[str, int, int, dict]:
     return tier, score, len(waypoints), mix
 
 
-def normalize_name(name: str) -> str:
-    return " ".join(re.sub(r"[^a-z ]", "", name.lower()).split())
-
-
-def find_duplicate_clusters(people: dict, ancestor_ids: set[str]) -> list[dict]:
-    """Same-name + same-birth-year heuristic, restricted to the bundle's own
-    ancestor set, plus the hand-confirmed KNOWN_DUPLICATES pairs."""
-    groups: dict[tuple, list[str]] = {}
-    for pid in ancestor_ids:
-        p = people[pid]
-        by = ((p.get("vitals", {}).get("birth") or {}).get("date") or {}).get("year")
-        name = normalize_name(p["name"]["full"])
-        if by is not None and name and name != "(unknown)":
-            groups.setdefault((name, by), []).append(pid)
-
-    clusters = []
-    covered = set()
-    for (_, _), ids in groups.items():
-        if len(ids) > 1:
-            ids_sorted = sorted(ids)
-            canonical = ids_sorted[0]
-            for pid in ids_sorted:
-                if pid in KNOWN_DUPLICATES:
-                    canonical = KNOWN_DUPLICATES[pid]
-                    break
-            dup_ids = [i for i in ids_sorted if i != canonical]
-            clusters.append({"canonical_id": canonical, "duplicate_ids": dup_ids,
-                              "basis": "name-and-birth-year-heuristic"})
-            covered.update(ids_sorted)
-
-    for dup_id, canon_id in KNOWN_DUPLICATES.items():
-        if dup_id in ancestor_ids and dup_id not in covered:
-            clusters.append({"canonical_id": canon_id, "duplicate_ids": [dup_id],
-                              "basis": "manual-research"})
-            covered.add(dup_id)
-    return clusters
-
-
 def classify_source(src: dict) -> tuple[str, str]:
     title = (src.get("title") or "").lower()
     hosted_by = " ".join(filter(None, [src.get("author"), src.get("publication")])).lower()
@@ -224,12 +175,12 @@ def git_commit_hash() -> str | None:
         return None
 
 
-def main() -> int:
+def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--home", default="I182195856751", help="home person id (default: the tree owner)")
     ap.add_argument("--data", default=str(ROOT / "data"), help="ANC data/ directory")
     ap.add_argument("--out", default=str(ROOT / "data" / "generated" / "game_bundle.json"))
-    args = ap.parse_args()
+    args = ap.parse_args(argv)
 
     data_dir = Path(args.data)
     people = load_people(data_dir)
