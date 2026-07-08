@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anc-tools"
+version = "0.1.0"
+description = "GEDCOM parser and data tooling for the ANC family-history repo"
+requires-python = ">=3.9"
+dependencies = [
+    "jsonschema>=4.23,<5",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+anc-validate = "validate_data:main"
+
+[tool.setuptools]
+py-modules = ["validate_data"]
+package-dir = { "" = "tools" }
+
+[tool.pytest.ini_options]
+testpaths = ["tools/tests"]
+pythonpath = ["tools"]
